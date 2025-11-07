@@ -135,4 +135,10 @@
 - [x] Extract content from scotwater.co.uk/water-leak-detection-scotland
 - [x] Build page component with service details
 - [x] Add images and sections
+- [x] Deploy and verify page
+
+## Create Impact Moling Service Page
+- [x] Extract content from scotwater.co.uk/impact-moling-scotland
+- [x] Build page component with service details
+- [x] Add images and sections
 - [ ] Deploy and verify page
