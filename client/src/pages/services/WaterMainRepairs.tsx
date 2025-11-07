@@ -1,6 +1,5 @@
 import { Mail, Phone } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export default function WaterMainRepairs() {
@@ -57,8 +56,6 @@ export default function WaterMainRepairs() {
 
   return (
     <div className="min-h-screen flex flex-col">
-      <Header />
-      
       <main className="flex-1">
         {/* Hero Section */}
         <section className="relative h-[400px] flex items-center justify-center text-white">

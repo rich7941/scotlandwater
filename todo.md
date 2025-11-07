@@ -195,3 +195,11 @@
 - [x] Add internal links throughout all pages
 - [x] Test navigation on all pages
 - [x] Deploy and verify changes
+
+## Fix Duplicate Header Issue
+- [x] Investigate Water Main Renewals page for duplicate header
+- [x] Investigate Water Main Repairs page for duplicate header
+- [x] Investigate Water Leak Detection page for duplicate header
+- [x] Investigate Impact Moling page for duplicate header
+- [x] Remove duplicate Header component from affected pages
+- [x] Test and deploy fix
