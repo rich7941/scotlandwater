@@ -21,8 +21,9 @@ import WaterLeaks from "./pages/services/WaterLeaks";
 import LeadPipeReplacementScheme from "./pages/help-advice/LeadPipeReplacementScheme";
 import LeadPipeInScotland from "./pages/help-advice/LeadPipeInScotland";
 import LeadPipeLandlords from "./pages/help-advice/LeadPipeLandlords";
-import LeadPipeReplacement from "./pages/help-advice/LeadPipeReplacement";
+import LeadPipeReplacementAdvice from "./pages/help-advice/LeadPipeReplacement";
 import WaterFilter from "./pages/help-advice/WaterFilter";
+import ImpactMolingPrices from "./pages/help-advice/ImpactMolingPrices";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 
@@ -48,8 +49,9 @@ function Router() {
       <Route path="/help-advice/lead-pipe-replacement-scheme" component={LeadPipeReplacementScheme} />
       <Route path="/help-advice/lead-pipe-in-scotland" component={LeadPipeInScotland} />
       <Route path="/help-advice/lead-pipe-landlords" component={LeadPipeLandlords} />
-      <Route path="/help-advice/lead-pipe-replacement" component={LeadPipeReplacement} />
+      <Route path="/help-advice/lead-pipe-replacement" component={LeadPipeReplacementAdvice} />
       <Route path="/help-advice/water-filter" component={WaterFilter} />
+      <Route path="/help-advice/impact-moling-prices-2025-scotland" component={ImpactMolingPrices} />
         <Route path={"/404"} component={NotFound} />
         {/* Final fallback route */}
         <Route component={NotFound} />

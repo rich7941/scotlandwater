@@ -177,4 +177,14 @@
 - [x] Extract content from scotwater.co.uk/water-filter
 - [x] Build page component with water filter information
 - [x] Add images and sections
-- [ ] Deploy and verify page
+- [x] Deploy and verify page
+
+## Fix 404 Error on Netlify
+- [ ] Add Netlify _redirects file for SPA routing
+- [ ] Deploy and verify fix
+
+## Create Impact Moling Prices 2025 Scotland Page
+- [x] Extract content from scotwater.co.uk/impact-moling-prices-2025-scotland
+- [x] Build page component with pricing information
+- [x] Add images and sections
+- [x] Deploy and verify page
