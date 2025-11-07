@@ -165,4 +165,10 @@
 - [x] Extract content from scotwater.co.uk/lead-pipe-landlords-scotland
 - [x] Build page component with landlord legal duties information
 - [x] Add images and sections
+- [x] Deploy and verify page
+
+## Create Lead Pipe Replacement Page
+- [x] Extract content from scotwater.co.uk/lead-pipe-replacement
+- [x] Build page component with lead pipe replacement information
+- [x] Add images and sections
 - [ ] Deploy and verify page
