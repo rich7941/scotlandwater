@@ -5,6 +5,30 @@ import { Button } from "@/components/ui/button";
 
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [servicesOpen, setServicesOpen] = useState(false);
+  const [helpOpen, setHelpOpen] = useState(false);
+
+  const services = [
+    { name: "Lead Pipe Replacement", href: "/services/lead-pipe-replacement" },
+    { name: "Water Supply Pipe Renewals", href: "/services/water-supply-pipe-renewals" },
+    { name: "Water Supply Pipe Installations", href: "/services/water-supply-pipe-installations" },
+    { name: "Water Supply Pipe Repairs", href: "/services/water-supply-pipe-repairs" },
+    { name: "Water Main Installations", href: "/services/water-main-installations" },
+    { name: "Water Main Renewals", href: "/services/water-main-renewals" },
+    { name: "Water Main Repairs", href: "/services/water-main-repairs" },
+    { name: "Water Leak Detection", href: "/services/water-leak-detection" },
+    { name: "Impact Moling", href: "/services/impact-moling" },
+  ];
+
+  const helpAdvice = [
+    { name: "Water Leaks", href: "/help-advice/water-leaks" },
+    { name: "Lead Pipe Replacement Scheme", href: "/help-advice/lead-pipe-replacement-scheme" },
+    { name: "Lead Pipe in Scotland", href: "/help-advice/lead-pipe-in-scotland" },
+    { name: "Lead Pipe Landlords Scotland", href: "/help-advice/lead-pipe-landlords" },
+    { name: "Lead Pipe Replacement", href: "/help-advice/lead-pipe-replacement" },
+    { name: "Water Filter", href: "/help-advice/water-filter" },
+    { name: "Impact Moling Prices 2025", href: "/help-advice/impact-moling-prices-2025-scotland" },
+  ];
 
   return (
     <header className="w-full">
@@ -34,21 +58,58 @@ export default function Header() {
               <Link href="/" className="hover:text-gray-300 transition-colors">
                 Home
               </Link>
+              
+              {/* Services Dropdown */}
               <div className="relative group">
                 <button className="flex items-center gap-1 hover:text-gray-300 transition-colors">
                   Services <ChevronDown className="h-4 w-4" />
                 </button>
+                <div className="absolute left-0 top-full mt-2 w-64 bg-white text-gray-800 rounded-md shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
+                  <div className="py-2">
+                    {services.map((service) => (
+                      <Link 
+                        key={service.href}
+                        href={service.href} 
+                        className="block px-4 py-2 hover:bg-gray-100 transition-colors"
+                      >
+                        {service.name}
+                      </Link>
+                    ))}
+                  </div>
+                </div>
               </div>
+
+              {/* Help & Advice Dropdown */}
               <div className="relative group">
                 <button className="flex items-center gap-1 hover:text-gray-300 transition-colors">
                   Help & Advice <ChevronDown className="h-4 w-4" />
                 </button>
+                <div className="absolute left-0 top-full mt-2 w-64 bg-white text-gray-800 rounded-md shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
+                  <div className="py-2">
+                    {helpAdvice.map((item) => (
+                      <Link 
+                        key={item.href}
+                        href={item.href} 
+                        className="block px-4 py-2 hover:bg-gray-100 transition-colors"
+                      >
+                        {item.name}
+                      </Link>
+                    ))}
+                  </div>
+                </div>
               </div>
+
               <div className="relative group">
                 <button className="flex items-center gap-1 hover:text-gray-300 transition-colors">
                   Locations <ChevronDown className="h-4 w-4" />
                 </button>
+                <div className="absolute left-0 top-full mt-2 w-48 bg-white text-gray-800 rounded-md shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
+                  <div className="py-2">
+                    <div className="px-4 py-2 text-sm text-gray-500">Coming Soon</div>
+                  </div>
+                </div>
               </div>
+
               <Link href="/about" className="hover:text-gray-300 transition-colors">
                 About
               </Link>
@@ -98,15 +159,55 @@ export default function Header() {
                 <Link href="/" className="hover:text-gray-300 transition-colors">
                   Home
                 </Link>
-                <Link href="/services" className="hover:text-gray-300 transition-colors">
-                  Services
-                </Link>
-                <Link href="/help" className="hover:text-gray-300 transition-colors">
-                  Help & Advice
-                </Link>
-                <Link href="/locations" className="hover:text-gray-300 transition-colors">
-                  Locations
-                </Link>
+                
+                {/* Mobile Services */}
+                <div>
+                  <button 
+                    onClick={() => setServicesOpen(!servicesOpen)}
+                    className="flex items-center justify-between w-full hover:text-gray-300 transition-colors"
+                  >
+                    Services <ChevronDown className={`h-4 w-4 transition-transform ${servicesOpen ? 'rotate-180' : ''}`} />
+                  </button>
+                  {servicesOpen && (
+                    <div className="ml-4 mt-2 flex flex-col gap-2">
+                      {services.map((service) => (
+                        <Link 
+                          key={service.href}
+                          href={service.href} 
+                          className="text-sm hover:text-gray-300 transition-colors"
+                          onClick={() => setMobileMenuOpen(false)}
+                        >
+                          {service.name}
+                        </Link>
+                      ))}
+                    </div>
+                  )}
+                </div>
+
+                {/* Mobile Help & Advice */}
+                <div>
+                  <button 
+                    onClick={() => setHelpOpen(!helpOpen)}
+                    className="flex items-center justify-between w-full hover:text-gray-300 transition-colors"
+                  >
+                    Help & Advice <ChevronDown className={`h-4 w-4 transition-transform ${helpOpen ? 'rotate-180' : ''}`} />
+                  </button>
+                  {helpOpen && (
+                    <div className="ml-4 mt-2 flex flex-col gap-2">
+                      {helpAdvice.map((item) => (
+                        <Link 
+                          key={item.href}
+                          href={item.href} 
+                          className="text-sm hover:text-gray-300 transition-colors"
+                          onClick={() => setMobileMenuOpen(false)}
+                        >
+                          {item.name}
+                        </Link>
+                      ))}
+                    </div>
+                  )}
+                </div>
+
                 <Link href="/about" className="hover:text-gray-300 transition-colors">
                   About
                 </Link>

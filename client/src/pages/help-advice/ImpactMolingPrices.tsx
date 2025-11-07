@@ -2,6 +2,8 @@ import { Mail, Phone } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import RelatedLinks from "@/components/RelatedLinks";
+import { getRelatedLinksForHelpAdvice } from "@/data/relatedLinks";
 
 export default function ImpactMolingPrices() {
   return (
@@ -254,6 +256,12 @@ export default function ImpactMolingPrices() {
             </div>
           </div>
         </section>
+
+        {/* Related Links */}
+        <RelatedLinks 
+          title="Related Help & Advice"
+          links={getRelatedLinksForHelpAdvice('/help-advice/impact-moling-prices-2025-scotland', 3)}
+        />
       </main>
 
       <Footer />
