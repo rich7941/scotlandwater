@@ -61,4 +61,9 @@
 - [x] Extract content and images from scotwater.co.uk/contact
 - [x] Build Contact page component with contact form
 - [x] Add contact information, addresses, and reviews
-- [ ] Deploy and verify Contact page
+- [x] Deploy and verify Contact page
+
+## Update Contact Page Hero Image
+- [x] Replace with original scotwater.co.uk hero image
+- [x] Optimize and convert to WebP
+- [ ] Deploy updated Contact page
