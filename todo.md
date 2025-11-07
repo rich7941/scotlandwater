@@ -4,7 +4,7 @@
 
 ### Main Pages (4)
 - [x] About page (/about)
-- [ ] Reviews page (/reviews)
+- [x] Reviews page (/reviews)
 - [x] Contact page (/contact)
 - [ ] Services Overview page (/services)
 
@@ -78,4 +78,10 @@
 - [x] Add all form fields (name, email, phone, address, message)
 - [x] Make message box bigger
 - [x] Add office locations section
-- [ ] Deploy new layout
+- [x] Deploy new layout
+
+## Create Reviews Page
+- [x] Extract content from scotwater.co.uk/reviews
+- [x] Build Reviews page component with customer testimonials
+- [x] Add review cards with 18 customer testimonials
+- [ ] Deploy and verify Reviews page
