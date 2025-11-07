@@ -159,4 +159,10 @@
 - [x] Extract content from scotwater.co.uk/lead-pipe-in-scotland
 - [x] Build page component with lead pipe information
 - [x] Add images and sections
+- [x] Deploy and verify page
+
+## Create Lead Pipe Landlords Scotland Page
+- [x] Extract content from scotwater.co.uk/lead-pipe-landlords-scotland
+- [x] Build page component with landlord legal duties information
+- [x] Add images and sections
 - [ ] Deploy and verify page
