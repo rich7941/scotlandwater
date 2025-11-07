@@ -15,6 +15,7 @@ import WaterSupplyPipeRepairs from "./pages/services/WaterSupplyPipeRepairs";
 import WaterMainInstallations from "./pages/services/WaterMainInstallations";
 import WaterMainRenewals from "./pages/services/WaterMainRenewals";
 import WaterMainRepairs from "./pages/services/WaterMainRepairs";
+import WaterLeakDetection from "./pages/services/WaterLeakDetection";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 
@@ -34,6 +35,7 @@ function Router() {
         <Route path="/services/water-main-installations" component={WaterMainInstallations} />
       <Route path="/services/water-main-renewals" component={WaterMainRenewals} />
       <Route path="/services/water-main-repairs" component={WaterMainRepairs} />
+      <Route path="/services/water-leak-detection" component={WaterLeakDetection} />
         <Route path={"/404"} component={NotFound} />
         {/* Final fallback route */}
         <Route component={NotFound} />
