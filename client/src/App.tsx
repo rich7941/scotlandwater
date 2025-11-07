@@ -9,6 +9,7 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Reviews from "./pages/Reviews";
 import LeadPipeReplacement from "./pages/services/LeadPipeReplacement";
+import WaterSupplyPipeRenewals from "./pages/services/WaterSupplyPipeRenewals";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 
@@ -22,6 +23,7 @@ function Router() {
         <Route path={"/contact"} component={Contact} />
         <Route path={"/reviews"} component={Reviews} />
         <Route path={"/services/lead-pipe-replacement"} component={LeadPipeReplacement} />
+        <Route path={"/services/water-supply-pipe-renewals"} component={WaterSupplyPipeRenewals} />
         <Route path={"/404"} component={NotFound} />
         {/* Final fallback route */}
         <Route component={NotFound} />

@@ -10,9 +10,7 @@
 
 ### Service Pages (9)
 - [ ] Lead Pipe Replacement (/lead-pipe-replacement)
-- [ ] Water Supply Pipe Renewals (/water-supply-pipe-renewals)
-- [ ] Water Supply Pipe Installations (/water-supply-pipe-installations)
-- [ ] Water Supply Pipe Repairs (/water-supply-pipe-repairs)
+- [ ] Water Supply Pipe Renewals (/water-supply-pipe-rene- [x] Water Supply Pipe Renewals (/services/water-supply-pipe-renewals)[ ] Water Supply Pipe Repairs (/water-supply-pipe-repairs)
 - [ ] Water Main Installations (/water-main-installations)
 - [ ] Water Main Renewals (/water-main-renewals)
 - [ ] Water Main Repairs (/water-main-repairs)
@@ -88,6 +86,12 @@
 
 ## Create Lead Pipe Replacement Service Page
 - [x] Extract content from scotwater.co.uk/lead-pipe-replacement-scotland
+- [x] Build page component with service details
+- [x] Add images and sections
+- [x] Deploy and verify page
+
+## Create Water Supply Pipe Renewals Service Page
+- [x] Extract content from scotwater.co.uk/water-supply-pipe-renewals-scotland
 - [x] Build page component with service details
 - [x] Add images and sections
 - [ ] Deploy and verify page
