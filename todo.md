@@ -190,8 +190,8 @@
 - [x] Deploy and verify page
 
 ## Update Navigation Menu with All Pages
-- [ ] Update Header component with dropdown menus for Services
-- [ ] Update Header component with dropdown menus for Help & Advice
-- [ ] Add internal links throughout all pages
-- [ ] Test navigation on all pages
-- [ ] Deploy and verify changes
+- [x] Update Header component with dropdown menus for Services
+- [x] Update Header component with dropdown menus for Help & Advice
+- [x] Add internal links throughout all pages
+- [x] Test navigation on all pages
+- [x] Deploy and verify changes
