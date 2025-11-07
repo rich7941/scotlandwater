@@ -117,4 +117,10 @@
 ## Fix Missing Water Supply Pipe Renewals Service Card Image
 - [x] Download Water Supply Pipe Renewals service image
 - [x] Image already in service cards
-- [ ] Deploy and verify fix
+- [x] Deploy and verify fix
+
+## Create Water Main Renewals Service Page
+- [x] Extract content from scotwater.co.uk/water-main-renewals-scotland
+- [x] Build page component with service details
+- [x] Add images and sections
+- [ ] Deploy and verify page
