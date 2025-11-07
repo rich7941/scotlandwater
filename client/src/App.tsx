@@ -12,6 +12,7 @@ import LeadPipeReplacement from "./pages/services/LeadPipeReplacement";
 import WaterSupplyPipeRenewals from "./pages/services/WaterSupplyPipeRenewals";
 import WaterSupplyPipeInstallations from "./pages/services/WaterSupplyPipeInstallations";
 import WaterSupplyPipeRepairs from "./pages/services/WaterSupplyPipeRepairs";
+import WaterMainInstallations from "./pages/services/WaterMainInstallations";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 
@@ -28,6 +29,7 @@ function Router() {
         <Route path={"/services/water-supply-pipe-renewals"} component={WaterSupplyPipeRenewals} />
         <Route path={"/services/water-supply-pipe-installations"} component={WaterSupplyPipeInstallations} />
         <Route path={"/services/water-supply-pipe-repairs"} component={WaterSupplyPipeRepairs} />
+        <Route path={"/services/water-main-installations"} component={WaterMainInstallations} />
         <Route path={"/404"} component={NotFound} />
         {/* Final fallback route */}
         <Route component={NotFound} />
