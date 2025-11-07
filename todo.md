@@ -112,4 +112,9 @@
 - [x] Extract content from scotwater.co.uk/water-main-installations-scotland
 - [x] Build page component with service details
 - [x] Add images and sections
-- [ ] Deploy and verify page
+- [x] Deploy and verify page
+
+## Fix Missing Water Supply Pipe Renewals Service Card Image
+- [x] Download Water Supply Pipe Renewals service image
+- [x] Image already in service cards
+- [ ] Deploy and verify fix
