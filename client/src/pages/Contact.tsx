@@ -50,18 +50,20 @@ export default function Contact() {
         </div>
       </div>
 
-      {/* Main Content */}
-      <div className="container py-16">
-        <div className="max-w-4xl mx-auto">
+      {/* Main Content Section */}
+      <section className="py-16 bg-white">
+        <div className="container max-w-4xl">
           <h2 className="text-3xl md:text-4xl font-bold text-[#1B3A6B] mb-6">
             Contact ScotWater, Scotland's water main experts
           </h2>
           
-          <p className="text-lg text-gray-700 mb-12 leading-relaxed">
+          <div className="prose prose-lg max-w-none">
+            <p className="text-gray-700 mb-4">
             If you're experiencing issues with your water mains or need expert advice on water infrastructure, ScotWater is here to help. As Scotland's premier water main specialists, we provide reliable and efficient solutions tailored to your needs. Whether you need urgent repairs, maintenance, or a complete overhaul, our team of qualified professionals is ready to assist you. Reach out to us by phone 24/7, 365 days a year at{" "}
-            <a href="tel:08002062778" className="text-[#1B3A6B] font-semibold hover:underline">0800 206 2778</a>, by email at{" "}
-            <a href="mailto:hello@scotwater.co.uk" className="text-[#1B3A6B] font-semibold hover:underline">hello@scotwater.co.uk</a>, or by filling out the contact form on our website. We're committed to ensuring your water systems operate smoothly and efficiently.
-          </p>
+            <a href="tel:08002062778" className="text-[#5B2C6F] hover:underline">0800 206 2778</a>, by email at{" "}
+            <a href="mailto:hello@scotwater.co.uk" className="text-[#5B2C6F] hover:underline">hello@scotwater.co.uk</a>, or by filling out the contact form on our website. We're committed to ensuring your water systems operate smoothly and efficiently.
+            </p>
+          </div>
 
           {/* Contact Form */}
           <form onSubmit={handleSubmit} className="space-y-6">
@@ -143,7 +145,7 @@ export default function Contact() {
             </Button>
           </form>
         </div>
-      </div>
+      </section>
 
       {/* Want to Talk Section */}
       <div className="bg-[#5B2C6F] py-12">
@@ -179,7 +181,7 @@ export default function Contact() {
       <WhatToExpect />
 
       {/* Customer Reviews Section */}
-      <div className="py-16 bg-gray-50">
+      <section className="py-16 bg-white">
         <div className="container">
           <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-4">
             Here's what our happy customers have to say
@@ -216,16 +218,16 @@ export default function Contact() {
             </div>
           </div>
         </div>
-      </div>
+      </section>
 
       {/* Services Section */}
-      <section className="py-16 bg-white">
+      <section className="py-16 bg-gray-50">
         <div className="container">
           <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-12">
             You may be interested in
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            <a href="/services/lead-pipe-replacement" className="group block bg-gray-50 rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
+            <a href="/services/lead-pipe-replacement" className="group block bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
               <img 
                 src="/service-lead-pipe-replacement.webp" 
                 alt="Lead Pipe Replacement" 
@@ -238,7 +240,7 @@ export default function Contact() {
               </div>
             </a>
             
-            <a href="/services/water-main-leak-detection" className="group block bg-gray-50 rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
+            <a href="/services/water-main-leak-detection" className="group block bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
               <img 
                 src="/service-water-main-leak-detection.webp" 
                 alt="Water Main Leak Detection" 
@@ -251,7 +253,7 @@ export default function Contact() {
               </div>
             </a>
             
-            <a href="/services/water-supply-pipe-installations" className="group block bg-gray-50 rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
+            <a href="/services/water-supply-pipe-installations" className="group block bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
               <img 
                 src="/service-water-supply-pipe-installations.webp" 
                 alt="Water Supply Pipe Installations" 
@@ -264,7 +266,7 @@ export default function Contact() {
               </div>
             </a>
             
-            <a href="/services/impact-moling" className="group block bg-gray-50 rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
+            <a href="/services/impact-moling" className="group block bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
               <img 
                 src="/service-impact-moling.webp" 
                 alt="Impact Moling" 
@@ -277,7 +279,7 @@ export default function Contact() {
               </div>
             </a>
             
-            <a href="/help-advice/lead-pipe-replacement-scheme" className="group block bg-gray-50 rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
+            <a href="/help-advice/lead-pipe-replacement-scheme" className="group block bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
               <img 
                 src="/service-lead-pipe-replacement-scheme.webp" 
                 alt="Lead Pipe Replacement Scheme" 
@@ -290,7 +292,7 @@ export default function Contact() {
               </div>
             </a>
             
-            <a href="/services/water-main-installations" className="group block bg-gray-50 rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
+            <a href="/services/water-main-installations" className="group block bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
               <img 
                 src="/service-water-main-installations.webp" 
                 alt="Water Main Installations" 

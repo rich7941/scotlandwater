@@ -66,4 +66,9 @@
 ## Update Contact Page Hero Image
 - [x] Replace with original scotwater.co.uk hero image
 - [x] Optimize and convert to WebP
-- [ ] Deploy updated Contact page
+- [x] Deploy updated Contact page
+
+## Make Contact Page Text Consistent with About Page
+- [x] Review About page text styling (fonts, colors, sizes)
+- [x] Update Contact page headings and text to match
+- [ ] Deploy and verify consistency
