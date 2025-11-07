@@ -171,4 +171,10 @@
 - [x] Extract content from scotwater.co.uk/lead-pipe-replacement
 - [x] Build page component with lead pipe replacement information
 - [x] Add images and sections
+- [x] Deploy and verify page
+
+## Create Water Filter Page
+- [x] Extract content from scotwater.co.uk/water-filter
+- [x] Build page component with water filter information
+- [x] Add images and sections
 - [ ] Deploy and verify page
