@@ -123,4 +123,10 @@
 - [x] Extract content from scotwater.co.uk/water-main-renewals-scotland
 - [x] Build page component with service details
 - [x] Add images and sections
+- [x] Deploy and verify page
+
+## Create Water Main Repairs Service Page
+- [x] Extract content from scotwater.co.uk/water-main-repairs-scotland
+- [x] Build page component with service details
+- [x] Add images and sections
 - [ ] Deploy and verify page
