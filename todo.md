@@ -71,4 +71,11 @@
 ## Make Contact Page Text Consistent with About Page
 - [x] Review About page text styling (fonts, colors, sizes)
 - [x] Update Contact page headings and text to match
-- [ ] Deploy and verify consistency
+- [x] Deploy and verify consistency
+
+## Redesign Contact Page Layout
+- [x] Create two-column layout (form left, contact info right)
+- [x] Add all form fields (name, email, phone, address, message)
+- [x] Make message box bigger
+- [x] Add office locations section
+- [ ] Deploy new layout

@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
-import { Phone } from "lucide-react";
+import { Phone, Mail, MapPin } from "lucide-react";
 import { toast } from "sonner";
 import WhatToExpect from "@/components/WhatToExpect";
 
@@ -52,98 +52,168 @@ export default function Contact() {
 
       {/* Main Content Section */}
       <section className="py-16 bg-white">
-        <div className="container max-w-4xl">
+        <div className="container max-w-6xl">
           <h2 className="text-3xl md:text-4xl font-bold text-[#1B3A6B] mb-6">
             Contact ScotWater, Scotland's water main experts
           </h2>
           
-          <div className="prose prose-lg max-w-none">
+          <div className="prose prose-lg max-w-none mb-12">
             <p className="text-gray-700 mb-4">
-            If you're experiencing issues with your water mains or need expert advice on water infrastructure, ScotWater is here to help. As Scotland's premier water main specialists, we provide reliable and efficient solutions tailored to your needs. Whether you need urgent repairs, maintenance, or a complete overhaul, our team of qualified professionals is ready to assist you. Reach out to us by phone 24/7, 365 days a year at{" "}
-            <a href="tel:08002062778" className="text-[#5B2C6F] hover:underline">0800 206 2778</a>, by email at{" "}
-            <a href="mailto:hello@scotwater.co.uk" className="text-[#5B2C6F] hover:underline">hello@scotwater.co.uk</a>, or by filling out the contact form on our website. We're committed to ensuring your water systems operate smoothly and efficiently.
+            If you're experiencing issues with your water mains or need expert advice on water infrastructure, ScotWater is here to help. As Scotland's premier water main specialists, we provide reliable and efficient solutions tailored to your needs. Whether you need urgent repairs, maintenance, or a complete overhaul, our team of qualified professionals is ready to assist you.
             </p>
           </div>
 
-          {/* Contact Form */}
-          <form onSubmit={handleSubmit} className="space-y-6">
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-              <div>
-                <Input
-                  name="firstName"
-                  placeholder="First name"
-                  value={formData.firstName}
-                  onChange={handleChange}
-                  required
-                  className="border-2 border-orange-400 focus:border-orange-500 h-12"
-                />
+          {/* Two Column Layout */}
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
+            {/* Left Column - Contact Form */}
+            <div>
+              <h3 className="text-2xl font-bold text-[#1B3A6B] mb-6">Get in Touch</h3>
+              
+              <form onSubmit={handleSubmit} className="space-y-4">
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                  <div>
+                    <label className="block text-sm font-medium text-gray-700 mb-1">First Name</label>
+                    <Input
+                      name="firstName"
+                      placeholder="First name"
+                      value={formData.firstName}
+                      onChange={handleChange}
+                      required
+                      className="h-11"
+                    />
+                  </div>
+                  <div>
+                    <label className="block text-sm font-medium text-gray-700 mb-1">Last Name</label>
+                    <Input
+                      name="lastName"
+                      placeholder="Last name"
+                      value={formData.lastName}
+                      onChange={handleChange}
+                      required
+                      className="h-11"
+                    />
+                  </div>
+                </div>
+
+                <div>
+                  <label className="block text-sm font-medium text-gray-700 mb-1">Email</label>
+                  <Input
+                    name="email"
+                    type="email"
+                    placeholder="your@email.com"
+                    value={formData.email}
+                    onChange={handleChange}
+                    required
+                    className="h-11"
+                  />
+                </div>
+
+                <div>
+                  <label className="block text-sm font-medium text-gray-700 mb-1">Phone</label>
+                  <Input
+                    name="phone"
+                    type="tel"
+                    placeholder="Phone number"
+                    value={formData.phone}
+                    onChange={handleChange}
+                    required
+                    className="h-11"
+                  />
+                </div>
+
+                <div>
+                  <label className="block text-sm font-medium text-gray-700 mb-1">Address</label>
+                  <Input
+                    name="address"
+                    placeholder="Your address"
+                    value={formData.address}
+                    onChange={handleChange}
+                    required
+                    className="h-11"
+                  />
+                </div>
+
+                <div>
+                  <label className="block text-sm font-medium text-gray-700 mb-1">Message</label>
+                  <Textarea
+                    name="message"
+                    placeholder="Tell us about your water main needs..."
+                    value={formData.message}
+                    onChange={handleChange}
+                    required
+                    rows={8}
+                    className="resize-none"
+                  />
+                </div>
+
+                <Button 
+                  type="submit"
+                  className="w-full h-12 text-base bg-[#5B2C6F] hover:bg-[#6B3C7F] text-white font-semibold"
+                >
+                  Submit
+                </Button>
+              </form>
+            </div>
+
+            {/* Right Column - Contact Information */}
+            <div>
+              <h3 className="text-2xl font-bold text-[#1B3A6B] mb-6">Contact Information</h3>
+              
+              <div className="space-y-6">
+                {/* Phone */}
+                <div className="flex items-start gap-4">
+                  <Phone className="w-6 h-6 text-[#5B2C6F] mt-1 flex-shrink-0" />
+                  <div>
+                    <h4 className="font-semibold text-gray-900 mb-1">Phone</h4>
+                    <p className="text-gray-600 text-sm mb-1">24/7 Emergency Service</p>
+                    <a href="tel:08002062778" className="text-xl font-bold text-[#5B2C6F] hover:underline">
+                      0800 206 2778
+                    </a>
+                  </div>
+                </div>
+
+                {/* Email */}
+                <div className="flex items-start gap-4">
+                  <Mail className="w-6 h-6 text-[#5B2C6F] mt-1 flex-shrink-0" />
+                  <div>
+                    <h4 className="font-semibold text-gray-900 mb-1">Email</h4>
+                    <a href="mailto:hello@scotwater.co.uk" className="text-[#5B2C6F] hover:underline">
+                      hello@scotwater.co.uk
+                    </a>
+                  </div>
+                </div>
+
+                {/* Offices */}
+                <div className="flex items-start gap-4">
+                  <MapPin className="w-6 h-6 text-[#5B2C6F] mt-1 flex-shrink-0" />
+                  <div className="flex-1">
+                    <h4 className="font-semibold text-gray-900 mb-4">Our Offices</h4>
+                    
+                    <div className="space-y-4">
+                      <div>
+                        <h5 className="font-semibold text-gray-900">Edinburgh</h5>
+                        <p className="text-gray-600 text-sm">Hudson House</p>
+                        <p className="text-gray-600 text-sm">8 Albany Street</p>
+                        <p className="text-gray-600 text-sm">Edinburgh, EH1 3QB</p>
+                      </div>
+
+                      <div>
+                        <h5 className="font-semibold text-gray-900">Glasgow</h5>
+                        <p className="text-gray-600 text-sm">2 West Regent Street</p>
+                        <p className="text-gray-600 text-sm">Glasgow, G2 1RW</p>
+                      </div>
+
+                      <div>
+                        <h5 className="font-semibold text-gray-900">Aberdeen</h5>
+                        <p className="text-gray-600 text-sm">7 Albert Street</p>
+                        <p className="text-gray-600 text-sm">Aberdeen, AB25 1XX</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
               </div>
-              <div>
-                <Input
-                  name="lastName"
-                  placeholder="Last name"
-                  value={formData.lastName}
-                  onChange={handleChange}
-                  required
-                  className="border-2 border-pink-400 focus:border-pink-500 h-12"
-                />
-              </div>
             </div>
-
-            <div>
-              <Input
-                name="email"
-                type="email"
-                placeholder="Email"
-                value={formData.email}
-                onChange={handleChange}
-                required
-                className="border-2 border-cyan-400 focus:border-cyan-500 h-12"
-              />
-            </div>
-
-            <div>
-              <Input
-                name="phone"
-                type="tel"
-                placeholder="Phone number"
-                value={formData.phone}
-                onChange={handleChange}
-                required
-                className="border-2 border-pink-400 focus:border-pink-500 h-12"
-              />
-            </div>
-
-            <div>
-              <Input
-                name="address"
-                placeholder="Address"
-                value={formData.address}
-                onChange={handleChange}
-                required
-                className="border-2 border-purple-400 focus:border-purple-500 h-12"
-              />
-            </div>
-
-            <div>
-              <Textarea
-                name="message"
-                placeholder="Message"
-                value={formData.message}
-                onChange={handleChange}
-                required
-                rows={6}
-                className="border-2 border-orange-400 focus:border-orange-500 resize-none"
-              />
-            </div>
-
-            <Button 
-              type="submit"
-              className="w-full h-14 text-lg bg-[#1B3A6B] hover:bg-[#2A4A7B] text-white font-semibold"
-            >
-              Submit
-            </Button>
-          </form>
+          </div>
         </div>
       </section>
 
