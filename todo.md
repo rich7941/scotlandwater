@@ -147,4 +147,10 @@
 - [x] Extract content from scotwater.co.uk/water-leaks-scotland
 - [x] Build page component with service details
 - [x] Add images and sections
+- [x] Deploy and verify page
+
+## Create Lead Pipe Replacement Scheme Page
+- [x] Extract content from scotwater.co.uk/lead-pipe-replacement-scheme-scotland
+- [x] Build page component with scheme details
+- [x] Add images and sections
 - [ ] Deploy and verify page

@@ -1,0 +1,452 @@
+import { Phone, Mail } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
+
+export default function LeadPipeReplacementScheme() {
+  const services = [
+    {
+      title: "Lead Pipe Replacement",
+      image: "/service-lead-pipe-replacement.webp",
+      link: "/services/lead-pipe-replacement",
+    },
+    {
+      title: "Water Main Leak Detection",
+      image: "/service-water-main-leak-detection.webp",
+      link: "/services/water-leak-detection",
+    },
+    {
+      title: "Water Supply Pipe Installations",
+      image: "/service-water-supply-pipe-installations.webp",
+      link: "/services/water-supply-pipe-installations",
+    },
+    {
+      title: "Impact Moling",
+      image: "/service-impact-moling.webp",
+      link: "/services/impact-moling",
+    },
+    {
+      title: "Water Leaks",
+      image: "/service-water-leaks.webp",
+      link: "/help-advice/water-leaks",
+    },
+    {
+      title: "Water Main Installations",
+      image: "/service-water-main-installations.webp",
+      link: "/services/water-main-installations",
+    },
+  ];
+
+  const reviews = [
+    {
+      name: "Paul Strachan",
+      location: "Glasgow",
+      text: "I had a water leak at my property and ScotWater came out within an hour to fix it. They were very professional and the work was completed to a high standard.",
+    },
+    {
+      name: "Jonathan Godfrey",
+      location: "Edinburgh",
+      text: "ScotWater replaced my lead pipes and the service was excellent. They kept me informed throughout the process and the work was completed on time.",
+    },
+    {
+      name: "Gordan Christie",
+      location: "Aberdeen",
+      text: "I would highly recommend ScotWater for any water main work. They are professional, reliable and offer great value for money.",
+    },
+  ];
+
+  return (
+    <div className="min-h-screen flex flex-col">
+      <Header />
+      
+      <main className="flex-1">
+        {/* Hero Section */}
+        <section className="relative h-[400px] flex items-center justify-center">
+          <div 
+            className="absolute inset-0 bg-cover bg-center"
+            style={{ backgroundImage: "url('/lead-pipe-replacement-scheme-hero.webp')" }}
+          >
+            <div className="absolute inset-0 bg-gradient-to-r from-purple-900/80 to-blue-900/60"></div>
+          </div>
+          <div className="relative z-10 text-center text-white px-4">
+            <p className="text-sm uppercase tracking-wider mb-2">Help & Advice</p>
+            <h1 className="text-4xl md:text-5xl font-bold">
+              Lead Pipe Replacement Scheme Scotland
+            </h1>
+          </div>
+        </section>
+
+        {/* Main Content */}
+        <section className="py-16 bg-white">
+          <div className="container max-w-4xl">
+            <h2 className="text-3xl font-bold text-[#1e3a5f] mb-6">
+              Lead Pipe Replacement Scheme Scotland: Ensuring Safer Water for Scottish Homes
+            </h2>
+            <p className="text-gray-700 leading-relaxed mb-8">
+              Access to clean, safe drinking water is a fundamental necessity for every household. In Scotland, thousands of older properties still rely on outdated lead piping, which can pose serious health risks due to lead contamination. The Lead Pipe Replacement Scheme in Scotland is designed to help homeowners replace outdated lead pipes with modern, safer alternatives.
+            </p>
+            <p className="text-gray-700 leading-relaxed mb-8">
+              Lead pipes were commonly used in properties built before 1970. Over time, lead can leach into the water supply, especially if the water is acidic or soft, leading to potentially harmful health effects.
+            </p>
+            <p className="text-gray-700 leading-relaxed mb-8">
+              This lead pipe replacement scheme focuses on encouraging property owners to modernize their plumbing systems by replacing old lead pipes with materials such as copper or plastic, which comply with current safety standards.
+            </p>
+          </div>
+        </section>
+
+        {/* How the Scheme Works */}
+        <section className="py-16 bg-gray-50">
+          <div className="container max-w-4xl">
+            <h2 className="text-3xl font-bold text-[#1e3a5f] mb-8">
+              How the Lead Pipe Replacement Scheme Works
+            </h2>
+            <p className="text-gray-700 leading-relaxed mb-8">
+              Under the Lead Pipe Replacement Scheme in Scotland, homeowners are encouraged to:
+            </p>
+
+            <div className="space-y-6">
+              <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
+                <h3 className="text-xl font-bold text-[#1e3a5f] mb-3">
+                  1. Identify Lead Water Supply Pipes
+                </h3>
+                <ul className="space-y-2 text-gray-700">
+                  <li className="flex items-start">
+                    <span className="text-purple-600 mr-2">•</span>
+                    <span>Check for a lead water supply pipe in older properties, particularly if your house was built before 1970.</span>
+                  </li>
+                  <li className="flex items-start">
+                    <span className="text-purple-600 mr-2">•</span>
+                    <span>Signs include dull grey pipes that are soft and can be easily scratched to reveal shiny metal underneath.</span>
+                  </li>
+                </ul>
+              </div>
+
+              <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
+                <h3 className="text-xl font-bold text-[#1e3a5f] mb-3">
+                  2. Consult Professionals
+                </h3>
+                <p className="text-gray-700">
+                  Contact a certified contractor, such as ScotWater, to assess your home and determine whether you have a lead water supply pipe.
+                </p>
+              </div>
+
+              <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
+                <h3 className="text-xl font-bold text-[#1e3a5f] mb-3">
+                  3. Replace Your Lead Water Supply Pipe
+                </h3>
+                <p className="text-gray-700">
+                  ScotWater will safely replace your lead water supply pipe with approved materials.
+                </p>
+              </div>
+
+              <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
+                <h3 className="text-xl font-bold text-[#1e3a5f] mb-3">
+                  4. Replace Your Lead Communication Pipe
+                </h3>
+                <p className="text-gray-700">
+                  Scottish Water will then replace your lead water communication pipe at their expense.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Benefits */}
+        <section className="py-16 bg-white">
+          <div className="container max-w-4xl">
+            <h2 className="text-3xl font-bold text-[#1e3a5f] mb-8">
+              Benefits of Replacing Lead Pipes
+            </h2>
+            <p className="text-gray-700 leading-relaxed mb-8">
+              Replacing lead pipes offers numerous advantages, including:
+            </p>
+
+            <div className="grid md:grid-cols-2 gap-6">
+              <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
+                <h3 className="text-lg font-bold text-[#1e3a5f] mb-2">
+                  Health Protection
+                </h3>
+                <p className="text-gray-700">
+                  Reducing exposure to lead ensures the safety of your family.
+                </p>
+              </div>
+
+              <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
+                <h3 className="text-lg font-bold text-[#1e3a5f] mb-2">
+                  Increased Property Value
+                </h3>
+                <p className="text-gray-700">
+                  Modern plumbing systems are more attractive to potential buyers.
+                </p>
+              </div>
+
+              <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
+                <h3 className="text-lg font-bold text-[#1e3a5f] mb-2">
+                  Improved Water Pressure and Flow
+                </h3>
+                <p className="text-gray-700">
+                  Upgrading your pipes can enhance water delivery to your home.
+                </p>
+              </div>
+
+              <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
+                <h3 className="text-lg font-bold text-[#1e3a5f] mb-2">
+                  Long-Term Savings
+                </h3>
+                <p className="text-gray-700">
+                  Modern pipes are more durable and less likely to leak and cause damage or need repairs.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Identifying Lead Pipes */}
+        <section className="py-16 bg-gray-50">
+          <div className="container max-w-4xl">
+            <h2 className="text-3xl font-bold text-[#1e3a5f] mb-8">
+              Identifying Lead Pipe in Your Home
+            </h2>
+            <p className="text-gray-700 leading-relaxed mb-6">
+              You may have lead pipes if your property was built before 1970. To check:
+            </p>
+            <ul className="space-y-3 mb-8">
+              <li className="flex items-start text-gray-700">
+                <span className="text-purple-600 mr-3 mt-1">•</span>
+                <span>Locate your internal stop tap (usually under the kitchen sink).</span>
+              </li>
+              <li className="flex items-start text-gray-700">
+                <span className="text-purple-600 mr-3 mt-1">•</span>
+                <span>Examine the pipe feeding it—lead pipes are dull grey, soft, and reveal shiny metal when scratched.</span>
+              </li>
+            </ul>
+            <p className="text-gray-700 leading-relaxed">
+              If your supply pipe resembles this material, you likely have lead pipe. Scottish Water can arrange a free test and visual inspection to confirm.
+            </p>
+          </div>
+        </section>
+
+        {/* Next Steps */}
+        <section className="py-16 bg-white">
+          <div className="container max-w-4xl">
+            <h2 className="text-3xl font-bold text-[#1e3a5f] mb-8">
+              Next Steps if Lead Pipes Are Found
+            </h2>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
+                <h3 className="text-lg font-bold text-[#1e3a5f] mb-2">
+                  Replace Lead Pipes
+                </h3>
+                <p className="text-gray-700">
+                  Engage a qualified plumber to replace any identified lead pipes with approved materials like copper or plastic.
+                </p>
+              </div>
+
+              <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
+                <h3 className="text-lg font-bold text-[#1e3a5f] mb-2">
+                  Inform Scottish Water
+                </h3>
+                <p className="text-gray-700">
+                  If lead is found in the communication pipe, Scottish Water will replace it free of charge upon confirmation.
+                </p>
+              </div>
+
+              <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
+                <h3 className="text-lg font-bold text-[#1e3a5f] mb-2">
+                  Seek Financial Assistance
+                </h3>
+                <p className="text-gray-700">
+                  Some local councils offer grants or assistance schemes to help with the cost of replacing lead pipes.
+                </p>
+              </div>
+
+              <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
+                <h3 className="text-lg font-bold text-[#1e3a5f] mb-2">
+                  Regular Testing
+                </h3>
+                <p className="text-gray-700">
+                  After replacement, consider periodic water testing to ensure lead levels remain within safe limits.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Scottish Water's Commitment */}
+        <section className="py-16 bg-gray-50">
+          <div className="container max-w-4xl">
+            <h2 className="text-3xl font-bold text-[#1e3a5f] mb-8">
+              Scottish Water's Commitment to Reducing Lead
+            </h2>
+            <p className="text-gray-700 leading-relaxed mb-6">
+              Scottish Water does not use lead in its water mains or treatment processes. However, to mitigate risks from legacy lead plumbing, it:
+            </p>
+            <ul className="space-y-3">
+              <li className="flex items-start text-gray-700">
+                <span className="text-purple-600 mr-3 mt-1">•</span>
+                <span>Treats water with orthophosphate to coat the inside of pipes and reduce lead leaching.</span>
+              </li>
+              <li className="flex items-start text-gray-700">
+                <span className="text-purple-600 mr-3 mt-1">•</span>
+                <span>Offers free water testing where lead contamination is suspected.</span>
+              </li>
+              <li className="flex items-start text-gray-700">
+                <span className="text-purple-600 mr-3 mt-1">•</span>
+                <span>Replaces lead communication pipes at no cost once the property owner has replaced their private lead supply pipe.</span>
+              </li>
+              <li className="flex items-start text-gray-700">
+                <span className="text-purple-600 mr-3 mt-1">•</span>
+                <span>As of 1 April 2025, Scottish Water has begin replacing its section of lead pipe if water tests show lead levels above 5 µg/l.</span>
+              </li>
+            </ul>
+          </div>
+        </section>
+
+        {/* Contact CTA */}
+        <section className="py-16 bg-white">
+          <div className="container max-w-4xl">
+            <div className="bg-[#1e3a5f] text-white p-8 rounded-lg text-center">
+              <h2 className="text-2xl font-bold mb-4">
+                Contact ScotWater for Lead Pipe Replacement in Scotland
+              </h2>
+              <p className="mb-6 text-gray-200">
+                If you suspect your property has lead pipes or need assistance with the Lead Pipe Replacement Scheme, contact ScotWater today for expert advice and professional service.
+              </p>
+              <div className="flex flex-col sm:flex-row gap-4 justify-center">
+                <Button className="bg-white text-[#1e3a5f] hover:bg-gray-100">
+                  <Phone className="mr-2 h-4 w-4" />
+                  0800 206 2778
+                </Button>
+                <Button variant="outline" className="border-white text-white hover:bg-white/10">
+                  <Mail className="mr-2 h-4 w-4" />
+                  hello@scotwater.co.uk
+                </Button>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Want to Talk Section */}
+        <section className="py-16 bg-gradient-to-r from-purple-700 to-purple-900 text-white">
+          <div className="container max-w-4xl text-center">
+            <h2 className="text-3xl font-bold mb-4">Want to Talk?</h2>
+            <p className="text-lg mb-8 text-gray-200">
+              Our team is ready to help with your water infrastructure needs
+            </p>
+            <Button className="bg-yellow-400 text-gray-900 hover:bg-yellow-500 text-lg px-8 py-6">
+              <Phone className="mr-2 h-5 w-5" />
+              Call 0800 206 2778
+            </Button>
+          </div>
+        </section>
+
+        {/* What to Expect Section */}
+        <section className="py-16 bg-white">
+          <div className="container max-w-6xl">
+            <h2 className="text-3xl font-bold text-center text-[#1e3a5f] mb-12">
+              What to Expect
+            </h2>
+            <div className="grid md:grid-cols-4 gap-8">
+              <div className="text-center">
+                <div className="w-32 h-32 mx-auto mb-4 rounded-full overflow-hidden border-4 border-orange-400">
+                  <img 
+                    src="/what-to-expect-1.webp" 
+                    alt="Contact us"
+                    className="w-full h-full object-cover"
+                  />
+                </div>
+                <h3 className="font-bold text-[#1e3a5f] mb-2">Contact</h3>
+                <p className="text-gray-600 text-sm">Get in touch with our team</p>
+              </div>
+              <div className="text-center">
+                <div className="w-32 h-32 mx-auto mb-4 rounded-full overflow-hidden border-4 border-pink-400">
+                  <img 
+                    src="/what-to-expect-2.webp" 
+                    alt="Site visit"
+                    className="w-full h-full object-cover"
+                  />
+                </div>
+                <h3 className="font-bold text-[#1e3a5f] mb-2">Site Visit</h3>
+                <p className="text-gray-600 text-sm">We assess your property</p>
+              </div>
+              <div className="text-center">
+                <div className="w-32 h-32 mx-auto mb-4 rounded-full overflow-hidden border-4 border-cyan-400">
+                  <img 
+                    src="/what-to-expect-3.webp" 
+                    alt="Quote"
+                    className="w-full h-full object-cover"
+                  />
+                </div>
+                <h3 className="font-bold text-[#1e3a5f] mb-2">Quote</h3>
+                <p className="text-gray-600 text-sm">Receive a detailed quote</p>
+              </div>
+              <div className="text-center">
+                <div className="w-32 h-32 mx-auto mb-4 rounded-full overflow-hidden border-4 border-purple-400">
+                  <img 
+                    src="/what-to-expect-4.webp" 
+                    alt="Work completed"
+                    className="w-full h-full object-cover"
+                  />
+                </div>
+                <h3 className="font-bold text-[#1e3a5f] mb-2">Work Completed</h3>
+                <p className="text-gray-600 text-sm">Professional installation</p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Customer Reviews */}
+        <section className="py-16 bg-gray-50">
+          <div className="container max-w-6xl">
+            <h2 className="text-3xl font-bold text-center text-[#1e3a5f] mb-12">
+              Customer Reviews
+            </h2>
+            <div className="grid md:grid-cols-3 gap-8">
+              {reviews.map((review, index) => (
+                <div key={index} className="bg-white p-6 rounded-lg shadow-sm border-l-4 border-purple-600">
+                  <p className="text-gray-700 italic mb-4">"{review.text}"</p>
+                  <p className="font-bold text-[#1e3a5f]">{review.name}</p>
+                  <p className="text-gray-600 text-sm">{review.location}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        {/* Services Section */}
+        <section className="py-16 bg-white">
+          <div className="container max-w-6xl">
+            <h2 className="text-3xl font-bold text-center text-[#1e3a5f] mb-12">
+              You may be interested in
+            </h2>
+            <div className="grid md:grid-cols-3 gap-8">
+              {services.map((service, index) => (
+                <a
+                  key={index}
+                  href={service.link}
+                  className="group bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-shadow"
+                >
+                  <div className="aspect-video overflow-hidden">
+                    <img
+                      src={service.image}
+                      alt={service.title}
+                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                    />
+                  </div>
+                  <div className="p-4">
+                    <h3 className="font-bold text-[#1e3a5f] group-hover:text-purple-600 transition-colors">
+                      {service.title}
+                    </h3>
+                  </div>
+                </a>
+              ))}
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <Footer />
+    </div>
+  );
+}
