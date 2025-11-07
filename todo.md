@@ -94,4 +94,10 @@
 - [x] Extract content from scotwater.co.uk/water-supply-pipe-renewals-scotland
 - [x] Build page component with service details
 - [x] Add images and sections
+- [x] Deploy and verify page
+
+## Create Water Supply Pipe Installations Service Page
+- [x] Extract content from scotwater.co.uk/water-supply-pipe-installations-scotland
+- [x] Build page component with service details
+- [x] Add images and sections
 - [ ] Deploy and verify page
