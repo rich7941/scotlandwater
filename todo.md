@@ -24,7 +24,7 @@
 - [ ] Lead Pipe Replacement Scheme (/lead-pipe-replacement-scheme-scotland)
 - [ ] Lead Pipe (/lead-pipe)
 - [ ] Lead Pipe Landlords (/lead-pipe-landlords)
-- [ ] Lead Pipe Replacement Help (/help/lead-pipe-replacement)
+- [x] Lead Pipe Replacement (/services/lead-pipe-replacement))
 - [ ] Water Filter (/water-filter)
 - [ ] Impact Moling Prices 2025 (/impact-moling-prices-2025)
 
@@ -84,4 +84,10 @@
 - [x] Extract content from scotwater.co.uk/reviews
 - [x] Build Reviews page component with customer testimonials
 - [x] Add review cards with 18 customer testimonials
-- [ ] Deploy and verify Reviews page
+- [x] Deploy and verify Reviews page
+
+## Create Lead Pipe Replacement Service Page
+- [x] Extract content from scotwater.co.uk/lead-pipe-replacement-scotland
+- [x] Build page component with service details
+- [x] Add images and sections
+- [ ] Deploy and verify page
