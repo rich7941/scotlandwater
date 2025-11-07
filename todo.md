@@ -5,7 +5,7 @@
 ### Main Pages (4)
 - [x] About page (/about)
 - [ ] Reviews page (/reviews)
-- [ ] Contact page (/contact)
+- [x] Contact page (/contact)
 - [ ] Services Overview page (/services)
 
 ### Service Pages (9)
@@ -52,7 +52,13 @@
 - [x] Deploy and verify
 
 ## Add Services Section to About Page
-- [ ] Download 6 service images from original website
-- [ ] Create services section component with 6 cards
-- [ ] Add section above footer on About page
-- [ ] Deploy and verify
+- [x] Download 6 service images from original website
+- [x] Create services section component with 6 cards
+- [x] Add section above footer on About page
+- [x] Deploy and verify
+
+## Create Contact Page
+- [x] Extract content and images from scotwater.co.uk/contact
+- [x] Build Contact page component with contact form
+- [x] Add contact information, addresses, and reviews
+- [ ] Deploy and verify Contact page
