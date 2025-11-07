@@ -153,4 +153,10 @@
 - [x] Extract content from scotwater.co.uk/lead-pipe-replacement-scheme-scotland
 - [x] Build page component with scheme details
 - [x] Add images and sections
+- [x] Deploy and verify page
+
+## Create Lead Pipe in Scotland Page
+- [x] Extract content from scotwater.co.uk/lead-pipe-in-scotland
+- [x] Build page component with lead pipe information
+- [x] Add images and sections
 - [ ] Deploy and verify page
