@@ -7,6 +7,7 @@ import { ThemeProvider } from "./contexts/ThemeContext";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Header from "./components/Header";
+import Footer from "./components/Footer";
 
 function Router() {
   return (
@@ -19,6 +20,7 @@ function Router() {
         {/* Final fallback route */}
         <Route component={NotFound} />
       </Switch>
+      <Footer />
     </>
   );
 }

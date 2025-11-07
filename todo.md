@@ -44,3 +44,15 @@
 - Create each page manually, one by one
 - Match original scotwater.co.uk design and content exactly
 - Test each page before moving to the next
+
+## Fix About Page Layout
+- [x] Update About page to use the same "What to Expect" section with 4 images in colored borders
+- [x] Match the exact layout from homepage
+- [x] Fix missing footer on About page
+- [x] Deploy and verify
+
+## Add Services Section to About Page
+- [ ] Download 6 service images from original website
+- [ ] Create services section component with 6 cards
+- [ ] Add section above footer on About page
+- [ ] Deploy and verify

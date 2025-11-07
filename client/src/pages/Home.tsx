@@ -25,7 +25,6 @@ export default function Home() {
       <WhyChoose />
       <TrustedOrganizations />
       <LocationsSection />
-      <Footer />
     </div>
   );
 }
