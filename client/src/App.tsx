@@ -17,6 +17,7 @@ import WaterMainRenewals from "./pages/services/WaterMainRenewals";
 import WaterMainRepairs from "./pages/services/WaterMainRepairs";
 import WaterLeakDetection from "./pages/services/WaterLeakDetection";
 import ImpactMoling from "./pages/services/ImpactMoling";
+import WaterLeaks from "./pages/services/WaterLeaks";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 
@@ -38,6 +39,7 @@ function Router() {
       <Route path="/services/water-main-repairs" component={WaterMainRepairs} />
       <Route path="/services/water-leak-detection" component={WaterLeakDetection} />
       <Route path="/services/impact-moling" component={ImpactMoling} />
+      <Route path="/help-advice/water-leaks" component={WaterLeaks} />
         <Route path={"/404"} component={NotFound} />
         {/* Final fallback route */}
         <Route component={NotFound} />
