@@ -27,6 +27,7 @@ import ImpactMolingPrices from "./pages/help-advice/ImpactMolingPrices";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import TermsAndConditions from "./pages/TermsAndConditions";
 import Edinburgh from "./pages/locations/Edinburgh";
+import Glasgow from "./pages/locations/Glasgow";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 
@@ -58,6 +59,7 @@ function Router() {
       <Route path="/privacy-policy" component={PrivacyPolicy} />
       <Route path="/terms-and-conditions" component={TermsAndConditions} />
       <Route path="/locations/edinburgh" component={Edinburgh} />
+      <Route path="/locations/glasgow" component={Glasgow} />
         <Route path={"/404"} component={NotFound} />
         {/* Final fallback route */}
         <Route component={NotFound} />

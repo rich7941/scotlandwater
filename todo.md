@@ -241,3 +241,9 @@
 - [x] Add route to App.tsx
 - [x] Add link to navigation
 - [x] Deploy and verify page
+
+## Add Glasgow Location Page
+- [x] Extract content from scotwater.co.uk/lead-pipe-replacement-glasgow
+- [x] Create Glasgow.tsx component
+- [x] Add route to App.tsx
+- [x] Deploy and verify page
