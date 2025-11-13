@@ -33,6 +33,7 @@ import Inverness from "./pages/locations/Inverness";
 import Dundee from "./pages/locations/Dundee";
 import Paisley from "./pages/locations/Paisley";
 import EastKilbride from "./pages/locations/EastKilbride";
+import Livingston from "./pages/locations/Livingston";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 
@@ -70,6 +71,7 @@ function Router() {
       <Route path="/locations/dundee" component={Dundee} />
       <Route path="/locations/paisley" component={Paisley} />
       <Route path="/locations/east-kilbride" component={EastKilbride} />
+      <Route path="/locations/livingston" component={Livingston} />
         <Route path={"/404"} component={NotFound} />
         {/* Final fallback route */}
         <Route component={NotFound} />

@@ -276,3 +276,8 @@
 - [x] Add route to App.tsx
 - [x] Deploy and verify page
 - [x] Celebrate reaching 31-page goal!
+
+## Add Livingston Location Page
+- [x] Create Livingston.tsx component
+- [x] Add route to App.tsx
+- [x] Deploy and verify page
