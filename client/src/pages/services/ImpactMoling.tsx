@@ -1,6 +1,5 @@
 import { Phone, Mail } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import Footer from "@/components/Footer";
 
 export default function ImpactMoling() {
   return (
@@ -284,7 +283,7 @@ export default function ImpactMoling() {
         </section>
       </main>
 
-      <Footer />
+      
     </div>
   );
 }

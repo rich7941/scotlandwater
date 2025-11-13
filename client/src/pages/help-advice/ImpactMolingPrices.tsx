@@ -1,14 +1,12 @@
 import { Mail, Phone } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import Header from "@/components/Header";
-import Footer from "@/components/Footer";
 import RelatedLinks from "@/components/RelatedLinks";
 import { getRelatedLinksForHelpAdvice } from "@/data/relatedLinks";
 
 export default function ImpactMolingPrices() {
   return (
     <div className="min-h-screen flex flex-col">
-      <Header />
+      
       
       {/* Hero Section */}
       <section className="relative h-[400px] flex items-center justify-center">
@@ -264,7 +262,7 @@ export default function ImpactMolingPrices() {
         />
       </main>
 
-      <Footer />
+      
     </div>
   );
 }

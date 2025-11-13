@@ -1,6 +1,5 @@
 import { Button } from "@/components/ui/button";
 import { Phone, Mail } from "lucide-react";
-import Footer from "@/components/Footer";
 
 export default function WaterLeakDetection() {
   const handleCallClick = () => {
@@ -389,7 +388,7 @@ export default function WaterLeakDetection() {
         </section>
       </main>
 
-      <Footer />
+      
     </div>
   );
 }

@@ -1,6 +1,5 @@
 import { Mail, Phone } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import Footer from "@/components/Footer";
 
 export default function WaterMainRepairs() {
   const services = [
@@ -287,7 +286,7 @@ export default function WaterMainRepairs() {
         </section>
       </main>
 
-      <Footer />
+      
     </div>
   );
 }

@@ -203,3 +203,20 @@
 - [x] Investigate Impact Moling page for duplicate header
 - [x] Remove duplicate Header component from affected pages
 - [x] Test and deploy fix
+
+## Fix Duplicate Footer Issue
+- [x] Remove duplicate Footer from Water Main Renewals page
+- [x] Remove duplicate Footer from Water Main Repairs page
+- [x] Remove duplicate Footer from Water Leak Detection page
+- [x] Remove duplicate Footer from Impact Moling page
+- [x] Build and deploy fix
+- [x] Verify fix on live site
+
+## Fix Duplicate Header/Footer on Help & Advice Pages
+- [x] Remove duplicates from Lead Pipe Replacement Scheme page
+- [x] Remove duplicates from Lead Pipe Landlords page
+- [x] Remove duplicates from Lead Pipe Replacement page
+- [x] Remove duplicates from Water Filter page
+- [x] Remove duplicates from Impact Moling Prices page
+- [x] Build and deploy fix
+- [x] Verify fix on live site

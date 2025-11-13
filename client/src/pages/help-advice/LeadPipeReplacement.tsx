@@ -1,12 +1,10 @@
 import { Button } from "@/components/ui/button";
 import { Phone, Mail } from "lucide-react";
-import Header from "@/components/Header";
-import Footer from "@/components/Footer";
 
 export default function LeadPipeReplacement() {
   return (
     <div className="min-h-screen flex flex-col">
-      <Header />
+      
       
       {/* Hero Section */}
       <section className="relative h-[400px] flex items-center justify-center">
@@ -425,7 +423,7 @@ export default function LeadPipeReplacement() {
         </section>
       </main>
 
-      <Footer />
+      
     </div>
   );
 }

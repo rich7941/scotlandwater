@@ -1,6 +1,5 @@
 import { Button } from "@/components/ui/button";
 import { Phone, Mail } from "lucide-react";
-import Footer from "@/components/Footer";
 
 export default function WaterMainRenewals() {
   const handleCall = () => {
@@ -351,7 +350,7 @@ export default function WaterMainRenewals() {
         </section>
       </main>
 
-      <Footer />
+      
     </div>
   );
 }

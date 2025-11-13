@@ -1,12 +1,10 @@
 import { Mail, Phone } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import Header from "@/components/Header";
-import Footer from "@/components/Footer";
 
 export default function WaterFilter() {
   return (
     <div className="min-h-screen flex flex-col">
-      <Header />
+      
       
       {/* Hero Section */}
       <section className="relative h-[400px] flex items-center justify-center">
@@ -155,7 +153,7 @@ export default function WaterFilter() {
         </section>
       </main>
 
-      <Footer />
+      
     </div>
   );
 }
