@@ -233,7 +233,7 @@ export default function WaterLeakDetection() {
                   onClick={handleCallClick}
                   className="bg-white text-[#1e3a5f] hover:bg-gray-100"
                 >
-                  <Phone className="mr-2 h-4 w-4" />
+                  <Phone className="mr-2 h-4 w-4 scale-x-[-1]" />
                   0800 206 2778
                 </Button>
                 <Button 
@@ -259,7 +259,7 @@ export default function WaterLeakDetection() {
               size="lg"
               className="bg-yellow-400 text-purple-900 hover:bg-yellow-300 font-bold text-lg px-8"
             >
-              <Phone className="mr-2 h-5 w-5" />
+              <Phone className="mr-2 h-5 w-5 scale-x-[-1]" />
               0800 206 2778
             </Button>
           </div>

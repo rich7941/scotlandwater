@@ -309,5 +309,10 @@
 - [x] Deploy and verify changes
 
 ## Change Help/Advice Back to Help & Advice
-- [ ] Update header navigation text
+- [x] Update header navigation text
+- [x] Deploy and verify changes
+
+## Flip Phone Icon Direction
+- [ ] Find all phone icons in CTA buttons
+- [ ] Add horizontal flip/mirror transform
 - [ ] Deploy and verify changes

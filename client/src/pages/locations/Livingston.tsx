@@ -209,7 +209,7 @@ export default function Livingston() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <Button size="lg" className="bg-white text-purple-900 hover:bg-gray-100">
-                <Phone className="mr-2 h-5 w-5" />
+                <Phone className="mr-2 h-5 w-5 scale-x-[-1]" />
                 <a href="tel:08002062778">0800 206 2778</a>
               </Button>
               <Button size="lg" variant="outline" className="border-white text-white hover:bg-white/10">

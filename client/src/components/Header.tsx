@@ -148,7 +148,7 @@ export default function Header() {
                 href="tel:08002062778" 
                 className="flex items-center justify-end gap-2 hover:text-gray-300 transition-colors"
               >
-                <Phone className="h-4 w-4" />
+                <Phone className="h-4 w-4 scale-x-[-1]" />
                 <span className="text-sm font-semibold">0800 206 2778</span>
               </a>
               <a 
@@ -238,7 +238,7 @@ export default function Header() {
                 </Link>
                 <div className="pt-4 border-t border-white/20">
                   <a href="tel:08002062778" className="flex items-center gap-2 mb-2">
-                    <Phone className="h-5 w-5" />
+                    <Phone className="h-5 w-5 scale-x-[-1]" />
                     <span>0800 206 2778</span>
                   </a>
                   <a href="mailto:hello@scotwater.co.uk" className="flex items-center gap-2">

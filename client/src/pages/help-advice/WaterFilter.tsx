@@ -141,7 +141,7 @@ export default function WaterFilter() {
             </p>
             <div className="flex flex-wrap gap-4 justify-center">
               <Button size="lg" className="bg-blue-900 hover:bg-blue-800">
-                <Phone className="mr-2 h-5 w-5" />
+                <Phone className="mr-2 h-5 w-5 scale-x-[-1]" />
                 0800 206 2778
               </Button>
               <Button size="lg" variant="outline" className="border-blue-900 text-blue-900 hover:bg-blue-50">

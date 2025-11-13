@@ -313,7 +313,7 @@ export default function LeadPipeReplacementScheme() {
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Button className="bg-white text-[#1e3a5f] hover:bg-gray-100">
-                  <Phone className="mr-2 h-4 w-4" />
+                  <Phone className="mr-2 h-4 w-4 scale-x-[-1]" />
                   0800 206 2778
                 </Button>
                 <Button variant="outline" className="border-white text-white hover:bg-white/10">
@@ -333,7 +333,7 @@ export default function LeadPipeReplacementScheme() {
               Our team is ready to help with your water infrastructure needs
             </p>
             <Button className="bg-yellow-400 text-gray-900 hover:bg-yellow-500 text-lg px-8 py-6">
-              <Phone className="mr-2 h-5 w-5" />
+              <Phone className="mr-2 h-5 w-5 scale-x-[-1]" />
               Call 0800 206 2778
             </Button>
           </div>

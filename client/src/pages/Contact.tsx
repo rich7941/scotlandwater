@@ -162,7 +162,7 @@ export default function Contact() {
               <div className="space-y-6">
                 {/* Phone */}
                 <div className="flex items-start gap-4">
-                  <Phone className="w-6 h-6 text-[#5B2C6F] mt-1 flex-shrink-0" />
+                  <Phone className="w-6 h-6 text-[#5B2C6F] mt-1 flex-shrink-0 scale-x-[-1]" />
                   <div>
                     <h4 className="font-semibold text-gray-900 mb-1">Phone</h4>
                     <p className="text-gray-600 text-sm mb-1">24/7 Emergency Service</p>
@@ -230,7 +230,7 @@ export default function Contact() {
               className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1B3A6B] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
             >
               0800 206 2778
-              <Phone className="w-6 h-6" />
+              <Phone className="w-6 h-6 scale-x-[-1]" />
             </a>
           </div>
         </div>

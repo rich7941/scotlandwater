@@ -219,7 +219,7 @@ export default function WaterSupplyPipeRenewals() {
                 className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1B3A6B] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
               >
                 0800 206 2778
-                <Phone className="w-6 h-6" />
+                <Phone className="w-6 h-6 scale-x-[-1]" />
               </a>
               <a 
                 href="mailto:hello@scotwater.co.uk"
@@ -245,7 +245,7 @@ export default function WaterSupplyPipeRenewals() {
               className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1B3A6B] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
             >
               0800 206 2778
-              <Phone className="w-6 h-6" />
+              <Phone className="w-6 h-6 scale-x-[-1]" />
             </a>
           </div>
         </div>

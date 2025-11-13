@@ -407,7 +407,7 @@ export default function LeadPipeReplacement() {
                 className="bg-purple-700 hover:bg-purple-800"
                 onClick={() => window.location.href = 'tel:08002062778'}
               >
-                <Phone className="mr-2 h-5 w-5" />
+                <Phone className="mr-2 h-5 w-5 scale-x-[-1]" />
                 0800 206 2778
               </Button>
               <Button 

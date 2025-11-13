@@ -177,7 +177,7 @@ export default function WaterMainRepairs() {
             {/* CTA Buttons */}
             <div className="flex flex-wrap gap-4 mb-12">
               <Button size="lg" className="bg-[#7c3aed] hover:bg-[#6d28d9]">
-                <Phone className="mr-2 h-5 w-5" />
+                <Phone className="mr-2 h-5 w-5 scale-x-[-1]" />
                 0800 206 2778
               </Button>
               <Button size="lg" variant="outline" className="border-[#7c3aed] text-[#7c3aed] hover:bg-[#7c3aed] hover:text-white">
@@ -194,7 +194,7 @@ export default function WaterMainRepairs() {
             <h2 className="text-3xl font-bold mb-4">Want to talk to someone?</h2>
             <p className="text-xl mb-8">Call us 24/7, 365 days a year</p>
             <Button size="lg" className="bg-[#fbbf24] text-black hover:bg-[#f59e0b] font-semibold">
-              <Phone className="mr-2 h-5 w-5" />
+              <Phone className="mr-2 h-5 w-5 scale-x-[-1]" />
               Call 0800 206 2778
             </Button>
           </div>

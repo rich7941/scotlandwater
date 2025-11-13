@@ -17,7 +17,7 @@ export default function CallToAction() {
           >
             <a href="tel:08002062778" className="flex items-center gap-3">
               0800 206 2778
-              <Phone className="h-6 w-6" />
+              <Phone className="h-6 w-6 scale-x-[-1]" />
             </a>
           </Button>
         </div>

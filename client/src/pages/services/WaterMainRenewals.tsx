@@ -228,7 +228,7 @@ export default function WaterMainRenewals() {
                 size="lg"
                 className="bg-[#1e3a5f] hover:bg-[#2d5a8f] text-white"
               >
-                <Phone className="mr-2 h-5 w-5" />
+                <Phone className="mr-2 h-5 w-5 scale-x-[-1]" />
                 Call 0800 206 2778
               </Button>
               <Button 
@@ -254,7 +254,7 @@ export default function WaterMainRenewals() {
               size="lg"
               className="bg-yellow-400 hover:bg-yellow-500 text-purple-900 font-bold text-lg px-8"
             >
-              <Phone className="mr-2 h-5 w-5" />
+              <Phone className="mr-2 h-5 w-5 scale-x-[-1]" />
               0800 206 2778
             </Button>
           </div>

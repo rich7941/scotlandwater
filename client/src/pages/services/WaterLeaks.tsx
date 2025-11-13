@@ -251,7 +251,7 @@ export default function WaterLeaks() {
                 asChild
               >
                 <a href="tel:08002062778">
-                  <Phone className="mr-2 h-5 w-5" />
+                  <Phone className="mr-2 h-5 w-5 scale-x-[-1]" />
                   0800 206 2778
                 </a>
               </Button>

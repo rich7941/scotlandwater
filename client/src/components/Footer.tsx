@@ -33,7 +33,7 @@ export default function Footer() {
             >
               <a href="tel:08002062778" className="flex items-center gap-3">
                 0800 206 2778
-                <Phone className="h-6 w-6" />
+                <Phone className="h-6 w-6 scale-x-[-1]" />
               </a>
             </Button>
             <p className="text-sm mt-4 text-gray-300">
@@ -88,7 +88,7 @@ export default function Footer() {
               <span>hello@scotwater.co.uk</span>
             </a>
             <a href="tel:08002062778" className="flex items-center justify-center gap-2 hover:text-gray-300">
-              <Phone className="h-5 w-5" />
+              <Phone className="h-5 w-5 scale-x-[-1]" />
               <span>24/7 Customer Service 0800 206 2778</span>
             </a>
           </div>

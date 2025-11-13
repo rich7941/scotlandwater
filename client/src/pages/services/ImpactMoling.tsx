@@ -137,7 +137,7 @@ export default function ImpactMoling() {
             {/* Contact CTA */}
             <div className="flex flex-wrap gap-4 justify-center mb-12">
               <Button size="lg" className="bg-purple-600 hover:bg-purple-700 text-white">
-                <Phone className="mr-2 h-5 w-5" />
+                <Phone className="mr-2 h-5 w-5 scale-x-[-1]" />
                 0800 206 2778
               </Button>
               <Button size="lg" variant="outline" className="border-purple-600 text-purple-600 hover:bg-purple-50">
@@ -154,7 +154,7 @@ export default function ImpactMoling() {
             <h2 className="text-3xl font-bold mb-4">Want to talk to someone?</h2>
             <p className="text-xl mb-6">Call us 24/7, 365 days a year</p>
             <Button size="lg" className="bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold">
-              <Phone className="mr-2 h-5 w-5" />
+              <Phone className="mr-2 h-5 w-5 scale-x-[-1]" />
               0800 206 2778
             </Button>
           </div>
@@ -171,7 +171,7 @@ export default function ImpactMoling() {
             <div className="grid md:grid-cols-4 gap-8">
               <div className="text-center">
                 <div className="w-20 h-20 rounded-full bg-purple-100 mx-auto mb-4 flex items-center justify-center">
-                  <Phone className="h-10 w-10 text-purple-600" />
+                  <Phone className="h-10 w-10 text-purple-600 scale-x-[-1]" />
                 </div>
                 <p className="text-gray-700">Call us 24/7, 365, at a time that suits you.</p>
               </div>
