@@ -406,4 +406,4 @@
 - [x] Add to Livingston location page
 - [x] Add to Dunfermline location page
 - [x] Add to Hamilton location page
-- [ ] Deploy and verify on live site
+- [x] Deploy and verify on live site
