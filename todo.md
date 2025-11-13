@@ -323,7 +323,7 @@
 - [x] Deploy and verify changes
 
 ## Reorganize Footer Menu
-- [ ] Remove Locations tab from footer
-- [ ] Replace Services with all 9 service page links
-- [ ] Replace Help & Advice with all 7 guide page links
-- [ ] Deploy and verify changes
+- [x] Remove Locations tab from footer
+- [x] Replace Services with all 9 service page links
+- [x] Replace Help & Advice with all 7 guide page links
+- [x] Deploy and verify changes
