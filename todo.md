@@ -234,3 +234,10 @@
 - [x] Add route to App.tsx
 - [x] Update link in Footer component
 - [x] Deploy and verify page
+
+## Add Edinburgh Location Page
+- [x] Extract content from scotwater.co.uk/lead-pipe-replacement-edinburgh
+- [x] Create Edinburgh.tsx component in locations folder
+- [x] Add route to App.tsx
+- [x] Add link to navigation
+- [x] Deploy and verify page
