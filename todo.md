@@ -361,4 +361,8 @@
 
 ## Add "You May Be Interested In" Section to Lead Pipe Landlords Page
 - [x] Add image cards section with 6 related services
+- [x] Deploy and verify on live site
+
+## Add "You May Be Interested In" Section to Lead Pipe Replacement Help-Advice Page
+- [x] Add image cards section with 6 related services
 - [ ] Deploy and verify on live site
