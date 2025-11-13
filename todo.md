@@ -327,3 +327,8 @@
 - [x] Replace Services with all 9 service page links
 - [x] Replace Help & Advice with all 7 guide page links
 - [x] Deploy and verify changes
+
+## Fix Scroll-to-Top on Navigation
+- [x] Add scroll-to-top functionality when navigating between pages
+- [x] Test navigation from footer menu
+- [x] Deploy and verify changes
