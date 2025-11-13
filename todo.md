@@ -265,3 +265,8 @@
 - [x] Create Dundee.tsx component
 - [x] Add route to App.tsx
 - [x] Deploy and verify page
+
+## Add Paisley Location Page
+- [x] Create Paisley.tsx component
+- [x] Add route to App.tsx
+- [x] Deploy and verify page
