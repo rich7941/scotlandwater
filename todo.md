@@ -281,3 +281,8 @@
 - [x] Create Livingston.tsx component
 - [x] Add route to App.tsx
 - [x] Deploy and verify page
+
+## Add Dunfermline Location Page
+- [x] Create Dunfermline.tsx component
+- [x] Add route to App.tsx
+- [x] Deploy and verify page
