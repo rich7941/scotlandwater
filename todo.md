@@ -348,4 +348,9 @@
 ## Fix Water Leaks Card Image on Lead Pipe Replacement Scheme Page
 - [x] Find the Lead Pipe Replacement Scheme page file
 - [x] Fix the Water Leaks card image (created service-water-leaks.webp)
+- [x] Deploy and verify on live site
+
+## Fix Water Supply Pipe Renewals Card Image on Water Supply Pipe Installations Page
+- [x] Find the Water Supply Pipe Installations page file
+- [x] Fix the Water Supply Pipe Renewals card image
 - [ ] Deploy and verify on live site

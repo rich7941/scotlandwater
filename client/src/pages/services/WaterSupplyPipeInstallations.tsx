@@ -228,6 +228,11 @@ export default function WaterSupplyPipeInstallations() {
             </a>
             
             <a href="/services/water-supply-pipe-renewals" className="group block bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
+              <img 
+                src="/service-water-supply-pipe-renewals.webp" 
+                alt="Water Supply Pipe Renewals" 
+                className="w-full h-48 object-cover"
+              />
               <div className="p-6">
                 <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-[#5B2C6F] transition-colors">
                   Water Supply Pipe Renewals
