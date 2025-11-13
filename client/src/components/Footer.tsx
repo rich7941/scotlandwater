@@ -69,15 +69,48 @@ export default function Footer() {
 
         {/* Navigation Links */}
         <div className="border-t border-white/20 pt-8 mb-8">
-          <nav className="flex flex-wrap gap-6 justify-center">
-            <Link href="/" className="hover:text-gray-300 transition-colors">Home</Link>
-            <span className="text-gray-400 cursor-not-allowed">Services</span>
-            <span className="text-gray-400 cursor-not-allowed">Help & Advice</span>
-            <span className="text-gray-400 cursor-not-allowed">Locations</span>
-            <Link href="/about" className="hover:text-gray-300 transition-colors">About</Link>
-            <Link href="/reviews" className="hover:text-gray-300 transition-colors">Reviews</Link>
-            <Link href="/contact" className="hover:text-gray-300 transition-colors">Contact</Link>
-          </nav>
+          <div className="grid md:grid-cols-3 gap-8">
+            {/* Main Pages */}
+            <div>
+              <h4 className="font-bold mb-4 text-lg">Main Pages</h4>
+              <nav className="flex flex-col gap-2">
+                <Link href="/" className="hover:text-gray-300 transition-colors">Home</Link>
+                <Link href="/about" className="hover:text-gray-300 transition-colors">About</Link>
+                <Link href="/reviews" className="hover:text-gray-300 transition-colors">Reviews</Link>
+                <Link href="/contact" className="hover:text-gray-300 transition-colors">Contact</Link>
+              </nav>
+            </div>
+
+            {/* Services */}
+            <div>
+              <h4 className="font-bold mb-4 text-lg">Services</h4>
+              <nav className="flex flex-col gap-2">
+                <Link href="/services/lead-pipe-replacement" className="hover:text-gray-300 transition-colors">Lead Pipe Replacement</Link>
+                <Link href="/services/water-supply-pipe-renewals" className="hover:text-gray-300 transition-colors">Water Supply Pipe Renewals</Link>
+                <Link href="/services/water-supply-pipe-installations" className="hover:text-gray-300 transition-colors">Water Supply Pipe Installations</Link>
+                <Link href="/services/water-supply-pipe-repairs" className="hover:text-gray-300 transition-colors">Water Supply Pipe Repairs</Link>
+                <Link href="/services/water-main-installations" className="hover:text-gray-300 transition-colors">Water Main Installations</Link>
+                <Link href="/services/water-main-renewals" className="hover:text-gray-300 transition-colors">Water Main Renewals</Link>
+                <Link href="/services/water-main-repairs" className="hover:text-gray-300 transition-colors">Water Main Repairs</Link>
+                <Link href="/services/water-leak-detection" className="hover:text-gray-300 transition-colors">Water Leak Detection</Link>
+                <Link href="/services/impact-moling" className="hover:text-gray-300 transition-colors">Impact Moling</Link>
+              </nav>
+            </div>
+
+            {/* Help & Advice */}
+            <div>
+              <h4 className="font-bold mb-4 text-lg">Help & Advice</h4>
+              <nav className="flex flex-col gap-2">
+                <Link href="/help-advice/water-leaks" className="hover:text-gray-300 transition-colors">Water Leaks</Link>
+                <Link href="/help-advice/lead-pipe-replacement-scheme" className="hover:text-gray-300 transition-colors">Lead Pipe Replacement Scheme</Link>
+                <Link href="/help-advice/lead-pipe-in-scotland" className="hover:text-gray-300 transition-colors">Lead Pipe in Scotland</Link>
+                <Link href="/help-advice/lead-pipe-landlords" className="hover:text-gray-300 transition-colors">Lead Pipe Landlords</Link>
+                <Link href="/help-advice/lead-pipe-replacement" className="hover:text-gray-300 transition-colors">Lead Pipe Replacement</Link>
+                <Link href="/help-advice/water-filter" className="hover:text-gray-300 transition-colors">Water Filter</Link>
+                <Link href="/help-advice/impact-moling-prices-2025-scotland" className="hover:text-gray-300 transition-colors">Impact Moling Prices 2025</Link>
+              </nav>
+            </div>
+          </div>
         </div>
 
         {/* Contact Info */}

@@ -318,6 +318,12 @@
 - [x] Deploy and verify changes
 
 ## Fix Footer Menu Links
-- [ ] Check Footer component navigation links
-- [ ] Convert non-clickable items to proper Link components
+- [x] Check Footer component navigation links
+- [x] Convert non-clickable items to proper Link components
+- [x] Deploy and verify changes
+
+## Reorganize Footer Menu
+- [ ] Remove Locations tab from footer
+- [ ] Replace Services with all 9 service page links
+- [ ] Replace Help & Advice with all 7 guide page links
 - [ ] Deploy and verify changes
