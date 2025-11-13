@@ -293,6 +293,12 @@
 - [x] Deploy and verify page
 
 ## Update Locations Dropdown Menu
-- [ ] Replace "Coming Soon" with actual location page links
-- [ ] Add all 10 location pages to dropdown
+- [x] Replace "Coming Soon" with actual location page links
+- [x] Add all 10 location pages to dropdown
+- [x] Deploy and verify changes
+
+## Fix Header Menu Layout
+- [ ] Reorganize navigation menu items for better spacing
+- [ ] Fix "Help & Advice" text wrapping issue
+- [ ] Improve overall menu alignment and readability
 - [ ] Deploy and verify changes
