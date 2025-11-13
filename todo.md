@@ -304,6 +304,6 @@
 - [x] Deploy and verify changes
 
 ## Reorganize Header Contact Info
-- [ ] Stack phone and email vertically instead of horizontally
-- [ ] Create more space for navigation menu
-- [ ] Deploy and verify changes
+- [x] Stack phone and email vertically instead of horizontally
+- [x] Create more space for navigation menu
+- [x] Deploy and verify changes
