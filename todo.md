@@ -353,4 +353,8 @@
 ## Fix Water Supply Pipe Renewals Card Image on Water Supply Pipe Installations Page
 - [x] Find the Water Supply Pipe Installations page file
 - [x] Fix the Water Supply Pipe Renewals card image
+- [x] Deploy and verify on live site
+
+## Add "You May Be Interested In" Section to Lead Pipe in Scotland Page
+- [x] Add RelatedLinks component to the page
 - [ ] Deploy and verify on live site

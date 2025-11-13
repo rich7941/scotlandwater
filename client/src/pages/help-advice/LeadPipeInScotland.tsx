@@ -1,5 +1,7 @@
 import { Phone, Mail } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import RelatedLinks from "@/components/RelatedLinks";
+import { getRelatedLinksForHelpAdvice } from "@/data/relatedLinks";
 
 export default function LeadPipeInScotland() {
   return (
@@ -227,6 +229,11 @@ export default function LeadPipeInScotland() {
           </div>
         </section>
 
+        {/* Related Links Section */}
+        <RelatedLinks 
+          title="Related Help & Advice"
+          links={getRelatedLinksForHelpAdvice('/help-advice/lead-pipe-in-scotland', 3)}
+        />
 
       </main>
     </div>
