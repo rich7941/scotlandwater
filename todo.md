@@ -381,4 +381,8 @@
 
 ## Fix Duplicate Image on Impact Moling Page
 - [x] Replace duplicate Water Supply Pipe Renewals image file with correct image
+- [x] Deploy and verify on live site
+
+## Add "You May Be Interested In" Section to Edinburgh Location Page
+- [x] Add image cards section with 6 related services
 - [ ] Deploy and verify on live site
