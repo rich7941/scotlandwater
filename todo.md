@@ -307,3 +307,7 @@
 - [x] Stack phone and email vertically instead of horizontally
 - [x] Create more space for navigation menu
 - [x] Deploy and verify changes
+
+## Change Help/Advice Back to Help & Advice
+- [ ] Update header navigation text
+- [ ] Deploy and verify changes

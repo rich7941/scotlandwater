@@ -95,7 +95,7 @@ export default function Header() {
               {/* Help & Advice Dropdown */}
               <div className="relative group">
                 <button className="flex items-center gap-1 hover:text-gray-300 transition-colors whitespace-nowrap">
-                  Help/Advice <ChevronDown className="h-4 w-4" />
+                  Help & Advice <ChevronDown className="h-4 w-4" />
                 </button>
                 <div className="absolute left-0 top-full mt-2 w-64 bg-white text-gray-800 rounded-md shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
                   <div className="py-2">
