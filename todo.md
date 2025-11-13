@@ -338,4 +338,9 @@
 - [x] Check Lead Pipe Replacement page for missing image
 - [x] Fix Water Main Repairs card image path
 - [x] Verify fix in dev server
-- [ ] Deploy to Netlify and verify on live site
+- [x] Deploy to Netlify and verify on live site
+
+## Fix Water Main Repairs Images on All Pages
+- [x] Search for all pages with Water Main Repairs cards
+- [x] Fix missing images on all affected pages (Lead Pipe Replacement, Water Supply Pipe Renewals)
+- [ ] Deploy and verify on live site
