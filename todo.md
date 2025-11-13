@@ -373,4 +373,8 @@
 
 ## Add "You May Be Interested In" Section to Impact Moling Prices 2025 Page
 - [x] Add image cards section with 6 related services
+- [x] Deploy and verify on live site
+
+## Fix Text Size on Lead Pipe Replacement Scheme Page
+- [x] Update card title font size to match other pages (text-xl)
 - [ ] Deploy and verify on live site
