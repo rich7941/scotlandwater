@@ -298,7 +298,12 @@
 - [x] Deploy and verify changes
 
 ## Fix Header Menu Layout
-- [ ] Reorganize navigation menu items for better spacing
-- [ ] Fix "Help & Advice" text wrapping issue
-- [ ] Improve overall menu alignment and readability
+- [x] Reorganize navigation menu items for better spacing
+- [x] Fix "Help & Advice" text wrapping issue
+- [x] Improve overall menu alignment and readability
+- [x] Deploy and verify changes
+
+## Reorganize Header Contact Info
+- [ ] Stack phone and email vertically instead of horizontally
+- [ ] Create more space for navigation menu
 - [ ] Deploy and verify changes

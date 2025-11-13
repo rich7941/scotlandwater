@@ -143,21 +143,19 @@ export default function Header() {
             </nav>
 
             {/* Contact Info */}
-            <div className="hidden lg:flex items-center gap-4">
-              <div className="flex items-center gap-2">
-                <Phone className="h-5 w-5" />
-                <div className="text-sm">
-                  <div className="font-semibold">24/7 Call on</div>
-                  <a href="tel:08002062778" className="hover:underline">
-                    0800 206 2778
-                  </a>
-                </div>
-              </div>
+            <div className="hidden lg:flex flex-col gap-1 text-right">
+              <a 
+                href="tel:08002062778" 
+                className="flex items-center justify-end gap-2 hover:text-gray-300 transition-colors"
+              >
+                <Phone className="h-4 w-4" />
+                <span className="text-sm font-semibold">0800 206 2778</span>
+              </a>
               <a 
                 href="mailto:hello@scotwater.co.uk" 
-                className="flex items-center gap-2 hover:text-gray-300 transition-colors"
+                className="flex items-center justify-end gap-2 hover:text-gray-300 transition-colors"
               >
-                <Mail className="h-5 w-5" />
+                <Mail className="h-4 w-4" />
                 <span className="text-sm">hello@scotwater.co.uk</span>
               </a>
             </div>
