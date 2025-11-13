@@ -394,3 +394,7 @@
 ## Add "You May Be Interested In" Section to Aberdeen Location Page
 - [x] Add image cards section with 6 related services
 - [x] Deploy and verify on live site
+
+## Add "You May Be Interested In" Section to Inverness Location Page
+- [x] Add image cards section with 6 related services
+- [x] Deploy and verify on live site
