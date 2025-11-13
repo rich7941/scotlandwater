@@ -329,6 +329,13 @@
 - [x] Deploy and verify changes
 
 ## Fix Scroll-to-Top on Navigation
-- [x] Add scroll-to-top functionality when navigating between pages
+- [x] Debug why current implementation is not working
+- [x] Implement working scroll-to-top solution
 - [x] Test navigation from footer menu
 - [x] Deploy and verify changes
+
+## Fix Missing Water Main Repairs Image
+- [x] Check Lead Pipe Replacement page for missing image
+- [x] Fix Water Main Repairs card image path
+- [x] Verify fix in dev server
+- [ ] Deploy to Netlify and verify on live site

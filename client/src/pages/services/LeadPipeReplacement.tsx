@@ -279,6 +279,11 @@ export default function LeadPipeReplacement() {
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <a href="/services/water-main-repairs" className="group block bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
+              <img 
+                src="/service-water-main-repairs.webp" 
+                alt="Water Main Repairs" 
+                className="w-full h-48 object-cover"
+              />
               <div className="p-6">
                 <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-[#5B2C6F] transition-colors">
                   Water Main Repairs
