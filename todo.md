@@ -220,3 +220,10 @@
 - [x] Remove duplicates from Impact Moling Prices page
 - [x] Build and deploy fix
 - [x] Verify fix on live site
+
+## Add Privacy Policy Page
+- [x] Extract content from scotwater.co.uk/privacy-policy
+- [x] Create PrivacyPolicy.tsx component
+- [x] Add route to App.tsx
+- [x] Add link to Footer component
+- [x] Deploy and verify page
