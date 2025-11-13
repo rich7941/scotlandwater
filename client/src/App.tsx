@@ -29,6 +29,7 @@ import TermsAndConditions from "./pages/TermsAndConditions";
 import Edinburgh from "./pages/locations/Edinburgh";
 import Glasgow from "./pages/locations/Glasgow";
 import Aberdeen from "./pages/locations/Aberdeen";
+import Inverness from "./pages/locations/Inverness";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 
@@ -62,6 +63,7 @@ function Router() {
       <Route path="/locations/edinburgh" component={Edinburgh} />
       <Route path="/locations/glasgow" component={Glasgow} />
       <Route path="/locations/aberdeen" component={Aberdeen} />
+      <Route path="/locations/inverness" component={Inverness} />
         <Route path={"/404"} component={NotFound} />
         {/* Final fallback route */}
         <Route component={NotFound} />

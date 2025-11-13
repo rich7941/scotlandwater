@@ -253,3 +253,9 @@
 - [x] Create Aberdeen.tsx component
 - [x] Add route to App.tsx
 - [x] Deploy and verify page
+
+## Add Inverness Location Page
+- [x] Extract content from scotwater.co.uk/lead-pipe-replacement-inverness
+- [x] Create Inverness.tsx component
+- [x] Add route to App.tsx
+- [x] Deploy and verify page
