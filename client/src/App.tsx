@@ -25,6 +25,7 @@ import LeadPipeReplacementAdvice from "./pages/help-advice/LeadPipeReplacement";
 import WaterFilter from "./pages/help-advice/WaterFilter";
 import ImpactMolingPrices from "./pages/help-advice/ImpactMolingPrices";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
+import TermsAndConditions from "./pages/TermsAndConditions";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 
@@ -54,6 +55,7 @@ function Router() {
       <Route path="/help-advice/water-filter" component={WaterFilter} />
       <Route path="/help-advice/impact-moling-prices-2025-scotland" component={ImpactMolingPrices} />
       <Route path="/privacy-policy" component={PrivacyPolicy} />
+      <Route path="/terms-and-conditions" component={TermsAndConditions} />
         <Route path={"/404"} component={NotFound} />
         {/* Final fallback route */}
         <Route component={NotFound} />

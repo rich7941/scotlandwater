@@ -227,3 +227,10 @@
 - [x] Add route to App.tsx
 - [x] Add link to Footer component
 - [x] Deploy and verify page
+
+## Add Terms and Conditions Page
+- [x] Extract content from scotwater.co.uk/terms-and-conditions
+- [x] Create TermsAndConditions.tsx component
+- [x] Add route to App.tsx
+- [x] Update link in Footer component
+- [x] Deploy and verify page
