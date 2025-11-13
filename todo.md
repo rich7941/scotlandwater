@@ -313,6 +313,11 @@
 - [x] Deploy and verify changes
 
 ## Flip Phone Icon Direction
-- [ ] Find all phone icons in CTA buttons
-- [ ] Add horizontal flip/mirror transform
+- [x] Find all phone icons in CTA buttons
+- [x] Add horizontal flip/mirror transform
+- [x] Deploy and verify changes
+
+## Fix Footer Menu Links
+- [ ] Check Footer component navigation links
+- [ ] Convert non-clickable items to proper Link components
 - [ ] Deploy and verify changes

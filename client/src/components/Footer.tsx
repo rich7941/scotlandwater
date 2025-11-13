@@ -71,9 +71,9 @@ export default function Footer() {
         <div className="border-t border-white/20 pt-8 mb-8">
           <nav className="flex flex-wrap gap-6 justify-center">
             <Link href="/" className="hover:text-gray-300 transition-colors">Home</Link>
-            <Link href="/services" className="hover:text-gray-300 transition-colors">Services</Link>
-            <Link href="/help" className="hover:text-gray-300 transition-colors">Help & Advice</Link>
-            <Link href="/locations" className="hover:text-gray-300 transition-colors">Locations</Link>
+            <span className="text-gray-400 cursor-not-allowed">Services</span>
+            <span className="text-gray-400 cursor-not-allowed">Help & Advice</span>
+            <span className="text-gray-400 cursor-not-allowed">Locations</span>
             <Link href="/about" className="hover:text-gray-300 transition-colors">About</Link>
             <Link href="/reviews" className="hover:text-gray-300 transition-colors">Reviews</Link>
             <Link href="/contact" className="hover:text-gray-300 transition-colors">Contact</Link>
