@@ -219,6 +219,94 @@ export default function Paisley() {
             </div>
           </div>
         </section>
+
+        {/* You may be interested in Section */}
+        <section className="py-16 bg-gray-50">
+          <div className="container">
+            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-12">
+              You may be interested in
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+              <a href="/services/lead-pipe-replacement" className="group block bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
+                <img 
+                  src="/service-lead-pipe-replacement.webp" 
+                  alt="Lead Pipe Replacement" 
+                  className="w-full h-48 object-cover"
+                />
+                <div className="p-6">
+                  <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-[#5B2C6F] transition-colors">
+                    Lead Pipe Replacement
+                  </h3>
+                </div>
+              </a>
+              
+              <a href="/services/water-supply-pipe-installations" className="group block bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
+                <img 
+                  src="/service-water-supply-pipe-installations.webp" 
+                  alt="Water Supply Pipe Installations" 
+                  className="w-full h-48 object-cover"
+                />
+                <div className="p-6">
+                  <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-[#5B2C6F] transition-colors">
+                    Water Supply Pipe Installations
+                  </h3>
+                </div>
+              </a>
+              
+              <a href="/services/water-main-leak-detection" className="group block bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
+                <img 
+                  src="/service-water-main-leak-detection.webp" 
+                  alt="Water Main Leak Detection" 
+                  className="w-full h-48 object-cover"
+                />
+                <div className="p-6">
+                  <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-[#5B2C6F] transition-colors">
+                    Water Main Leak Detection
+                  </h3>
+                </div>
+              </a>
+              
+              <a href="/services/impact-moling" className="group block bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
+                <img 
+                  src="/service-impact-moling.webp" 
+                  alt="Impact Moling" 
+                  className="w-full h-48 object-cover"
+                />
+                <div className="p-6">
+                  <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-[#5B2C6F] transition-colors">
+                    Impact Moling
+                  </h3>
+                </div>
+              </a>
+              
+              <a href="/help-advice/lead-pipe-replacement-scheme" className="group block bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
+                <img 
+                  src="/service-lead-pipe-replacement-scheme.webp" 
+                  alt="Lead Pipe Replacement Scheme" 
+                  className="w-full h-48 object-cover"
+                />
+                <div className="p-6">
+                  <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-[#5B2C6F] transition-colors">
+                    Lead Pipe Replacement Scheme
+                  </h3>
+                </div>
+              </a>
+              
+              <a href="/services/water-main-installations" className="group block bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
+                <img 
+                  src="/service-water-main-installations.webp" 
+                  alt="Water Main Installations" 
+                  className="w-full h-48 object-cover"
+                />
+                <div className="p-6">
+                  <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-[#5B2C6F] transition-colors">
+                    Water Main Installations
+                  </h3>
+                </div>
+              </a>
+            </div>
+          </div>
+        </section>
       </main>
     </div>
   );

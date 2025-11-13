@@ -398,3 +398,12 @@
 ## Add "You May Be Interested In" Section to Inverness Location Page
 - [x] Add image cards section with 6 related services
 - [x] Deploy and verify on live site
+
+## Add "You May Be Interested In" Section to Remaining Location Pages
+- [x] Add to Dundee location page
+- [x] Add to Paisley location page
+- [x] Add to East Kilbride location page
+- [x] Add to Livingston location page
+- [x] Add to Dunfermline location page
+- [x] Add to Hamilton location page
+- [ ] Deploy and verify on live site
