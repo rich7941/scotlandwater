@@ -385,4 +385,8 @@
 
 ## Add "You May Be Interested In" Section to Edinburgh Location Page
 - [x] Add image cards section with 6 related services
+- [x] Deploy and verify on live site
+
+## Add "You May Be Interested In" Section to Glasgow Location Page
+- [x] Add image cards section with 6 related services
 - [ ] Deploy and verify on live site
