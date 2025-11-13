@@ -30,6 +30,19 @@ export default function Header() {
     { name: "Impact Moling Prices 2025", href: "/help-advice/impact-moling-prices-2025-scotland" },
   ];
 
+  const locations = [
+    { name: "Edinburgh", href: "/locations/edinburgh" },
+    { name: "Glasgow", href: "/locations/glasgow" },
+    { name: "Aberdeen", href: "/locations/aberdeen" },
+    { name: "Inverness", href: "/locations/inverness" },
+    { name: "Dundee", href: "/locations/dundee" },
+    { name: "Paisley", href: "/locations/paisley" },
+    { name: "East Kilbride", href: "/locations/east-kilbride" },
+    { name: "Livingston", href: "/locations/livingston" },
+    { name: "Dunfermline", href: "/locations/dunfermline" },
+    { name: "Hamilton", href: "/locations/hamilton" },
+  ];
+
   return (
     <header className="w-full">
       {/* Top Banner */}
@@ -105,7 +118,15 @@ export default function Header() {
                 </button>
                 <div className="absolute left-0 top-full mt-2 w-48 bg-white text-gray-800 rounded-md shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
                   <div className="py-2">
-                    <div className="px-4 py-2 text-sm text-gray-500">Coming Soon</div>
+                    {locations.map((location) => (
+                      <Link
+                        key={location.href}
+                        href={location.href}
+                        className="block px-4 py-2 text-sm hover:bg-gray-100 transition-colors"
+                      >
+                        {location.name}
+                      </Link>
+                    ))}
                   </div>
                 </div>
               </div>

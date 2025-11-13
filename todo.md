@@ -288,6 +288,11 @@
 - [x] Deploy and verify page
 
 ## Add Hamilton Location Page
-- [ ] Create Hamilton.tsx component
-- [ ] Add route to App.tsx
-- [ ] Deploy and verify page
+- [x] Create Hamilton.tsx component
+- [x] Add route to App.tsx
+- [x] Deploy and verify page
+
+## Update Locations Dropdown Menu
+- [ ] Replace "Coming Soon" with actual location page links
+- [ ] Add all 10 location pages to dropdown
+- [ ] Deploy and verify changes
