@@ -343,4 +343,9 @@
 ## Fix Water Main Repairs Images on All Pages
 - [x] Search for all pages with Water Main Repairs cards
 - [x] Fix missing images on all affected pages (Lead Pipe Replacement, Water Supply Pipe Renewals)
+- [x] Deploy and verify on live site
+
+## Fix Water Leaks Card Image on Lead Pipe Replacement Scheme Page
+- [x] Find the Lead Pipe Replacement Scheme page file
+- [x] Fix the Water Leaks card image (created service-water-leaks.webp)
 - [ ] Deploy and verify on live site
