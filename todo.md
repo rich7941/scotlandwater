@@ -286,3 +286,8 @@
 - [x] Create Dunfermline.tsx component
 - [x] Add route to App.tsx
 - [x] Deploy and verify page
+
+## Add Hamilton Location Page
+- [ ] Create Hamilton.tsx component
+- [ ] Add route to App.tsx
+- [ ] Deploy and verify page
