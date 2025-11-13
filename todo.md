@@ -247,3 +247,9 @@
 - [x] Create Glasgow.tsx component
 - [x] Add route to App.tsx
 - [x] Deploy and verify page
+
+## Add Aberdeen Location Page
+- [x] Extract content from scotwater.co.uk/lead-pipe-replacement-aberdeen
+- [x] Create Aberdeen.tsx component
+- [x] Add route to App.tsx
+- [x] Deploy and verify page
