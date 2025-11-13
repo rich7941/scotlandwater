@@ -270,3 +270,9 @@
 - [x] Create Paisley.tsx component
 - [x] Add route to App.tsx
 - [x] Deploy and verify page
+
+## Add East Kilbride Location Page
+- [x] Create EastKilbride.tsx component
+- [x] Add route to App.tsx
+- [x] Deploy and verify page
+- [x] Celebrate reaching 31-page goal!
