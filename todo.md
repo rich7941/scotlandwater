@@ -377,4 +377,8 @@
 
 ## Fix Text Size on Lead Pipe Replacement Scheme Page
 - [x] Update card title font size to match other pages (text-xl)
+- [x] Deploy and verify on live site
+
+## Fix Duplicate Image on Impact Moling Page
+- [x] Replace duplicate Water Supply Pipe Renewals image file with correct image
 - [ ] Deploy and verify on live site
