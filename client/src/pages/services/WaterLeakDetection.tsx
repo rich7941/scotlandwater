@@ -250,18 +250,24 @@ export default function WaterLeakDetection() {
         </section>
 
         {/* Want to Talk Section */}
-        <section className="py-16 bg-purple-900 text-white">
-          <div className="container max-w-4xl text-center">
-            <h2 className="text-3xl font-bold mb-4">Want to talk to someone?</h2>
-            <p className="text-xl mb-8">Call us 24/7, 365 days a year</p>
-            <Button 
-              onClick={handleCallClick}
-              size="lg"
-              className="bg-yellow-400 text-purple-900 hover:bg-yellow-300 font-bold text-lg px-8"
-            >
-              <Phone className="mr-2 h-5 w-5 scale-x-[-1]" />
-              0800 206 2778
-            </Button>
+        <section className="bg-[#5B2C6F] text-white py-12">
+          <div className="container">
+            <div className="flex flex-col md:flex-row items-center justify-between gap-6">
+              <div className="text-center md:text-left">
+                <h2 className="text-3xl font-bold mb-2">Want to talk to someone?</h2>
+                <p className="text-lg">Call us 24/7, 365 days a year</p>
+              </div>
+              <Button 
+                size="lg"
+                className="bg-[#F9E45C] text-[#1B3A6B] hover:bg-[#F9E45C]/90 text-xl font-bold px-8 py-6 h-auto"
+                asChild
+              >
+                <a href="tel:08002062778" className="flex items-center gap-3">
+                  0800 206 2778
+                  <Phone className="h-6 w-6 scale-x-[-1]" />
+                </a>
+              </Button>
+            </div>
           </div>
         </section>
 
