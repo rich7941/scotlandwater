@@ -175,7 +175,7 @@ export default function WaterSupplyPipeRenewals() {
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-[#F4E04D] font-bold">✓</span>
-                <span>Speak to an approved plumber</span>
+                <span>Speak to ScotWater on 0800 206 2778</span>
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-[#F4E04D] font-bold">✓</span>
