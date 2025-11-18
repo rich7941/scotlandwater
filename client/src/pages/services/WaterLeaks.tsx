@@ -1,0 +1,415 @@
+import { Phone, Mail } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import { Link } from "wouter";
+
+export default function WaterLeaks() {
+  return (
+    <div className="min-h-screen flex flex-col">
+      {/* Hero Section */}
+      <section className="relative h-[400px] flex items-center justify-center">
+        <div
+          className="absolute inset-0 bg-cover bg-center"
+          style={{
+            backgroundImage: "url('/water-leaks-hero.webp')",
+          }}
+        >
+          <div className="absolute inset-0 bg-gradient-to-r from-purple-900/80 to-blue-900/60"></div>
+        </div>
+        <div className="relative z-10 text-center text-white px-4">
+          <p className="text-lg mb-2">Help & Advice</p>
+          <h1 className="text-5xl font-bold">Water Leaks Scotland</h1>
+        </div>
+      </section>
+
+      {/* Main Content */}
+      <main className="flex-1">
+        {/* Water Leaks at Home */}
+        <section className="py-16 bg-white">
+          <div className="container max-w-4xl">
+            <h2 className="text-3xl font-bold text-[#1e3a5f] mb-6">Water Leaks at Home</h2>
+            
+            <div className="space-y-4 text-gray-700 leading-relaxed">
+              <p>
+                Water leaks might not always be immediately noticeable, but early detection is key to preventing serious issues. At ScotWater, we encourage our customers in Scotland to stay vigilant by routinely checking their water bills, monitoring water pressure, and recognising the common signs of leaks. Taking proactive measures to identify and address signs of internal water leakage can safeguard your home, reduce costly repairs, and help conserve water. Regular maintenance, thorough inspections, and leveraging advanced detection technologies are essential strategies to avert significant water damage and preserve the integrity of your home's plumbing infrastructure.
+              </p>
+              
+              <p>
+                Should you encounter a water-related problem, it's important to quickly assess its severity. Determine whether the issue could escalate rapidly, causing extensive damage. Is the problem isolated to a specific appliance, like a toilet or washing machine? Immediate action may be necessary. For more severe situations, we recommend contacting a professional plumber to ensure safe and effective resolution.
+              </p>
+              
+              <p>
+                If it's a minor issue that you feel confident handling, you might consider shutting off the water supply to the specific appliance while you prepare for repairs. For more critical issues, however, it's wise to shut off the main water supply to your home. This stops all water flow, helping to minimize further damage and potential hazards.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        {/* How to Detect a Water Leak at Home */}
+        <section className="py-16 bg-gray-50">
+          <div className="container max-w-4xl">
+            <h2 className="text-3xl font-bold text-[#1e3a5f] mb-8">How to Detect a Water Leak at Home</h2>
+            
+            <p className="text-gray-700 leading-relaxed mb-8">
+              Detecting water leaks within your home can often be challenging, especially when there are no obvious signs of leakage. At ScotWater, we suggest a few practical methods to help our customers across Scotland stay alert to hidden water leaks:
+            </p>
+
+            <div className="space-y-6">
+              <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
+                <h3 className="font-bold text-lg text-[#1e3a5f] mb-3">Monitor Your Water Bill</h3>
+                <p className="text-gray-700 leading-relaxed">
+                  Regularly review your water usage by checking your water bill. Look for unexpected spikes that can't be accounted for by ordinary activities, like hosting guests or increased use of your garden hose during warmer weather. Consider signing up for online account access or requesting monthly statements from Scottish Water to keep a close eye on your consumption patterns.
+                </p>
+              </div>
+
+              <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
+                <h3 className="font-bold text-lg text-[#1e3a5f] mb-3">Check Water Pressure</h3>
+                <p className="text-gray-700 leading-relaxed">
+                  A drop in water pressure when filling your bathtub or during a shower can often signal a leak. You can conduct a straightforward test by shutting off all water fixtures in your home and then turning one back on. If the water pressure seems unusually high initially, it might indicate a hidden leak.
+                </p>
+              </div>
+
+              <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
+                <h3 className="font-bold text-lg text-[#1e3a5f] mb-3">Observe Water Heater/Boiler Activity</h3>
+                <p className="text-gray-700 leading-relaxed">
+                  Pay attention to how frequently your water heater or boiler activates. If it appears to run more continuously than normal, this could point to a leak in your hot water system. Such leaks, particularly those underground, are generally more difficult to detect and require specific attention.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Common Places to Find a Water Leak */}
+        <section className="py-16 bg-white">
+          <div className="container max-w-4xl">
+            <h2 className="text-3xl font-bold text-[#1e3a5f] mb-6">Common Places to Find a Water Leak</h2>
+            
+            <p className="text-gray-700 leading-relaxed mb-8">
+              If you're concerned about potential water leaks in your home and don't have access to a leak detector, there are several common areas you should inspect to prevent water damage and save on utility costs. Here at ScotWater, we recommend regularly checking these critical spots in your home:
+            </p>
+
+            <div className="space-y-6">
+              <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
+                <h3 className="font-bold text-lg text-[#1e3a5f] mb-3">Water Tank/Boiler</h3>
+                <p className="text-gray-700 leading-relaxed">
+                  Examine the valves managing the flow into and out of your boiler or water tank for any visible signs of leakage, such as water dripping or pooling. If you don't see an active leak, look for indirect signs like staining or a persistent hissing sound from the valves. For central heating boilers, it's crucial to involve a specialist as these symptoms could indicate a more severe issue.
+                </p>
+              </div>
+
+              <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
+                <h3 className="font-bold text-lg text-[#1e3a5f] mb-3">Toilets</h3>
+                <p className="text-gray-700 leading-relaxed">
+                  Toilets are prone to leaks due to their frequent use. A simple way to check for toilet leaks is to add some food colouring (dye) to the tank and wait about ten minutes. If the water in the bowl turns the colour of the dye without flushing, you likely have a leak that needs fixing.
+                </p>
+              </div>
+
+              <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
+                <h3 className="font-bold text-lg text-[#1e3a5f] mb-3">Showerheads</h3>
+                <p className="text-gray-700 leading-relaxed">
+                  Regular usage can also wear out showerheads, leading to leaks. Signs of a leaky showerhead include low water pressure and water not flowing uniformly. Inspecting and cleaning your showerhead regularly can help identify and resolve these issues early.
+                </p>
+              </div>
+
+              <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
+                <h3 className="font-bold text-lg text-[#1e3a5f] mb-3">Appliances</h3>
+                <p className="text-gray-700 leading-relaxed">
+                  Appliances like washing machines and dishwashers are often moved or vibrate during use, which can loosen connections over time. Make it a routine to check the hoses and fittings on your appliances to ensure they're tight and leak-free.
+                </p>
+              </div>
+            </div>
+
+            <p className="text-gray-700 leading-relaxed mt-8">
+              While these checks can help you identify leaks inside your home, it's equally important to monitor for leaks outside, such as in outdoor taps or irrigation systems. Keeping an eye on these areas can help maintain the efficiency and safety of your home's plumbing system, protecting your property and conserving water.
+            </p>
+          </div>
+        </section>
+
+        {/* Common Indicators of Water Leaks */}
+        <section className="py-16 bg-gray-50">
+          <div className="container max-w-4xl">
+            <h2 className="text-3xl font-bold text-[#1e3a5f] mb-8">Common Indicators of Water Leaks</h2>
+            
+            <p className="text-gray-700 leading-relaxed mb-8">
+              If you're concerned about potential leaks in your home, staying vigilant for certain signs can help you catch issues early, potentially saving on costly repairs and water waste. At ScotWater, we advise our customers to be on the lookout for the following common indicators of water leaks:
+            </p>
+
+            <div className="grid md:grid-cols-2 gap-4">
+              <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
+                <p className="text-gray-700">Unexpected Increase in Water Usage or Bill</p>
+              </div>
+              <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
+                <p className="text-gray-700">Damp Spots on Walls, Floors, or Ceilings</p>
+              </div>
+              <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
+                <p className="text-gray-700">Mould or Mildew Growth</p>
+              </div>
+              <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
+                <p className="text-gray-700">Water Stains or Discolouration</p>
+              </div>
+              <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
+                <p className="text-gray-700">Reduced Water Pressure</p>
+              </div>
+              <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
+                <p className="text-gray-700">Constant Sound of Running Water</p>
+              </div>
+              <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
+                <p className="text-gray-700">Musty or Unpleasant Odours</p>
+              </div>
+              <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
+                <p className="text-gray-700">Puddles or Pooling Water</p>
+              </div>
+              <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
+                <p className="text-gray-700">Cracks in Walls or Foundations</p>
+              </div>
+              <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
+                <p className="text-gray-700">High Humidity Levels</p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* How to Check for Water Leaks with Your Water Meter */}
+        <section className="py-16 bg-white">
+          <div className="container max-w-4xl">
+            <h2 className="text-3xl font-bold text-[#1e3a5f] mb-8">
+              How to Check for Water Leaks at Home with Your Water Meter (DIY Method)
+            </h2>
+            
+            <p className="text-gray-700 leading-relaxed mb-8">
+              Checking for water leaks on your own can be a straightforward process if you have a water meter. At ScotWater, we encourage our customers to follow these DIY steps to determine if there's a leak in their plumbing system:
+            </p>
+
+            <div className="space-y-6">
+              {[
+                {
+                  number: "1",
+                  title: "Stop All Water Usage",
+                  description: "Ensure no water is being used in your home. This means all taps, showers, and appliances such as dishwashers and washing machines should be turned off."
+                },
+                {
+                  number: "2",
+                  title: "Find Your Water Meter",
+                  description: "Your water meter is typically located near the front of your property on the pavement in a ground-level box."
+                },
+                {
+                  number: "3",
+                  title: "Record the Current Meter Reading",
+                  description: "Note down the reading from your water meter before you start the test."
+                },
+                {
+                  number: "4",
+                  title: "Wait",
+                  description: "Refrain from using any water for a few hours or, ideally, overnight, to ensure accurate results."
+                },
+                {
+                  number: "5",
+                  title: "Check the Meter Again",
+                  description: "After the waiting period, read the water meter again. If the reading has changed despite no water use, it likely indicates a leak."
+                },
+                {
+                  number: "6",
+                  title: "Isolate the House Supply",
+                  description: "To further investigate, turn off the main water supply to your house at the internal stop valve. After doing so, check the meter once more. If the reading still changes, the leak might be on the underground water supply pipe."
+                },
+                {
+                  number: "7",
+                  title: "Seek Professional Help",
+                  description: "If you confirm a leak in your underground water supply pipe, ScotWater is here to help."
+                }
+              ].map((step) => (
+                <div key={step.number} className="flex gap-4">
+                  <div className="flex-shrink-0">
+                    <div className="w-12 h-12 rounded-full bg-purple-600 text-white flex items-center justify-center font-bold text-xl">
+                      {step.number}
+                    </div>
+                  </div>
+                  <div className="flex-1">
+                    <h3 className="font-bold text-lg text-[#1e3a5f] mb-2">{step.title}</h3>
+                    <p className="text-gray-700 leading-relaxed">{step.description}</p>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        {/* Need Help Section */}
+        <section className="py-16 bg-[#1e3a5f] text-white">
+          <div className="container max-w-4xl text-center">
+            <h2 className="text-3xl font-bold mb-6">
+              Need Help with Water Leak Detection and Repairs? Contact ScotWater Today
+            </h2>
+            <p className="text-lg leading-relaxed mb-8">
+              We are trusted experts in Scotland for all water leak detection and water supply pipe repair services. Our skilled team, backed by years of experience, employs advanced technology to pinpoint even the most concealed water leaks in your property. For underground pipe issues, our team has the expertise and specialised equipment to locate and repair leaks effectively.
+            </p>
+            <p className="text-lg leading-relaxed mb-8">
+              ScotWater can carry out water leak detection and repairs across Scotland. To get a free quote please call us or email to schedule a free consultation and learn how we can help with your water supply needs.
+            </p>
+            <div className="flex flex-col sm:flex-row gap-4 justify-center">
+              <Button
+                size="lg"
+                className="bg-white text-purple-600 hover:bg-gray-100"
+                asChild
+              >
+                <a href="tel:08002062778">
+                  <Phone className="mr-2 h-5 w-5 scale-x-[-1]" />
+                  0800 206 2778
+                </a>
+              </Button>
+              <Button
+                size="lg"
+                variant="outline"
+                className="border-white text-white hover:bg-white/10"
+                asChild
+              >
+                <a href="mailto:hello@scotwater.co.uk">
+                  <Mail className="mr-2 h-5 w-5" />
+                  hello@scotwater.co.uk
+                </a>
+              </Button>
+            </div>
+          </div>
+        </section>
+
+        {/* Want to Talk Section */}
+        <section className="bg-[#5B2C6F] text-white py-12">
+          <div className="container">
+            <div className="flex flex-col md:flex-row items-center justify-between gap-6">
+              <div className="text-center md:text-left">
+                <h2 className="text-3xl font-bold mb-2">Want to talk to someone?</h2>
+                <p className="text-lg">Call us 24/7, 365 days a year</p>
+              </div>
+              <Button 
+                size="lg"
+                className="bg-[#F9E45C] text-[#1B3A6B] hover:bg-[#F9E45C]/90 text-xl font-bold px-8 py-6 h-auto"
+                asChild
+              >
+                <a href="tel:08002062778" className="flex items-center gap-3">
+                  0800 206 2778
+                  <Phone className="h-6 w-6 scale-x-[-1]" />
+                </a>
+              </Button>
+            </div>
+          </div>
+        </section>
+
+        {/* What to Expect Section */}
+        <section className="py-16 bg-gray-100">
+          <div className="container">
+            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-4">
+              What to expect from ScotWater – Your trusted water services expert
+            </h2>
+            <p className="text-center text-gray-600 mb-12 text-lg">
+              Here's how we'll get your house feeling like home again.
+            </p>
+
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+              <div className="flex flex-col items-center">
+                <div className="border-4 border-cyan-400 rounded-lg overflow-hidden mb-4 w-48 h-48">
+                  <img 
+                    src="/step1_customer_service.jpeg" 
+                    alt="Step 1"
+                    className="w-full h-full object-cover"
+                  />
+                </div>
+                <p className="text-center text-gray-700">Call us 24/7, 365, at a time that suits you.</p>
+              </div>
+
+              <div className="flex flex-col items-center">
+                <div className="border-4 border-pink-400 rounded-lg overflow-hidden mb-4 w-48 h-48">
+                  <img 
+                    src="/step2_couple_quote.jpeg" 
+                    alt="Step 2"
+                    className="w-full h-full object-cover"
+                  />
+                </div>
+                <p className="text-center text-gray-700">You'll get a no-obligation quote straight away.</p>
+              </div>
+
+              <div className="flex flex-col items-center">
+                <div className="border-4 border-purple-400 rounded-lg overflow-hidden mb-4 w-48 h-48">
+                  <img 
+                    src="/step3_van.png" 
+                    alt="Step 3"
+                    className="w-full h-full object-cover"
+                  />
+                </div>
+                <p className="text-center text-gray-700">Expert engineers will arrive and carry out the work.</p>
+              </div>
+
+              <div className="flex flex-col items-center">
+                <div className="border-4 border-orange-400 rounded-lg overflow-hidden mb-4 w-48 h-48">
+                  <img 
+                    src="/step4_woman_water.jpeg" 
+                    alt="Step 4"
+                    className="w-full h-full object-cover"
+                  />
+                </div>
+                <p className="text-center text-gray-700">We'll give you a 25-year guarantee*.</p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Services Section */}
+        <section className="py-16 bg-white">
+          <div className="container">
+            <h2 className="text-3xl font-bold text-center text-[#1e3a5f] mb-12">
+              You may be interested in
+            </h2>
+            <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
+              {[
+                {
+                  title: "Lead Pipe Replacement",
+                  image: "/service-lead-pipe-replacement.webp",
+                  link: "/services/lead-pipe-replacement",
+                },
+                {
+                  title: "Water Main Leak Detection",
+                  image: "/service-water-main-leak-detection.webp",
+                  link: "/services/water-leak-detection",
+                },
+                {
+                  title: "Water Supply Pipe Installations",
+                  image: "/service-water-supply-pipe-installations.webp",
+                  link: "/services/water-supply-pipe-installations",
+                },
+                {
+                  title: "Impact Moling",
+                  image: "/service-impact-moling.webp",
+                  link: "/services/impact-moling",
+                },
+                {
+                  title: "Water Supply Pipe Renewals",
+                  image: "/service-water-supply-pipe-renewals.webp",
+                  link: "/services/water-supply-pipe-renewals",
+                },
+                {
+                  title: "Water Main Installations",
+                  image: "/service-water-main-installations.webp",
+                  link: "/services/water-main-installations",
+                },
+              ].map((service) => (
+                <Link key={service.title} href={service.link}>
+                  <a className="group block bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
+                    <div className="aspect-video overflow-hidden">
+                      <img
+                        src={service.image}
+                        alt={service.title}
+                        className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                      />
+                    </div>
+                    <div className="p-6">
+                      <h3 className="font-bold text-xl text-[#1e3a5f] group-hover:text-purple-600 transition-colors">
+                        {service.title}
+                      </h3>
+                    </div>
+                  </a>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+  );
+}
