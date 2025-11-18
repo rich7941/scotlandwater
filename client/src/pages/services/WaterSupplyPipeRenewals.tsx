@@ -175,10 +175,6 @@ export default function WaterSupplyPipeRenewals() {
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-[#F4E04D] font-bold">✓</span>
-                <span>Book a free water test from Scottish Water</span>
-              </li>
-              <li className="flex items-start gap-2">
-                <span className="text-[#F4E04D] font-bold">✓</span>
                 <span>Speak to an approved plumber</span>
               </li>
               <li className="flex items-start gap-2">
