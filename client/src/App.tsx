@@ -65,7 +65,7 @@ function Router() {
       <Route path="/services/water-main-repairs" component={WaterMainRepairs} />
       <Route path="/services/water-leak-detection" component={WaterLeakDetection} />
       <Route path="/services/impact-moling" component={ImpactMoling} />
-      <Route path="/help-advice/water-leaks" component={WaterLeaks} />
+      <Route path="/services/water-leaks" component={WaterLeaks} />
       <Route path="/help-advice/lead-pipe-replacement-scheme" component={LeadPipeReplacementScheme} />
       <Route path="/help-advice/lead-pipe-in-scotland" component={LeadPipeInScotland} />
       <Route path="/help-advice/lead-pipe-landlords" component={LeadPipeLandlords} />
