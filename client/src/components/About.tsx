@@ -1,4 +1,5 @@
 import { Button } from "@/components/ui/button";
+import { Link } from "wouter";
 
 export default function About() {
   return (
@@ -14,12 +15,14 @@ export default function About() {
             using the latest technology combined with good old-fashioned expertise to 
             solve a wide range of problems.
           </p>
-          <Button 
-            size="lg"
-            className="bg-white text-[#5B2C6F] hover:bg-gray-100 font-semibold"
-          >
-            Find out more
-          </Button>
+          <Link href="/about">
+            <Button 
+              size="lg"
+              className="bg-white text-[#5B2C6F] hover:bg-gray-100 font-semibold"
+            >
+              Find out more
+            </Button>
+          </Link>
         </div>
       </div>
     </section>
