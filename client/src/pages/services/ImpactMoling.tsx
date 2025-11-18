@@ -228,32 +228,71 @@ export default function ImpactMoling() {
           </div>
         </section>
 
-        {/* Customer Reviews */}
+        {/* Customer Reviews Section */}
         <section className="py-16 bg-white">
-          <div className="container max-w-6xl">
-            <div className="grid md:grid-cols-3 gap-8">
-              <div className="bg-white p-6 rounded-lg shadow-md border-l-4 border-purple-600">
-                <p className="text-gray-700 italic mb-4">
-                  "I contacted this company to address a leak at our office, and they provided outstanding service from start to finish. The engineers were approachable and did a fantastic job, ensuring everything was tidy afterwards. I couldn't have asked for a better outcome."
-                </p>
-                <p className="font-bold text-[#1e3a8a]">Ben Wilson</p>
-                <p className="text-gray-600">Edinburgh</p>
-              </div>
+          <div className="container">
+            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-8">
+              Here's what our happy customers have to say
+            </h2>
 
-              <div className="bg-white p-6 rounded-lg shadow-md border-l-4 border-purple-600">
-                <p className="text-gray-700 italic mb-4">
-                  "Highly recommend the ScotWater team. They were efficient, tidy, and extremely courteous throughout the process."
-                </p>
-                <p className="font-bold text-[#1e3a8a]">Jason Graham</p>
-                <p className="text-gray-600">Glasgow</p>
-              </div>
+            {/* WaterTrust Rating Badge */}
+            <div className="flex justify-center mb-12">
+              <img 
+                src="/watertrust_rating.jpeg" 
+                alt="WaterTrust 5.0 rating - Named best overall company 2024" 
+                className="h-24 w-auto"
+              />
+            </div>
 
-              <div className="bg-white p-6 rounded-lg shadow-md border-l-4 border-purple-600">
-                <p className="text-gray-700 italic mb-4">
-                  "From my initial phone call with David, I've been thoroughly impressed with this company. Paul, Thomas and Mark worked diligently all day, successfully locating and repairing the leak. They were all very friendly and professional."
+            {/* Reviews Grid */}
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+              <div className="border-4 border-yellow-400 rounded-lg p-6 bg-white">
+                <p className="text-gray-700 mb-4 min-h-[120px]">
+                  I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
                 </p>
-                <p className="font-bold text-[#1e3a8a]">Harry Barclay</p>
-                <p className="text-gray-600">Aberdeen</p>
+                <div className="border-t pt-4">
+                  <p className="font-bold text-[#1B3A6B]">Paul Strachan</p>
+                  <p className="text-gray-600 text-sm mb-2">Glasgow</p>
+                  <div className="flex gap-1">
+                    <span className="text-yellow-400">★</span>
+                    <span className="text-yellow-400">★</span>
+                    <span className="text-yellow-400">★</span>
+                    <span className="text-yellow-400">★</span>
+                    <span className="text-yellow-400">★</span>
+                  </div>
+                </div>
+              </div>
+              <div className="border-4 border-pink-400 rounded-lg p-6 bg-white">
+                <p className="text-gray-700 mb-4 min-h-[120px]">
+                  Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
+                </p>
+                <div className="border-t pt-4">
+                  <p className="font-bold text-[#1B3A6B]">Jonathan Godfrey</p>
+                  <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
+                  <div className="flex gap-1">
+                    <span className="text-yellow-400">★</span>
+                    <span className="text-yellow-400">★</span>
+                    <span className="text-yellow-400">★</span>
+                    <span className="text-yellow-400">★</span>
+                    <span className="text-yellow-400">★</span>
+                  </div>
+                </div>
+              </div>
+              <div className="border-4 border-green-400 rounded-lg p-6 bg-white">
+                <p className="text-gray-700 mb-4 min-h-[120px]">
+                  We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
+                </p>
+                <div className="border-t pt-4">
+                  <p className="font-bold text-[#1B3A6B]">Gordan Christie</p>
+                  <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
+                  <div className="flex gap-1">
+                    <span className="text-yellow-400">★</span>
+                    <span className="text-yellow-400">★</span>
+                    <span className="text-yellow-400">★</span>
+                    <span className="text-yellow-400">★</span>
+                    <span className="text-yellow-400">★</span>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
