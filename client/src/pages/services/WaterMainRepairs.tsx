@@ -201,42 +201,58 @@ export default function WaterMainRepairs() {
         </section>
 
         {/* What to Expect Section */}
-        <section className="py-16 bg-gray-50">
+        <section className="py-16 bg-gray-100">
           <div className="container">
-            <h2 className="text-3xl font-bold text-[#1e3a5f] text-center mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-4">
               What to expect from ScotWater – Your trusted water services expert
             </h2>
-            <p className="text-center text-gray-600 mb-12 italic">
+            <p className="text-center text-gray-600 mb-12 text-lg">
               Here's how we'll get your house feeling like home again.
             </p>
 
-            <div className="grid md:grid-cols-4 gap-8 max-w-5xl mx-auto">
-              <div className="text-center">
-                <div className="w-20 h-20 rounded-full bg-[#7c3aed] text-white flex items-center justify-center text-2xl font-bold mx-auto mb-4">
-                  1
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+              <div className="flex flex-col items-center">
+                <div className="border-4 border-cyan-400 rounded-lg overflow-hidden mb-4 w-48 h-48">
+                  <img 
+                    src="/step1_customer_service.jpeg" 
+                    alt="Step 1"
+                    className="w-full h-full object-cover"
+                  />
                 </div>
-                <p className="text-gray-700">Call us 24/7, 365, at a time that suits you.</p>
+                <p className="text-center text-gray-700">Call us 24/7, 365, at a time that suits you.</p>
               </div>
 
-              <div className="text-center">
-                <div className="w-20 h-20 rounded-full bg-[#7c3aed] text-white flex items-center justify-center text-2xl font-bold mx-auto mb-4">
-                  2
+              <div className="flex flex-col items-center">
+                <div className="border-4 border-pink-400 rounded-lg overflow-hidden mb-4 w-48 h-48">
+                  <img 
+                    src="/step2_couple_quote.jpeg" 
+                    alt="Step 2"
+                    className="w-full h-full object-cover"
+                  />
                 </div>
-                <p className="text-gray-700">You'll get a no-obligation quote straight away.</p>
+                <p className="text-center text-gray-700">You'll get a no-obligation quote straight away.</p>
               </div>
 
-              <div className="text-center">
-                <div className="w-20 h-20 rounded-full bg-[#7c3aed] text-white flex items-center justify-center text-2xl font-bold mx-auto mb-4">
-                  3
+              <div className="flex flex-col items-center">
+                <div className="border-4 border-purple-400 rounded-lg overflow-hidden mb-4 w-48 h-48">
+                  <img 
+                    src="/step3_van.png" 
+                    alt="Step 3"
+                    className="w-full h-full object-cover"
+                  />
                 </div>
-                <p className="text-gray-700">Expert engineers will arrive and carry out the work.</p>
+                <p className="text-center text-gray-700">Expert engineers will arrive and carry out the work.</p>
               </div>
 
-              <div className="text-center">
-                <div className="w-20 h-20 rounded-full bg-[#7c3aed] text-white flex items-center justify-center text-2xl font-bold mx-auto mb-4">
-                  4
+              <div className="flex flex-col items-center">
+                <div className="border-4 border-orange-400 rounded-lg overflow-hidden mb-4 w-48 h-48">
+                  <img 
+                    src="/step4_woman_water.jpeg" 
+                    alt="Step 4"
+                    className="w-full h-full object-cover"
+                  />
                 </div>
-                <p className="text-gray-700">We'll give you a 25-year guarantee*.</p>
+                <p className="text-center text-gray-700">We'll give you a 25-year guarantee*.</p>
               </div>
             </div>
           </div>
