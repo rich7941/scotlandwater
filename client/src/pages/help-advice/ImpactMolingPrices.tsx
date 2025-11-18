@@ -233,23 +233,23 @@ export default function ImpactMolingPrices() {
           </div>
         </section>
 
-        {/* Contact CTA */}
-        <section className="py-16 bg-gray-50">
-          <div className="container max-w-4xl text-center">
-            <h2 className="text-3xl font-bold text-blue-900 mb-6">
-              Contact ScotWater for Impact Moling Services Across Scotland
-            </h2>
-            <p className="text-gray-700 mb-8 text-lg">
-              ScotWater is Scotland's trusted provider of trenchless moling solutions. To learn more about how our innovative methods can benefit your property or to receive a free, no-obligation quote, contact us today.
-            </p>
-            <div className="flex flex-wrap gap-4 justify-center">
-              <Button size="lg" className="bg-blue-900 hover:bg-blue-800">
-                <Phone className="mr-2 h-5 w-5 scale-x-[-1]" />
-                0800 206 2778
-              </Button>
-              <Button size="lg" variant="outline" className="border-blue-900 text-blue-900 hover:bg-blue-50">
-                <Mail className="mr-2 h-5 w-5" />
-                hello@scotwater.co.uk
+        {/* Want to Talk Section */}
+        <section className="bg-[#5B2C6F] text-white py-12">
+          <div className="container">
+            <div className="flex flex-col md:flex-row items-center justify-between gap-6">
+              <div className="text-center md:text-left">
+                <h2 className="text-3xl font-bold mb-2">Want to talk to someone?</h2>
+                <p className="text-lg">Call us 24/7, 365 days a year</p>
+              </div>
+              <Button 
+                size="lg"
+                className="bg-[#F9E45C] text-[#1B3A6B] hover:bg-[#F9E45C]/90 text-xl font-bold px-8 py-6 h-auto"
+                asChild
+              >
+                <a href="tel:08002062778" className="flex items-center gap-3">
+                  0800 206 2778
+                  <Phone className="h-6 w-6 scale-x-[-1]" />
+                </a>
               </Button>
             </div>
           </div>
