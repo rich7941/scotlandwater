@@ -240,9 +240,9 @@ export default function Contact() {
       <div className="py-12 bg-white">
         <div className="container">
           <div className="flex flex-wrap items-center justify-center gap-12 md:gap-24">
-            <img src="/waterseal_logo.png" alt="WaterSeal" className="h-24 object-contain" />
-            <img src="/wicc_logo.png" alt="WICC" className="h-20 object-contain" />
-            <img src="/watertrust_logo.png" alt="WaterTrust" className="h-20 object-contain" />
+            <img src="/waterseal_logo.png" alt="WaterSeal" className="h-10 w-auto" />
+            <img src="/wicc_logo.png" alt="WICC" className="h-24 w-auto" />
+            <img src="/watertrust_logo.png" alt="WaterTrust" className="h-10 w-auto" />
           </div>
         </div>
       </div>
