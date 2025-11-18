@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { Phone, Mail } from "lucide-react";
 
-export default function WaterLeakDetection() {
+export default function WaterMainLeakDetection() {
   const handleCallClick = () => {
     window.location.href = "tel:08002062778";
   };
@@ -25,7 +25,7 @@ export default function WaterLeakDetection() {
           </div>
           <div className="relative z-10 container text-center text-white">
             <p className="text-sm uppercase tracking-wider mb-2">Services</p>
-            <h1 className="text-4xl md:text-5xl font-bold">Water Leak Detection Scotland</h1>
+            <h1 className="text-4xl md:text-5xl font-bold">Water Main Leak Detection Scotland</h1>
           </div>
         </section>
 
@@ -33,7 +33,7 @@ export default function WaterLeakDetection() {
         <section className="py-16">
           <div className="container max-w-4xl">
             <h2 className="text-3xl font-bold text-[#1e3a5f] mb-6">
-              Underground Water Leak Detection Services in Scotland
+              Underground Water Main Leak Detection Services in Scotland
             </h2>
             
             <div className="prose prose-lg max-w-none space-y-6 text-gray-700">
@@ -52,7 +52,7 @@ export default function WaterLeakDetection() {
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
             <h2 className="text-3xl font-bold text-[#1e3a5f] mb-8">
-              What's Included in Our Water Leak Detection Site Survey
+              What's Included in Our Water Main Leak Detection Site Survey
             </h2>
 
             <div className="space-y-6">
@@ -154,7 +154,7 @@ export default function WaterLeakDetection() {
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
             <h2 className="text-3xl font-bold text-[#1e3a5f] mb-8">
-              Why Choose ScotWater for Water Leak Detection in Scotland?
+              Why Choose ScotWater for Water Main Leak Detection in Scotland?
             </h2>
 
             <div className="space-y-6">
@@ -220,7 +220,7 @@ export default function WaterLeakDetection() {
           <div className="container max-w-4xl">
             <div className="bg-[#1e3a5f] text-white p-8 rounded-lg">
               <h2 className="text-2xl font-bold mb-4">
-                Contact ScotWater for Water Leak Detection and Repairs in Scotland
+                Contact ScotWater for Water Main Leak Detection and Repairs in Scotland
               </h2>
               <p className="mb-6">
                 For reliable, professional, and timely water leak detection and water main repair services across Scotland, you can trust ScotWater to deliver.

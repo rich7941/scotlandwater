@@ -1,6 +1,6 @@
 export default function TrustedOrganizations() {
   return (
-    <section className="bg-white py-16">
+    <section className="bg-gray-50 py-16">
       <div className="container">
         <h2 className="text-2xl md:text-3xl font-bold text-[#1B3A6B] text-center mb-12">
           ScotWater is trusted by leading organisations—putting you in good hands.

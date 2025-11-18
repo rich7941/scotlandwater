@@ -14,14 +14,12 @@ export default function About() {
             using the latest technology combined with good old-fashioned expertise to 
             solve a wide range of problems.
           </p>
-          <a href="/about">
-            <Button 
-              size="lg"
-              className="bg-white text-[#5B2C6F] hover:bg-gray-100 font-semibold"
-            >
-              Find out more
-            </Button>
-          </a>
+          <Button 
+            size="lg"
+            className="bg-white text-[#5B2C6F] hover:bg-gray-100 font-semibold"
+          >
+            Find out more
+          </Button>
         </div>
       </div>
     </section>
