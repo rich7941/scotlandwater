@@ -9,7 +9,7 @@ export default function WaterMainRepairs() {
       link: "/services/lead-pipe-replacement"
     },
     {
-      title: "Water Main Leak Detection",
+      title: "Water Leak Detection",
       image: "/service-water-main-leak-detection.webp",
       link: "/services/water-main-leak-detection"
     },
