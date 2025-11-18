@@ -392,31 +392,23 @@ export default function LeadPipeReplacement() {
           </div>
         </section>
 
-        {/* Contact CTA */}
-        <section className="py-16 bg-gray-50">
-          <div className="container max-w-4xl text-center">
-            <h2 className="text-3xl font-bold text-gray-900 mb-4">
-              Need Help with Lead Pipe Replacement?
-            </h2>
-            <p className="text-gray-700 mb-8">
-              Contact ScotWater for expert advice and professional lead pipe replacement services.
-            </p>
-            <div className="flex flex-wrap justify-center gap-4">
+        {/* Want to Talk Section */}
+        <section className="bg-[#5B2C6F] text-white py-12">
+          <div className="container">
+            <div className="flex flex-col md:flex-row items-center justify-between gap-6">
+              <div className="text-center md:text-left">
+                <h2 className="text-3xl font-bold mb-2">Want to talk to someone?</h2>
+                <p className="text-lg">Call us 24/7, 365 days a year</p>
+              </div>
               <Button 
-                size="lg" 
-                className="bg-purple-700 hover:bg-purple-800"
-                onClick={() => window.location.href = 'tel:08002062778'}
+                size="lg"
+                className="bg-[#F9E45C] text-[#1B3A6B] hover:bg-[#F9E45C]/90 text-xl font-bold px-8 py-6 h-auto"
+                asChild
               >
-                <Phone className="mr-2 h-5 w-5 scale-x-[-1]" />
-                0800 206 2778
-              </Button>
-              <Button 
-                size="lg" 
-                variant="outline"
-                onClick={() => window.location.href = 'mailto:hello@scotwater.co.uk'}
-              >
-                <Mail className="mr-2 h-5 w-5" />
-                hello@scotwater.co.uk
+                <a href="tel:08002062778" className="flex items-center gap-3">
+                  0800 206 2778
+                  <Phone className="h-6 w-6 scale-x-[-1]" />
+                </a>
               </Button>
             </div>
           </div>
