@@ -311,7 +311,7 @@ export default function ImpactMoling() {
                 </div>
               </a>
 
-              <a href="/services/water-main-leak-detection" className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
+              <a href="/services/water-leak-detection" className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
                 <img src="/service-water-main-leak-detection.webp" alt="Water Leak Detection" className="w-full h-48 object-cover" />
                 <div className="p-6">
                   <h3 className="text-xl font-bold text-[#1e3a8a] hover:text-purple-600">Water Leak Detection</h3>

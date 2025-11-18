@@ -11,7 +11,7 @@ export default function WaterMainRepairs() {
     {
       title: "Water Leak Detection",
       image: "/service-water-main-leak-detection.webp",
-      link: "/services/water-main-leak-detection"
+      link: "/services/water-leak-detection"
     },
     {
       title: "Water Supply Pipe Installations",

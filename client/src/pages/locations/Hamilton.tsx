@@ -311,7 +311,7 @@ export default function Hamilton() {
                 </div>
               </a>
               
-              <a href="/services/water-main-leak-detection" className="group block bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
+              <a href="/services/water-leak-detection" className="group block bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
                 <img 
                   src="/service-water-main-leak-detection.webp" 
                   alt="Water Leak Detection" 
