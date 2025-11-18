@@ -1,4 +1,4 @@
-import { Phone, Mail, Star } from "lucide-react";
+import { Phone } from "lucide-react";
 import WhatToExpect from "@/components/WhatToExpect";
 
 export default function LeadPipeReplacement() {
@@ -242,68 +242,30 @@ export default function LeadPipeReplacement() {
       {/* Customer Reviews Section */}
       <section className="py-16 bg-white">
         <div className="container">
-          <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-8">
+          <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-12">
             Here's what our happy customers have to say
           </h2>
-
-          {/* WaterTrust Rating Badge */}
-          <div className="flex justify-center mb-12">
-            <img 
-              src="/watertrust_rating.jpeg" 
-              alt="WaterTrust 5.0 rating - Named best overall company 2024" 
-              className="h-24 w-auto"
-            />
-          </div>
-
-          {/* Reviews Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            <div className="border-4 border-yellow-400 rounded-lg p-6 bg-white">
-              <p className="text-gray-700 mb-4 min-h-[120px]">
-                I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-6xl mx-auto">
+            <div className="bg-white p-6 rounded-lg shadow-md border-l-4 border-[#5B2C6F]">
+              <p className="text-gray-700 mb-4 italic">
+                "Just a quick note to thank you for all your efforts from resolving the water supply leak. You went above and beyond and your efforts really were appreciated."
               </p>
-              <div className="border-t pt-4">
-                <p className="font-bold text-[#1B3A6B]">Paul Strachan</p>
-                <p className="text-gray-600 text-sm mb-2">Glasgow</p>
-                <div className="flex gap-1">
-                  <Star className="h-5 w-5 fill-yellow-400 text-yellow-400" />
-                  <Star className="h-5 w-5 fill-yellow-400 text-yellow-400" />
-                  <Star className="h-5 w-5 fill-yellow-400 text-yellow-400" />
-                  <Star className="h-5 w-5 fill-yellow-400 text-yellow-400" />
-                  <Star className="h-5 w-5 fill-yellow-400 text-yellow-400" />
-                </div>
-              </div>
+              <p className="font-bold text-[#1B3A6B]">Tom Williams</p>
+              <p className="text-gray-600 text-sm">Dundee</p>
             </div>
-            <div className="border-4 border-pink-400 rounded-lg p-6 bg-white">
-              <p className="text-gray-700 mb-4 min-h-[120px]">
-                Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
+            <div className="bg-white p-6 rounded-lg shadow-md border-l-4 border-[#5B2C6F]">
+              <p className="text-gray-700 mb-4 italic">
+                "Hopefully we will never have the need for your services again, but we would be happy to recommend you to anyone who does."
               </p>
-              <div className="border-t pt-4">
-                <p className="font-bold text-[#1B3A6B]">Jonathan Godfrey</p>
-                <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
-                <div className="flex gap-1">
-                  <Star className="h-5 w-5 fill-yellow-400 text-yellow-400" />
-                  <Star className="h-5 w-5 fill-yellow-400 text-yellow-400" />
-                  <Star className="h-5 w-5 fill-yellow-400 text-yellow-400" />
-                  <Star className="h-5 w-5 fill-yellow-400 text-yellow-400" />
-                  <Star className="h-5 w-5 fill-yellow-400 text-yellow-400" />
-                </div>
-              </div>
+              <p className="font-bold text-[#1B3A6B]">Chris Snowden</p>
+              <p className="text-gray-600 text-sm">Dunfermline</p>
             </div>
-            <div className="border-4 border-green-400 rounded-lg p-6 bg-white">
-              <p className="text-gray-700 mb-4 min-h-[120px]">
-                We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
+            <div className="bg-white p-6 rounded-lg shadow-md border-l-4 border-[#5B2C6F]">
+              <p className="text-gray-700 mb-4 italic">
+                "Other Watersafe businesses were unable to help us, so it was a relief when you said you could. By Thursday evening, the leak was fixed, and we wouldn't even be able to tell that workmen had been there."
               </p>
-              <div className="border-t pt-4">
-                <p className="font-bold text-[#1B3A6B]">Gordan Christie</p>
-                <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
-                <div className="flex gap-1">
-                  <Star className="h-5 w-5 fill-yellow-400 text-yellow-400" />
-                  <Star className="h-5 w-5 fill-yellow-400 text-yellow-400" />
-                  <Star className="h-5 w-5 fill-yellow-400 text-yellow-400" />
-                  <Star className="h-5 w-5 fill-yellow-400 text-yellow-400" />
-                  <Star className="h-5 w-5 fill-yellow-400 text-yellow-400" />
-                </div>
-              </div>
+              <p className="font-bold text-[#1B3A6B]">David Bale</p>
+              <p className="text-gray-600 text-sm">Fort William</p>
             </div>
           </div>
         </div>
