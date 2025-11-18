@@ -340,55 +340,58 @@ export default function LeadPipeReplacementScheme() {
         </section>
 
         {/* What to Expect Section */}
-        <section className="py-16 bg-white">
-          <div className="container max-w-6xl">
-            <h2 className="text-3xl font-bold text-center text-[#1e3a5f] mb-12">
-              What to Expect
+        <section className="py-16 bg-gray-100">
+          <div className="container">
+            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-4">
+              What to expect from ScotWater – Your trusted water services expert
             </h2>
-            <div className="grid md:grid-cols-4 gap-8">
-              <div className="text-center">
-                <div className="w-32 h-32 mx-auto mb-4 rounded-full overflow-hidden border-4 border-orange-400">
+            <p className="text-center text-gray-600 mb-12 text-lg">
+              Here's how we'll get your house feeling like home again.
+            </p>
+
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+              <div className="flex flex-col items-center">
+                <div className="border-4 border-cyan-400 rounded-lg overflow-hidden mb-4 w-48 h-48">
                   <img 
-                    src="/what-to-expect-1.webp" 
-                    alt="Contact us"
+                    src="/step1_customer_service.jpeg" 
+                    alt="Step 1"
                     className="w-full h-full object-cover"
                   />
                 </div>
-                <h3 className="font-bold text-[#1e3a5f] mb-2">Contact</h3>
-                <p className="text-gray-600 text-sm">Get in touch with our team</p>
+                <p className="text-center text-gray-700">Call us 24/7, 365, at a time that suits you.</p>
               </div>
-              <div className="text-center">
-                <div className="w-32 h-32 mx-auto mb-4 rounded-full overflow-hidden border-4 border-pink-400">
+
+              <div className="flex flex-col items-center">
+                <div className="border-4 border-pink-400 rounded-lg overflow-hidden mb-4 w-48 h-48">
                   <img 
-                    src="/what-to-expect-2.webp" 
-                    alt="Site visit"
+                    src="/step2_couple_quote.jpeg" 
+                    alt="Step 2"
                     className="w-full h-full object-cover"
                   />
                 </div>
-                <h3 className="font-bold text-[#1e3a5f] mb-2">Site Visit</h3>
-                <p className="text-gray-600 text-sm">We assess your property</p>
+                <p className="text-center text-gray-700">You'll get a no-obligation quote straight away.</p>
               </div>
-              <div className="text-center">
-                <div className="w-32 h-32 mx-auto mb-4 rounded-full overflow-hidden border-4 border-cyan-400">
+
+              <div className="flex flex-col items-center">
+                <div className="border-4 border-purple-400 rounded-lg overflow-hidden mb-4 w-48 h-48">
                   <img 
-                    src="/what-to-expect-3.webp" 
-                    alt="Quote"
+                    src="/step3_van.png" 
+                    alt="Step 3"
                     className="w-full h-full object-cover"
                   />
                 </div>
-                <h3 className="font-bold text-[#1e3a5f] mb-2">Quote</h3>
-                <p className="text-gray-600 text-sm">Receive a detailed quote</p>
+                <p className="text-center text-gray-700">Expert engineers will arrive and carry out the work.</p>
               </div>
-              <div className="text-center">
-                <div className="w-32 h-32 mx-auto mb-4 rounded-full overflow-hidden border-4 border-purple-400">
+
+              <div className="flex flex-col items-center">
+                <div className="border-4 border-orange-400 rounded-lg overflow-hidden mb-4 w-48 h-48">
                   <img 
-                    src="/what-to-expect-4.webp" 
-                    alt="Work completed"
+                    src="/step4_woman_water.jpeg" 
+                    alt="Step 4"
                     className="w-full h-full object-cover"
                   />
                 </div>
-                <h3 className="font-bold text-[#1e3a5f] mb-2">Work Completed</h3>
-                <p className="text-gray-600 text-sm">Professional installation</p>
+                <p className="text-center text-gray-700">We'll give you a 25-year guarantee*.</p>
               </div>
             </div>
           </div>
