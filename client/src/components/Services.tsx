@@ -1,36 +1,46 @@
+import { Link } from "wouter";
+
 export default function Services() {
   const services = [
     {
       image: "/service_lead_pipe_replacement.jpeg",
-      title: "Lead Pipe Replacement"
+      title: "Lead Pipe Replacement",
+      link: "/services/lead-pipe-replacement"
     },
     {
       image: "/service_lead_pipe_scheme.png",
-      title: "Lead Pipe Replacement Scheme"
+      title: "Lead Pipe Replacement Scheme",
+      link: "/help-advice/lead-pipe-replacement-scheme"
     },
     {
       image: "/service_water_supply_installation.jpeg",
-      title: "Water Supply Pipe Installations"
+      title: "Water Supply Pipe Installations",
+      link: "/services/water-supply-pipe-installations"
     },
     {
       image: "/service_water_supply_repair.png",
-      title: "Water Supply Pipe Repair"
+      title: "Water Supply Pipe Repair",
+      link: "/services/water-supply-pipe-repairs"
     },
     {
       image: "/service_water_main_installation.jpeg",
-      title: "Water Main Installations"
+      title: "Water Main Installations",
+      link: "/services/water-main-installations"
     },
     {
       image: "/service_water_main_repair.jpeg",
-      title: "Water Main Repairs"
+      title: "Water Main Repairs",
+      link: "/services/water-main-repairs"
     },
     {
       image: "/service_leak_detection.jpeg",
-      title: "Water Leak Detection"
+      title: "Water Leak Detection",
+      link: "/services/water-leak-detection"
     },
     {
       image: "/service_impact_moling.jpeg",
-      title: "Impact Moling"
+      title: "Impact Moling",
+      link: "/services/impact-moling"
     }
   ];
 
@@ -43,23 +53,27 @@ export default function Services() {
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
           {services.map((service, index) => (
-            <div 
+            <Link 
               key={index}
-              className="bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow cursor-pointer"
+              href={service.link}
             >
-              <div className="aspect-[4/5] overflow-hidden">
-                <img 
-                  src={service.image} 
-                  alt={service.title}
-                  className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                />
+              <div 
+                className="bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow cursor-pointer"
+              >
+                <div className="aspect-[4/5] overflow-hidden">
+                  <img 
+                    src={service.image} 
+                    alt={service.title}
+                    className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
+                  />
+                </div>
+                <div className="p-4">
+                  <h3 className="text-lg font-bold text-[#1B3A6B] text-center">
+                    {service.title}
+                  </h3>
+                </div>
               </div>
-              <div className="p-4">
-                <h3 className="text-lg font-bold text-[#1B3A6B] text-center">
-                  {service.title}
-                </h3>
-              </div>
-            </div>
+            </Link>
           ))}
         </div>
       </div>
