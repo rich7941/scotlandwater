@@ -116,14 +116,30 @@ export default function Reviews() {
           </h2>
           
           {/* Reviews Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {reviews.map((review, index) => (
-              <div key={index} className="bg-white p-6 rounded-lg shadow-md border-l-4 border-[#5B2C6F]">
-                <p className="text-gray-700 mb-4 italic">"{review.text}"</p>
-                <p className="font-bold text-[#1B3A6B]">{review.name}</p>
-                <p className="text-gray-600 text-sm">{review.location}</p>
-              </div>
-            ))}
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {reviews.map((review, index) => {
+              const borderColors = ['border-yellow-400', 'border-pink-400', 'border-green-400'];
+              const borderColor = borderColors[index % 3];
+              
+              return (
+                <div key={index} className={`border-4 ${borderColor} rounded-lg p-6 bg-white`}>
+                  <p className="text-gray-700 mb-4 min-h-[100px]">
+                    {review.text}
+                  </p>
+                  <div className="border-t pt-4">
+                    <p className="font-bold text-[#1B3A6B]">{review.name}</p>
+                    <p className="text-gray-600 text-sm mb-2">{review.location}</p>
+                    <div className="flex gap-1">
+                      <span className="text-yellow-400">★</span>
+                      <span className="text-yellow-400">★</span>
+                      <span className="text-yellow-400">★</span>
+                      <span className="text-yellow-400">★</span>
+                      <span className="text-yellow-400">★</span>
+                    </div>
+                  </div>
+                </div>
+              );
+            })}
           </div>
         </div>
       </section>
