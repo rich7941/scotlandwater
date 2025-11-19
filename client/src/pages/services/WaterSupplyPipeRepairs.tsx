@@ -19,7 +19,7 @@ export default function WaterSupplyPipeRepairs() {
       {/* Main Content */}
       <section className="py-16 bg-white">
         <div className="container max-w-4xl">
-          <h2 className="text-3xl md:text-4xl font-bold text-[#1B3A6B] mb-6">
+          <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
             Water Supply Pipe Repair Experts in Scotland
           </h2>
           <p className="text-lg text-gray-700 mb-6">
@@ -38,7 +38,7 @@ export default function WaterSupplyPipeRepairs() {
           </p>
 
           {/* Common Causes Section */}
-          <h3 className="text-2xl font-bold text-[#1B3A6B] mb-6 mt-12">
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-6 mt-12">
             Common Causes of Water Supply Pipe Leaks
           </h3>
           <p className="text-lg text-gray-700 mb-8">
@@ -51,7 +51,7 @@ export default function WaterSupplyPipeRepairs() {
           <div className="space-y-8 mb-12">
             {/* Cause 1 */}
             <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
-              <h4 className="text-xl font-bold text-[#1B3A6B] mb-3">Age and Material of Pipes</h4>
+              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Age and Material of Pipes</h4>
               <p className="text-gray-700">
                 Older water pipes are more susceptible to corrosion, particularly if they were installed before the 1980s. Many older pipes are made of cast iron, which lacks the flexibility to withstand temperature changes effectively. Over time, this can lead to cracks and leaks in the pipe.
               </p>
@@ -59,7 +59,7 @@ export default function WaterSupplyPipeRepairs() {
 
             {/* Cause 2 */}
             <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
-              <h4 className="text-xl font-bold text-[#1B3A6B] mb-3">Changes in Water Pressure</h4>
+              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Changes in Water Pressure</h4>
               <p className="text-gray-700">
                 Sudden increases in water pressure can strain supply pipes, causing damage. If the pressure exceeds the pipe's capacity, it can lead to leaks, cracks, or even a complete pipe burst. This can result in water damage, increased utility bills, and costly repairs.
               </p>
@@ -67,7 +67,7 @@ export default function WaterSupplyPipeRepairs() {
 
             {/* Cause 3 */}
             <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
-              <h4 className="text-xl font-bold text-[#1B3A6B] mb-3">Accidental Damage During Excavation</h4>
+              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Accidental Damage During Excavation</h4>
               <p className="text-gray-700">
                 Excavation work on your property can sometimes unintentionally damage underground water supply pipes. Digging equipment or machinery can puncture or crack pipes, leading to leaks and disruption to your water supply.
               </p>
@@ -75,7 +75,7 @@ export default function WaterSupplyPipeRepairs() {
 
             {/* Cause 4 */}
             <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
-              <h4 className="text-xl font-bold text-[#1B3A6B] mb-3">Temperature Fluctuations</h4>
+              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Temperature Fluctuations</h4>
               <p className="text-gray-700">
                 Extreme temperature changes can affect the integrity of water supply pipes. In cold weather, frozen ground can expand, putting additional pressure on pipes. Conversely, in hot weather, soil shifting due to drying can also stress pipes. These cycles can lead to cracks or bursts, making regular maintenance crucial to prevent failures.
               </p>
@@ -83,7 +83,7 @@ export default function WaterSupplyPipeRepairs() {
 
             {/* Cause 5 */}
             <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
-              <h4 className="text-xl font-bold text-[#1B3A6B] mb-3">Impact from Heavy Vehicles</h4>
+              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Impact from Heavy Vehicles</h4>
               <p className="text-gray-700">
                 Heavy vehicles driving over shallowly buried pipes can cause significant stress, leading to cracks or deformation. Vibrations from traffic can also destabilise the ground around the pipes, increasing the likelihood of leaks or damage. Regular inspections in high-traffic areas can help identify potential risks early.
               </p>
@@ -91,7 +91,7 @@ export default function WaterSupplyPipeRepairs() {
           </div>
 
           {/* Why Choose ScotWater Section */}
-          <h3 className="text-2xl font-bold text-[#1B3A6B] mb-6 mt-12">
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-6 mt-12">
             Why Choose ScotWater for Water Supply Pipe Repairs?
           </h3>
           <p className="text-lg text-gray-700 mb-6">
@@ -102,7 +102,7 @@ export default function WaterSupplyPipeRepairs() {
             <div className="flex items-start gap-4">
               <div className="w-3 h-3 rounded-full bg-[#5B2C6F] flex-shrink-0 mt-2"></div>
               <div>
-                <h4 className="text-xl font-bold text-[#1B3A6B] mb-2">Non-Invasive Repairs</h4>
+                <h4 className="text-xl font-bold text-[#1e3a8a] mb-2">Non-Invasive Repairs</h4>
                 <p className="text-gray-700">
                   We use advanced methods like trenchless technology to minimise disruption to your property.
                 </p>
@@ -112,7 +112,7 @@ export default function WaterSupplyPipeRepairs() {
             <div className="flex items-start gap-4">
               <div className="w-3 h-3 rounded-full bg-[#5B2C6F] flex-shrink-0 mt-2"></div>
               <div>
-                <h4 className="text-xl font-bold text-[#1B3A6B] mb-2">Comprehensive Services</h4>
+                <h4 className="text-xl font-bold text-[#1e3a8a] mb-2">Comprehensive Services</h4>
                 <p className="text-gray-700">
                   From leak detection to replacement, we handle every aspect of water supply pipe repair.
                 </p>
@@ -122,7 +122,7 @@ export default function WaterSupplyPipeRepairs() {
             <div className="flex items-start gap-4">
               <div className="w-3 h-3 rounded-full bg-[#5B2C6F] flex-shrink-0 mt-2"></div>
               <div>
-                <h4 className="text-xl font-bold text-[#1B3A6B] mb-2">Experienced Professionals</h4>
+                <h4 className="text-xl font-bold text-[#1e3a8a] mb-2">Experienced Professionals</h4>
                 <p className="text-gray-700">
                   Our skilled engineers deliver high-quality results for projects of any complexity.
                 </p>
@@ -132,7 +132,7 @@ export default function WaterSupplyPipeRepairs() {
 
           {/* 24/7 Emergency Services Section */}
           <div className="bg-[#F4E04D] p-8 rounded-lg mb-8">
-            <h3 className="text-2xl font-bold text-[#1B3A6B] mb-4">24/7 Emergency Services</h3>
+            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">24/7 Emergency Services</h3>
             <p className="text-lg text-gray-800 mb-4">
               Water supply pipe leaks can happen at any time, and their impact can be significant, whether it's a slow leak or a sudden burst. ScotWater provides round-the-clock emergency repair services to address urgent issues promptly. Whether you've been alerted to a leak by Scottish Water or noticed water pooling in your driveway, our team is ready to help.
             </p>
@@ -150,14 +150,14 @@ export default function WaterSupplyPipeRepairs() {
             <div className="flex flex-col md:flex-row gap-4 justify-center items-center">
               <a 
                 href="tel:08002062778"
-                className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1B3A6B] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
+                className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
               >
                 0800 206 2778
                 <Phone className="w-6 h-6 scale-x-[-1]" />
               </a>
               <a 
                 href="mailto:hello@scotwater.co.uk"
-                className="bg-white hover:bg-gray-100 text-[#1B3A6B] font-bold px-8 py-4 rounded-lg text-xl transition-colors"
+                className="bg-white hover:bg-gray-100 text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl transition-colors"
               >
                 hello@scotwater.co.uk
               </a>
@@ -176,7 +176,7 @@ export default function WaterSupplyPipeRepairs() {
             </div>
             <a 
               href="tel:08002062778"
-              className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1B3A6B] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
+              className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
             >
               0800 206 2778
               <Phone className="w-6 h-6 scale-x-[-1]" />
@@ -191,7 +191,7 @@ export default function WaterSupplyPipeRepairs() {
       {/* Customer Reviews Section */}
       <section className="py-16 bg-white">
         <div className="container">
-          <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-8">
+          <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-8">
             Here's what our happy customers have to say
           </h2>
 
@@ -211,7 +211,7 @@ export default function WaterSupplyPipeRepairs() {
                 I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
               </p>
               <div className="border-t pt-4">
-                <p className="font-bold text-[#1B3A6B]">Paul Strachan</p>
+                <p className="font-bold text-[#1e3a8a]">Paul Strachan</p>
                 <p className="text-gray-600 text-sm mb-2">Glasgow</p>
                 <div className="flex gap-1">
                   <span className="text-yellow-400">★</span>
@@ -227,7 +227,7 @@ export default function WaterSupplyPipeRepairs() {
                 Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
               </p>
               <div className="border-t pt-4">
-                <p className="font-bold text-[#1B3A6B]">Jonathan Godfrey</p>
+                <p className="font-bold text-[#1e3a8a]">Jonathan Godfrey</p>
                 <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
                 <div className="flex gap-1">
                   <span className="text-yellow-400">★</span>
@@ -243,7 +243,7 @@ export default function WaterSupplyPipeRepairs() {
                 We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
               </p>
               <div className="border-t pt-4">
-                <p className="font-bold text-[#1B3A6B]">Gordan Christie</p>
+                <p className="font-bold text-[#1e3a8a]">Gordan Christie</p>
                 <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
                 <div className="flex gap-1">
                   <span className="text-yellow-400">★</span>
@@ -261,7 +261,7 @@ export default function WaterSupplyPipeRepairs() {
       {/* Services Section */}
       <section className="py-16 bg-gray-50">
         <div className="container">
-          <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-12">
+          <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-12">
             You may be interested in
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -272,7 +272,7 @@ export default function WaterSupplyPipeRepairs() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Lead Pipe Replacement
                 </h3>
               </div>
@@ -285,7 +285,7 @@ export default function WaterSupplyPipeRepairs() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Water Leak Detection
                 </h3>
               </div>
@@ -298,7 +298,7 @@ export default function WaterSupplyPipeRepairs() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Water Supply Pipe Renewals
                 </h3>
               </div>
@@ -311,7 +311,7 @@ export default function WaterSupplyPipeRepairs() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Impact Moling
                 </h3>
               </div>
@@ -324,7 +324,7 @@ export default function WaterSupplyPipeRepairs() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Lead Pipe Replacement Scheme
                 </h3>
               </div>
@@ -337,7 +337,7 @@ export default function WaterSupplyPipeRepairs() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Water Main Installations
                 </h3>
               </div>

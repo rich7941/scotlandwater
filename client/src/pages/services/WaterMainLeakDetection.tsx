@@ -32,7 +32,7 @@ export default function WaterMainLeakDetection() {
         {/* Main Content */}
         <section className="py-16">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a5f] mb-6">
+            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">
               Underground Water Leak Detection Services in Scotland
             </h2>
             
@@ -51,34 +51,34 @@ export default function WaterMainLeakDetection() {
         {/* What's Included Section */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a5f] mb-8">
+            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-8">
               What's Included in Our Water Leak Detection Site Survey
             </h2>
 
             <div className="space-y-6">
               <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="text-xl font-semibold text-[#1e3a5f] mb-3">Mapping All Water Mains</h3>
+                <h3 className="text-xl font-semibold text-[#1e3a8a] mb-3">Mapping All Water Mains</h3>
                 <p className="text-gray-700">
                   We identify every water main supply on your site and establish distinct zones.
                 </p>
               </div>
 
               <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="text-xl font-semibold text-[#1e3a5f] mb-3">Recording Flow Rate and Average Daily Usage</h3>
+                <h3 className="text-xl font-semibold text-[#1e3a8a] mb-3">Recording Flow Rate and Average Daily Usage</h3>
                 <p className="text-gray-700">
                   Monitoring consumption helps us spot anomalies that might indicate water main leaks.
                 </p>
               </div>
 
               <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="text-xl font-semibold text-[#1e3a5f] mb-3">Flow and Pressure Testing</h3>
+                <h3 className="text-xl font-semibold text-[#1e3a8a] mb-3">Flow and Pressure Testing</h3>
                 <p className="text-gray-700">
                   We conduct comprehensive checks to measure how efficiently water is moving through your water main system.
                 </p>
               </div>
 
               <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="text-xl font-semibold text-[#1e3a5f] mb-3">Acoustic Correlation and Ground Microphones</h3>
+                <h3 className="text-xl font-semibold text-[#1e3a8a] mb-3">Acoustic Correlation and Ground Microphones</h3>
                 <p className="text-gray-700">
                   Sounding techniques help us pinpoint the exact location of water main leaks with high accuracy.
                 </p>
@@ -96,7 +96,7 @@ export default function WaterMainLeakDetection() {
         {/* Techniques Section */}
         <section className="py-16">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a5f] mb-6">
+            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">
               Techniques to Narrow Down and Locate Leaks
             </h2>
 
@@ -106,42 +106,42 @@ export default function WaterMainLeakDetection() {
 
             <div className="space-y-6">
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="text-xl font-semibold text-[#1e3a5f] mb-3">Leakage Detection</h3>
+                <h3 className="text-xl font-semibold text-[#1e3a8a] mb-3">Leakage Detection</h3>
                 <p className="text-gray-700">
                   Employing open sounding, correlation, pipe tracing, and ground microphones to detect underground water main leaks.
                 </p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="text-xl font-semibold text-[#1e3a5f] mb-3">Flow and Pressure Logging</h3>
+                <h3 className="text-xl font-semibold text-[#1e3a8a] mb-3">Flow and Pressure Logging</h3>
                 <p className="text-gray-700">
                   Data loggers are deployed, and then the recorded information is retrieved and analysed.
                 </p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="text-xl font-semibold text-[#1e3a5f] mb-3">Pressure Management Design and Installation</h3>
+                <h3 className="text-xl font-semibold text-[#1e3a8a] mb-3">Pressure Management Design and Installation</h3>
                 <p className="text-gray-700">
                   Ensuring optimal pressure settings to reduce the likelihood of further water main leaks.
                 </p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="text-xl font-semibold text-[#1e3a5f] mb-3">Step Testing and Zero Pressure Testing</h3>
+                <h3 className="text-xl font-semibold text-[#1e3a8a] mb-3">Step Testing and Zero Pressure Testing</h3>
                 <p className="text-gray-700">
                   Including data logging to confirm water main leaks and their impact on the network.
                 </p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="text-xl font-semibold text-[#1e3a5f] mb-3">Leakage-Controlled Areas</h3>
+                <h3 className="text-xl font-semibold text-[#1e3a8a] mb-3">Leakage-Controlled Areas</h3>
                 <p className="text-gray-700">
                   Setting up and designing zones to monitor and isolate water main leaks.
                 </p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="text-xl font-semibold text-[#1e3a5f] mb-3">Crisis Management</h3>
+                <h3 className="text-xl font-semibold text-[#1e3a8a] mb-3">Crisis Management</h3>
                 <p className="text-gray-700">
                   Ongoing pressure checks, logging, and monitoring, as well as water balance analysis, to detect issues before they escalate.
                 </p>
@@ -153,7 +153,7 @@ export default function WaterMainLeakDetection() {
         {/* Why Choose ScotWater Section */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a5f] mb-8">
+            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-8">
               Why Choose ScotWater for Water Leak Detection in Scotland?
             </h2>
 
@@ -163,7 +163,7 @@ export default function WaterMainLeakDetection() {
                   1
                 </div>
                 <div>
-                  <h3 className="text-xl font-semibold text-[#1e3a5f] mb-2">Minimal Disruption</h3>
+                  <h3 className="text-xl font-semibold text-[#1e3a8a] mb-2">Minimal Disruption</h3>
                   <p className="text-gray-700">
                     We plan our work around your operations, preventing unnecessary downtime during the water leak detection process.
                   </p>
@@ -175,7 +175,7 @@ export default function WaterMainLeakDetection() {
                   2
                 </div>
                 <div>
-                  <h3 className="text-xl font-semibold text-[#1e3a5f] mb-2">Expert Technicians</h3>
+                  <h3 className="text-xl font-semibold text-[#1e3a8a] mb-2">Expert Technicians</h3>
                   <p className="text-gray-700">
                     Our water leak detection specialists are trained to use sophisticated equipment and techniques to swiftly locate and address leaks.
                   </p>
@@ -187,7 +187,7 @@ export default function WaterMainLeakDetection() {
                   3
                 </div>
                 <div>
-                  <h3 className="text-xl font-semibold text-[#1e3a5f] mb-2">Cost Savings</h3>
+                  <h3 className="text-xl font-semibold text-[#1e3a8a] mb-2">Cost Savings</h3>
                   <p className="text-gray-700">
                     Identifying and repairing water leaks early helps you avoid steep water bills and potential property damage.
                   </p>
@@ -199,7 +199,7 @@ export default function WaterMainLeakDetection() {
                   4
                 </div>
                 <div>
-                  <h3 className="text-xl font-semibold text-[#1e3a5f] mb-2">Scotland-Focused</h3>
+                  <h3 className="text-xl font-semibold text-[#1e3a8a] mb-2">Scotland-Focused</h3>
                   <p className="text-gray-700">
                     As a Scottish company, we understand local regulations, geographical challenges, and weather conditions that can impact water mains.
                   </p>
@@ -231,7 +231,7 @@ export default function WaterMainLeakDetection() {
               <div className="flex flex-wrap gap-4">
                 <Button 
                   onClick={handleCallClick}
-                  className="bg-white text-[#1e3a5f] hover:bg-gray-100"
+                  className="bg-white text-[#1e3a8a] hover:bg-gray-100"
                 >
                   <Phone className="mr-2 h-4 w-4 scale-x-[-1]" />
                   0800 206 2778
@@ -259,7 +259,7 @@ export default function WaterMainLeakDetection() {
               </div>
               <Button 
                 size="lg"
-                className="bg-[#F9E45C] text-[#1B3A6B] hover:bg-[#F9E45C]/90 text-xl font-bold px-8 py-6 h-auto"
+                className="bg-[#F9E45C] text-[#1e3a8a] hover:bg-[#F9E45C]/90 text-xl font-bold px-8 py-6 h-auto"
                 asChild
               >
                 <a href="tel:08002062778" className="flex items-center gap-3">
@@ -274,7 +274,7 @@ export default function WaterMainLeakDetection() {
         {/* What to Expect Section */}
         <section className="py-16 bg-gray-100">
           <div className="container">
-            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-4">
               What to expect from ScotWater – Your trusted water services expert
             </h2>
             <p className="text-center text-gray-600 mb-12 text-lg">
@@ -332,7 +332,7 @@ export default function WaterMainLeakDetection() {
         {/* Customer Reviews Section */}
         <section className="py-16 bg-white">
           <div className="container">
-            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-8">
+            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-8">
               Here's what our happy customers have to say
             </h2>
 
@@ -352,7 +352,7 @@ export default function WaterMainLeakDetection() {
                   I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
                 </p>
                 <div className="border-t pt-4">
-                  <p className="font-bold text-[#1B3A6B]">Paul Strachan</p>
+                  <p className="font-bold text-[#1e3a8a]">Paul Strachan</p>
                   <p className="text-gray-600 text-sm mb-2">Glasgow</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
@@ -368,7 +368,7 @@ export default function WaterMainLeakDetection() {
                   Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
                 </p>
                 <div className="border-t pt-4">
-                  <p className="font-bold text-[#1B3A6B]">Jonathan Godfrey</p>
+                  <p className="font-bold text-[#1e3a8a]">Jonathan Godfrey</p>
                   <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
@@ -384,7 +384,7 @@ export default function WaterMainLeakDetection() {
                   We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
                 </p>
                 <div className="border-t pt-4">
-                  <p className="font-bold text-[#1B3A6B]">Gordan Christie</p>
+                  <p className="font-bold text-[#1e3a8a]">Gordan Christie</p>
                   <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
@@ -402,48 +402,48 @@ export default function WaterMainLeakDetection() {
         {/* Services Section */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-6xl">
-            <h2 className="text-3xl font-bold text-[#1e3a5f] text-center mb-12">You may be interested in</h2>
+            <h2 className="text-3xl font-bold text-[#1e3a8a] text-center mb-12">You may be interested in</h2>
             
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
               <a href="/services/lead-pipe-replacement" className="block bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
                 <img src="/service-lead-pipe-replacement.webp" alt="Lead Pipe Replacement" className="w-full h-48 object-cover" />
                 <div className="p-6">
-                  <h3 className="text-xl font-semibold text-[#1e3a5f] hover:text-purple-600">Lead Pipe Replacement</h3>
+                  <h3 className="text-xl font-semibold text-[#1e3a8a] hover:text-purple-600">Lead Pipe Replacement</h3>
                 </div>
               </a>
               
               <a href="/services/water-leak-detection" className="block bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
                 <img src="/service-water-main-leak-detection.webp" alt="Water Leak Detection" className="w-full h-48 object-cover" />
                 <div className="p-6">
-                  <h3 className="text-xl font-semibold text-[#1e3a5f] hover:text-purple-600">Water Leak Detection</h3>
+                  <h3 className="text-xl font-semibold text-[#1e3a8a] hover:text-purple-600">Water Leak Detection</h3>
                 </div>
               </a>
               
               <a href="/services/water-supply-pipe-installations" className="block bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
                 <img src="/service-water-supply-pipe-installations.webp" alt="Water Supply Pipe Installations" className="w-full h-48 object-cover" />
                 <div className="p-6">
-                  <h3 className="text-xl font-semibold text-[#1e3a5f] hover:text-purple-600">Water Supply Pipe Installations</h3>
+                  <h3 className="text-xl font-semibold text-[#1e3a8a] hover:text-purple-600">Water Supply Pipe Installations</h3>
                 </div>
               </a>
               
               <a href="/services/impact-moling" className="block bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
                 <img src="/service-impact-moling.webp" alt="Impact Moling" className="w-full h-48 object-cover" />
                 <div className="p-6">
-                  <h3 className="text-xl font-semibold text-[#1e3a5f] hover:text-purple-600">Impact Moling</h3>
+                  <h3 className="text-xl font-semibold text-[#1e3a8a] hover:text-purple-600">Impact Moling</h3>
                 </div>
               </a>
               
               <a href="/help-advice/lead-pipe-replacement-scheme" className="block bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
                 <img src="/service-lead-pipe-replacement-scheme.webp" alt="Lead Pipe Replacement Scheme" className="w-full h-48 object-cover" />
                 <div className="p-6">
-                  <h3 className="text-xl font-semibold text-[#1e3a5f] hover:text-purple-600">Lead Pipe Replacement Scheme</h3>
+                  <h3 className="text-xl font-semibold text-[#1e3a8a] hover:text-purple-600">Lead Pipe Replacement Scheme</h3>
                 </div>
               </a>
               
               <a href="/services/water-main-installations" className="block bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
                 <img src="/service-water-main-installations.webp" alt="Water Main Installations" className="w-full h-48 object-cover" />
                 <div className="p-6">
-                  <h3 className="text-xl font-semibold text-[#1e3a5f] hover:text-purple-600">Water Main Installations</h3>
+                  <h3 className="text-xl font-semibold text-[#1e3a8a] hover:text-purple-600">Water Main Installations</h3>
                 </div>
               </a>
             </div>

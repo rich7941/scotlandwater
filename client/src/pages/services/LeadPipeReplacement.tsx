@@ -19,14 +19,14 @@ export default function LeadPipeReplacement() {
       {/* Main Content */}
       <section className="py-16 bg-white">
         <div className="container max-w-4xl">
-          <h2 className="text-3xl md:text-4xl font-bold text-[#1B3A6B] mb-6">
+          <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
             Lead Pipe Replacement Services in Scotland
           </h2>
-          <p className="text-lg text-gray-700 mb-6">
+          <p className="text-gray-700 text-lg mb-6">
             At ScotWater, we specialise in providing lead pipe replacement services across Scotland, covering all major cities and towns like Edinburgh, Glasgow, Aberdeen, Dundee, and beyond. Given the health risks associated with lead contamination in water systems, it's crucial to ensure that your property's plumbing meets current safety standards. Our expert team is here to help you improve your water supply with our professional lead pipe replacement services.
           </p>
 
-          <h3 className="text-2xl font-bold text-[#1B3A6B] mb-4">Lead Pipes</h3>
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Lead Pipes</h3>
           <p className="text-lg text-gray-700 mb-4">
             Lead pipes are a common issue in homes built before 1970 across Scotland. Over time, these lead pipes pose a significant health risk due to the potential for lead to leach into your drinking water. If your property in Edinburgh, Glasgow, or anywhere else in Scotland still uses lead water pipes, lead pipe replacement is the safest solution to ensure clean, safe drinking water for your household.
           </p>
@@ -36,7 +36,7 @@ export default function LeadPipeReplacement() {
 
           {/* Responsibilities Section */}
           <div className="bg-gray-50 p-8 rounded-lg mb-8">
-            <h3 className="text-2xl font-bold text-[#1B3A6B] mb-4">Responsibilities: Who Owns Which Pipe?</h3>
+            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Responsibilities: Who Owns Which Pipe?</h3>
             <ul className="space-y-3 text-gray-700">
               <li><strong>Scottish Water:</strong> Responsible for the water main and the communication pipe (from the main to the external stop tap).</li>
               <li><strong>Homeowners/Landlords:</strong> Responsible for the supply pipe (from the stop tap into the home) and all internal plumbing.</li>
@@ -45,7 +45,7 @@ export default function LeadPipeReplacement() {
           </div>
 
           {/* What to Expect Section */}
-          <h3 className="text-2xl font-bold text-[#1B3A6B] mb-4">Lead Pipe Replacement Service - What to Expect</h3>
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Lead Pipe Replacement Service - What to Expect</h3>
           <div className="space-y-4 mb-8">
             <div>
               <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">1. Lead Pipe Inspection and Assessment</h4>
@@ -69,7 +69,7 @@ export default function LeadPipeReplacement() {
 
           {/* Regulation Section */}
           <div className="bg-[#5B2C6F]/10 p-8 rounded-lg mb-8">
-            <h3 className="text-2xl font-bold text-[#1B3A6B] mb-4">Regulation and Water Safety Standards in Scotland</h3>
+            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Regulation and Water Safety Standards in Scotland</h3>
             <p className="text-gray-700 mb-4">
               In Scotland, lead levels in drinking water are governed by the Water Supply (Water Quality) (Scotland) Regulations 2010, which set the current legal limit at <strong>10 micrograms per litre (10 µg/L)</strong>.
             </p>
@@ -84,7 +84,7 @@ export default function LeadPipeReplacement() {
           </div>
 
           {/* Testing and Taking Action */}
-          <h3 className="text-2xl font-bold text-[#1B3A6B] mb-4">Testing and Taking Action</h3>
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Testing and Taking Action</h3>
           <ul className="space-y-3 text-gray-700 mb-8">
             <li><strong>Water Testing:</strong> Free testing is available if lead pipes are suspected. A sample is taken from your cold kitchen tap.</li>
             <li><strong>Results:</strong> If lead exceeds 10 µg/l, or 5 µg/l from April 2025, Scottish Water may replace its section. You must replace your private section first.</li>
@@ -93,7 +93,7 @@ export default function LeadPipeReplacement() {
 
           {/* Landlord Legal Duties */}
           <div className="bg-yellow-50 border-l-4 border-[#F4E04D] p-6 mb-8">
-            <h3 className="text-2xl font-bold text-[#1B3A6B] mb-4">Landlord Legal Duties</h3>
+            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Landlord Legal Duties</h3>
             <p className="text-gray-700 mb-4">
               From March 2024, all privately rented homes in Scotland must be free of lead in the drinking water supply. This includes:
             </p>
@@ -108,7 +108,7 @@ export default function LeadPipeReplacement() {
           </div>
 
           {/* Why Replace Lead Pipes */}
-          <h3 className="text-2xl font-bold text-[#1B3A6B] mb-4">Why Replace Lead Pipes?</h3>
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Why Replace Lead Pipes?</h3>
           <p className="text-lg text-gray-700 mb-4">
             Replacing lead pipes is essential to protect your household from potential health risks and improve the quality of your water supply. Here's why lead pipe replacement is important:
           </p>
@@ -134,7 +134,7 @@ export default function LeadPipeReplacement() {
           </div>
 
           {/* Mitigation Section */}
-          <h3 className="text-2xl font-bold text-[#1B3A6B] mb-4">Mitigation While Awaiting Replacement</h3>
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Mitigation While Awaiting Replacement</h3>
           <p className="text-gray-700 mb-4">
             While full pipe replacement is the only permanent solution, temporary steps can reduce exposure:
           </p>
@@ -147,14 +147,14 @@ export default function LeadPipeReplacement() {
 
           {/* Dangers of Partial Replacement */}
           <div className="bg-red-50 border-l-4 border-red-500 p-6 mb-8">
-            <h3 className="text-2xl font-bold text-[#1B3A6B] mb-4">The Dangers of Partial Lead Pipe Replacement</h3>
+            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">The Dangers of Partial Lead Pipe Replacement</h3>
             <p className="text-gray-700">
               Partial lead pipe replacement—replacing only the public or private section—can dislodge built-up lead particles and temporarily increase contamination. <strong>Full lead pipe replacement of both sections is strongly advised</strong> to eliminate the risk.
             </p>
           </div>
 
           {/* After Replacement */}
-          <h3 className="text-2xl font-bold text-[#1B3A6B] mb-4">After Lead Pipe Replacement</h3>
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">After Lead Pipe Replacement</h3>
           <p className="text-gray-700 mb-4">Once your lead pipe replacement is complete:</p>
           <ul className="list-disc list-inside space-y-2 text-gray-700 mb-8">
             <li>Flush your system by running all cold taps for 30 minutes.</li>
@@ -164,7 +164,7 @@ export default function LeadPipeReplacement() {
           </ul>
 
           {/* How to Start */}
-          <h3 className="text-2xl font-bold text-[#1B3A6B] mb-4">How to Start the Lead Pipe Replacement Process</h3>
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">How to Start the Lead Pipe Replacement Process</h3>
           <div className="space-y-6 mb-8">
             <div className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
               <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">Step 1 – Contact ScotWater 0800 206 2778</h4>
@@ -201,14 +201,14 @@ export default function LeadPipeReplacement() {
             <div className="flex flex-col md:flex-row gap-4 justify-center items-center">
               <a 
                 href="tel:08002062778"
-                className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1B3A6B] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
+                className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
               >
                 0800 206 2778
                 <Phone className="w-6 h-6 scale-x-[-1]" />
               </a>
               <a 
                 href="mailto:hello@scotwater.co.uk"
-                className="bg-white hover:bg-gray-100 text-[#1B3A6B] font-bold px-8 py-4 rounded-lg text-xl transition-colors"
+                className="bg-white hover:bg-gray-100 text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl transition-colors"
               >
                 hello@scotwater.co.uk
               </a>
@@ -227,7 +227,7 @@ export default function LeadPipeReplacement() {
             </div>
             <a 
               href="tel:08002062778"
-              className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1B3A6B] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
+              className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
             >
               0800 206 2778
               <Phone className="w-6 h-6 scale-x-[-1]" />
@@ -242,7 +242,7 @@ export default function LeadPipeReplacement() {
       {/* Customer Reviews Section */}
       <section className="py-16 bg-white">
         <div className="container">
-          <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-8">
+          <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-8">
             Here's what our happy customers have to say
           </h2>
 
@@ -262,7 +262,7 @@ export default function LeadPipeReplacement() {
                 I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
               </p>
               <div className="border-t pt-4">
-                <p className="font-bold text-[#1B3A6B]">Paul Strachan</p>
+                <p className="font-bold text-[#1e3a8a]">Paul Strachan</p>
                 <p className="text-gray-600 text-sm mb-2">Glasgow</p>
                 <div className="flex gap-1">
                   <span className="text-yellow-400">★</span>
@@ -278,7 +278,7 @@ export default function LeadPipeReplacement() {
                 Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
               </p>
               <div className="border-t pt-4">
-                <p className="font-bold text-[#1B3A6B]">Jonathan Godfrey</p>
+                <p className="font-bold text-[#1e3a8a]">Jonathan Godfrey</p>
                 <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
                 <div className="flex gap-1">
                   <span className="text-yellow-400">★</span>
@@ -294,7 +294,7 @@ export default function LeadPipeReplacement() {
                 We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
               </p>
               <div className="border-t pt-4">
-                <p className="font-bold text-[#1B3A6B]">Gordan Christie</p>
+                <p className="font-bold text-[#1e3a8a]">Gordan Christie</p>
                 <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
                 <div className="flex gap-1">
                   <span className="text-yellow-400">★</span>
@@ -312,7 +312,7 @@ export default function LeadPipeReplacement() {
       {/* Services Section */}
       <section className="py-16 bg-gray-50">
         <div className="container">
-          <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-12">
+          <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-12">
             You may be interested in
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -323,7 +323,7 @@ export default function LeadPipeReplacement() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Water Main Repairs
                 </h3>
               </div>
@@ -336,7 +336,7 @@ export default function LeadPipeReplacement() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Water Leak Detection
                 </h3>
               </div>
@@ -349,7 +349,7 @@ export default function LeadPipeReplacement() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Water Supply Pipe Installations
                 </h3>
               </div>
@@ -362,7 +362,7 @@ export default function LeadPipeReplacement() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Impact Moling
                 </h3>
               </div>
@@ -375,7 +375,7 @@ export default function LeadPipeReplacement() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Lead Pipe Replacement Scheme
                 </h3>
               </div>
@@ -388,7 +388,7 @@ export default function LeadPipeReplacement() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Water Main Installations
                 </h3>
               </div>

@@ -81,7 +81,7 @@ export default function WaterMainRenewals() {
         {/* Main Content */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a5f] mb-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
               Commercial Water Main Renewal Services by ScotWater
             </h2>
             
@@ -92,7 +92,7 @@ export default function WaterMainRenewals() {
             </div>
 
             {/* Factors Influencing Water Flow */}
-            <h3 className="text-2xl font-bold text-[#1e3a5f] mb-6 mt-12">
+            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-6 mt-12">
               Factors Influencing Water Flow or Pressure in Commercial Settings
             </h3>
             
@@ -102,27 +102,27 @@ export default function WaterMainRenewals() {
 
             <div className="space-y-4 mb-8">
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h4 className="font-bold text-[#1e3a5f] mb-2">Diameter of the Water Main</h4>
+                <h4 className="font-bold text-[#1e3a8a] mb-2">Diameter of the Water Main</h4>
                 <p className="text-gray-700">Restricted water flow can result from narrower water mains, affecting operations.</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h4 className="font-bold text-[#1e3a5f] mb-2">Corrosion and Build-up</h4>
+                <h4 className="font-bold text-[#1e3a8a] mb-2">Corrosion and Build-up</h4>
                 <p className="text-gray-700">Particularly in older iron water mains, internal corrosion can significantly decrease the diameter, reducing flow.</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h4 className="font-bold text-[#1e3a5f] mb-2">Demand Variability</h4>
+                <h4 className="font-bold text-[#1e3a8a] mb-2">Demand Variability</h4>
                 <p className="text-gray-700">Peak business hours can drastically increase water usage, stressing the water system.</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h4 className="font-bold text-[#1e3a5f] mb-2">Length of the Water Main</h4>
+                <h4 className="font-bold text-[#1e3a8a] mb-2">Length of the Water Main</h4>
                 <p className="text-gray-700">Longer water mains may experience greater pressure drops, impacting water delivery across larger properties.</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h4 className="font-bold text-[#1e3a5f] mb-2">Leaks in the Water Main</h4>
+                <h4 className="font-bold text-[#1e3a8a] mb-2">Leaks in the Water Main</h4>
                 <p className="text-gray-700">These can lead to significant water loss and decreased operational efficiency.</p>
               </div>
             </div>
@@ -131,17 +131,17 @@ export default function WaterMainRenewals() {
 
             <div className="space-y-4 mb-8">
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h4 className="font-bold text-[#1e3a5f] mb-2">System Pressure</h4>
+                <h4 className="font-bold text-[#1e3a8a] mb-2">System Pressure</h4>
                 <p className="text-gray-700">The pressure from the municipal water supply directly impacts your flow rate.</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h4 className="font-bold text-[#1e3a5f] mb-2">Configuration of Water Main Fittings</h4>
+                <h4 className="font-bold text-[#1e3a8a] mb-2">Configuration of Water Main Fittings</h4>
                 <p className="text-gray-700">Components like meters, stop taps, and bends are critical in managing the flow.</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h4 className="font-bold text-[#1e3a5f] mb-2">Integrity of the Water Main</h4>
+                <h4 className="font-bold text-[#1e3a8a] mb-2">Integrity of the Water Main</h4>
                 <p className="text-gray-700">Issues such as partial closures, blockages, or aging infrastructure can severely affect service quality.</p>
               </div>
             </div>
@@ -151,7 +151,7 @@ export default function WaterMainRenewals() {
             </p>
 
             {/* Renewal Techniques */}
-            <h3 className="text-2xl font-bold text-[#1e3a5f] mb-6 mt-12">
+            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-6 mt-12">
               Commercial Water Main Renewal Techniques
             </h3>
 
@@ -161,24 +161,24 @@ export default function WaterMainRenewals() {
 
             <div className="space-y-4 mb-8">
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h4 className="font-bold text-[#1e3a5f] mb-2">Open Cut Trenching</h4>
+                <h4 className="font-bold text-[#1e3a8a] mb-2">Open Cut Trenching</h4>
                 <p className="text-gray-700">Ideal for accessible areas requiring full water main replacement. Our certified operators handle all aspects of trenching and pipe installation.</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h4 className="font-bold text-[#1e3a5f] mb-2">Butt Fusion and Electro Fusion Welding</h4>
+                <h4 className="font-bold text-[#1e3a8a] mb-2">Butt Fusion and Electro Fusion Welding</h4>
                 <p className="text-gray-700">These methods ensure a secure and seamless connection between new pipe sections, enhancing the main's integrity and function.</p>
               </div>
             </div>
 
-            <h4 className="text-xl font-bold text-[#1e3a5f] mb-4">Advanced Trenchless Technologies</h4>
+            <h4 className="text-xl font-bold text-[#1e3a8a] mb-4">Advanced Trenchless Technologies</h4>
             <p className="text-gray-700 mb-6">Offer minimal disruption:</p>
 
             <div className="space-y-3 mb-8">
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
                 <div>
-                  <span className="font-semibold text-[#1e3a5f]">Directional Drilling:</span>
+                  <span className="font-semibold text-[#1e3a8a]">Directional Drilling:</span>
                   <span className="text-gray-700"> Bypasses surface obstacles, ideal for urban environments.</span>
                 </div>
               </div>
@@ -186,7 +186,7 @@ export default function WaterMainRenewals() {
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
                 <div>
-                  <span className="font-semibold text-[#1e3a5f]">Pneumatic and Hydraulic Bursting:</span>
+                  <span className="font-semibold text-[#1e3a8a]">Pneumatic and Hydraulic Bursting:</span>
                   <span className="text-gray-700"> Efficiently replaces old mains without extensive excavation.</span>
                 </div>
               </div>
@@ -194,7 +194,7 @@ export default function WaterMainRenewals() {
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
                 <div>
-                  <span className="font-semibold text-[#1e3a5f]">Impact Moling:</span>
+                  <span className="font-semibold text-[#1e3a8a]">Impact Moling:</span>
                   <span className="text-gray-700"> Offers a less invasive option for under roads or landscaped areas.</span>
                 </div>
               </div>
@@ -202,7 +202,7 @@ export default function WaterMainRenewals() {
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
                 <div>
-                  <span className="font-semibold text-[#1e3a5f]">Auger Boring and Steel Pipe Ramming:</span>
+                  <span className="font-semibold text-[#1e3a8a]">Auger Boring and Steel Pipe Ramming:</span>
                   <span className="text-gray-700"> Effective for installing mains under existing structures.</span>
                 </div>
               </div>
@@ -235,7 +235,7 @@ export default function WaterMainRenewals() {
                 onClick={handleEmail}
                 size="lg"
                 variant="outline"
-                className="border-[#1e3a5f] text-[#1e3a5f] hover:bg-[#1e3a5f] hover:text-white"
+                className="border-[#1e3a5f] text-[#1e3a8a] hover:bg-[#1e3a5f] hover:text-white"
               >
                 <Mail className="mr-2 h-5 w-5" />
                 Email Us
@@ -254,7 +254,7 @@ export default function WaterMainRenewals() {
               </div>
               <Button 
                 size="lg"
-                className="bg-[#F9E45C] text-[#1B3A6B] hover:bg-[#F9E45C]/90 text-xl font-bold px-8 py-6 h-auto"
+                className="bg-[#F9E45C] text-[#1e3a8a] hover:bg-[#F9E45C]/90 text-xl font-bold px-8 py-6 h-auto"
                 asChild
               >
                 <a href="tel:08002062778" className="flex items-center gap-3">
@@ -269,7 +269,7 @@ export default function WaterMainRenewals() {
         {/* What to Expect Section */}
         <section className="py-16 bg-gray-100">
           <div className="container">
-            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-4">
               What to expect from ScotWater – Your trusted water services expert
             </h2>
             <p className="text-center text-gray-600 mb-12 text-lg">
@@ -327,7 +327,7 @@ export default function WaterMainRenewals() {
         {/* Customer Reviews Section */}
         <section className="py-16 bg-white">
           <div className="container">
-            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-8">
+            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-8">
               Here's what our happy customers have to say
             </h2>
 
@@ -347,7 +347,7 @@ export default function WaterMainRenewals() {
                   I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
                 </p>
                 <div className="border-t pt-4">
-                  <p className="font-bold text-[#1B3A6B]">Paul Strachan</p>
+                  <p className="font-bold text-[#1e3a8a]">Paul Strachan</p>
                   <p className="text-gray-600 text-sm mb-2">Glasgow</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
@@ -363,7 +363,7 @@ export default function WaterMainRenewals() {
                   Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
                 </p>
                 <div className="border-t pt-4">
-                  <p className="font-bold text-[#1B3A6B]">Jonathan Godfrey</p>
+                  <p className="font-bold text-[#1e3a8a]">Jonathan Godfrey</p>
                   <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
@@ -379,7 +379,7 @@ export default function WaterMainRenewals() {
                   We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
                 </p>
                 <div className="border-t pt-4">
-                  <p className="font-bold text-[#1B3A6B]">Gordan Christie</p>
+                  <p className="font-bold text-[#1e3a8a]">Gordan Christie</p>
                   <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
@@ -397,7 +397,7 @@ export default function WaterMainRenewals() {
         {/* Services Section */}
         <section className="py-16 bg-white">
           <div className="container">
-            <h2 className="text-3xl font-bold text-center text-[#1e3a5f] mb-12">
+            <h2 className="text-3xl font-bold text-center text-[#1e3a8a] mb-12">
               You may be interested in
             </h2>
             
@@ -416,7 +416,7 @@ export default function WaterMainRenewals() {
                     />
                   </div>
                   <div className="p-4">
-                    <h3 className="text-lg font-bold text-[#1e3a5f] group-hover:text-purple-600 transition-colors">
+                    <h3 className="text-lg font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                       {service.title}
                     </h3>
                   </div>

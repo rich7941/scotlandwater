@@ -73,7 +73,7 @@ export default function WaterMainRepairs() {
         {/* Main Content */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a5f] mb-6">Water Main Repair Specialists in Scotland</h2>
+            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">Water Main Repair Specialists in Scotland</h2>
             
             <p className="text-gray-700 mb-4">
               Welcome to ScotWater, Scotland's leading water main repair specialists. We provide expert services for all types of underground water leaks and water main replacement and repair projects, ensuring efficient and high-quality solutions for our clients.
@@ -93,7 +93,7 @@ export default function WaterMainRepairs() {
               Our skilled teams can handle any task, no matter the size or complexity.
             </p>
 
-            <h3 className="text-2xl font-bold text-[#1e3a5f] mb-6">What Causes Water Mains to Leak?</h3>
+            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-6">What Causes Water Mains to Leak?</h3>
 
             <p className="text-gray-700 mb-6">
               Do you have a leaking water main and want to prevent further problems by identifying the cause? Our engineers can assess and fix the issue while finding a long-term solution to prevent similar breakages or leaks in the future.
@@ -105,7 +105,7 @@ export default function WaterMainRepairs() {
 
             {/* Pipe Age & Material */}
             <div className="bg-gray-50 border-l-4 border-[#7c3aed] p-6 mb-6">
-              <h4 className="text-xl font-bold text-[#1e3a5f] mb-3">Pipe Age & Material</h4>
+              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Pipe Age & Material</h4>
               <p className="text-gray-700">
                 Older water main pipes are more prone to corrosion, and if installed before the 1980s, they may be made of cast iron. While once the standard in utilities, cast iron is less durable and cannot expand and contract with changing temperatures as effectively as modern materials. This can lead to water main pipes cracking and leaking over time.
               </p>
@@ -113,7 +113,7 @@ export default function WaterMainRepairs() {
 
             {/* Water Pressure Changes */}
             <div className="bg-gray-50 border-l-4 border-[#7c3aed] p-6 mb-6">
-              <h4 className="text-xl font-bold text-[#1e3a5f] mb-3">Water Pressure Changes</h4>
+              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Water Pressure Changes</h4>
               <p className="text-gray-700">
                 Extreme surges in water pressure can put water mains under considerable strain. If the water pressure exceeds the capability of the system, the extra force can damage pipes, leading to cracks, leaks, or even a complete rupture. Ruptured pipes can result in water damage, costly repairs, and higher water bills due to increased water usage.
               </p>
@@ -121,7 +121,7 @@ export default function WaterMainRepairs() {
 
             {/* Excavation Work */}
             <div className="bg-gray-50 border-l-4 border-[#7c3aed] p-6 mb-6">
-              <h4 className="text-xl font-bold text-[#1e3a5f] mb-3">Excavation Work</h4>
+              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Excavation Work</h4>
               <p className="text-gray-700">
                 Excavation work by contractors or property owners can accidentally damage water mains with digging equipment or machinery. Such contact can cause ruptures in your water mains, leading to significant damage.
               </p>
@@ -129,7 +129,7 @@ export default function WaterMainRepairs() {
 
             {/* Temperature Changes */}
             <div className="bg-gray-50 border-l-4 border-[#7c3aed] p-6 mb-6">
-              <h4 className="text-xl font-bold text-[#1e3a5f] mb-3">Temperature Changes</h4>
+              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Temperature Changes</h4>
               <p className="text-gray-700">
                 Temperature changes can severely impact the integrity of water mains. During cold weather, the ground can freeze and subsequently expand, placing additional pressure on underground pipes. This can lead to cracks or even bursts if the material of the pipe is unable to withstand the contraction and expansion caused by the freezing and thawing cycles. Conversely, in hot weather, the ground may shift as it dries out, which can also cause movement and stress on water mains. Such temperature-induced stress makes regular maintenance and monitoring essential to prevent leaks and ensure the longevity of the water infrastructure.
               </p>
@@ -137,13 +137,13 @@ export default function WaterMainRepairs() {
 
             {/* Heavy Vehicles */}
             <div className="bg-gray-50 border-l-4 border-[#7c3aed] p-6 mb-8">
-              <h4 className="text-xl font-bold text-[#1e3a5f] mb-3">Heavy Vehicles</h4>
+              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Heavy Vehicles</h4>
               <p className="text-gray-700">
                 Heavy vehicles can pose significant risks to the integrity of water mains, especially those that are shallowly buried. The immense weight of trucks, buses, and other large machinery can exert pressure on the soil above these pipes, leading to soil compaction. This increased pressure can deform or crack the water mains beneath, particularly if they are made from materials that are less flexible or if they are already weakened by age or corrosion. Moreover, the vibration caused by heavy traffic can lead to shifts in the soil that may disturb the pipes' alignment, exacerbating the risk of leaks or bursts. Regular assessment of water main routes under heavily trafficked areas is crucial to ensure their durability and to plan for necessary reinforcements or rerouting.
               </p>
             </div>
 
-            <h3 className="text-2xl font-bold text-[#1e3a5f] mb-6">ScotWater Water Main Repairs</h3>
+            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-6">ScotWater Water Main Repairs</h3>
 
             <p className="text-gray-700 mb-4">
               At ScotWater, we have decades of experience tackling even the most disastrous water main emergencies.
@@ -153,7 +153,7 @@ export default function WaterMainRepairs() {
               When your water main breaks, you need someone who appreciates the scale of the emergency and knows how to fix it as quickly and effectively as possible. Using innovative methods of leak detection, testing, and trenchless repairs, our engineers will fix your problem in the most long-lasting and non-invasive way. Where necessary, we also have the skills and equipment to carry out full water main replacements.
             </p>
 
-            <h4 className="text-xl font-bold text-[#1e3a5f] mb-4">24-Hour Emergency Service</h4>
+            <h4 className="text-xl font-bold text-[#1e3a8a] mb-4">24-Hour Emergency Service</h4>
 
             <div className="bg-yellow-50 border-l-4 border-yellow-400 p-6 mb-8">
               <p className="text-gray-700 mb-4">
@@ -164,7 +164,7 @@ export default function WaterMainRepairs() {
               </p>
             </div>
 
-            <h3 className="text-2xl font-bold text-[#1e3a5f] mb-6">Contact ScotWater</h3>
+            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-6">Contact ScotWater</h3>
 
             <p className="text-gray-700 mb-6">
               When water mains burst, you must act fast. For reliable, professional, and timely water main repair services across Scotland, trust ScotWater to deliver exceptional results.
@@ -198,7 +198,7 @@ export default function WaterMainRepairs() {
               </div>
               <Button 
                 size="lg"
-                className="bg-[#F9E45C] text-[#1B3A6B] hover:bg-[#F9E45C]/90 text-xl font-bold px-8 py-6 h-auto"
+                className="bg-[#F9E45C] text-[#1e3a8a] hover:bg-[#F9E45C]/90 text-xl font-bold px-8 py-6 h-auto"
                 asChild
               >
                 <a href="tel:08002062778" className="flex items-center gap-3">
@@ -213,7 +213,7 @@ export default function WaterMainRepairs() {
         {/* What to Expect Section */}
         <section className="py-16 bg-gray-100">
           <div className="container">
-            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-4">
               What to expect from ScotWater – Your trusted water services expert
             </h2>
             <p className="text-center text-gray-600 mb-12 text-lg">
@@ -271,7 +271,7 @@ export default function WaterMainRepairs() {
         {/* Customer Reviews Section */}
         <section className="py-16 bg-white">
           <div className="container">
-            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-8">
+            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-8">
               Here's what our happy customers have to say
             </h2>
 
@@ -291,7 +291,7 @@ export default function WaterMainRepairs() {
                   I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
                 </p>
                 <div className="border-t pt-4">
-                  <p className="font-bold text-[#1B3A6B]">Paul Strachan</p>
+                  <p className="font-bold text-[#1e3a8a]">Paul Strachan</p>
                   <p className="text-gray-600 text-sm mb-2">Glasgow</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
@@ -307,7 +307,7 @@ export default function WaterMainRepairs() {
                   Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
                 </p>
                 <div className="border-t pt-4">
-                  <p className="font-bold text-[#1B3A6B]">Jonathan Godfrey</p>
+                  <p className="font-bold text-[#1e3a8a]">Jonathan Godfrey</p>
                   <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
@@ -323,7 +323,7 @@ export default function WaterMainRepairs() {
                   We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
                 </p>
                 <div className="border-t pt-4">
-                  <p className="font-bold text-[#1B3A6B]">Gordan Christie</p>
+                  <p className="font-bold text-[#1e3a8a]">Gordan Christie</p>
                   <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
@@ -341,7 +341,7 @@ export default function WaterMainRepairs() {
         {/* Services Section */}
         <section className="py-16 bg-gray-50">
           <div className="container">
-            <h2 className="text-3xl font-bold text-[#1e3a5f] text-center mb-12">You may be interested in</h2>
+            <h2 className="text-3xl font-bold text-[#1e3a8a] text-center mb-12">You may be interested in</h2>
             
             <div className="grid md:grid-cols-3 gap-8">
               {services.map((service, index) => (
@@ -356,7 +356,7 @@ export default function WaterMainRepairs() {
                     className="w-full h-48 object-cover"
                   />
                   <div className="p-6">
-                    <h3 className="text-xl font-bold text-[#1e3a5f] hover:text-[#7c3aed] transition-colors">
+                    <h3 className="text-xl font-bold text-[#1e3a8a] hover:text-[#7c3aed] transition-colors">
                       {service.title}
                     </h3>
                   </div>

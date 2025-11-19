@@ -207,7 +207,7 @@ export default function LeadPipeLandlords() {
               </div>
               <Button 
                 size="lg"
-                className="bg-[#F9E45C] text-[#1B3A6B] hover:bg-[#F9E45C]/90 text-xl font-bold px-8 py-6 h-auto"
+                className="bg-[#F9E45C] text-[#1e3a8a] hover:bg-[#F9E45C]/90 text-xl font-bold px-8 py-6 h-auto"
                 asChild
               >
                 <a href="tel:08002062778" className="flex items-center gap-3">
@@ -222,7 +222,7 @@ export default function LeadPipeLandlords() {
         {/* What to Expect Section */}
         <section className="py-16 bg-gray-100">
           <div className="container">
-            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-4">
               What to expect from ScotWater – Your trusted water services expert
             </h2>
             <p className="text-center text-gray-600 mb-12 text-lg">
@@ -280,7 +280,7 @@ export default function LeadPipeLandlords() {
         {/* Customer Reviews Section */}
         <section className="py-16 bg-white">
           <div className="container">
-            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-8">
+            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-8">
               Here's what our happy customers have to say
             </h2>
 
@@ -300,7 +300,7 @@ export default function LeadPipeLandlords() {
                   I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
                 </p>
                 <div className="border-t pt-4">
-                  <p className="font-bold text-[#1B3A6B]">Paul Strachan</p>
+                  <p className="font-bold text-[#1e3a8a]">Paul Strachan</p>
                   <p className="text-gray-600 text-sm mb-2">Glasgow</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
@@ -316,7 +316,7 @@ export default function LeadPipeLandlords() {
                   Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
                 </p>
                 <div className="border-t pt-4">
-                  <p className="font-bold text-[#1B3A6B]">Jonathan Godfrey</p>
+                  <p className="font-bold text-[#1e3a8a]">Jonathan Godfrey</p>
                   <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
@@ -332,7 +332,7 @@ export default function LeadPipeLandlords() {
                   We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
                 </p>
                 <div className="border-t pt-4">
-                  <p className="font-bold text-[#1B3A6B]">Gordan Christie</p>
+                  <p className="font-bold text-[#1e3a8a]">Gordan Christie</p>
                   <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
@@ -350,7 +350,7 @@ export default function LeadPipeLandlords() {
         {/* You may be interested in Section */}
         <section className="py-16 bg-gray-50">
           <div className="container">
-            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-12">
+            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-12">
               You may be interested in
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -361,7 +361,7 @@ export default function LeadPipeLandlords() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                  <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                     Lead Pipe Replacement
                   </h3>
                 </div>
@@ -374,7 +374,7 @@ export default function LeadPipeLandlords() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                  <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                     Lead Pipe Replacement Scheme
                   </h3>
                 </div>
@@ -387,7 +387,7 @@ export default function LeadPipeLandlords() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                  <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                     Lead Pipe in Scotland
                   </h3>
                 </div>
@@ -400,7 +400,7 @@ export default function LeadPipeLandlords() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                  <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                     Water Supply Pipe Installations
                   </h3>
                 </div>
@@ -413,7 +413,7 @@ export default function LeadPipeLandlords() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                  <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                     Water Leaks
                   </h3>
                 </div>
@@ -426,7 +426,7 @@ export default function LeadPipeLandlords() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                  <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                     Water Filter
                   </h3>
                 </div>

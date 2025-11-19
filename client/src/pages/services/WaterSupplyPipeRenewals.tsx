@@ -19,7 +19,7 @@ export default function WaterSupplyPipeRenewals() {
       {/* Main Content */}
       <section className="py-16 bg-white">
         <div className="container max-w-4xl">
-          <h2 className="text-3xl md:text-4xl font-bold text-[#1B3A6B] mb-6">
+          <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
             Professional Water Supply Pipe Renewal Services in Scotland
           </h2>
           <p className="text-lg text-gray-700 mb-6">
@@ -31,7 +31,7 @@ export default function WaterSupplyPipeRenewals() {
 
           {/* Lead Pipes Section */}
           <div className="bg-yellow-50 border-l-4 border-[#F4E04D] p-6 mb-8">
-            <h3 className="text-2xl font-bold text-[#1B3A6B] mb-4">Lead Water Supply Pipes</h3>
+            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Lead Water Supply Pipes</h3>
             <p className="text-gray-700 mb-4">
               If your house was built before 1970 and hasn't been modernised, there's a good chance your water supply pipe may be made of lead.
             </p>
@@ -44,19 +44,19 @@ export default function WaterSupplyPipeRenewals() {
           </div>
 
           {/* Water Quality Regulations */}
-          <h3 className="text-2xl font-bold text-[#1B3A6B] mb-4">Water Quality and Safety Standards</h3>
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Water Quality and Safety Standards</h3>
           <p className="text-lg text-gray-700 mb-4">
             Water companies conduct regular checks to ensure that the water supply complies with government regulations. According to The Water Supply (Water Quality) Regulations 2016, the maximum allowable concentration of lead per litre is 10 micrograms however lead is a common toxic metal with <strong>no safe level of consumption</strong>. It is a totally preventable poison.
           </p>
           <div className="bg-[#5B2C6F]/10 p-6 rounded-lg mb-8">
-            <p className="text-xl font-bold text-[#1B3A6B] mb-2">The safest water is lead-free water</p>
+            <p className="text-xl font-bold text-[#1e3a8a] mb-2">The safest water is lead-free water</p>
             <p className="text-gray-700">
               Replacing lead pipes is not just best practice—<strong>it is a legal requirement for rented properties in Scotland</strong>
             </p>
           </div>
 
           {/* Steps to Replace */}
-          <h3 className="text-2xl font-bold text-[#1B3A6B] mb-4">The Steps to Replace Your Water Supply Pipe</h3>
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">The Steps to Replace Your Water Supply Pipe</h3>
           <div className="space-y-3 mb-8">
             <div className="flex items-start gap-3">
               <div className="w-8 h-8 rounded-full bg-[#5B2C6F] text-white flex items-center justify-center font-bold flex-shrink-0 mt-1">1</div>
@@ -82,7 +82,7 @@ export default function WaterSupplyPipeRenewals() {
 
           {/* Technical Requirements */}
           <div className="bg-gray-50 p-8 rounded-lg mb-8">
-            <h3 className="text-2xl font-bold text-[#1B3A6B] mb-4">Technical Requirements</h3>
+            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Technical Requirements</h3>
             <ul className="space-y-3 text-gray-700">
               <li className="flex items-start gap-2">
                 <span className="text-[#5B2C6F] font-bold">•</span>
@@ -104,7 +104,7 @@ export default function WaterSupplyPipeRenewals() {
           </div>
 
           {/* Shared Supply */}
-          <h3 className="text-2xl font-bold text-[#1B3A6B] mb-4">Properties with Shared Water Supply</h3>
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Properties with Shared Water Supply</h3>
           <p className="text-lg text-gray-700 mb-4">
             Many older properties in Scotland share a water supply. In this case:
           </p>
@@ -125,7 +125,7 @@ export default function WaterSupplyPipeRenewals() {
 
           {/* For Tenants */}
           <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-8">
-            <h3 className="text-2xl font-bold text-[#1B3A6B] mb-4">If You're a Tenant</h3>
+            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">If You're a Tenant</h3>
             <p className="text-gray-700 mb-4">If you suspect lead pipes:</p>
             <ul className="space-y-3 text-gray-700">
               <li className="flex items-start gap-2">
@@ -140,7 +140,7 @@ export default function WaterSupplyPipeRenewals() {
           </div>
 
           {/* After Work is Complete */}
-          <h3 className="text-2xl font-bold text-[#1B3A6B] mb-4">Once Work is Complete</h3>
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Once Work is Complete</h3>
           <ul className="space-y-3 text-gray-700 mb-8">
             <li className="flex items-start gap-2">
               <span className="text-[#5B2C6F] font-bold">•</span>
@@ -194,7 +194,7 @@ export default function WaterSupplyPipeRenewals() {
 
           {/* Cost Savings */}
           <div className="bg-green-50 border-l-4 border-green-500 p-6 mb-8">
-            <h3 className="text-xl font-bold text-[#1B3A6B] mb-3">💡 Cost-Saving Tip</h3>
+            <h3 className="text-xl font-bold text-[#1e3a8a] mb-3">💡 Cost-Saving Tip</h3>
             <p className="text-gray-700">
               Replacing your old water supply pipe when areas are already exposed for other work can save you money in the long run, as it eliminates the need to re-expose the pipe for future repairs.
             </p>
@@ -212,14 +212,14 @@ export default function WaterSupplyPipeRenewals() {
             <div className="flex flex-col md:flex-row gap-4 justify-center items-center">
               <a 
                 href="tel:08002062778"
-                className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1B3A6B] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
+                className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
               >
                 0800 206 2778
                 <Phone className="w-6 h-6 scale-x-[-1]" />
               </a>
               <a 
                 href="mailto:hello@scotwater.co.uk"
-                className="bg-white hover:bg-gray-100 text-[#1B3A6B] font-bold px-8 py-4 rounded-lg text-xl transition-colors"
+                className="bg-white hover:bg-gray-100 text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl transition-colors"
               >
                 hello@scotwater.co.uk
               </a>
@@ -238,7 +238,7 @@ export default function WaterSupplyPipeRenewals() {
             </div>
             <a 
               href="tel:08002062778"
-              className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1B3A6B] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
+              className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
             >
               0800 206 2778
               <Phone className="w-6 h-6 scale-x-[-1]" />
@@ -253,7 +253,7 @@ export default function WaterSupplyPipeRenewals() {
       {/* Customer Reviews Section */}
       <section className="py-16 bg-white">
         <div className="container">
-          <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-8">
+          <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-8">
             Here's what our happy customers have to say
           </h2>
 
@@ -273,7 +273,7 @@ export default function WaterSupplyPipeRenewals() {
                 I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
               </p>
               <div className="border-t pt-4">
-                <p className="font-bold text-[#1B3A6B]">Paul Strachan</p>
+                <p className="font-bold text-[#1e3a8a]">Paul Strachan</p>
                 <p className="text-gray-600 text-sm mb-2">Glasgow</p>
                 <div className="flex gap-1">
                   <span className="text-yellow-400">★</span>
@@ -289,7 +289,7 @@ export default function WaterSupplyPipeRenewals() {
                 Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
               </p>
               <div className="border-t pt-4">
-                <p className="font-bold text-[#1B3A6B]">Jonathan Godfrey</p>
+                <p className="font-bold text-[#1e3a8a]">Jonathan Godfrey</p>
                 <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
                 <div className="flex gap-1">
                   <span className="text-yellow-400">★</span>
@@ -305,7 +305,7 @@ export default function WaterSupplyPipeRenewals() {
                 We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
               </p>
               <div className="border-t pt-4">
-                <p className="font-bold text-[#1B3A6B]">Gordan Christie</p>
+                <p className="font-bold text-[#1e3a8a]">Gordan Christie</p>
                 <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
                 <div className="flex gap-1">
                   <span className="text-yellow-400">★</span>
@@ -323,7 +323,7 @@ export default function WaterSupplyPipeRenewals() {
       {/* Services Section */}
       <section className="py-16 bg-gray-50">
         <div className="container">
-          <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-12">
+          <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-12">
             You may be interested in
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -334,7 +334,7 @@ export default function WaterSupplyPipeRenewals() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Lead Pipe Replacement
                 </h3>
               </div>
@@ -347,7 +347,7 @@ export default function WaterSupplyPipeRenewals() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Water Leak Detection
                 </h3>
               </div>
@@ -360,7 +360,7 @@ export default function WaterSupplyPipeRenewals() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Impact Moling
                 </h3>
               </div>
@@ -373,7 +373,7 @@ export default function WaterSupplyPipeRenewals() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Water Main Repairs
                 </h3>
               </div>
@@ -386,7 +386,7 @@ export default function WaterSupplyPipeRenewals() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Lead Pipe Replacement Scheme
                 </h3>
               </div>
@@ -399,7 +399,7 @@ export default function WaterSupplyPipeRenewals() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Water Main Installations
                 </h3>
               </div>

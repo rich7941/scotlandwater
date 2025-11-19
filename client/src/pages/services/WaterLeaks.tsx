@@ -26,7 +26,7 @@ export default function WaterLeaks() {
         {/* Water Leaks at Home */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a5f] mb-6">Water Leaks at Home</h2>
+            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">Water Leaks at Home</h2>
             
             <div className="space-y-4 text-gray-700 leading-relaxed">
               <p>
@@ -47,7 +47,7 @@ export default function WaterLeaks() {
         {/* How to Detect a Water Leak at Home */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a5f] mb-8">How to Detect a Water Leak at Home</h2>
+            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-8">How to Detect a Water Leak at Home</h2>
             
             <p className="text-gray-700 leading-relaxed mb-8">
               Detecting water leaks within your home can often be challenging, especially when there are no obvious signs of leakage. At ScotWater, we suggest a few practical methods to help our customers across Scotland stay alert to hidden water leaks:
@@ -55,21 +55,21 @@ export default function WaterLeaks() {
 
             <div className="space-y-6">
               <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="font-bold text-lg text-[#1e3a5f] mb-3">Monitor Your Water Bill</h3>
+                <h3 className="font-bold text-lg text-[#1e3a8a] mb-3">Monitor Your Water Bill</h3>
                 <p className="text-gray-700 leading-relaxed">
                   Regularly review your water usage by checking your water bill. Look for unexpected spikes that can't be accounted for by ordinary activities, like hosting guests or increased use of your garden hose during warmer weather. Consider signing up for online account access or requesting monthly statements from Scottish Water to keep a close eye on your consumption patterns.
                 </p>
               </div>
 
               <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="font-bold text-lg text-[#1e3a5f] mb-3">Check Water Pressure</h3>
+                <h3 className="font-bold text-lg text-[#1e3a8a] mb-3">Check Water Pressure</h3>
                 <p className="text-gray-700 leading-relaxed">
                   A drop in water pressure when filling your bathtub or during a shower can often signal a leak. You can conduct a straightforward test by shutting off all water fixtures in your home and then turning one back on. If the water pressure seems unusually high initially, it might indicate a hidden leak.
                 </p>
               </div>
 
               <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="font-bold text-lg text-[#1e3a5f] mb-3">Observe Water Heater/Boiler Activity</h3>
+                <h3 className="font-bold text-lg text-[#1e3a8a] mb-3">Observe Water Heater/Boiler Activity</h3>
                 <p className="text-gray-700 leading-relaxed">
                   Pay attention to how frequently your water heater or boiler activates. If it appears to run more continuously than normal, this could point to a leak in your hot water system. Such leaks, particularly those underground, are generally more difficult to detect and require specific attention.
                 </p>
@@ -81,7 +81,7 @@ export default function WaterLeaks() {
         {/* Common Places to Find a Water Leak */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a5f] mb-6">Common Places to Find a Water Leak</h2>
+            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">Common Places to Find a Water Leak</h2>
             
             <p className="text-gray-700 leading-relaxed mb-8">
               If you're concerned about potential water leaks in your home and don't have access to a leak detector, there are several common areas you should inspect to prevent water damage and save on utility costs. Here at ScotWater, we recommend regularly checking these critical spots in your home:
@@ -89,28 +89,28 @@ export default function WaterLeaks() {
 
             <div className="space-y-6">
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="font-bold text-lg text-[#1e3a5f] mb-3">Water Tank/Boiler</h3>
+                <h3 className="font-bold text-lg text-[#1e3a8a] mb-3">Water Tank/Boiler</h3>
                 <p className="text-gray-700 leading-relaxed">
                   Examine the valves managing the flow into and out of your boiler or water tank for any visible signs of leakage, such as water dripping or pooling. If you don't see an active leak, look for indirect signs like staining or a persistent hissing sound from the valves. For central heating boilers, it's crucial to involve a specialist as these symptoms could indicate a more severe issue.
                 </p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="font-bold text-lg text-[#1e3a5f] mb-3">Toilets</h3>
+                <h3 className="font-bold text-lg text-[#1e3a8a] mb-3">Toilets</h3>
                 <p className="text-gray-700 leading-relaxed">
                   Toilets are prone to leaks due to their frequent use. A simple way to check for toilet leaks is to add some food colouring (dye) to the tank and wait about ten minutes. If the water in the bowl turns the colour of the dye without flushing, you likely have a leak that needs fixing.
                 </p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="font-bold text-lg text-[#1e3a5f] mb-3">Showerheads</h3>
+                <h3 className="font-bold text-lg text-[#1e3a8a] mb-3">Showerheads</h3>
                 <p className="text-gray-700 leading-relaxed">
                   Regular usage can also wear out showerheads, leading to leaks. Signs of a leaky showerhead include low water pressure and water not flowing uniformly. Inspecting and cleaning your showerhead regularly can help identify and resolve these issues early.
                 </p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="font-bold text-lg text-[#1e3a5f] mb-3">Appliances</h3>
+                <h3 className="font-bold text-lg text-[#1e3a8a] mb-3">Appliances</h3>
                 <p className="text-gray-700 leading-relaxed">
                   Appliances like washing machines and dishwashers are often moved or vibrate during use, which can loosen connections over time. Make it a routine to check the hoses and fittings on your appliances to ensure they're tight and leak-free.
                 </p>
@@ -126,7 +126,7 @@ export default function WaterLeaks() {
         {/* Common Indicators of Water Leaks */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a5f] mb-8">Common Indicators of Water Leaks</h2>
+            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-8">Common Indicators of Water Leaks</h2>
             
             <p className="text-gray-700 leading-relaxed mb-8">
               If you're concerned about potential leaks in your home, staying vigilant for certain signs can help you catch issues early, potentially saving on costly repairs and water waste. At ScotWater, we advise our customers to be on the lookout for the following common indicators of water leaks:
@@ -170,7 +170,7 @@ export default function WaterLeaks() {
         {/* How to Check for Water Leaks with Your Water Meter */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a5f] mb-8">
+            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-8">
               How to Check for Water Leaks at Home with Your Water Meter (DIY Method)
             </h2>
             
@@ -223,7 +223,7 @@ export default function WaterLeaks() {
                     </div>
                   </div>
                   <div className="flex-1">
-                    <h3 className="font-bold text-lg text-[#1e3a5f] mb-2">{step.title}</h3>
+                    <h3 className="font-bold text-lg text-[#1e3a8a] mb-2">{step.title}</h3>
                     <p className="text-gray-700 leading-relaxed">{step.description}</p>
                   </div>
                 </div>
@@ -280,7 +280,7 @@ export default function WaterLeaks() {
               </div>
               <Button 
                 size="lg"
-                className="bg-[#F9E45C] text-[#1B3A6B] hover:bg-[#F9E45C]/90 text-xl font-bold px-8 py-6 h-auto"
+                className="bg-[#F9E45C] text-[#1e3a8a] hover:bg-[#F9E45C]/90 text-xl font-bold px-8 py-6 h-auto"
                 asChild
               >
                 <a href="tel:08002062778" className="flex items-center gap-3">
@@ -295,7 +295,7 @@ export default function WaterLeaks() {
         {/* What to Expect Section */}
         <section className="py-16 bg-gray-100">
           <div className="container">
-            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-4">
               What to expect from ScotWater – Your trusted water services expert
             </h2>
             <p className="text-center text-gray-600 mb-12 text-lg">
@@ -353,7 +353,7 @@ export default function WaterLeaks() {
         {/* Customer Reviews Section */}
         <section className="py-16 bg-white">
           <div className="container">
-            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-8">
+            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-8">
               Here's what our happy customers have to say
             </h2>
 
@@ -373,7 +373,7 @@ export default function WaterLeaks() {
                   I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
                 </p>
                 <div className="border-t pt-4">
-                  <p className="font-bold text-[#1B3A6B]">Paul Strachan</p>
+                  <p className="font-bold text-[#1e3a8a]">Paul Strachan</p>
                   <p className="text-gray-600 text-sm mb-2">Glasgow</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
@@ -389,7 +389,7 @@ export default function WaterLeaks() {
                   Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
                 </p>
                 <div className="border-t pt-4">
-                  <p className="font-bold text-[#1B3A6B]">Jonathan Godfrey</p>
+                  <p className="font-bold text-[#1e3a8a]">Jonathan Godfrey</p>
                   <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
@@ -405,7 +405,7 @@ export default function WaterLeaks() {
                   We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
                 </p>
                 <div className="border-t pt-4">
-                  <p className="font-bold text-[#1B3A6B]">Gordan Christie</p>
+                  <p className="font-bold text-[#1e3a8a]">Gordan Christie</p>
                   <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
@@ -423,7 +423,7 @@ export default function WaterLeaks() {
         {/* Services Section */}
         <section className="py-16 bg-gray-50">
           <div className="container">
-            <h2 className="text-3xl font-bold text-center text-[#1e3a5f] mb-12">
+            <h2 className="text-3xl font-bold text-center text-[#1e3a8a] mb-12">
               You may be interested in
             </h2>
             <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
@@ -469,7 +469,7 @@ export default function WaterLeaks() {
                       />
                     </div>
                     <div className="p-6">
-                      <h3 className="font-bold text-xl text-[#1e3a5f] group-hover:text-purple-600 transition-colors">
+                      <h3 className="font-bold text-xl text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                         {service.title}
                       </h3>
                     </div>

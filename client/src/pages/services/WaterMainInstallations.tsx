@@ -19,7 +19,7 @@ export default function WaterMainInstallations() {
       {/* Main Content */}
       <section className="py-16 bg-white">
         <div className="container max-w-4xl">
-          <h2 className="text-3xl md:text-4xl font-bold text-[#1B3A6B] mb-6">
+          <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
             Commercial Water Main Installation Specialists in Scotland
           </h2>
           <p className="text-lg text-gray-700 mb-12">
@@ -27,12 +27,12 @@ export default function WaterMainInstallations() {
           </p>
 
           {/* Our Service Offerings Section */}
-          <h3 className="text-2xl font-bold text-[#1B3A6B] mb-6 mt-12">Our Service Offerings</h3>
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-6 mt-12">Our Service Offerings</h3>
           
           <div className="space-y-8 mb-12">
             {/* Service 1 */}
             <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
-              <h4 className="text-xl font-bold text-[#1B3A6B] mb-3">
+              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">
                 1. Detailed Planning and Tailored Designs
               </h4>
               <p className="text-gray-700">
@@ -42,7 +42,7 @@ export default function WaterMainInstallations() {
 
             {/* Service 2 */}
             <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
-              <h4 className="text-xl font-bold text-[#1B3A6B] mb-3">
+              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">
                 2. Advanced Water Main Installation and Renewal Methods
               </h4>
               <p className="text-gray-700">
@@ -52,7 +52,7 @@ export default function WaterMainInstallations() {
 
             {/* Service 3 */}
             <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
-              <h4 className="text-xl font-bold text-[#1B3A6B] mb-3">
+              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">
                 3. Regulatory Compliance and Certifications
               </h4>
               <p className="text-gray-700">
@@ -62,7 +62,7 @@ export default function WaterMainInstallations() {
           </div>
 
           {/* Installation Methods Section */}
-          <h3 className="text-2xl font-bold text-[#1B3A6B] mb-6 mt-12">
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-6 mt-12">
             Commercial Water Main Installation Methods
           </h3>
           <p className="text-lg text-gray-700 mb-8">
@@ -73,7 +73,7 @@ export default function WaterMainInstallations() {
             <div className="flex items-start gap-4">
               <div className="w-3 h-3 rounded-full bg-[#5B2C6F] flex-shrink-0 mt-2"></div>
               <div>
-                <h4 className="text-xl font-bold text-[#1B3A6B] mb-2">Open Cut Trenching</h4>
+                <h4 className="text-xl font-bold text-[#1e3a8a] mb-2">Open Cut Trenching</h4>
                 <p className="text-gray-700">
                   This method is perfect for areas where full access is available, necessitating complete water main replacements. Our qualified operators manage every detail of the trenching and pipe installation process.
                 </p>
@@ -83,7 +83,7 @@ export default function WaterMainInstallations() {
             <div className="flex items-start gap-4">
               <div className="w-3 h-3 rounded-full bg-[#5B2C6F] flex-shrink-0 mt-2"></div>
               <div>
-                <h4 className="text-xl font-bold text-[#1B3A6B] mb-2">Butt Fusion and Electro Fusion Welding</h4>
+                <h4 className="text-xl font-bold text-[#1e3a8a] mb-2">Butt Fusion and Electro Fusion Welding</h4>
                 <p className="text-gray-700">
                   Utilizing these techniques, we create strong, continuous connections between new pipe sections, significantly improving the structural integrity and functionality of the water main.
                 </p>
@@ -92,7 +92,7 @@ export default function WaterMainInstallations() {
           </div>
 
           {/* Trenchless Technologies Section */}
-          <h4 className="text-xl font-bold text-[#1B3A6B] mb-6 mt-8">
+          <h4 className="text-xl font-bold text-[#1e3a8a] mb-6 mt-8">
             State-of-the-Art Trenchless Technologies for Minimal Disruption:
           </h4>
 
@@ -100,7 +100,7 @@ export default function WaterMainInstallations() {
             <div className="flex items-start gap-4">
               <div className="w-3 h-3 rounded-full bg-[#5B2C6F] flex-shrink-0 mt-2"></div>
               <div>
-                <h5 className="text-lg font-bold text-[#1B3A6B] mb-2">Directional Drilling</h5>
+                <h5 className="text-lg font-bold text-[#1e3a8a] mb-2">Directional Drilling</h5>
                 <p className="text-gray-700">
                   This technique avoids surface obstacles and is particularly suitable for congested urban settings.
                 </p>
@@ -110,7 +110,7 @@ export default function WaterMainInstallations() {
             <div className="flex items-start gap-4">
               <div className="w-3 h-3 rounded-full bg-[#5B2C6F] flex-shrink-0 mt-2"></div>
               <div>
-                <h5 className="text-lg font-bold text-[#1B3A6B] mb-2">Pneumatic and Hydraulic Bursting</h5>
+                <h5 className="text-lg font-bold text-[#1e3a8a] mb-2">Pneumatic and Hydraulic Bursting</h5>
                 <p className="text-gray-700">
                   A method that allows for the replacement of old mains without the need for significant digging.
                 </p>
@@ -120,7 +120,7 @@ export default function WaterMainInstallations() {
             <div className="flex items-start gap-4">
               <div className="w-3 h-3 rounded-full bg-[#5B2C6F] flex-shrink-0 mt-2"></div>
               <div>
-                <h5 className="text-lg font-bold text-[#1B3A6B] mb-2">Impact Moling</h5>
+                <h5 className="text-lg font-bold text-[#1e3a8a] mb-2">Impact Moling</h5>
                 <p className="text-gray-700">
                   A minimally invasive alternative, ideal for situations beneath roads or within landscaped zones.
                 </p>
@@ -130,7 +130,7 @@ export default function WaterMainInstallations() {
             <div className="flex items-start gap-4">
               <div className="w-3 h-3 rounded-full bg-[#5B2C6F] flex-shrink-0 mt-2"></div>
               <div>
-                <h5 className="text-lg font-bold text-[#1B3A6B] mb-2">Auger Boring and Steel Pipe Ramming</h5>
+                <h5 className="text-lg font-bold text-[#1e3a8a] mb-2">Auger Boring and Steel Pipe Ramming</h5>
                 <p className="text-gray-700">
                   These methods are highly effective for installing new mains underneath existing structures without disturbing the surface.
                 </p>
@@ -139,7 +139,7 @@ export default function WaterMainInstallations() {
           </div>
 
           {/* Why Choose ScotWater Section */}
-          <h3 className="text-2xl font-bold text-[#1B3A6B] mb-6 mt-12">Why Choose ScotWater?</h3>
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-6 mt-12">Why Choose ScotWater?</h3>
           
           <div className="space-y-6 mb-12">
             <div className="flex items-start gap-4">
@@ -147,7 +147,7 @@ export default function WaterMainInstallations() {
                 1
               </div>
               <div>
-                <h4 className="text-xl font-bold text-[#1B3A6B] mb-2">Customised Service Solutions</h4>
+                <h4 className="text-xl font-bold text-[#1e3a8a] mb-2">Customised Service Solutions</h4>
                 <p className="text-gray-700">
                   We recognise the uniqueness of each water main installation project, providing bespoke solutions whether it's a new installation or upgrading existing water infrastructure to enhance your business operations.
                 </p>
@@ -159,7 +159,7 @@ export default function WaterMainInstallations() {
                 2
               </div>
               <div>
-                <h4 className="text-xl font-bold text-[#1B3A6B] mb-2">Unwavering Dedication to Quality</h4>
+                <h4 className="text-xl font-bold text-[#1e3a8a] mb-2">Unwavering Dedication to Quality</h4>
                 <p className="text-gray-700">
                   ScotWater is committed to excellence, maintaining transparent processes and constant communication throughout the water main installation project duration.
                 </p>
@@ -171,7 +171,7 @@ export default function WaterMainInstallations() {
                 3
               </div>
               <div>
-                <h4 className="text-xl font-bold text-[#1B3A6B] mb-2">Skilled Professional Team</h4>
+                <h4 className="text-xl font-bold text-[#1e3a8a] mb-2">Skilled Professional Team</h4>
                 <p className="text-gray-700">
                   Our water main specialists have profound knowledge and extensive experience in executing commercial water main installations, managing both small-scale and major projects with utmost precision.
                 </p>
@@ -201,14 +201,14 @@ export default function WaterMainInstallations() {
             <div className="flex flex-col md:flex-row gap-4 justify-center items-center">
               <a 
                 href="tel:08002062778"
-                className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1B3A6B] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
+                className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
               >
                 0800 206 2778
                 <Phone className="w-6 h-6 scale-x-[-1]" />
               </a>
               <a 
                 href="mailto:hello@scotwater.co.uk"
-                className="bg-white hover:bg-gray-100 text-[#1B3A6B] font-bold px-8 py-4 rounded-lg text-xl transition-colors"
+                className="bg-white hover:bg-gray-100 text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl transition-colors"
               >
                 hello@scotwater.co.uk
               </a>
@@ -227,7 +227,7 @@ export default function WaterMainInstallations() {
             </div>
             <a 
               href="tel:08002062778"
-              className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1B3A6B] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
+              className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
             >
               0800 206 2778
               <Phone className="w-6 h-6 scale-x-[-1]" />
@@ -242,7 +242,7 @@ export default function WaterMainInstallations() {
       {/* Customer Reviews Section */}
       <section className="py-16 bg-white">
         <div className="container">
-          <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-8">
+          <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-8">
             Here's what our happy customers have to say
           </h2>
 
@@ -262,7 +262,7 @@ export default function WaterMainInstallations() {
                 I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
               </p>
               <div className="border-t pt-4">
-                <p className="font-bold text-[#1B3A6B]">Paul Strachan</p>
+                <p className="font-bold text-[#1e3a8a]">Paul Strachan</p>
                 <p className="text-gray-600 text-sm mb-2">Glasgow</p>
                 <div className="flex gap-1">
                   <span className="text-yellow-400">★</span>
@@ -278,7 +278,7 @@ export default function WaterMainInstallations() {
                 Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
               </p>
               <div className="border-t pt-4">
-                <p className="font-bold text-[#1B3A6B]">Jonathan Godfrey</p>
+                <p className="font-bold text-[#1e3a8a]">Jonathan Godfrey</p>
                 <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
                 <div className="flex gap-1">
                   <span className="text-yellow-400">★</span>
@@ -294,7 +294,7 @@ export default function WaterMainInstallations() {
                 We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
               </p>
               <div className="border-t pt-4">
-                <p className="font-bold text-[#1B3A6B]">Gordan Christie</p>
+                <p className="font-bold text-[#1e3a8a]">Gordan Christie</p>
                 <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
                 <div className="flex gap-1">
                   <span className="text-yellow-400">★</span>
@@ -312,7 +312,7 @@ export default function WaterMainInstallations() {
       {/* Services Section */}
       <section className="py-16 bg-gray-50">
         <div className="container">
-          <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-12">
+          <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-12">
             You may be interested in
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -323,7 +323,7 @@ export default function WaterMainInstallations() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Lead Pipe Replacement
                 </h3>
               </div>
@@ -336,7 +336,7 @@ export default function WaterMainInstallations() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Water Leak Detection
                 </h3>
               </div>
@@ -349,7 +349,7 @@ export default function WaterMainInstallations() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Water Supply Pipe Renewals
                 </h3>
               </div>
@@ -362,7 +362,7 @@ export default function WaterMainInstallations() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Impact Moling
                 </h3>
               </div>
@@ -375,7 +375,7 @@ export default function WaterMainInstallations() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Lead Pipe Replacement Scheme
                 </h3>
               </div>
@@ -388,7 +388,7 @@ export default function WaterMainInstallations() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Water Supply Pipe Installations
                 </h3>
               </div>
