@@ -85,11 +85,9 @@ export default function WaterMainRenewals() {
               Commercial Water Main Renewal Services by ScotWater
             </h2>
             
-            <div className="prose max-w-none text-gray-700 space-y-4 mb-8">
-              <p>
-                For businesses experiencing issues with commercial water mains, whether it's due to leaks, decreased water flow or pressure, or the need to upgrade outdated infrastructure, ScotWater is equipped to provide specialised commercial solutions. When modifying commercial water mains on your property, ScotWater has the experience to undertake modifications, repairs or replacements.
-              </p>
-            </div>
+            <p className="text-gray-700 text-lg mb-6">
+              For businesses experiencing issues with commercial water mains, whether it's due to leaks, decreased water flow or pressure, or the need to upgrade outdated infrastructure, ScotWater is equipped to provide specialised commercial solutions. When modifying commercial water mains on your property, ScotWater has the experience to undertake modifications, repairs or replacements.
+            </p>
 
             {/* Factors Influencing Water Flow */}
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-6 mt-12">
