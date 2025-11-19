@@ -412,10 +412,10 @@ export default function WaterLeakDetection() {
                 </div>
               </a>
               
-              <a href="/services/water-leak-detection" className="block bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
-                <img src="/service-water-main-leak-detection.webp" alt="Water Leak Detection" className="w-full h-48 object-cover" />
+              <a href="/services/water-main-repairs" className="block bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
+                <img src="/service-water-main-repairs.webp" alt="Water Main Repairs" className="w-full h-48 object-cover" />
                 <div className="p-6">
-                  <h3 className="text-xl font-semibold text-[#1e3a5f] hover:text-purple-600">Water Leak Detection</h3>
+                  <h3 className="text-xl font-semibold text-[#1e3a5f] hover:text-purple-600">Water Main Repairs</h3>
                 </div>
               </a>
               
