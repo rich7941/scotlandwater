@@ -17,7 +17,7 @@ export default function WaterLeaks() {
         </div>
         <div className="container relative z-10">
           <p className="text-white text-lg mb-4">Help & Advice</p>
-          <h1 className="text-5xl font-bold">Water Leaks Scotland</h1>
+          <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">Water Leaks Scotland</h1>
         </div>
       </section>
 
