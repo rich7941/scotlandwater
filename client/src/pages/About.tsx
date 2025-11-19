@@ -5,11 +5,14 @@ export default function About() {
   return (
     <div className="min-h-screen">
       {/* Hero Section with Background Image */}
-      <section 
-        className="relative bg-cover bg-center py-32" 
-        style={{backgroundImage: "linear-gradient(rgba(91, 44, 111, 0.7), rgba(91, 44, 111, 0.7)), url('/about-hero.webp')"}}
-      >
-        <div className="container">
+      <section className="relative py-32">
+        <div 
+          className="absolute inset-0 bg-cover bg-center"
+          style={{backgroundImage: "url('/about-hero.webp')"}}
+        >
+          <div className="absolute inset-0 bg-black/40"></div>
+        </div>
+        <div className="container relative z-10">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">
             About ScotWater
           </h1>

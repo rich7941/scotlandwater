@@ -70,7 +70,7 @@ export default function WaterMainRenewals() {
             className="absolute inset-0 bg-cover bg-center"
             style={{ backgroundImage: "url('/water-main-renewals-hero.webp')" }}
           >
-            <div className="absolute inset-0 bg-gradient-to-r from-blue-900/80 to-purple-900/60"></div>
+            <div className="absolute inset-0 bg-black/40"></div>
           </div>
           <div className="relative z-10 text-center text-white px-4">
             <p className="text-sm uppercase tracking-wider mb-2">Services</p>

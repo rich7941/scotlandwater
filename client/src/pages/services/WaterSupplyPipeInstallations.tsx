@@ -9,7 +9,7 @@ export default function WaterSupplyPipeInstallations() {
         className="relative h-[400px] bg-cover bg-center flex items-center justify-center"
         style={{ backgroundImage: "url(/water-supply-pipe-installations-hero.webp)" }}
       >
-        <div className="absolute inset-0 bg-[#1B3A6B]/60"></div>
+        <div className="absolute inset-0 bg-black/40"></div>
         <div className="relative z-10 text-center text-white px-4">
           <p className="text-lg mb-2">Services</p>
           <h1 className="text-4xl md:text-5xl font-bold">Water Supply Pipe Installations Scotland</h1>

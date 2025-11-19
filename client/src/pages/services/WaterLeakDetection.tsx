@@ -21,7 +21,7 @@ export default function WaterLeakDetection() {
             className="absolute inset-0 bg-cover bg-center"
             style={{ backgroundImage: "url(/water-leak-detection-hero.webp)" }}
           >
-            <div className="absolute inset-0 bg-gradient-to-r from-purple-900/80 to-blue-900/60"></div>
+            <div className="absolute inset-0 bg-black/40"></div>
           </div>
           <div className="relative z-10 container text-center text-white">
             <p className="text-sm uppercase tracking-wider mb-2">Services</p>

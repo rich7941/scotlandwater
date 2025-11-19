@@ -12,7 +12,7 @@ export default function LeadPipeLandlords() {
           className="absolute inset-0 bg-cover bg-center"
           style={{ backgroundImage: 'url(/lead-pipe-landlords-hero.webp)' }}
         >
-          <div className="absolute inset-0 bg-gradient-to-r from-purple-900/70 to-blue-900/70"></div>
+          <div className="absolute inset-0 bg-black/40"></div>
         </div>
         <div className="relative z-10 container text-center text-white">
           <p className="text-lg mb-2">Help & Advice</p>

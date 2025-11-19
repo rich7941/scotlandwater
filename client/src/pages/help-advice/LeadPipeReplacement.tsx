@@ -12,7 +12,7 @@ export default function LeadPipeReplacement() {
           className="absolute inset-0 bg-cover bg-center"
           style={{ backgroundImage: 'url(/lead-pipe-replacement-help-hero.webp)' }}
         >
-          <div className="absolute inset-0 bg-gradient-to-r from-purple-900/80 to-blue-900/80"></div>
+          <div className="absolute inset-0 bg-black/40"></div>
         </div>
         <div className="relative z-10 text-center text-white px-4">
           <p className="text-lg mb-2">Help & Advice</p>

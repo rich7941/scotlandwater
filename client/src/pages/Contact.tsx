@@ -44,7 +44,7 @@ export default function Contact() {
         className="relative h-[400px] bg-cover bg-center flex items-center justify-center"
         style={{ backgroundImage: "url(/contact-hero.webp)" }}
       >
-        <div className="absolute inset-0 bg-[#5B2C6F]/60"></div>
+        <div className="absolute inset-0 bg-black/40"></div>
         <div className="relative z-10 text-center text-white px-4">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">Contact ScotWater</h1>
         </div>

@@ -11,7 +11,7 @@ export default function LeadPipeInScotland() {
             className="absolute inset-0 bg-cover bg-center"
             style={{ backgroundImage: 'url(/lead-pipe-in-scotland-hero.webp)' }}
           >
-            <div className="absolute inset-0 bg-gradient-to-r from-purple-900/80 to-purple-700/60" />
+            <div className="absolute inset-0 bg-black/40" />
           </div>
           <div className="relative z-10 container text-center text-white">
             <p className="text-lg mb-2">Help & Advice</p>
