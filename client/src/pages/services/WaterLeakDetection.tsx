@@ -36,15 +36,13 @@ export default function WaterLeakDetection() {
               Underground Water Leak Detection Services in Scotland
             </h2>
             
-            <div className="prose prose-lg max-w-none space-y-6 text-gray-700">
-              <p>
-                Water leaks can be both costly and inconvenient, and when left undetected or unresolved can lead to large water consumption charges, reduced water pressure, material damage, and, in critical situations, loss of business or production. A moderate water main leak of around 1 litre per second could add approximately £60,000 to your annual commercial water bill.
-              </p>
+            <p className="text-gray-700 text-lg mb-6">
+              Water leaks can be both costly and inconvenient, and when left undetected or unresolved can lead to large water consumption charges, reduced water pressure, material damage, and, in critical situations, loss of business or production. A moderate water main leak of around 1 litre per second could add approximately £60,000 to your annual commercial water bill.
+            </p>
 
-              <p>
-                At ScotWater, we understand that where water appears on the surface may not actually be where the water main leak originates. Our highly trained water leak detection technicians use a range of advanced equipment to confirm the leak's exact location before any work begins.
-              </p>
-            </div>
+            <p className="text-gray-700 text-lg mb-6">
+              At ScotWater, we understand that where water appears on the surface may not actually be where the water main leak originates. Our highly trained water leak detection technicians use a range of advanced equipment to confirm the leak's exact location before any work begins.
+            </p>
           </div>
         </section>
 
