@@ -67,7 +67,7 @@ export default function LeadPipeReplacementScheme() {
             <div className="absolute inset-0 bg-black/40"></div>
           </div>
           <div className="container relative z-10">
-            <p className="text-sm uppercase tracking-wider mb-2">Help & Advice</p>
+            <p className="text-white text-lg mb-4">Help & Advice</p>
             <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">
               Lead Pipe Replacement Scheme Scotland
             </h1>
