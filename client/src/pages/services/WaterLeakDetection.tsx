@@ -16,7 +16,7 @@ export default function WaterLeakDetection() {
       
       <main className="flex-1">
         {/* Hero Section */}
-        <section className="relative h-[400px] flex items-center justify-center">
+        <section className="relative h-[500px] flex items-center justify-center">
           <div 
             className="absolute inset-0 bg-cover bg-center"
             style={{ backgroundImage: "url(/water-leak-detection-hero.webp)" }}

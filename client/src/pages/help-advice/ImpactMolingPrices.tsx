@@ -9,7 +9,7 @@ export default function ImpactMolingPrices() {
       
       
       {/* Hero Section */}
-      <section className="relative h-[400px] flex items-center justify-center">
+      <section className="relative h-[500px] flex items-center justify-center">
         <div 
           className="absolute inset-0 bg-cover bg-center"
           style={{ backgroundImage: "url('/impact-moling-prices-hero.webp')" }}

@@ -57,7 +57,7 @@ export default function WaterMainRepairs() {
     <div className="min-h-screen flex flex-col">
       <main className="flex-1">
         {/* Hero Section */}
-        <section className="relative h-[400px] flex items-center justify-center text-white">
+        <section className="relative h-[500px] flex items-center justify-center text-white">
           <div className="absolute inset-0 bg-black/40 z-10"></div>
           <img
             src="/water-main-repairs-hero.webp"

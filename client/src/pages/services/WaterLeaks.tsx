@@ -6,7 +6,7 @@ export default function WaterLeaks() {
   return (
     <div className="min-h-screen flex flex-col">
       {/* Hero Section */}
-      <section className="relative h-[400px] flex items-center justify-center">
+      <section className="relative h-[500px] flex items-center justify-center">
         <div
           className="absolute inset-0 bg-cover bg-center"
           style={{

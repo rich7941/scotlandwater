@@ -99,7 +99,7 @@ export default function Reviews() {
     <div className="min-h-screen">
       {/* Hero Section */}
       <div 
-        className="relative h-[400px] bg-cover bg-center flex items-center justify-center"
+        className="relative h-[500px] bg-cover bg-center flex items-center justify-center"
         style={{ backgroundImage: "url(/reviews-hero.webp)" }}
       >
         <div className="absolute inset-0 bg-black/40"></div>
