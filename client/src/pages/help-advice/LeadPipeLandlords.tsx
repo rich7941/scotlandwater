@@ -14,9 +14,9 @@ export default function LeadPipeLandlords() {
         >
           <div className="absolute inset-0 bg-black/40"></div>
         </div>
-        <div className="relative z-10 container text-center text-white">
+        <div className="container relative z-10">
           <p className="text-white text-lg mb-4">Help & Advice</p>
-          <h1 className="text-5xl font-bold">Lead Pipe Landlords</h1>
+          <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">Lead Pipe Landlords</h1>
         </div>
       </section>
 

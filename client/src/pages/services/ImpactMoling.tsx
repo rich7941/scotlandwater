@@ -15,9 +15,9 @@ export default function ImpactMoling() {
           >
             <div className="absolute inset-0 bg-black/40"></div>
           </div>
-          <div className="relative z-10 container text-center text-white">
+          <div className="container relative z-10">
             <p className="text-white text-lg mb-4">Services</p>
-            <h1 className="text-5xl font-bold">Impact Moling Scotland</h1>
+            <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">Impact Moling Scotland</h1>
           </div>
         </section>
 
