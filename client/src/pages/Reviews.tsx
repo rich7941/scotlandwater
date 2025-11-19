@@ -111,7 +111,7 @@ export default function Reviews() {
       {/* Main Content Section */}
       <section className="py-16 bg-white">
         <div className="container max-w-6xl">
-          <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-12">
+          <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-12">
             Explore Some of Our Recent Customer Reviews
           </h2>
           
@@ -127,7 +127,7 @@ export default function Reviews() {
                     {review.text}
                   </p>
                   <div className="border-t pt-4">
-                    <p className="font-bold text-[#1B3A6B]">{review.name}</p>
+                    <p className="font-bold text-[#1e3a8a]">{review.name}</p>
                     <p className="text-gray-600 text-sm mb-2">{review.location}</p>
                     <div className="flex gap-1">
                       <span className="text-yellow-400">★</span>
@@ -154,7 +154,7 @@ export default function Reviews() {
             </div>
             <a 
               href="tel:08002062778"
-              className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1B3A6B] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
+              className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
             >
               0800 206 2778
               <Phone className="w-6 h-6 scale-x-[-1]" />
@@ -169,7 +169,7 @@ export default function Reviews() {
       {/* Services Section */}
       <section className="py-16 bg-gray-50">
         <div className="container">
-          <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1B3A6B] mb-12">
+          <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-12">
             You may be interested in
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -180,7 +180,7 @@ export default function Reviews() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Lead Pipe Replacement
                 </h3>
               </div>
@@ -193,7 +193,7 @@ export default function Reviews() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Water Leak Detection
                 </h3>
               </div>
@@ -206,7 +206,7 @@ export default function Reviews() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Water Supply Pipe Installations
                 </h3>
               </div>
@@ -219,7 +219,7 @@ export default function Reviews() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Impact Moling
                 </h3>
               </div>
@@ -232,7 +232,7 @@ export default function Reviews() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Lead Pipe Replacement Scheme
                 </h3>
               </div>
@@ -245,7 +245,7 @@ export default function Reviews() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
+                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
                   Water Main Installations
                 </h3>
               </div>
