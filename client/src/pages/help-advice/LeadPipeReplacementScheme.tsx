@@ -496,7 +496,7 @@ export default function LeadPipeReplacementScheme() {
                     />
                   </div>
                   <div className="p-4">
-                    <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-[#5B2C6F] transition-colors">
+                    <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
                       {service.title}
                     </h3>
                   </div>

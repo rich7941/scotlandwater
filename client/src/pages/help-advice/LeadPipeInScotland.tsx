@@ -371,7 +371,7 @@ export default function LeadPipeInScotland() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-[#5B2C6F] transition-colors">
+                  <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
                     Lead Pipe Replacement
                   </h3>
                 </div>
@@ -384,7 +384,7 @@ export default function LeadPipeInScotland() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-[#5B2C6F] transition-colors">
+                  <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
                     Lead Pipe Replacement Scheme
                   </h3>
                 </div>
@@ -397,7 +397,7 @@ export default function LeadPipeInScotland() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-[#5B2C6F] transition-colors">
+                  <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
                     Lead Pipe Landlords
                   </h3>
                 </div>
@@ -410,7 +410,7 @@ export default function LeadPipeInScotland() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-[#5B2C6F] transition-colors">
+                  <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
                     Water Supply Pipe Installations
                   </h3>
                 </div>
@@ -423,7 +423,7 @@ export default function LeadPipeInScotland() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-[#5B2C6F] transition-colors">
+                  <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
                     Water Leaks
                   </h3>
                 </div>
@@ -436,7 +436,7 @@ export default function LeadPipeInScotland() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-[#5B2C6F] transition-colors">
+                  <h3 className="text-xl font-bold text-[#1B3A6B] group-hover:text-purple-600 transition-colors">
                     Water Filter
                   </h3>
                 </div>
