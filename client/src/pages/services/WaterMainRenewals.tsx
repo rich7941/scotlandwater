@@ -85,66 +85,68 @@ export default function WaterMainRenewals() {
               Commercial Water Main Renewal Services by ScotWater
             </h2>
             
-            <p className="text-gray-700 text-lg mb-6">
-              For businesses experiencing issues with commercial water mains, whether it's due to leaks, decreased water flow or pressure, or the need to upgrade outdated infrastructure, ScotWater is equipped to provide specialised commercial solutions. When modifying commercial water mains on your property, ScotWater has the experience to undertake modifications, repairs or replacements.
-            </p>
+            <div className="prose max-w-none text-gray-700 space-y-4 mb-8">
+              <p>
+                For businesses experiencing issues with commercial water mains, whether it's due to leaks, decreased water flow or pressure, or the need to upgrade outdated infrastructure, ScotWater is equipped to provide specialised commercial solutions. When modifying commercial water mains on your property, ScotWater has the experience to undertake modifications, repairs or replacements.
+              </p>
+            </div>
 
             {/* Factors Influencing Water Flow */}
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-6 mt-12">
               Factors Influencing Water Flow or Pressure in Commercial Settings
             </h3>
             
-            <p className="text-gray-700 text-lg mb-6">
+            <p className="text-gray-700 mb-6">
               The efficiency of water delivery to your commercial property is crucial and can be influenced by several factors related to your water main:
             </p>
 
             <div className="space-y-4 mb-8">
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h4 className="font-bold text-[#1e3a8a] mb-2">Diameter of the Water Main</h4>
-                <p className="text-gray-700 text-lg">Restricted water flow can result from narrower water mains, affecting operations.</p>
+                <p className="text-gray-700">Restricted water flow can result from narrower water mains, affecting operations.</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h4 className="font-bold text-[#1e3a8a] mb-2">Corrosion and Build-up</h4>
-                <p className="text-gray-700 text-lg">Particularly in older iron water mains, internal corrosion can significantly decrease the diameter, reducing flow.</p>
+                <p className="text-gray-700">Particularly in older iron water mains, internal corrosion can significantly decrease the diameter, reducing flow.</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h4 className="font-bold text-[#1e3a8a] mb-2">Demand Variability</h4>
-                <p className="text-gray-700 text-lg">Peak business hours can drastically increase water usage, stressing the water system.</p>
+                <p className="text-gray-700">Peak business hours can drastically increase water usage, stressing the water system.</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h4 className="font-bold text-[#1e3a8a] mb-2">Length of the Water Main</h4>
-                <p className="text-gray-700 text-lg">Longer water mains may experience greater pressure drops, impacting water delivery across larger properties.</p>
+                <p className="text-gray-700">Longer water mains may experience greater pressure drops, impacting water delivery across larger properties.</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h4 className="font-bold text-[#1e3a8a] mb-2">Leaks in the Water Main</h4>
-                <p className="text-gray-700 text-lg">These can lead to significant water loss and decreased operational efficiency.</p>
+                <p className="text-gray-700">These can lead to significant water loss and decreased operational efficiency.</p>
               </div>
             </div>
 
-            <p className="text-gray-700 text-lg mb-4">Additional considerations include:</p>
+            <p className="text-gray-700 mb-4">Additional considerations include:</p>
 
             <div className="space-y-4 mb-8">
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h4 className="font-bold text-[#1e3a8a] mb-2">System Pressure</h4>
-                <p className="text-gray-700 text-lg">The pressure from the municipal water supply directly impacts your flow rate.</p>
+                <p className="text-gray-700">The pressure from the municipal water supply directly impacts your flow rate.</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h4 className="font-bold text-[#1e3a8a] mb-2">Configuration of Water Main Fittings</h4>
-                <p className="text-gray-700 text-lg">Components like meters, stop taps, and bends are critical in managing the flow.</p>
+                <p className="text-gray-700">Components like meters, stop taps, and bends are critical in managing the flow.</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h4 className="font-bold text-[#1e3a8a] mb-2">Integrity of the Water Main</h4>
-                <p className="text-gray-700 text-lg">Issues such as partial closures, blockages, or aging infrastructure can severely affect service quality.</p>
+                <p className="text-gray-700">Issues such as partial closures, blockages, or aging infrastructure can severely affect service quality.</p>
               </div>
             </div>
 
-            <p className="text-gray-700 text-lg mb-8">
+            <p className="text-gray-700 mb-8">
               Addressing these issues through water main renewal can lead to improved performance and reliability. For a consultation and free quote on commercial water main renewal, reach out to us.
             </p>
 
@@ -153,24 +155,24 @@ export default function WaterMainRenewals() {
               Commercial Water Main Renewal Techniques
             </h3>
 
-            <p className="text-gray-700 text-lg mb-6">
+            <p className="text-gray-700 mb-6">
               ScotWater recommends the most effective renewal techniques based on our extensive commercial expertise:
             </p>
 
             <div className="space-y-4 mb-8">
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h4 className="font-bold text-[#1e3a8a] mb-2">Open Cut Trenching</h4>
-                <p className="text-gray-700 text-lg">Ideal for accessible areas requiring full water main replacement. Our certified operators handle all aspects of trenching and pipe installation.</p>
+                <p className="text-gray-700">Ideal for accessible areas requiring full water main replacement. Our certified operators handle all aspects of trenching and pipe installation.</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h4 className="font-bold text-[#1e3a8a] mb-2">Butt Fusion and Electro Fusion Welding</h4>
-                <p className="text-gray-700 text-lg">These methods ensure a secure and seamless connection between new pipe sections, enhancing the main's integrity and function.</p>
+                <p className="text-gray-700">These methods ensure a secure and seamless connection between new pipe sections, enhancing the main's integrity and function.</p>
               </div>
             </div>
 
             <h4 className="text-xl font-bold text-[#1e3a8a] mb-4">Advanced Trenchless Technologies</h4>
-            <p className="text-gray-700 text-lg mb-6">Offer minimal disruption:</p>
+            <p className="text-gray-700 mb-6">Offer minimal disruption:</p>
 
             <div className="space-y-3 mb-8">
               <div className="flex items-start gap-3">
@@ -341,12 +343,12 @@ export default function WaterMainRenewals() {
             {/* Reviews Grid */}
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               <div className="border-4 border-yellow-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
+                <p className="text-gray-700 mb-4 min-h-[120px]">
                   I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Paul Strachan</p>
-                  <p className="text-gray-700 text-lg text-sm mb-2">Glasgow</p>
+                  <p className="text-gray-600 text-sm mb-2">Glasgow</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>
@@ -357,12 +359,12 @@ export default function WaterMainRenewals() {
                 </div>
               </div>
               <div className="border-4 border-pink-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
+                <p className="text-gray-700 mb-4 min-h-[120px]">
                   Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Jonathan Godfrey</p>
-                  <p className="text-gray-700 text-lg text-sm mb-2">Edinburgh</p>
+                  <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>
@@ -373,12 +375,12 @@ export default function WaterMainRenewals() {
                 </div>
               </div>
               <div className="border-4 border-green-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
+                <p className="text-gray-700 mb-4 min-h-[120px]">
                   We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Gordan Christie</p>
-                  <p className="text-gray-700 text-lg text-sm mb-2">Aberdeen</p>
+                  <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>

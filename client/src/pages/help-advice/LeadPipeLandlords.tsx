@@ -44,22 +44,22 @@ export default function LeadPipeLandlords() {
             </p>
             <div className="space-y-4">
               <div className="bg-white p-6 border-l-4 border-purple-600">
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   • There is no lead present in the pipe delivering drinking water to any part of the property, including kitchens and bathrooms.
                 </p>
               </div>
               <div className="bg-white p-6 border-l-4 border-purple-600">
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   • Landlords must proactively replace any lead pipe within their ownership and control—this includes both the underground supply pipe and any internal pipes, joints, or fittings made of lead.
                 </p>
               </div>
               <div className="bg-white p-6 border-l-4 border-purple-600">
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   • Evidence of compliance may be requested by local authorities, letting agents, or tenants.
                 </p>
               </div>
               <div className="bg-white p-6 border-l-4 border-purple-600">
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   • Failure to meet these standards could lead to enforcement action, including a Repairing Standard Enforcement Order issued by the First-tier Tribunal for Scotland (Housing and Property Chamber).
                 </p>
               </div>
@@ -83,7 +83,7 @@ export default function LeadPipeLandlords() {
                 </div>
                 <div>
                   <h3 className="text-xl font-bold text-[#1e3a8a] mb-2">Replace All Lead Pipe</h3>
-                  <p className="text-gray-700 text-lg">
+                  <p className="text-gray-700">
                     You must arrange for the full removal and replacement of lead pipe, from the external stop valve (if within your responsibility) right through to the internal plumbing leading to taps.
                   </p>
                 </div>
@@ -95,7 +95,7 @@ export default function LeadPipeLandlords() {
                 </div>
                 <div>
                   <h3 className="text-xl font-bold text-[#1e3a8a] mb-2">Notify Scottish Water</h3>
-                  <p className="text-gray-700 text-lg">
+                  <p className="text-gray-700">
                     Inform Scottish Water of your intention to replace the private-side supply pipe. Once your section is upgraded, Scottish Water is legally required to assess and, if necessary, replace the public-side lead pipe, known as the communication pipe.
                   </p>
                 </div>
@@ -107,7 +107,7 @@ export default function LeadPipeLandlords() {
                 </div>
                 <div>
                   <h3 className="text-xl font-bold text-[#1e3a8a] mb-2">Provide Proof of Compliance</h3>
-                  <p className="text-gray-700 text-lg">
+                  <p className="text-gray-700">
                     Upon completion, ensure you receive a certificate of compliance from the contractor. Keep this on file as part of your property compliance documentation. You may be asked to present this certificate during tenancy inspections or tribunal proceedings.
                   </p>
                 </div>
@@ -119,7 +119,7 @@ export default function LeadPipeLandlords() {
                 </div>
                 <div>
                   <h3 className="text-xl font-bold text-[#1e3a8a] mb-2">Conduct a Water Test (Optional but Recommended)</h3>
-                  <p className="text-gray-700 text-lg">
+                  <p className="text-gray-700">
                     After the replacement, consider testing the water supply to confirm that lead levels are within safe regulatory limits. This offers peace of mind for both you and your tenants.
                   </p>
                 </div>
@@ -137,22 +137,22 @@ export default function LeadPipeLandlords() {
             </p>
             <div className="space-y-4">
               <div className="bg-white p-6 border-l-4 border-purple-600">
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   • Giving tenants reasonable notice of the works (at least 24 hours for access and ideally 48–72 hours).
                 </p>
               </div>
               <div className="bg-white p-6 border-l-4 border-purple-600">
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   • Explaining the purpose of the works and how they support health and safety.
                 </p>
               </div>
               <div className="bg-white p-6 border-l-4 border-purple-600">
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   • Ensuring any interruption to water supply is kept to a minimum.
                 </p>
               </div>
               <div className="bg-white p-6 border-l-4 border-purple-600">
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   • Providing bottled water or temporary arrangements during the works, particularly if tenants include young children or vulnerable individuals.
                 </p>
               </div>
@@ -296,12 +296,12 @@ export default function LeadPipeLandlords() {
             {/* Reviews Grid */}
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               <div className="border-4 border-yellow-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
+                <p className="text-gray-700 mb-4 min-h-[120px]">
                   I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Paul Strachan</p>
-                  <p className="text-gray-700 text-lg text-sm mb-2">Glasgow</p>
+                  <p className="text-gray-600 text-sm mb-2">Glasgow</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>
@@ -312,12 +312,12 @@ export default function LeadPipeLandlords() {
                 </div>
               </div>
               <div className="border-4 border-pink-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
+                <p className="text-gray-700 mb-4 min-h-[120px]">
                   Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Jonathan Godfrey</p>
-                  <p className="text-gray-700 text-lg text-sm mb-2">Edinburgh</p>
+                  <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>
@@ -328,12 +328,12 @@ export default function LeadPipeLandlords() {
                 </div>
               </div>
               <div className="border-4 border-green-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
+                <p className="text-gray-700 mb-4 min-h-[120px]">
                   We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Gordan Christie</p>
-                  <p className="text-gray-700 text-lg text-sm mb-2">Aberdeen</p>
+                  <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>

@@ -40,7 +40,7 @@ export default function LeadPipeReplacement() {
             <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
               Why Lead Pipes Are a Problem
             </h2>
-            <p className="text-gray-700 text-lg leading-relaxed">
+            <p className="text-gray-700 leading-relaxed">
               Lead is a toxic metal that was commonly used in plumbing due to its flexibility and ease of installation. However, we now know that even low levels of lead exposure can have serious health effects. When drinking water comes into contact with lead pipes, lead can dissolve into the water—particularly if the water has been sitting still for several hours.
             </p>
           </div>
@@ -55,25 +55,25 @@ export default function LeadPipeReplacement() {
             <div className="space-y-4">
               <div className="bg-white border-l-4 border-purple-600 p-6 shadow-sm">
                 <h3 className="font-bold text-[#1e3a8a] mb-2">Lead Pipe Replacement</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Engage a qualified plumber to replace any identified lead pipes with approved materials like copper or plastic.
                 </p>
               </div>
               <div className="bg-white border-l-4 border-purple-600 p-6 shadow-sm">
                 <h3 className="font-bold text-[#1e3a8a] mb-2">Inform Scottish Water</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   If lead is found in the communication pipe, Scottish Water will replace it free of charge upon confirmation.
                 </p>
               </div>
               <div className="bg-white border-l-4 border-purple-600 p-6 shadow-sm">
                 <h3 className="font-bold text-[#1e3a8a] mb-2">Seek Financial Assistance</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Some local councils offer grants or assistance schemes to help with the cost of replacing lead pipes. Contact your local Environmental Health Department for information.
                 </p>
               </div>
               <div className="bg-white border-l-4 border-purple-600 p-6 shadow-sm">
                 <h3 className="font-bold text-[#1e3a8a] mb-2">Regular Testing</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   After the lead pipe replacement work, consider periodic water testing to ensure lead levels remain within safe limits.
                 </p>
               </div>
@@ -102,7 +102,7 @@ export default function LeadPipeReplacement() {
             <p className="text-gray-700 leading-relaxed mb-4">
               Lead pipes are a hidden danger that continue to affect homes across Scotland. They may be buried underground or concealed behind plaster, but their impact on health is very real. While chemical treatment can help reduce risk, it is not a substitute for lead pipe replacement.
             </p>
-            <p className="text-gray-700 text-lg leading-relaxed">
+            <p className="text-gray-700 leading-relaxed">
               The safest and most certain way to protect your household from lead in drinking water is to replace all lead pipes with approved, modern materials. Whether you're a homeowner, landlord, or tenant, identifying and addressing lead pipe is one of the most important steps you can take for long-term water safety.
             </p>
           </div>
@@ -117,25 +117,25 @@ export default function LeadPipeReplacement() {
             <div className="space-y-4">
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Never use hot tap water for drinking or cooking. Hot water dissolves lead more readily, especially from older pipe joints and fittings.
                 </p>
               </div>
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Clean aerators (tap filters) regularly, as these can trap lead particles.
                 </p>
               </div>
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Avoid using tap water for baby formula unless you have confirmed the supply is lead-free or are using filtered water.
                 </p>
               </div>
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Encourage neighbours to act too, particularly if you live in a tenement or a building with a shared supply pipe.
                 </p>
               </div>
@@ -155,7 +155,7 @@ export default function LeadPipeReplacement() {
             <p className="text-gray-700 leading-relaxed mb-4">
               The only way to guarantee safe, lead-free drinking water is carry out a full lead pipe replacement—from the public main to the kitchen tap—using approved materials like copper or polyethylene.
             </p>
-            <p className="text-gray-700 text-lg leading-relaxed">
+            <p className="text-gray-700 leading-relaxed">
               If you're waiting for funding, working through landlord responsibilities, or coordinating with Scottish Water, these mitigation measures can help protect your household in the meantime.
             </p>
           </div>
@@ -172,14 +172,14 @@ export default function LeadPipeReplacement() {
             </p>
             <div className="bg-red-50 border-l-4 border-red-600 p-6 my-6">
               <p className="text-[#1e3a8a] font-semibold mb-2">⚠️ Warning</p>
-              <p className="text-gray-700 text-lg">
+              <p className="text-gray-700">
                 This approach is not recommended, and in some circumstances may temporarily increase lead levels in the water. That's because disturbing the existing lead pipe during a partial lead pipe replacement can dislodge scale and lead particles built up inside the pipe over time.
               </p>
             </div>
             <p className="text-gray-700 leading-relaxed mb-4">
               These fragments can then enter the household water supply and remain suspended in the system for days or even weeks.
             </p>
-            <p className="text-gray-700 text-lg leading-relaxed">
+            <p className="text-gray-700 leading-relaxed">
               Partial lead pipe replacement does not remove the source of contamination and may create a false sense of security if no follow-up testing is carried out. In line with UK best practice, Scottish households are strongly advised to do full lead pipe replacement—public and private sections together—to ensure the risk is fully removed.
             </p>
           </div>
@@ -197,25 +197,25 @@ export default function LeadPipeReplacement() {
             <div className="space-y-4">
               <div className="bg-white border-l-4 border-purple-600 p-6 shadow-sm">
                 <h3 className="font-bold text-[#1e3a8a] mb-2">Cost</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Replacing the private section of a lead pipe can cost between £1,500 and £12,000, depending on access, pipe length, and surface materials.
                 </p>
               </div>
               <div className="bg-white border-l-4 border-purple-600 p-6 shadow-sm">
                 <h3 className="font-bold text-[#1e3a8a] mb-2">Property Ownership</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   In tenement buildings, flats, or shared properties, the supply pipe may be a shared responsibility between multiple owners, requiring coordination and cost-sharing.
                 </p>
               </div>
               <div className="bg-white border-l-4 border-purple-600 p-6 shadow-sm">
                 <h3 className="font-bold text-[#1e3a8a] mb-2">Landlord Hesitancy</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Some landlords may be reluctant to fund replacement work, especially if the tenants have not complained. However, from March 2024, it will be illegal to rent a property in Scotland with lead pipes in the drinking water supply.
                 </p>
               </div>
               <div className="bg-white border-l-4 border-purple-600 p-6 shadow-sm">
                 <h3 className="font-bold text-[#1e3a8a] mb-2">Access Issues</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Some homeowners are unwilling to allow external contractors to carry out work within their property or under paved surfaces, fearing damage or disruption. In rare cases, this has delayed wider community pipe replacement efforts.
                 </p>
               </div>
@@ -239,22 +239,22 @@ export default function LeadPipeReplacement() {
             <div className="space-y-3 mb-6">
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
-                <p className="text-gray-700 text-lg">Running all cold-water taps for at least 30 minutes</p>
+                <p className="text-gray-700">Running all cold-water taps for at least 30 minutes</p>
               </div>
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
-                <p className="text-gray-700 text-lg">Removing and cleaning faucet aerators</p>
+                <p className="text-gray-700">Removing and cleaning faucet aerators</p>
               </div>
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
-                <p className="text-gray-700 text-lg">Flushing through toilets, showers, and appliances</p>
+                <p className="text-gray-700">Flushing through toilets, showers, and appliances</p>
               </div>
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
-                <p className="text-gray-700 text-lg">Avoiding use of water filters, kettles, or ice machines during the flushing process</p>
+                <p className="text-gray-700">Avoiding use of water filters, kettles, or ice machines during the flushing process</p>
               </div>
             </div>
-            <p className="text-gray-700 text-lg leading-relaxed">
+            <p className="text-gray-700 leading-relaxed">
               If your property has a water meter, work done on or near it may also require a flush. Always consult with the contractor or Scottish Water to confirm that the system is safe for drinking post-lead pipe replacement.
             </p>
           </div>
@@ -272,7 +272,7 @@ export default function LeadPipeReplacement() {
             <p className="text-gray-700 leading-relaxed mb-4">
               Only a full lead pipe replacement—coordinated between homeowners and Scottish Water—can provide lasting protection.
             </p>
-            <p className="text-gray-700 text-lg leading-relaxed">
+            <p className="text-gray-700 leading-relaxed">
               If you suspect your property has lead pipes, act now. Whether you're a homeowner, landlord, or prospective buyer, replacing them is one of the most important investments you can make for the safety and wellbeing of everyone in the household.
             </p>
           </div>
@@ -295,11 +295,11 @@ export default function LeadPipeReplacement() {
             <div className="space-y-3 mb-8">
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
-                <p className="text-gray-700 text-lg">Use a WaterSafe, WaterSeal, WaterTrust or WIAPS-approved contractor.</p>
+                <p className="text-gray-700">Use a WaterSafe, WaterSeal, WaterTrust or WIAPS-approved contractor.</p>
               </div>
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
-                <p className="text-gray-700 text-lg">Obtain certification of compliance when work is complete.</p>
+                <p className="text-gray-700">Obtain certification of compliance when work is complete.</p>
               </div>
             </div>
 
@@ -308,23 +308,23 @@ export default function LeadPipeReplacement() {
             <div className="space-y-3 mb-8">
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
-                <p className="text-gray-700 text-lg">Connect from the boundary stop tap to the internal stop tap.</p>
+                <p className="text-gray-700">Connect from the boundary stop tap to the internal stop tap.</p>
               </div>
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
-                <p className="text-gray-700 text-lg">Be buried between 750mm and 1350mm below ground.</p>
+                <p className="text-gray-700">Be buried between 750mm and 1350mm below ground.</p>
               </div>
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
-                <p className="text-gray-700 text-lg">Be insulated and ducted as it enters the building.</p>
+                <p className="text-gray-700">Be insulated and ducted as it enters the building.</p>
               </div>
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
-                <p className="text-gray-700 text-lg">Be surrounded with sand, gravel or friable soil up to 250mm above the pipe, followed by general infill.</p>
+                <p className="text-gray-700">Be surrounded with sand, gravel or friable soil up to 250mm above the pipe, followed by general infill.</p>
               </div>
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
-                <p className="text-gray-700 text-lg">Be installed with both ends left open for inspection by Scottish Water.</p>
+                <p className="text-gray-700">Be installed with both ends left open for inspection by Scottish Water.</p>
               </div>
             </div>
 
@@ -335,7 +335,7 @@ export default function LeadPipeReplacement() {
             <p className="text-gray-700 leading-relaxed mb-3">
               If your home shares a supply pipe, all affected homes must replace their lead sections before Scottish Water can upgrade the public-side pipe.
             </p>
-            <p className="text-gray-700 text-lg leading-relaxed">
+            <p className="text-gray-700 leading-relaxed">
               If you're unable to meet any of the above conditions, contact Scottish Water's Network Regulations team for guidance.
             </p>
           </div>
@@ -353,14 +353,14 @@ export default function LeadPipeReplacement() {
             <div className="space-y-3 mb-6">
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
-                <p className="text-gray-700 text-lg">You must coordinate with neighbours for a joint lead pipe replacement, or</p>
+                <p className="text-gray-700">You must coordinate with neighbours for a joint lead pipe replacement, or</p>
               </div>
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
-                <p className="text-gray-700 text-lg">Request a new, separate water connection.</p>
+                <p className="text-gray-700">Request a new, separate water connection.</p>
               </div>
             </div>
-            <p className="text-gray-700 text-lg leading-relaxed">
+            <p className="text-gray-700 leading-relaxed">
               Scottish Water can help assess your options and identify support that may be available.
             </p>
           </div>
@@ -374,19 +374,19 @@ export default function LeadPipeReplacement() {
             </h2>
             <div className="space-y-4 mb-8">
               <div className="bg-white border-l-4 border-purple-600 p-6 shadow-sm">
-                <p className="text-gray-700 text-lg">Inspect your property for signs of lead pipes.</p>
+                <p className="text-gray-700">Inspect your property for signs of lead pipes.</p>
               </div>
               <div className="bg-white border-l-4 border-purple-600 p-6 shadow-sm">
-                <p className="text-gray-700 text-lg">Contact ScotWater.</p>
+                <p className="text-gray-700">Contact ScotWater.</p>
               </div>
               <div className="bg-white border-l-4 border-purple-600 p-6 shadow-sm">
-                <p className="text-gray-700 text-lg">Replace the full length of your private supply pipe, including underground and internal sections.</p>
+                <p className="text-gray-700">Replace the full length of your private supply pipe, including underground and internal sections.</p>
               </div>
               <div className="bg-white border-l-4 border-purple-600 p-6 shadow-sm">
-                <p className="text-gray-700 text-lg">Contact Scottish Water once the work is complete. They will inspect and replace any remaining lead in the communication pipe.</p>
+                <p className="text-gray-700">Contact Scottish Water once the work is complete. They will inspect and replace any remaining lead in the communication pipe.</p>
               </div>
               <div className="bg-white border-l-4 border-purple-600 p-6 shadow-sm">
-                <p className="text-gray-700 text-lg">Flush your internal system to clear any loose particles or sediment.</p>
+                <p className="text-gray-700">Flush your internal system to clear any loose particles or sediment.</p>
               </div>
             </div>
           </div>
@@ -491,12 +491,12 @@ export default function LeadPipeReplacement() {
             {/* Reviews Grid */}
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               <div className="border-4 border-yellow-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
+                <p className="text-gray-700 mb-4 min-h-[120px]">
                   I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Paul Strachan</p>
-                  <p className="text-gray-700 text-lg text-sm mb-2">Glasgow</p>
+                  <p className="text-gray-600 text-sm mb-2">Glasgow</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>
@@ -507,12 +507,12 @@ export default function LeadPipeReplacement() {
                 </div>
               </div>
               <div className="border-4 border-pink-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
+                <p className="text-gray-700 mb-4 min-h-[120px]">
                   Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Jonathan Godfrey</p>
-                  <p className="text-gray-700 text-lg text-sm mb-2">Edinburgh</p>
+                  <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>
@@ -523,12 +523,12 @@ export default function LeadPipeReplacement() {
                 </div>
               </div>
               <div className="border-4 border-green-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
+                <p className="text-gray-700 mb-4 min-h-[120px]">
                   We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Gordan Christie</p>
-                  <p className="text-gray-700 text-lg text-sm mb-2">Aberdeen</p>
+                  <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>

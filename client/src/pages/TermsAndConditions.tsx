@@ -12,7 +12,7 @@ export default function TermsAndConditions() {
         {/* Content Section */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <div className="text-lg max-w-none">
+            <div className="prose prose-lg max-w-none">
               <p className="text-gray-600 mb-4">
                 <strong>ScotWater</strong><br />
                 Last Updated: 23 October 2025.

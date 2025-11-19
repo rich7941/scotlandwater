@@ -52,7 +52,7 @@ export default function WaterSupplyPipeRepairs() {
             {/* Cause 1 */}
             <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
               <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Age and Material of Pipes</h4>
-              <p className="text-gray-700 text-lg">
+              <p className="text-gray-700">
                 Older water pipes are more susceptible to corrosion, particularly if they were installed before the 1980s. Many older pipes are made of cast iron, which lacks the flexibility to withstand temperature changes effectively. Over time, this can lead to cracks and leaks in the pipe.
               </p>
             </div>
@@ -60,7 +60,7 @@ export default function WaterSupplyPipeRepairs() {
             {/* Cause 2 */}
             <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
               <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Changes in Water Pressure</h4>
-              <p className="text-gray-700 text-lg">
+              <p className="text-gray-700">
                 Sudden increases in water pressure can strain supply pipes, causing damage. If the pressure exceeds the pipe's capacity, it can lead to leaks, cracks, or even a complete pipe burst. This can result in water damage, increased utility bills, and costly repairs.
               </p>
             </div>
@@ -68,7 +68,7 @@ export default function WaterSupplyPipeRepairs() {
             {/* Cause 3 */}
             <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
               <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Accidental Damage During Excavation</h4>
-              <p className="text-gray-700 text-lg">
+              <p className="text-gray-700">
                 Excavation work on your property can sometimes unintentionally damage underground water supply pipes. Digging equipment or machinery can puncture or crack pipes, leading to leaks and disruption to your water supply.
               </p>
             </div>
@@ -76,7 +76,7 @@ export default function WaterSupplyPipeRepairs() {
             {/* Cause 4 */}
             <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
               <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Temperature Fluctuations</h4>
-              <p className="text-gray-700 text-lg">
+              <p className="text-gray-700">
                 Extreme temperature changes can affect the integrity of water supply pipes. In cold weather, frozen ground can expand, putting additional pressure on pipes. Conversely, in hot weather, soil shifting due to drying can also stress pipes. These cycles can lead to cracks or bursts, making regular maintenance crucial to prevent failures.
               </p>
             </div>
@@ -84,7 +84,7 @@ export default function WaterSupplyPipeRepairs() {
             {/* Cause 5 */}
             <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
               <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Impact from Heavy Vehicles</h4>
-              <p className="text-gray-700 text-lg">
+              <p className="text-gray-700">
                 Heavy vehicles driving over shallowly buried pipes can cause significant stress, leading to cracks or deformation. Vibrations from traffic can also destabilise the ground around the pipes, increasing the likelihood of leaks or damage. Regular inspections in high-traffic areas can help identify potential risks early.
               </p>
             </div>
@@ -103,7 +103,7 @@ export default function WaterSupplyPipeRepairs() {
               <div className="w-3 h-3 rounded-full bg-[#5B2C6F] flex-shrink-0 mt-2"></div>
               <div>
                 <h4 className="text-xl font-bold text-[#1e3a8a] mb-2">Non-Invasive Repairs</h4>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   We use advanced methods like trenchless technology to minimise disruption to your property.
                 </p>
               </div>
@@ -113,7 +113,7 @@ export default function WaterSupplyPipeRepairs() {
               <div className="w-3 h-3 rounded-full bg-[#5B2C6F] flex-shrink-0 mt-2"></div>
               <div>
                 <h4 className="text-xl font-bold text-[#1e3a8a] mb-2">Comprehensive Services</h4>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   From leak detection to replacement, we handle every aspect of water supply pipe repair.
                 </p>
               </div>
@@ -123,7 +123,7 @@ export default function WaterSupplyPipeRepairs() {
               <div className="w-3 h-3 rounded-full bg-[#5B2C6F] flex-shrink-0 mt-2"></div>
               <div>
                 <h4 className="text-xl font-bold text-[#1e3a8a] mb-2">Experienced Professionals</h4>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Our skilled engineers deliver high-quality results for projects of any complexity.
                 </p>
               </div>
@@ -207,12 +207,12 @@ export default function WaterSupplyPipeRepairs() {
           {/* Reviews Grid */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="border-4 border-yellow-400 rounded-lg p-6 bg-white">
-              <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
+              <p className="text-gray-700 mb-4 min-h-[120px]">
                 I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
               </p>
               <div className="border-t pt-4">
                 <p className="font-bold text-[#1e3a8a]">Paul Strachan</p>
-                <p className="text-gray-700 text-lg text-sm mb-2">Glasgow</p>
+                <p className="text-gray-600 text-sm mb-2">Glasgow</p>
                 <div className="flex gap-1">
                   <span className="text-yellow-400">★</span>
                   <span className="text-yellow-400">★</span>
@@ -223,12 +223,12 @@ export default function WaterSupplyPipeRepairs() {
               </div>
             </div>
             <div className="border-4 border-pink-400 rounded-lg p-6 bg-white">
-              <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
+              <p className="text-gray-700 mb-4 min-h-[120px]">
                 Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
               </p>
               <div className="border-t pt-4">
                 <p className="font-bold text-[#1e3a8a]">Jonathan Godfrey</p>
-                <p className="text-gray-700 text-lg text-sm mb-2">Edinburgh</p>
+                <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
                 <div className="flex gap-1">
                   <span className="text-yellow-400">★</span>
                   <span className="text-yellow-400">★</span>
@@ -239,12 +239,12 @@ export default function WaterSupplyPipeRepairs() {
               </div>
             </div>
             <div className="border-4 border-green-400 rounded-lg p-6 bg-white">
-              <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
+              <p className="text-gray-700 mb-4 min-h-[120px]">
                 We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
               </p>
               <div className="border-t pt-4">
                 <p className="font-bold text-[#1e3a8a]">Gordan Christie</p>
-                <p className="text-gray-700 text-lg text-sm mb-2">Aberdeen</p>
+                <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
                 <div className="flex gap-1">
                   <span className="text-yellow-400">★</span>
                   <span className="text-yellow-400">★</span>

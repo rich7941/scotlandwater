@@ -49,19 +49,19 @@ export default function LeadPipeReplacement() {
           <div className="space-y-4 mb-8">
             <div>
               <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">1. Lead Pipe Inspection and Assessment</h4>
-              <p className="text-gray-700 text-lg">
+              <p className="text-gray-700">
                 We begin by carrying out a thorough inspection of your property to identify any lead pipes. Our skilled technicians assess the condition and layout of the existing lead pipes and recommend the best course of action for lead pipe replacement.
               </p>
             </div>
             <div>
               <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">2. Safe and Disruption-Free Lead Pipe Replacement</h4>
-              <p className="text-gray-700 text-lg">
+              <p className="text-gray-700">
                 Once lead pipes are identified, we use advanced techniques to replace them with modern, durable materials. Our trenchless technology minimises digging and disruption to your property, ensuring a smooth and efficient replacement process.
               </p>
             </div>
             <div>
               <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">3. Compliance with Water Safety Standards</h4>
-              <p className="text-gray-700 text-lg">
+              <p className="text-gray-700">
                 As a trusted water services provider in Scotland, all our lead pipe replacement complies with current UK Water Regulations. We ensure that your new pipe meets the latest health and safety standards, giving you peace of mind about your drinking water.
               </p>
             </div>
@@ -70,15 +70,15 @@ export default function LeadPipeReplacement() {
           {/* Regulation Section */}
           <div className="bg-[#5B2C6F]/10 p-8 rounded-lg mb-8">
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Regulation and Water Safety Standards in Scotland</h3>
-            <p className="text-gray-700 text-lg mb-4">
+            <p className="text-gray-700 mb-4">
               In Scotland, lead levels in drinking water are governed by the Water Supply (Water Quality) (Scotland) Regulations 2010, which set the current legal limit at <strong>10 micrograms per litre (10 µg/L)</strong>.
             </p>
-            <p className="text-gray-700 text-lg mb-4">This reflects a significant improvement from earlier standards:</p>
+            <p className="text-gray-700 mb-4">This reflects a significant improvement from earlier standards:</p>
             <ul className="list-disc list-inside space-y-2 text-gray-700 mb-4">
               <li>50 µg/L in the late 1980s</li>
               <li>25 µg/L by 2003</li>
             </ul>
-            <p className="text-gray-700 text-lg">
+            <p className="text-gray-700">
               The long-term ambition is to reduce the limit as close to zero as possible, in line with WHO guidance. Public health experts increasingly advocate adopting the EU's upcoming 5 µg/L standard, particularly for vulnerable populations like children and pregnant women.
             </p>
           </div>
@@ -94,7 +94,7 @@ export default function LeadPipeReplacement() {
           {/* Landlord Legal Duties */}
           <div className="bg-yellow-50 border-l-4 border-[#F4E04D] p-6 mb-8">
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Landlord Legal Duties</h3>
-            <p className="text-gray-700 text-lg mb-4">
+            <p className="text-gray-700 mb-4">
               From March 2024, all privately rented homes in Scotland must be free of lead in the drinking water supply. This includes:
             </p>
             <ul className="list-disc list-inside space-y-2 text-gray-700 mb-4">
@@ -115,19 +115,19 @@ export default function LeadPipeReplacement() {
           <div className="space-y-4 mb-8">
             <div>
               <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">1. Health Risks</h4>
-              <p className="text-gray-700 text-lg">
+              <p className="text-gray-700">
                 Lead can leach into drinking water from old lead pipes, posing serious health risks, particularly to young children and pregnant women. Lead exposure has been linked to developmental issues and other long-term health problems, making it critical to replace lead pipes as soon as possible.
               </p>
             </div>
             <div>
               <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">2. Improved Water Quality</h4>
-              <p className="text-gray-700 text-lg">
+              <p className="text-gray-700">
                 Replacing lead pipes eliminates the risk of lead contamination, significantly improving the safety and quality of your drinking water. Many homeowners also notice an improvement in the taste and clarity of their water after the lead pipe replacement work.
               </p>
             </div>
             <div>
               <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">3. Increased Property Value</h4>
-              <p className="text-gray-700 text-lg">
+              <p className="text-gray-700">
                 Modernising your plumbing system by replacing lead pipes can enhance the value of your property. Homes with updated lead-free water systems are more attractive to potential buyers and meet today's safety standards.
               </p>
             </div>
@@ -135,7 +135,7 @@ export default function LeadPipeReplacement() {
 
           {/* Mitigation Section */}
           <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Mitigation While Awaiting Replacement</h3>
-          <p className="text-gray-700 text-lg mb-4">
+          <p className="text-gray-700 mb-4">
             While full pipe replacement is the only permanent solution, temporary steps can reduce exposure:
           </p>
           <ul className="list-disc list-inside space-y-2 text-gray-700 mb-8">
@@ -148,14 +148,14 @@ export default function LeadPipeReplacement() {
           {/* Dangers of Partial Replacement */}
           <div className="bg-red-50 border-l-4 border-red-500 p-6 mb-8">
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">The Dangers of Partial Lead Pipe Replacement</h3>
-            <p className="text-gray-700 text-lg">
+            <p className="text-gray-700">
               Partial lead pipe replacement—replacing only the public or private section—can dislodge built-up lead particles and temporarily increase contamination. <strong>Full lead pipe replacement of both sections is strongly advised</strong> to eliminate the risk.
             </p>
           </div>
 
           {/* After Replacement */}
           <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">After Lead Pipe Replacement</h3>
-          <p className="text-gray-700 text-lg mb-4">Once your lead pipe replacement is complete:</p>
+          <p className="text-gray-700 mb-4">Once your lead pipe replacement is complete:</p>
           <ul className="list-disc list-inside space-y-2 text-gray-700 mb-8">
             <li>Flush your system by running all cold taps for 30 minutes.</li>
             <li>Remove and clean aerators.</li>
@@ -168,7 +168,7 @@ export default function LeadPipeReplacement() {
           <div className="space-y-6 mb-8">
             <div className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
               <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">Step 1 – Contact ScotWater 0800 206 2778</h4>
-              <p className="text-gray-700 text-lg mb-3">Discuss your property's lead pipe replacement with ScotWater. We may ask:</p>
+              <p className="text-gray-700 mb-3">Discuss your property's lead pipe replacement with ScotWater. We may ask:</p>
               <ul className="list-disc list-inside space-y-2 text-gray-700">
                 <li>Is it a single or shared supply?</li>
                 <li>When was the property built?</li>
@@ -177,13 +177,13 @@ export default function LeadPipeReplacement() {
             </div>
             <div className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
               <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">Step 2 – Hire ScotWater</h4>
-              <p className="text-gray-700 text-lg">
+              <p className="text-gray-700">
                 Hire ScotWater to do your private-side lead pipe replacement. If on a shared supply, we must work with neighbours and may need to submit proof of work (e.g. a completion certificate).
               </p>
             </div>
             <div className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
               <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">Step 3 – Pipe Connection</h4>
-              <p className="text-gray-700 text-lg">
+              <p className="text-gray-700">
                 Once ScotWater completes your private side lead pipe replacement, Scottish Water will replace the lead communication pipe on the public highway free of charge.
               </p>
             </div>
@@ -258,12 +258,12 @@ export default function LeadPipeReplacement() {
           {/* Reviews Grid */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="border-4 border-yellow-400 rounded-lg p-6 bg-white">
-              <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
+              <p className="text-gray-700 mb-4 min-h-[120px]">
                 I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
               </p>
               <div className="border-t pt-4">
                 <p className="font-bold text-[#1e3a8a]">Paul Strachan</p>
-                <p className="text-gray-700 text-lg text-sm mb-2">Glasgow</p>
+                <p className="text-gray-600 text-sm mb-2">Glasgow</p>
                 <div className="flex gap-1">
                   <span className="text-yellow-400">★</span>
                   <span className="text-yellow-400">★</span>
@@ -274,12 +274,12 @@ export default function LeadPipeReplacement() {
               </div>
             </div>
             <div className="border-4 border-pink-400 rounded-lg p-6 bg-white">
-              <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
+              <p className="text-gray-700 mb-4 min-h-[120px]">
                 Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
               </p>
               <div className="border-t pt-4">
                 <p className="font-bold text-[#1e3a8a]">Jonathan Godfrey</p>
-                <p className="text-gray-700 text-lg text-sm mb-2">Edinburgh</p>
+                <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
                 <div className="flex gap-1">
                   <span className="text-yellow-400">★</span>
                   <span className="text-yellow-400">★</span>
@@ -290,12 +290,12 @@ export default function LeadPipeReplacement() {
               </div>
             </div>
             <div className="border-4 border-green-400 rounded-lg p-6 bg-white">
-              <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
+              <p className="text-gray-700 mb-4 min-h-[120px]">
                 We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
               </p>
               <div className="border-t pt-4">
                 <p className="font-bold text-[#1e3a8a]">Gordan Christie</p>
-                <p className="text-gray-700 text-lg text-sm mb-2">Aberdeen</p>
+                <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
                 <div className="flex gap-1">
                   <span className="text-yellow-400">★</span>
                   <span className="text-yellow-400">★</span>

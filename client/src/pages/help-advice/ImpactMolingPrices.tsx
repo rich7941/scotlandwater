@@ -30,11 +30,11 @@ export default function ImpactMolingPrices() {
             <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
               How Much Does Impact Moling Cost Per Metre in Scotland?
             </h2>
-            <div className="text-lg max-w-none">
+            <div className="prose prose-lg max-w-none">
               <p className="text-gray-700 leading-relaxed mb-4">
                 The cost of moling per metre can vary depending on several factors, including the location, ground conditions, pipe diameter, and the overall length of the project but prices can be higher or lower depending on the complexity of the work and local market rates.
               </p>
-              <p className="text-gray-700 text-lg leading-relaxed">
+              <p className="text-gray-700 leading-relaxed">
                 When planning to replace your water supply pipe, it's essential to understand your responsibilities as a homeowner. Typically, you are responsible for the pipework running from your internal stop tap to your property boundary.
               </p>
             </div>
@@ -50,25 +50,25 @@ export default function ImpactMolingPrices() {
             <div className="space-y-4">
               <div className="bg-white p-6 border-l-4 border-purple-600">
                 <h3 className="font-semibold text-blue-900 mb-2">Ground Conditions</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Harder ground, such as clay or rocky soil, may require more time and specialised equipment, increasing costs.
                 </p>
               </div>
               <div className="bg-white p-6 border-l-4 border-purple-600">
                 <h3 className="font-semibold text-blue-900 mb-2">Pipe Diameter</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Larger pipes may involve more labour and materials, raising the price.
                 </p>
               </div>
               <div className="bg-white p-6 border-l-4 border-purple-600">
                 <h3 className="font-semibold text-blue-900 mb-2">Length of the Project</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Longer installations may benefit from economies of scale, reducing the per-metre cost.
                 </p>
               </div>
               <div className="bg-white p-6 border-l-4 border-purple-600">
                 <h3 className="font-semibold text-blue-900 mb-2">Additional Services</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Pre-installation surveys, reinstatement of surfaces, or additional fittings may add to the overall cost.
                 </p>
               </div>
@@ -88,19 +88,19 @@ export default function ImpactMolingPrices() {
             <div className="space-y-4">
               <div className="p-6 bg-gray-50 border-l-4 border-purple-600">
                 <h3 className="font-semibold text-blue-900 mb-2">Minimal Disruption</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Fewer excavations are required, reducing the impact on your property, including concrete, tarmac, or flagged driveways.
                 </p>
               </div>
               <div className="p-6 bg-gray-50 border-l-4 border-purple-600">
                 <h3 className="font-semibold text-blue-900 mb-2">Faster Completion</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Impact moling enables quicker project completion compared to traditional trenching methods, ensuring less disruption to your home or business.
                 </p>
               </div>
               <div className="p-6 bg-gray-50 border-l-4 border-purple-600">
                 <h3 className="font-semibold text-blue-900 mb-2">Cost-Efficiency</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   When ground conditions are favourable, moling significantly reduces the cost of installing new water pipes compared to traditional trench excavation, while still maintaining quality and efficiency.
                 </p>
               </div>
@@ -115,7 +115,7 @@ export default function ImpactMolingPrices() {
             <p className="text-gray-700 leading-relaxed mb-4">
               Moling is a highly effective trenchless method for installing water supply and gas pipes. Our experienced engineers use advanced pneumatic impact moles (often called moles), powered by compressed air. These devices are launched from small excavation points, displacing soil and creating smooth boreholes in the desired direction, even in challenging ground conditions.
             </p>
-            <p className="text-gray-700 text-lg leading-relaxed">
+            <p className="text-gray-700 leading-relaxed">
               Once the boreholes are created, small-diameter pipes are carefully aligned and pulled through, eliminating the need for extensive trenching. This streamlined process ensures efficient installation of new water pipes, connecting seamlessly to the main water supply while minimising disruption to your property.
             </p>
           </div>
@@ -133,31 +133,31 @@ export default function ImpactMolingPrices() {
             <div className="space-y-4">
               <div className="bg-gray-50 p-6 border-l-4 border-purple-600">
                 <h3 className="font-semibold text-blue-900 mb-2">Lead or Iron Pipes</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Older homes may still have lead or iron pipes, which can pose health risks or cause corrosion, affecting water quality and reliability.
                 </p>
               </div>
               <div className="bg-gray-50 p-6 border-l-4 border-purple-600">
                 <h3 className="font-semibold text-blue-900 mb-2">Water Leaks</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Leaks in the water supply pipe can lead to water wastage, property damage such as subsidence, and increased water bills, making replacement a necessary solution.
                 </p>
               </div>
               <div className="bg-gray-50 p-6 border-l-4 border-purple-600">
                 <h3 className="font-semibold text-blue-900 mb-2">Insufficient Water Pressure</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Poor water pressure can disrupt daily activities and is often caused by ageing or damaged pipework, requiring an upgrade to ensure consistent flow.
                 </p>
               </div>
               <div className="bg-gray-50 p-6 border-l-4 border-purple-600">
                 <h3 className="font-semibold text-blue-900 mb-2">Poor Water Quality</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Pipes in poor condition can introduce impurities into your water supply, affecting both taste and safety.
                 </p>
               </div>
               <div className="bg-gray-50 p-6 border-l-4 border-purple-600">
                 <h3 className="font-semibold text-blue-900 mb-2">Home Renovations</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Projects that require relocating or upgrading the size of the water supply pipe for increased water flow provide an ideal opportunity to replace old pipes and future-proof your property.
                 </p>
               </div>
@@ -186,7 +186,7 @@ export default function ImpactMolingPrices() {
               <li>Developmental issues in children</li>
               <li>Low IQ</li>
             </ul>
-            <p className="text-gray-700 text-lg leading-relaxed">
+            <p className="text-gray-700 leading-relaxed">
               Replacing your lead water supply pipe is a vital step in safeguarding your household's health and ensuring compliance with modern water quality standards if you are a landlord.
             </p>
           </div>
@@ -204,25 +204,25 @@ export default function ImpactMolingPrices() {
             <div className="grid md:grid-cols-2 gap-6">
               <div className="p-6 bg-gray-50 border-l-4 border-purple-600">
                 <h3 className="font-semibold text-blue-900 mb-2">Improved Energy Efficiency</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Enhanced water delivery to appliances reduces energy waste.
                 </p>
               </div>
               <div className="p-6 bg-gray-50 border-l-4 border-purple-600">
                 <h3 className="font-semibold text-blue-900 mb-2">Increased Water Flow Rates</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Flexible, modern pipes provide better flow.
                 </p>
               </div>
               <div className="p-6 bg-gray-50 border-l-4 border-purple-600">
                 <h3 className="font-semibold text-blue-900 mb-2">Better Water Quality</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Plastic pipes are non-contaminating, delivering cleaner water.
                 </p>
               </div>
               <div className="p-6 bg-gray-50 border-l-4 border-purple-600">
                 <h3 className="font-semibold text-blue-900 mb-2">Environmentally Friendly</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   With safer tap water, you can reduce reliance on bottled water, cutting plastic waste.
                 </p>
               </div>
@@ -332,12 +332,12 @@ export default function ImpactMolingPrices() {
             {/* Reviews Grid */}
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               <div className="border-4 border-yellow-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
+                <p className="text-gray-700 mb-4 min-h-[120px]">
                   I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Paul Strachan</p>
-                  <p className="text-gray-700 text-lg text-sm mb-2">Glasgow</p>
+                  <p className="text-gray-600 text-sm mb-2">Glasgow</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>
@@ -348,12 +348,12 @@ export default function ImpactMolingPrices() {
                 </div>
               </div>
               <div className="border-4 border-pink-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
+                <p className="text-gray-700 mb-4 min-h-[120px]">
                   Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Jonathan Godfrey</p>
-                  <p className="text-gray-700 text-lg text-sm mb-2">Edinburgh</p>
+                  <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>
@@ -364,12 +364,12 @@ export default function ImpactMolingPrices() {
                 </div>
               </div>
               <div className="border-4 border-green-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
+                <p className="text-gray-700 mb-4 min-h-[120px]">
                   We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Gordan Christie</p>
-                  <p className="text-gray-700 text-lg text-sm mb-2">Aberdeen</p>
+                  <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>

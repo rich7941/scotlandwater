@@ -123,7 +123,7 @@ export default function LeadPipeReplacementScheme() {
                 <h3 className="text-xl font-bold text-[#1e3a8a] mb-3">
                   2. Consult Professionals
                 </h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Contact a certified contractor, such as ScotWater, to assess your home and determine whether you have a lead water supply pipe.
                 </p>
               </div>
@@ -132,7 +132,7 @@ export default function LeadPipeReplacementScheme() {
                 <h3 className="text-xl font-bold text-[#1e3a8a] mb-3">
                   3. Replace Your Lead Water Supply Pipe
                 </h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   ScotWater will safely replace your lead water supply pipe with approved materials.
                 </p>
               </div>
@@ -141,7 +141,7 @@ export default function LeadPipeReplacementScheme() {
                 <h3 className="text-xl font-bold text-[#1e3a8a] mb-3">
                   4. Replace Your Lead Communication Pipe
                 </h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Scottish Water will then replace your lead water communication pipe at their expense.
                 </p>
               </div>
@@ -164,7 +164,7 @@ export default function LeadPipeReplacementScheme() {
                 <h3 className="text-lg font-bold text-[#1e3a8a] mb-2">
                   Health Protection
                 </h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Reducing exposure to lead ensures the safety of your family.
                 </p>
               </div>
@@ -173,7 +173,7 @@ export default function LeadPipeReplacementScheme() {
                 <h3 className="text-lg font-bold text-[#1e3a8a] mb-2">
                   Increased Property Value
                 </h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Modern plumbing systems are more attractive to potential buyers.
                 </p>
               </div>
@@ -182,7 +182,7 @@ export default function LeadPipeReplacementScheme() {
                 <h3 className="text-lg font-bold text-[#1e3a8a] mb-2">
                   Improved Water Pressure and Flow
                 </h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Upgrading your pipes can enhance water delivery to your home.
                 </p>
               </div>
@@ -191,7 +191,7 @@ export default function LeadPipeReplacementScheme() {
                 <h3 className="text-lg font-bold text-[#1e3a8a] mb-2">
                   Long-Term Savings
                 </h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Modern pipes are more durable and less likely to leak and cause damage or need repairs.
                 </p>
               </div>
@@ -218,7 +218,7 @@ export default function LeadPipeReplacementScheme() {
                 <span>Examine the pipe feeding it—lead pipes are dull grey, soft, and reveal shiny metal when scratched.</span>
               </li>
             </ul>
-            <p className="text-gray-700 text-lg leading-relaxed">
+            <p className="text-gray-700 leading-relaxed">
               If your supply pipe resembles this material, you likely have lead pipe. Scottish Water can arrange a free test and visual inspection to confirm.
             </p>
           </div>
@@ -236,7 +236,7 @@ export default function LeadPipeReplacementScheme() {
                 <h3 className="text-lg font-bold text-[#1e3a8a] mb-2">
                   Replace Lead Pipes
                 </h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Engage a qualified plumber to replace any identified lead pipes with approved materials like copper or plastic.
                 </p>
               </div>
@@ -245,7 +245,7 @@ export default function LeadPipeReplacementScheme() {
                 <h3 className="text-lg font-bold text-[#1e3a8a] mb-2">
                   Inform Scottish Water
                 </h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   If lead is found in the communication pipe, Scottish Water will replace it free of charge upon confirmation.
                 </p>
               </div>
@@ -254,7 +254,7 @@ export default function LeadPipeReplacementScheme() {
                 <h3 className="text-lg font-bold text-[#1e3a8a] mb-2">
                   Seek Financial Assistance
                 </h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Some local councils offer grants or assistance schemes to help with the cost of replacing lead pipes.
                 </p>
               </div>
@@ -263,7 +263,7 @@ export default function LeadPipeReplacementScheme() {
                 <h3 className="text-lg font-bold text-[#1e3a8a] mb-2">
                   Regular Testing
                 </h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   After replacement, consider periodic water testing to ensure lead levels remain within safe limits.
                 </p>
               </div>
@@ -424,12 +424,12 @@ export default function LeadPipeReplacementScheme() {
             {/* Reviews Grid */}
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               <div className="border-4 border-yellow-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
+                <p className="text-gray-700 mb-4 min-h-[120px]">
                   I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Paul Strachan</p>
-                  <p className="text-gray-700 text-lg text-sm mb-2">Glasgow</p>
+                  <p className="text-gray-600 text-sm mb-2">Glasgow</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>
@@ -440,12 +440,12 @@ export default function LeadPipeReplacementScheme() {
                 </div>
               </div>
               <div className="border-4 border-pink-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
+                <p className="text-gray-700 mb-4 min-h-[120px]">
                   Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Jonathan Godfrey</p>
-                  <p className="text-gray-700 text-lg text-sm mb-2">Edinburgh</p>
+                  <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>
@@ -456,12 +456,12 @@ export default function LeadPipeReplacementScheme() {
                 </div>
               </div>
               <div className="border-4 border-green-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
+                <p className="text-gray-700 mb-4 min-h-[120px]">
                   We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Gordan Christie</p>
-                  <p className="text-gray-700 text-lg text-sm mb-2">Aberdeen</p>
+                  <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>

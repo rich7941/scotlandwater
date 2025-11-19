@@ -36,7 +36,7 @@ export default function WaterMainLeakDetection() {
               Underground Water Leak Detection Services in Scotland
             </h2>
             
-            <div className="text-lg max-w-none space-y-6 text-gray-700">
+            <div className="prose prose-lg max-w-none space-y-6 text-gray-700">
               <p>
                 Water leaks can be both costly and inconvenient, and when left undetected or unresolved can lead to large water consumption charges, reduced water pressure, material damage, and, in critical situations, loss of business or production. A moderate water main leak of around 1 litre per second could add approximately £60,000 to your annual commercial water bill.
               </p>
@@ -58,35 +58,35 @@ export default function WaterMainLeakDetection() {
             <div className="space-y-6">
               <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
                 <h3 className="text-xl font-semibold text-[#1e3a8a] mb-3">Mapping All Water Mains</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   We identify every water main supply on your site and establish distinct zones.
                 </p>
               </div>
 
               <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
                 <h3 className="text-xl font-semibold text-[#1e3a8a] mb-3">Recording Flow Rate and Average Daily Usage</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Monitoring consumption helps us spot anomalies that might indicate water main leaks.
                 </p>
               </div>
 
               <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
                 <h3 className="text-xl font-semibold text-[#1e3a8a] mb-3">Flow and Pressure Testing</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   We conduct comprehensive checks to measure how efficiently water is moving through your water main system.
                 </p>
               </div>
 
               <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
                 <h3 className="text-xl font-semibold text-[#1e3a8a] mb-3">Acoustic Correlation and Ground Microphones</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Sounding techniques help us pinpoint the exact location of water main leaks with high accuracy.
                 </p>
               </div>
             </div>
 
             <div className="mt-8 p-6 bg-white rounded-lg">
-              <p className="text-gray-700 text-lg">
+              <p className="text-gray-700">
                 During these procedures, there is no disruption to your water mains or on-site operations. If any aspect of our work might affect your schedule, ScotWater is dedicated to being as flexible as possible. We're also available to work outside regular hours or at weekends to minimise downtime.
               </p>
             </div>
@@ -100,49 +100,49 @@ export default function WaterMainLeakDetection() {
               Techniques to Narrow Down and Locate Leaks
             </h2>
 
-            <p className="text-gray-700 text-lg mb-8">
+            <p className="text-gray-700 mb-8">
               Once we have established the survey zones, we employ various methods to further refine the search area, typically locating water main leaks to within half a metre. These methods include:
             </p>
 
             <div className="space-y-6">
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h3 className="text-xl font-semibold text-[#1e3a8a] mb-3">Leakage Detection</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Employing open sounding, correlation, pipe tracing, and ground microphones to detect underground water main leaks.
                 </p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h3 className="text-xl font-semibold text-[#1e3a8a] mb-3">Flow and Pressure Logging</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Data loggers are deployed, and then the recorded information is retrieved and analysed.
                 </p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h3 className="text-xl font-semibold text-[#1e3a8a] mb-3">Pressure Management Design and Installation</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Ensuring optimal pressure settings to reduce the likelihood of further water main leaks.
                 </p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h3 className="text-xl font-semibold text-[#1e3a8a] mb-3">Step Testing and Zero Pressure Testing</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Including data logging to confirm water main leaks and their impact on the network.
                 </p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h3 className="text-xl font-semibold text-[#1e3a8a] mb-3">Leakage-Controlled Areas</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Setting up and designing zones to monitor and isolate water main leaks.
                 </p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h3 className="text-xl font-semibold text-[#1e3a8a] mb-3">Crisis Management</h3>
-                <p className="text-gray-700 text-lg">
+                <p className="text-gray-700">
                   Ongoing pressure checks, logging, and monitoring, as well as water balance analysis, to detect issues before they escalate.
                 </p>
               </div>
@@ -164,7 +164,7 @@ export default function WaterMainLeakDetection() {
                 </div>
                 <div>
                   <h3 className="text-xl font-semibold text-[#1e3a8a] mb-2">Minimal Disruption</h3>
-                  <p className="text-gray-700 text-lg">
+                  <p className="text-gray-700">
                     We plan our work around your operations, preventing unnecessary downtime during the water leak detection process.
                   </p>
                 </div>
@@ -176,7 +176,7 @@ export default function WaterMainLeakDetection() {
                 </div>
                 <div>
                   <h3 className="text-xl font-semibold text-[#1e3a8a] mb-2">Expert Technicians</h3>
-                  <p className="text-gray-700 text-lg">
+                  <p className="text-gray-700">
                     Our water leak detection specialists are trained to use sophisticated equipment and techniques to swiftly locate and address leaks.
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function WaterMainLeakDetection() {
                 </div>
                 <div>
                   <h3 className="text-xl font-semibold text-[#1e3a8a] mb-2">Cost Savings</h3>
-                  <p className="text-gray-700 text-lg">
+                  <p className="text-gray-700">
                     Identifying and repairing water leaks early helps you avoid steep water bills and potential property damage.
                   </p>
                 </div>
@@ -200,7 +200,7 @@ export default function WaterMainLeakDetection() {
                 </div>
                 <div>
                   <h3 className="text-xl font-semibold text-[#1e3a8a] mb-2">Scotland-Focused</h3>
-                  <p className="text-gray-700 text-lg">
+                  <p className="text-gray-700">
                     As a Scottish company, we understand local regulations, geographical challenges, and weather conditions that can impact water mains.
                   </p>
                 </div>
@@ -208,7 +208,7 @@ export default function WaterMainLeakDetection() {
             </div>
 
             <div className="mt-8 p-6 bg-white rounded-lg">
-              <p className="text-gray-700 text-lg">
+              <p className="text-gray-700">
                 If you are concerned about potential water leaks or you're experiencing unexplained rises in water costs, contact ScotWater for professional water leak detection services. Let us help you protect your property, conserve water, and save money.
               </p>
             </div>
@@ -348,12 +348,12 @@ export default function WaterMainLeakDetection() {
             {/* Reviews Grid */}
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               <div className="border-4 border-yellow-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
+                <p className="text-gray-700 mb-4 min-h-[120px]">
                   I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Paul Strachan</p>
-                  <p className="text-gray-700 text-lg text-sm mb-2">Glasgow</p>
+                  <p className="text-gray-600 text-sm mb-2">Glasgow</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>
@@ -364,12 +364,12 @@ export default function WaterMainLeakDetection() {
                 </div>
               </div>
               <div className="border-4 border-pink-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
+                <p className="text-gray-700 mb-4 min-h-[120px]">
                   Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Jonathan Godfrey</p>
-                  <p className="text-gray-700 text-lg text-sm mb-2">Edinburgh</p>
+                  <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>
@@ -380,12 +380,12 @@ export default function WaterMainLeakDetection() {
                 </div>
               </div>
               <div className="border-4 border-green-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
+                <p className="text-gray-700 mb-4 min-h-[120px]">
                   We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Gordan Christie</p>
-                  <p className="text-gray-700 text-lg text-sm mb-2">Aberdeen</p>
+                  <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>
