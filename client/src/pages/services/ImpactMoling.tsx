@@ -24,7 +24,7 @@ export default function ImpactMoling() {
         {/* Main Content */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">Impact Moling Specialists in Scotland</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Impact Moling Specialists in Scotland</h2>
             
             <p className="text-lg text-gray-700 mb-6">
               ScotWater offers professional Impact Moling services across Scotland, providing a precise, non-invasive solution for installing underground water supply pipes. This advanced trenchless technique allows us to work efficiently while preserving your property's landscaping and hardscapes, making it the ideal choice for water supply pipe installations and replacements.

@@ -32,7 +32,7 @@ export default function WaterLeakDetection() {
         {/* Main Content */}
         <section className="py-16">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
               Underground Water Leak Detection Services in Scotland
             </h2>
             
@@ -96,7 +96,7 @@ export default function WaterLeakDetection() {
         {/* Techniques Section */}
         <section className="py-16">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
               Techniques to Narrow Down and Locate Leaks
             </h2>
 

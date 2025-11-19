@@ -26,7 +26,7 @@ export default function WaterLeaks() {
         {/* Water Leaks at Home */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">Water Leaks at Home</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Water Leaks at Home</h2>
             
             <div className="space-y-4 text-gray-700 leading-relaxed">
               <p>
@@ -81,7 +81,7 @@ export default function WaterLeaks() {
         {/* Common Places to Find a Water Leak */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">Common Places to Find a Water Leak</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Common Places to Find a Water Leak</h2>
             
             <p className="text-gray-700 leading-relaxed mb-8">
               If you're concerned about potential water leaks in your home and don't have access to a leak detector, there are several common areas you should inspect to prevent water damage and save on utility costs. Here at ScotWater, we recommend regularly checking these critical spots in your home:

@@ -73,7 +73,7 @@ export default function WaterMainRepairs() {
         {/* Main Content */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">Water Main Repair Specialists in Scotland</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Water Main Repair Specialists in Scotland</h2>
             
             <p className="text-gray-700 mb-4">
               Welcome to ScotWater, Scotland's leading water main repair specialists. We provide expert services for all types of underground water leaks and water main replacement and repair projects, ensuring efficient and high-quality solutions for our clients.

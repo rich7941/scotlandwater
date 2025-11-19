@@ -25,7 +25,7 @@ export default function LeadPipeReplacement() {
         {/* Introduction */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
               Lead Pipe Replacement in Scotland: Responsibilities, Challenges, and Best Practice
             </h2>
             <p className="text-gray-700 leading-relaxed mb-6">
@@ -37,7 +37,7 @@ export default function LeadPipeReplacement() {
         {/* Why Lead Pipes Are a Problem */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
               Why Lead Pipes Are a Problem
             </h2>
             <p className="text-gray-700 leading-relaxed">
@@ -87,7 +87,7 @@ export default function LeadPipeReplacement() {
         {/* Scotland's Path Forward */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
               Scotland's Path Forward
             </h2>
             <p className="text-gray-700 leading-relaxed mb-4">
@@ -146,7 +146,7 @@ export default function LeadPipeReplacement() {
         {/* The Bottom Line */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
               The Bottom Line: Mitigation Is Temporary
             </h2>
             <p className="text-gray-700 leading-relaxed mb-4">
@@ -164,7 +164,7 @@ export default function LeadPipeReplacement() {
         {/* Partial Replacement Warning */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
               Partial Lead Pipe Replacement: A Risky Interim Step
             </h2>
             <p className="text-gray-700 leading-relaxed mb-4">
@@ -229,7 +229,7 @@ export default function LeadPipeReplacement() {
         {/* Post-Replacement */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
               Post-Lead Pipe Replacement Flushing and Safety
             </h2>
             <p className="text-gray-700 leading-relaxed mb-6">
@@ -263,7 +263,7 @@ export default function LeadPipeReplacement() {
         {/* Replace Don't Delay */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
               Replace, Don't Delay
             </h2>
             <p className="text-gray-700 leading-relaxed mb-4">
@@ -344,7 +344,7 @@ export default function LeadPipeReplacement() {
         {/* Shared Supply Pipes */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
               Shared Supply Pipes: Your Responsibilities
             </h2>
             <p className="text-gray-700 leading-relaxed mb-4">

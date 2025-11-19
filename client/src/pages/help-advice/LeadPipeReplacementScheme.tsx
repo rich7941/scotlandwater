@@ -77,7 +77,7 @@ export default function LeadPipeReplacementScheme() {
         {/* Main Content */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
               Lead Pipe Replacement Scheme Scotland: Ensuring Safer Water for Scottish Homes
             </h2>
             <p className="text-gray-700 leading-relaxed mb-8">

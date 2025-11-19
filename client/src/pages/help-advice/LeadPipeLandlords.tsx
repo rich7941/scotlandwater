@@ -25,7 +25,7 @@ export default function LeadPipeLandlords() {
         {/* Introduction */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">Lead Pipe: A Guide for Landlords in Scotland</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Lead Pipe: A Guide for Landlords in Scotland</h2>
             <p className="text-lg text-gray-700 mb-4">
               As a landlord in Scotland, you have a legal obligation to ensure that your rental property provides a safe and healthy living environment for your tenants. One key part of this responsibility is making sure that the water supply is free from lead contamination.
             </p>
@@ -38,7 +38,7 @@ export default function LeadPipeLandlords() {
         {/* Legal Obligations */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">Legal Obligations for Landlords</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Legal Obligations for Landlords</h2>
             <p className="text-lg text-gray-700 mb-6">
               The Repairing Standard forms part of the Housing (Scotland) Act 2006 and sets out the minimum physical standards for rented accommodation. From March 2024, it specifically requires that:
             </p>
@@ -70,7 +70,7 @@ export default function LeadPipeLandlords() {
         {/* Arranging Replacement */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">Arranging Lead Pipe Replacement as a Landlord</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Arranging Lead Pipe Replacement as a Landlord</h2>
             <p className="text-lg text-gray-700 mb-6">
               If you believe the property may contain lead pipes, the first step is to arrange a professional inspection. A plumber registered with a recognised scheme—such as WaterSafe, SNIPEF, or WIAPS—can assess the system and confirm whether lead is present.
             </p>
@@ -131,7 +131,7 @@ export default function LeadPipeLandlords() {
         {/* Planning and Communication */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">Planning and Communication with Tenants</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Planning and Communication with Tenants</h2>
             <p className="text-lg text-gray-700 mb-6">
               Lead pipe replacement can be disruptive, especially when internal works are required. Best practice for landlords includes:
             </p>
@@ -163,7 +163,7 @@ export default function LeadPipeLandlords() {
         {/* Financial Considerations */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">Financial Considerations</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Financial Considerations</h2>
             <p className="text-lg text-gray-700 mb-4">
               While landlords are responsible for the private-side pipe, financial support may be available in some areas through local authority grant schemes or interest-free loans. These are more likely in cases where several neighbouring properties are replacing lead pipes at the same time, or in areas of known historic contamination.
             </p>
@@ -176,7 +176,7 @@ export default function LeadPipeLandlords() {
         {/* Summary */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">Summary for Landlords</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Summary for Landlords</h2>
             <div className="grid md:grid-cols-3 gap-6">
               <div className="bg-white p-6 border-l-4 border-purple-600">
                 <h3 className="font-bold text-[#1e3a8a] mb-2">No lead in supply pipe (from March 2024)</h3>
