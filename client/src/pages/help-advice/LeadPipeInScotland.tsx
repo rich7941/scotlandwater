@@ -23,10 +23,10 @@ export default function LeadPipeInScotland() {
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
             <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">What is Lead?</h2>
-            <p className="text-gray-700 mb-4">
+            <p className="text-gray-700 text-lg mb-4">
               Lead is a toxic heavy metal that has been used in plumbing systems since Roman times. In fact, the word plumbing comes from the Latin word plumbum, meaning lead. For many centuries, lead pipe was favoured for plumbing due to its durability, flexibility, and ease of installation. It was commonly used for both internal plumbing and the pipe that connects a property to the mains supply.
             </p>
-            <p className="text-gray-700 mb-4">
+            <p className="text-gray-700 text-lg mb-4">
               Lead is a toxic heavy metal. Even in small amounts, it can be harmful if consumed over time. It is especially dangerous for unborn babies and children under the age of six, whose bodies and brains are still developing.
             </p>
             <p className="text-gray-700">
@@ -39,16 +39,16 @@ export default function LeadPipeInScotland() {
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
             <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Why Is Lead in Drinking Water a Problem?</h2>
-            <p className="text-gray-700 mb-4">
+            <p className="text-gray-700 text-lg mb-4">
               Lead water pipes may no longer be installed in modern homes, but they remain embedded in Scotland's housing stock—especially in pre-1970s buildings. As long as lead pipes remain in place, there will be a risk, particularly in households with vulnerable residents.
             </p>
-            <p className="text-gray-700 mb-4">
+            <p className="text-gray-700 text-lg mb-4">
               Until every lead pipe in Scotland is removed, lead will continue to pose a measurable threat to public health. The only way to be certain your water is free from lead is to test it and, if necessary, replace the source.
             </p>
-            <p className="text-gray-700 mb-4">
+            <p className="text-gray-700 text-lg mb-4">
               It might not seem like a small amount of lead in drinking water could cause harm—but if consumed regularly over time, lead builds up in the body and can become dangerous.
             </p>
-            <p className="text-gray-700 mb-4">
+            <p className="text-gray-700 text-lg mb-4">
               Disturbance to lead pipes—such as during nearby roadworks or home renovations—can temporarily increase lead levels in your tap water. If you've had work done on or near your property, it is advisable to run your cold taps for 10 minutes to flush out any water that may have absorbed lead particles.
             </p>
             <p className="text-gray-700">
@@ -61,7 +61,7 @@ export default function LeadPipeInScotland() {
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
             <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Understanding Lead Pipes in Scotland: History, Health Risks, and Removal Challenges</h2>
-            <p className="text-gray-700 mb-4">
+            <p className="text-gray-700 text-lg mb-4">
               Historically, lead was widely used across Scotland in various applications, including petrol, paint, and plumbing systems. Before the 1970s, it was standard practice to use lead pipes to connect homes to the public mains water supply, thanks to lead's malleability and resistance to corrosion. This practice continued until the health risks of lead exposure became widely recognised.
             </p>
             <p className="text-gray-700">
@@ -74,10 +74,10 @@ export default function LeadPipeInScotland() {
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
             <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">How Lead Enters the Water Supply</h2>
-            <p className="text-gray-700 mb-6">
+            <p className="text-gray-700 text-lg mb-6">
               Water sourced from Scottish reservoirs and treated at Scottish Water's works does not contain lead. There are no lead water mains in Scotland's public supply network. However, water can still become contaminated as it travels through private plumbing that contains lead.
             </p>
-            <p className="text-gray-700 mb-4">Lead typically enters drinking water through:</p>
+            <p className="text-gray-700 text-lg mb-4">Lead typically enters drinking water through:</p>
             <ul className="space-y-2 mb-6">
               <li className="flex items-start">
                 <span className="text-purple-600 mr-2">•</span>
@@ -110,7 +110,7 @@ export default function LeadPipeInScotland() {
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
             <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Other Causes of Lead in Drinking Water</h2>
-            <p className="text-gray-700 mb-6">
+            <p className="text-gray-700 text-lg mb-6">
               Disturbance to lead pipes—such as nearby roadworks, construction, or renovations—can temporarily increase lead levels. Vibrations or disruption can dislodge particles inside the pipe, causing short-term spikes in contamination. This is why it is advisable to run your cold tap for at least 10 minutes if work has taken place near your property.
             </p>
             <p className="text-gray-700">
@@ -180,7 +180,7 @@ export default function LeadPipeInScotland() {
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
             <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Protecting Your Home from Lead Exposure</h2>
-            <p className="text-gray-700 mb-4">
+            <p className="text-gray-700 text-lg mb-4">
               To reduce the risk of lead in your drinking water, Scottish Water and public health authorities recommend:
             </p>
             <ul className="space-y-2 mb-6">
@@ -306,12 +306,12 @@ export default function LeadPipeInScotland() {
             {/* Reviews Grid */}
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               <div className="border-4 border-yellow-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 mb-4 min-h-[120px]">
+                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
                   I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Paul Strachan</p>
-                  <p className="text-gray-600 text-sm mb-2">Glasgow</p>
+                  <p className="text-gray-700 text-lg text-sm mb-2">Glasgow</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>
@@ -322,12 +322,12 @@ export default function LeadPipeInScotland() {
                 </div>
               </div>
               <div className="border-4 border-pink-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 mb-4 min-h-[120px]">
+                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
                   Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Jonathan Godfrey</p>
-                  <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
+                  <p className="text-gray-700 text-lg text-sm mb-2">Edinburgh</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>
@@ -338,12 +338,12 @@ export default function LeadPipeInScotland() {
                 </div>
               </div>
               <div className="border-4 border-green-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 mb-4 min-h-[120px]">
+                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
                   We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Gordan Christie</p>
-                  <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
+                  <p className="text-gray-700 text-lg text-sm mb-2">Aberdeen</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>

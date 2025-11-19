@@ -75,11 +75,11 @@ export default function WaterMainRepairs() {
           <div className="container max-w-4xl">
             <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Water Main Repair Specialists in Scotland</h2>
             
-            <p className="text-gray-700 mb-4">
+            <p className="text-gray-700 text-lg mb-4">
               Welcome to ScotWater, Scotland's leading water main repair specialists. We provide expert services for all types of underground water leaks and water main replacement and repair projects, ensuring efficient and high-quality solutions for our clients.
             </p>
 
-            <p className="text-gray-700 mb-4">
+            <p className="text-gray-700 text-lg mb-4">
               With extensive expertise in water main leaks, our services include:
             </p>
 
@@ -89,17 +89,17 @@ export default function WaterMainRepairs() {
               <li>Water main replacement</li>
             </ul>
 
-            <p className="text-gray-700 mb-8">
+            <p className="text-gray-700 text-lg mb-8">
               Our skilled teams can handle any task, no matter the size or complexity.
             </p>
 
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-6">What Causes Water Mains to Leak?</h3>
 
-            <p className="text-gray-700 mb-6">
+            <p className="text-gray-700 text-lg mb-6">
               Do you have a leaking water main and want to prevent further problems by identifying the cause? Our engineers can assess and fix the issue while finding a long-term solution to prevent similar breakages or leaks in the future.
             </p>
 
-            <p className="text-gray-700 mb-6">
+            <p className="text-gray-700 text-lg mb-6">
               Some of the most common causes of burst water mains include:
             </p>
 
@@ -145,18 +145,18 @@ export default function WaterMainRepairs() {
 
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-6">ScotWater Water Main Repairs</h3>
 
-            <p className="text-gray-700 mb-4">
+            <p className="text-gray-700 text-lg mb-4">
               At ScotWater, we have decades of experience tackling even the most disastrous water main emergencies.
             </p>
 
-            <p className="text-gray-700 mb-8">
+            <p className="text-gray-700 text-lg mb-8">
               When your water main breaks, you need someone who appreciates the scale of the emergency and knows how to fix it as quickly and effectively as possible. Using innovative methods of leak detection, testing, and trenchless repairs, our engineers will fix your problem in the most long-lasting and non-invasive way. Where necessary, we also have the skills and equipment to carry out full water main replacements.
             </p>
 
             <h4 className="text-xl font-bold text-[#1e3a8a] mb-4">24-Hour Emergency Service</h4>
 
             <div className="bg-yellow-50 border-l-4 border-yellow-400 p-6 mb-8">
-              <p className="text-gray-700 mb-4">
+              <p className="text-gray-700 text-lg mb-4">
                 We understand that water leaks can be highly disruptive, whether it's a slow leak or a sudden burst water main. Scottish Water may alert you to an underground leak, or you may notice water leaking from your driveway. Water main leaks can cause flooding and costly damage. ScotWater is on hand to fix the problem fast.
               </p>
               <p className="text-gray-700">
@@ -166,11 +166,11 @@ export default function WaterMainRepairs() {
 
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-6">Contact ScotWater</h3>
 
-            <p className="text-gray-700 mb-6">
+            <p className="text-gray-700 text-lg mb-6">
               When water mains burst, you must act fast. For reliable, professional, and timely water main repair services across Scotland, trust ScotWater to deliver exceptional results.
             </p>
 
-            <p className="text-gray-700 mb-8">
+            <p className="text-gray-700 text-lg mb-8">
               ScotWater can carry out water main repairs across Scotland and provide you with a free quotation for the repair. To get a free quote for your water main repair, please call us on 0800 206 2778 or email hello@scotwater.co.uk to schedule a free consultation and learn how we can help with your water main needs.
             </p>
 
@@ -287,12 +287,12 @@ export default function WaterMainRepairs() {
             {/* Reviews Grid */}
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               <div className="border-4 border-yellow-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 mb-4 min-h-[120px]">
+                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
                   I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Paul Strachan</p>
-                  <p className="text-gray-600 text-sm mb-2">Glasgow</p>
+                  <p className="text-gray-700 text-lg text-sm mb-2">Glasgow</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>
@@ -303,12 +303,12 @@ export default function WaterMainRepairs() {
                 </div>
               </div>
               <div className="border-4 border-pink-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 mb-4 min-h-[120px]">
+                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
                   Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Jonathan Godfrey</p>
-                  <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
+                  <p className="text-gray-700 text-lg text-sm mb-2">Edinburgh</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>
@@ -319,12 +319,12 @@ export default function WaterMainRepairs() {
                 </div>
               </div>
               <div className="border-4 border-green-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 mb-4 min-h-[120px]">
+                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
                   We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Gordan Christie</p>
-                  <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
+                  <p className="text-gray-700 text-lg text-sm mb-2">Aberdeen</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>

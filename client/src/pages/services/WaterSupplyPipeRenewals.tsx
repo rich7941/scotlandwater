@@ -32,10 +32,10 @@ export default function WaterSupplyPipeRenewals() {
           {/* Lead Pipes Section */}
           <div className="bg-yellow-50 border-l-4 border-[#F4E04D] p-6 mb-8">
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Lead Water Supply Pipes</h3>
-            <p className="text-gray-700 mb-4">
+            <p className="text-gray-700 text-lg mb-4">
               If your house was built before 1970 and hasn't been modernised, there's a good chance your water supply pipe may be made of lead.
             </p>
-            <p className="text-gray-700 mb-4">
+            <p className="text-gray-700 text-lg mb-4">
               For homes with lead water supply pipes, it's advisable to run the cold tap for a few moments before using the water to drink. This helps flush out any water that has settled in the water supply pipe, particularly if it has been standing for a long time, such as overnight or during a holiday, when the concentration of lead can increase. Flushing the water supply pipe reduces the lead concentration in the water you consume.
             </p>
             <p className="text-gray-700 font-semibold">
@@ -126,7 +126,7 @@ export default function WaterSupplyPipeRenewals() {
           {/* For Tenants */}
           <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-8">
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">If You're a Tenant</h3>
-            <p className="text-gray-700 mb-4">If you suspect lead pipes:</p>
+            <p className="text-gray-700 text-lg mb-4">If you suspect lead pipes:</p>
             <ul className="space-y-3 text-gray-700">
               <li className="flex items-start gap-2">
                 <span className="text-blue-600 font-bold">•</span>
@@ -269,12 +269,12 @@ export default function WaterSupplyPipeRenewals() {
           {/* Reviews Grid */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="border-4 border-yellow-400 rounded-lg p-6 bg-white">
-              <p className="text-gray-700 mb-4 min-h-[120px]">
+              <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
                 I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
               </p>
               <div className="border-t pt-4">
                 <p className="font-bold text-[#1e3a8a]">Paul Strachan</p>
-                <p className="text-gray-600 text-sm mb-2">Glasgow</p>
+                <p className="text-gray-700 text-lg text-sm mb-2">Glasgow</p>
                 <div className="flex gap-1">
                   <span className="text-yellow-400">★</span>
                   <span className="text-yellow-400">★</span>
@@ -285,12 +285,12 @@ export default function WaterSupplyPipeRenewals() {
               </div>
             </div>
             <div className="border-4 border-pink-400 rounded-lg p-6 bg-white">
-              <p className="text-gray-700 mb-4 min-h-[120px]">
+              <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
                 Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
               </p>
               <div className="border-t pt-4">
                 <p className="font-bold text-[#1e3a8a]">Jonathan Godfrey</p>
-                <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
+                <p className="text-gray-700 text-lg text-sm mb-2">Edinburgh</p>
                 <div className="flex gap-1">
                   <span className="text-yellow-400">★</span>
                   <span className="text-yellow-400">★</span>
@@ -301,12 +301,12 @@ export default function WaterSupplyPipeRenewals() {
               </div>
             </div>
             <div className="border-4 border-green-400 rounded-lg p-6 bg-white">
-              <p className="text-gray-700 mb-4 min-h-[120px]">
+              <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
                 We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
               </p>
               <div className="border-t pt-4">
                 <p className="font-bold text-[#1e3a8a]">Gordan Christie</p>
-                <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
+                <p className="text-gray-700 text-lg text-sm mb-2">Aberdeen</p>
                 <div className="flex gap-1">
                   <span className="text-yellow-400">★</span>
                   <span className="text-yellow-400">★</span>

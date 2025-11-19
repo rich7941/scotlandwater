@@ -96,7 +96,7 @@ export default function WaterMainRenewals() {
               Factors Influencing Water Flow or Pressure in Commercial Settings
             </h3>
             
-            <p className="text-gray-700 mb-6">
+            <p className="text-gray-700 text-lg mb-6">
               The efficiency of water delivery to your commercial property is crucial and can be influenced by several factors related to your water main:
             </p>
 
@@ -127,7 +127,7 @@ export default function WaterMainRenewals() {
               </div>
             </div>
 
-            <p className="text-gray-700 mb-4">Additional considerations include:</p>
+            <p className="text-gray-700 text-lg mb-4">Additional considerations include:</p>
 
             <div className="space-y-4 mb-8">
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
@@ -146,7 +146,7 @@ export default function WaterMainRenewals() {
               </div>
             </div>
 
-            <p className="text-gray-700 mb-8">
+            <p className="text-gray-700 text-lg mb-8">
               Addressing these issues through water main renewal can lead to improved performance and reliability. For a consultation and free quote on commercial water main renewal, reach out to us.
             </p>
 
@@ -155,7 +155,7 @@ export default function WaterMainRenewals() {
               Commercial Water Main Renewal Techniques
             </h3>
 
-            <p className="text-gray-700 mb-6">
+            <p className="text-gray-700 text-lg mb-6">
               ScotWater recommends the most effective renewal techniques based on our extensive commercial expertise:
             </p>
 
@@ -172,7 +172,7 @@ export default function WaterMainRenewals() {
             </div>
 
             <h4 className="text-xl font-bold text-[#1e3a8a] mb-4">Advanced Trenchless Technologies</h4>
-            <p className="text-gray-700 mb-6">Offer minimal disruption:</p>
+            <p className="text-gray-700 text-lg mb-6">Offer minimal disruption:</p>
 
             <div className="space-y-3 mb-8">
               <div className="flex items-start gap-3">
@@ -343,12 +343,12 @@ export default function WaterMainRenewals() {
             {/* Reviews Grid */}
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               <div className="border-4 border-yellow-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 mb-4 min-h-[120px]">
+                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
                   I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Paul Strachan</p>
-                  <p className="text-gray-600 text-sm mb-2">Glasgow</p>
+                  <p className="text-gray-700 text-lg text-sm mb-2">Glasgow</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>
@@ -359,12 +359,12 @@ export default function WaterMainRenewals() {
                 </div>
               </div>
               <div className="border-4 border-pink-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 mb-4 min-h-[120px]">
+                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
                   Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Jonathan Godfrey</p>
-                  <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
+                  <p className="text-gray-700 text-lg text-sm mb-2">Edinburgh</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>
@@ -375,12 +375,12 @@ export default function WaterMainRenewals() {
                 </div>
               </div>
               <div className="border-4 border-green-400 rounded-lg p-6 bg-white">
-                <p className="text-gray-700 mb-4 min-h-[120px]">
+                <p className="text-gray-700 text-lg mb-4 min-h-[120px]">
                   We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
                 </p>
                 <div className="border-t pt-4">
                   <p className="font-bold text-[#1e3a8a]">Gordan Christie</p>
-                  <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
+                  <p className="text-gray-700 text-lg text-sm mb-2">Aberdeen</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
                     <span className="text-yellow-400">★</span>
