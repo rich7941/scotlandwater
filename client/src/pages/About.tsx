@@ -5,7 +5,7 @@ export default function About() {
   return (
     <div className="min-h-screen">
       {/* Hero Section with Background Image */}
-      <section className="relative py-32">
+      <section className="relative h-[500px] flex items-center">
         <div 
           className="absolute inset-0 bg-cover bg-center"
           style={{backgroundImage: "url('/about-hero.webp')"}}
