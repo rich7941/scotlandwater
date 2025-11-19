@@ -25,7 +25,7 @@ export default function LeadPipeReplacement() {
         {/* Introduction */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-gray-900 mb-6">
+            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">
               Lead Pipe Replacement in Scotland: Responsibilities, Challenges, and Best Practice
             </h2>
             <p className="text-gray-700 leading-relaxed mb-6">
@@ -37,7 +37,7 @@ export default function LeadPipeReplacement() {
         {/* Why Lead Pipes Are a Problem */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-gray-900 mb-6">
+            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">
               Why Lead Pipes Are a Problem
             </h2>
             <p className="text-gray-700 leading-relaxed">
@@ -49,30 +49,30 @@ export default function LeadPipeReplacement() {
         {/* Next Steps if Lead Pipes Are Found */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-gray-900 mb-8">
+            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-8">
               Next Steps if Lead Pipes Are Found
             </h2>
             <div className="space-y-4">
               <div className="bg-white border-l-4 border-purple-600 p-6 shadow-sm">
-                <h3 className="font-bold text-gray-900 mb-2">Lead Pipe Replacement</h3>
+                <h3 className="font-bold text-[#1e3a8a] mb-2">Lead Pipe Replacement</h3>
                 <p className="text-gray-700">
                   Engage a qualified plumber to replace any identified lead pipes with approved materials like copper or plastic.
                 </p>
               </div>
               <div className="bg-white border-l-4 border-purple-600 p-6 shadow-sm">
-                <h3 className="font-bold text-gray-900 mb-2">Inform Scottish Water</h3>
+                <h3 className="font-bold text-[#1e3a8a] mb-2">Inform Scottish Water</h3>
                 <p className="text-gray-700">
                   If lead is found in the communication pipe, Scottish Water will replace it free of charge upon confirmation.
                 </p>
               </div>
               <div className="bg-white border-l-4 border-purple-600 p-6 shadow-sm">
-                <h3 className="font-bold text-gray-900 mb-2">Seek Financial Assistance</h3>
+                <h3 className="font-bold text-[#1e3a8a] mb-2">Seek Financial Assistance</h3>
                 <p className="text-gray-700">
                   Some local councils offer grants or assistance schemes to help with the cost of replacing lead pipes. Contact your local Environmental Health Department for information.
                 </p>
               </div>
               <div className="bg-white border-l-4 border-purple-600 p-6 shadow-sm">
-                <h3 className="font-bold text-gray-900 mb-2">Regular Testing</h3>
+                <h3 className="font-bold text-[#1e3a8a] mb-2">Regular Testing</h3>
                 <p className="text-gray-700">
                   After the lead pipe replacement work, consider periodic water testing to ensure lead levels remain within safe limits.
                 </p>
@@ -87,7 +87,7 @@ export default function LeadPipeReplacement() {
         {/* Scotland's Path Forward */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-gray-900 mb-6">
+            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">
               Scotland's Path Forward
             </h2>
             <p className="text-gray-700 leading-relaxed mb-4">
@@ -111,7 +111,7 @@ export default function LeadPipeReplacement() {
         {/* Additional Mitigation Tips */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-gray-900 mb-8">
+            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-8">
               Additional Mitigation Tips
             </h2>
             <div className="space-y-4">
@@ -146,7 +146,7 @@ export default function LeadPipeReplacement() {
         {/* The Bottom Line */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-gray-900 mb-6">
+            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">
               The Bottom Line: Mitigation Is Temporary
             </h2>
             <p className="text-gray-700 leading-relaxed mb-4">
@@ -164,14 +164,14 @@ export default function LeadPipeReplacement() {
         {/* Partial Replacement Warning */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-gray-900 mb-6">
+            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">
               Partial Lead Pipe Replacement: A Risky Interim Step
             </h2>
             <p className="text-gray-700 leading-relaxed mb-4">
               Partial lead pipe replacement occurs when only one part of the lead pipe—either the communication pipe (public side) or the supply pipe (private side)—is replaced, while the other section remains in place.
             </p>
             <div className="bg-red-50 border-l-4 border-red-600 p-6 my-6">
-              <p className="text-gray-900 font-semibold mb-2">⚠️ Warning</p>
+              <p className="text-[#1e3a8a] font-semibold mb-2">⚠️ Warning</p>
               <p className="text-gray-700">
                 This approach is not recommended, and in some circumstances may temporarily increase lead levels in the water. That's because disturbing the existing lead pipe during a partial lead pipe replacement can dislodge scale and lead particles built up inside the pipe over time.
               </p>
@@ -188,7 +188,7 @@ export default function LeadPipeReplacement() {
         {/* Challenges */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-gray-900 mb-8">
+            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-8">
               Challenges in Coordinated Lead Pipe Replacement
             </h2>
             <p className="text-gray-700 leading-relaxed mb-6">
@@ -196,25 +196,25 @@ export default function LeadPipeReplacement() {
             </p>
             <div className="space-y-4">
               <div className="bg-white border-l-4 border-purple-600 p-6 shadow-sm">
-                <h3 className="font-bold text-gray-900 mb-2">Cost</h3>
+                <h3 className="font-bold text-[#1e3a8a] mb-2">Cost</h3>
                 <p className="text-gray-700">
                   Replacing the private section of a lead pipe can cost between £1,500 and £12,000, depending on access, pipe length, and surface materials.
                 </p>
               </div>
               <div className="bg-white border-l-4 border-purple-600 p-6 shadow-sm">
-                <h3 className="font-bold text-gray-900 mb-2">Property Ownership</h3>
+                <h3 className="font-bold text-[#1e3a8a] mb-2">Property Ownership</h3>
                 <p className="text-gray-700">
                   In tenement buildings, flats, or shared properties, the supply pipe may be a shared responsibility between multiple owners, requiring coordination and cost-sharing.
                 </p>
               </div>
               <div className="bg-white border-l-4 border-purple-600 p-6 shadow-sm">
-                <h3 className="font-bold text-gray-900 mb-2">Landlord Hesitancy</h3>
+                <h3 className="font-bold text-[#1e3a8a] mb-2">Landlord Hesitancy</h3>
                 <p className="text-gray-700">
                   Some landlords may be reluctant to fund replacement work, especially if the tenants have not complained. However, from March 2024, it will be illegal to rent a property in Scotland with lead pipes in the drinking water supply.
                 </p>
               </div>
               <div className="bg-white border-l-4 border-purple-600 p-6 shadow-sm">
-                <h3 className="font-bold text-gray-900 mb-2">Access Issues</h3>
+                <h3 className="font-bold text-[#1e3a8a] mb-2">Access Issues</h3>
                 <p className="text-gray-700">
                   Some homeowners are unwilling to allow external contractors to carry out work within their property or under paved surfaces, fearing damage or disruption. In rare cases, this has delayed wider community pipe replacement efforts.
                 </p>
@@ -229,7 +229,7 @@ export default function LeadPipeReplacement() {
         {/* Post-Replacement */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-gray-900 mb-6">
+            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">
               Post-Lead Pipe Replacement Flushing and Safety
             </h2>
             <p className="text-gray-700 leading-relaxed mb-6">
@@ -263,7 +263,7 @@ export default function LeadPipeReplacement() {
         {/* Replace Don't Delay */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-gray-900 mb-6">
+            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">
               Replace, Don't Delay
             </h2>
             <p className="text-gray-700 leading-relaxed mb-4">
@@ -281,14 +281,14 @@ export default function LeadPipeReplacement() {
         {/* Replacing Your Lead Pipe */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-gray-900 mb-8">
+            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-8">
               Replacing Your Lead Pipe: What You Need to Know
             </h2>
             <p className="text-gray-700 leading-relaxed mb-8">
               Replacing your lead supply pipe is the most effective way to eliminate lead exposure from your drinking water. Here's what you need to consider when undertaking this work in Scotland.
             </p>
 
-            <h3 className="text-2xl font-bold text-gray-900 mb-4">Legal Requirements</h3>
+            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Legal Requirements</h3>
             <p className="text-gray-700 leading-relaxed mb-4">
               Any new water supply pipe must comply with the Water Supply (Water Fittings) Regulations 1999. This is a legal responsibility for the property owner, occupier, or plumber. Always:
             </p>
@@ -303,7 +303,7 @@ export default function LeadPipeReplacement() {
               </div>
             </div>
 
-            <h3 className="text-2xl font-bold text-gray-900 mb-4">Technical Requirements</h3>
+            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Technical Requirements</h3>
             <p className="text-gray-700 leading-relaxed mb-4">The new supply pipe must:</p>
             <div className="space-y-3 mb-8">
               <div className="flex items-start gap-3">
@@ -328,7 +328,7 @@ export default function LeadPipeReplacement() {
               </div>
             </div>
 
-            <h3 className="text-2xl font-bold text-gray-900 mb-4">Special Cases</h3>
+            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Special Cases</h3>
             <p className="text-gray-700 leading-relaxed mb-3">
               If the boundary stop tap is in the street, a permit to dig may be required.
             </p>
@@ -344,7 +344,7 @@ export default function LeadPipeReplacement() {
         {/* Shared Supply Pipes */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-gray-900 mb-6">
+            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-6">
               Shared Supply Pipes: Your Responsibilities
             </h2>
             <p className="text-gray-700 leading-relaxed mb-4">
@@ -369,7 +369,7 @@ export default function LeadPipeReplacement() {
         {/* Ready to Replace */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-gray-900 mb-8">
+            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-8">
               Ready to Replace Your Lead Pipe? Here's What to Do
             </h2>
             <div className="space-y-4 mb-8">

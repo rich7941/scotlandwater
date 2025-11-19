@@ -52,19 +52,19 @@ export default function Glasgow() {
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4 mt-12">Lead Pipe Replacement Service - What to Expect</h3>
             <div className="space-y-6 mb-8">
               <div>
-                <h4 className="text-lg font-semibold text-gray-800 mb-2">1. Lead Pipe Inspection and Assessment</h4>
+                <h4 className="text-lg font-semibold text-[#1e3a8a] mb-2">1. Lead Pipe Inspection and Assessment</h4>
                 <p className="text-gray-700">
                   We begin by carrying out a thorough inspection of your property to identify any lead pipes. Our skilled technicians assess the condition and layout of the existing lead pipes and recommend the best course of action for lead pipe replacement.
                 </p>
               </div>
               <div>
-                <h4 className="text-lg font-semibold text-gray-800 mb-2">2. Safe and Disruption-Free Lead Pipe Replacement</h4>
+                <h4 className="text-lg font-semibold text-[#1e3a8a] mb-2">2. Safe and Disruption-Free Lead Pipe Replacement</h4>
                 <p className="text-gray-700">
                   Once lead pipes are identified, we use advanced techniques to replace them with modern, durable materials. Our trenchless technology minimises digging and disruption to your property, ensuring a smooth and efficient replacement process.
                 </p>
               </div>
               <div>
-                <h4 className="text-lg font-semibold text-gray-800 mb-2">3. Compliance with Water Safety Standards</h4>
+                <h4 className="text-lg font-semibold text-[#1e3a8a] mb-2">3. Compliance with Water Safety Standards</h4>
                 <p className="text-gray-700">
                   As a trusted water services provider in Glasgow, all our lead pipe replacement complies with current UK Water Regulations. We ensure that your new pipe meets the latest health and safety standards, giving you peace of mind about your drinking water.
                 </p>
@@ -114,19 +114,19 @@ export default function Glasgow() {
             </p>
             <div className="space-y-6 mb-8">
               <div>
-                <h4 className="text-lg font-semibold text-gray-800 mb-2">1. Health Risks</h4>
+                <h4 className="text-lg font-semibold text-[#1e3a8a] mb-2">1. Health Risks</h4>
                 <p className="text-gray-700">
                   Lead can leach into drinking water from old lead pipes, posing serious health risks, particularly to young children and pregnant women. Lead exposure has been linked to developmental issues and other long-term health problems, making it critical to replace lead pipes as soon as possible.
                 </p>
               </div>
               <div>
-                <h4 className="text-lg font-semibold text-gray-800 mb-2">2. Improved Water Quality</h4>
+                <h4 className="text-lg font-semibold text-[#1e3a8a] mb-2">2. Improved Water Quality</h4>
                 <p className="text-gray-700">
                   Replacing lead pipes eliminates the risk of lead contamination, significantly improving the safety and quality of your drinking water. Many homeowners also notice an improvement in the taste and clarity of their water after the lead pipe replacement work.
                 </p>
               </div>
               <div>
-                <h4 className="text-lg font-semibold text-gray-800 mb-2">3. Increased Property Value</h4>
+                <h4 className="text-lg font-semibold text-[#1e3a8a] mb-2">3. Increased Property Value</h4>
                 <p className="text-gray-700">
                   Modernising your plumbing system by replacing lead pipes can enhance the value of your property. Homes with updated lead-free water systems are more attractive to potential buyers and meet today's safety standards.
                 </p>
@@ -172,7 +172,7 @@ export default function Glasgow() {
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4 mt-12">How to Start the Lead Pipe Replacement Process</h3>
             <div className="space-y-6 mb-8">
               <div>
-                <h4 className="text-lg font-semibold text-gray-800 mb-2">Step 1 – Contact ScotWater <a href="tel:08002062778" className="text-purple-600 hover:underline">0800 206 2778</a></h4>
+                <h4 className="text-lg font-semibold text-[#1e3a8a] mb-2">Step 1 – Contact ScotWater <a href="tel:08002062778" className="text-purple-600 hover:underline">0800 206 2778</a></h4>
                 <p className="text-gray-700 mb-2">
                   Discuss your property's lead pipe replacement with ScotWater. We may ask:
                 </p>
@@ -183,13 +183,13 @@ export default function Glasgow() {
                 </ul>
               </div>
               <div>
-                <h4 className="text-lg font-semibold text-gray-800 mb-2">Step 2 – Hire ScotWater</h4>
+                <h4 className="text-lg font-semibold text-[#1e3a8a] mb-2">Step 2 – Hire ScotWater</h4>
                 <p className="text-gray-700">
                   Hire ScotWater to do your private-side lead pipe replacement. If on a shared supply, we must work with neighbours and may need to submit proof of work (e.g. a completion certificate).
                 </p>
               </div>
               <div>
-                <h4 className="text-lg font-semibold text-gray-800 mb-2">Step 3 – Pipe Connection</h4>
+                <h4 className="text-lg font-semibold text-[#1e3a8a] mb-2">Step 3 – Pipe Connection</h4>
                 <p className="text-gray-700">
                   Once ScotWater completes your private side lead pipe replacement, Scottish Water will replace the lead communication pipe on the public highway free of charge.
                 </p>

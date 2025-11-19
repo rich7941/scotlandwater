@@ -40,17 +40,17 @@ export default function TermsAndConditions() {
 
               <h3 className="text-xl font-bold text-[#1e3a8a] mb-4 mt-8">3. Services</h3>
               
-              <h4 className="text-lg font-semibold text-gray-800 mb-3">3.1 Scope of Work</h4>
+              <h4 className="text-lg font-semibold text-[#1e3a8a] mb-3">3.1 Scope of Work</h4>
               <p className="text-gray-700 mb-6">
                 ScotWater provides water mains contracting services, including but not limited to water supply pipe replacement, maintenance, and repair.
               </p>
 
-              <h4 className="text-lg font-semibold text-gray-800 mb-3">3.2 Estimates and Quotes</h4>
+              <h4 className="text-lg font-semibold text-[#1e3a8a] mb-3">3.2 Estimates and Quotes</h4>
               <p className="text-gray-700 mb-6">
                 All quotes provided by ScotWater are estimates based on initial assessments. Final costs may vary due to unforeseen circumstances or additional work required. Prices are valid for one month from the date of the quotation.
               </p>
 
-              <h4 className="text-lg font-semibold text-gray-800 mb-3">3.3 Unforeseen Conditions</h4>
+              <h4 className="text-lg font-semibold text-[#1e3a8a] mb-3">3.3 Unforeseen Conditions</h4>
               <p className="text-gray-700 mb-4">
                 In the event that our engineers encounter unusually hard or difficult ground conditions, buried obstacles such as hardcore, metal, cisterns, tanks, foundations, roads, or any other circumstances beyond our control, ScotWater reserves the right to adjust the contract terms and associated costs. If ground conditions are deemed unforeseen and affect the planned work, ScotWater will adjust the scope of work and associated costs accordingly, even if the project is already underway.
               </p>
@@ -60,34 +60,34 @@ export default function TermsAndConditions() {
 
               <h3 className="text-xl font-bold text-[#1e3a8a] mb-4 mt-8">4. Customer Responsibilities</h3>
               
-              <h4 className="text-lg font-semibold text-gray-800 mb-3">4.1 Access</h4>
+              <h4 className="text-lg font-semibold text-[#1e3a8a] mb-3">4.1 Access</h4>
               <p className="text-gray-700 mb-6">
                 Customers must ensure that ScotWater has adequate access to the work site. Any delays caused by lack of access will be the customer's responsibility.
               </p>
 
-              <h4 className="text-lg font-semibold text-gray-800 mb-3">4.2 Permits and Easements</h4>
+              <h4 className="text-lg font-semibold text-[#1e3a8a] mb-3">4.2 Permits and Easements</h4>
               <p className="text-gray-700 mb-6">
                 Customers are responsible for obtaining any necessary permits or easements required for the work to be carried out. ScotWater can assist in this process but is not liable for any delays or issues related to permit acquisition.
               </p>
 
-              <h4 className="text-lg font-semibold text-gray-800 mb-3">4.3 Parking Arrangements</h4>
+              <h4 className="text-lg font-semibold text-[#1e3a8a] mb-3">4.3 Parking Arrangements</h4>
               <p className="text-gray-700 mb-6">
                 We require parking for one van, towing a portable compressor, with a minimum of 10m in length. It is the customer's responsibility to arrange any parking suspensions, obtain visitors parking permits, or reserve parking. Failure to do so may result in aborted visit costs and parking fines being added to the final invoice.
               </p>
 
               <h3 className="text-xl font-bold text-[#1e3a8a] mb-4 mt-8">5. Payment Terms</h3>
               
-              <h4 className="text-lg font-semibold text-gray-800 mb-3">5.1 Payment</h4>
+              <h4 className="text-lg font-semibold text-[#1e3a8a] mb-3">5.1 Payment</h4>
               <p className="text-gray-700 mb-6">
                 Payment is due immediately upon completion of the work.
               </p>
 
-              <h4 className="text-lg font-semibold text-gray-800 mb-3">5.2 Deposit</h4>
+              <h4 className="text-lg font-semibold text-[#1e3a8a] mb-3">5.2 Deposit</h4>
               <p className="text-gray-700 mb-6">
                 All works will require a £500 or 10% deposit, whichever is higher, depending on plant, material, and other costs involved. Payment of the deposit constitutes agreement to these terms and conditions and forms a binding contract between the customer and ScotWater.
               </p>
 
-              <h4 className="text-lg font-semibold text-gray-800 mb-3">5.3 Late Payments</h4>
+              <h4 className="text-lg font-semibold text-[#1e3a8a] mb-3">5.3 Late Payments</h4>
               <p className="text-gray-700 mb-4">
                 Late payments will incur interest at a rate of 8% per annum above the base rate of the Bank of England, calculated daily from the due date until payment is made. In addition, a fixed debt recovery cost will be applied as follows:
               </p>
@@ -99,24 +99,24 @@ export default function TermsAndConditions() {
 
               <h3 className="text-xl font-bold text-[#1e3a8a] mb-4 mt-8">6. Warranty and Liability</h3>
               
-              <h4 className="text-lg font-semibold text-gray-800 mb-3">6.1 Warranty</h4>
+              <h4 className="text-lg font-semibold text-[#1e3a8a] mb-3">6.1 Warranty</h4>
               <p className="text-gray-700 mb-6">
                 The guaranteed term is 25 years and covers defective pipe material, poor workmanship, and failure of direct connections. Excluded from the guarantee is accidental damage by individuals or physical forces such as ground slip, heave, subsidence, or the effects of tree roots. The guarantee is nullified by excavations on to, or further connections to the supply pipe or any modifications made by parties other than ScotWater.
               </p>
 
-              <h4 className="text-lg font-semibold text-gray-800 mb-3">6.2 Liability</h4>
+              <h4 className="text-lg font-semibold text-[#1e3a8a] mb-3">6.2 Liability</h4>
               <p className="text-gray-700 mb-6">
                 ScotWater's liability for any claim arising out of the performance of its services shall be limited to the amount paid by the customer for those services. ScotWater shall not be liable for any indirect, incidental, or consequential damages.
               </p>
 
               <h3 className="text-xl font-bold text-[#1e3a8a] mb-4 mt-8">7. Termination</h3>
               
-              <h4 className="text-lg font-semibold text-gray-800 mb-3">7.1 Termination by Customer</h4>
+              <h4 className="text-lg font-semibold text-[#1e3a8a] mb-3">7.1 Termination by Customer</h4>
               <p className="text-gray-700 mb-6">
                 The customer may terminate the contract by providing 14 days written notice. The customer will be liable for all work completed up to the termination date.
               </p>
 
-              <h4 className="text-lg font-semibold text-gray-800 mb-3">7.2 Termination by ScotWater</h4>
+              <h4 className="text-lg font-semibold text-[#1e3a8a] mb-3">7.2 Termination by ScotWater</h4>
               <p className="text-gray-700 mb-6">
                 ScotWater reserves the right to terminate the contract if the customer breaches any of these terms and conditions. ScotWater will provide written notice of termination.
               </p>
@@ -145,7 +145,7 @@ export default function TermsAndConditions() {
                 <li><strong>Use of Debt Collection Agencies:</strong> Engage the services of a professional debt collection agency to recover the outstanding amount on behalf of ScotWater.</li>
               </ol>
 
-              <h4 className="text-lg font-semibold text-gray-800 mb-3">10.1 Property Owner's Liability in Contractor Default</h4>
+              <h4 className="text-lg font-semibold text-[#1e3a8a] mb-3">10.1 Property Owner's Liability in Contractor Default</h4>
               <p className="text-gray-700 mb-4">
                 In cases where ScotWater is employed by a contractor, and the contractor defaults on payment, ScotWater reserves the right to hold the property owner liable for unpaid amounts through the following mechanisms:
               </p>
@@ -154,12 +154,12 @@ export default function TermsAndConditions() {
                 <li><strong>Notification of Potential Liability:</strong> Property owners are hereby notified that they may be held responsible for unpaid amounts if the contractor fails to pay ScotWater. This includes the right to seek payment directly from the property owner under applicable laws.</li>
               </ol>
 
-              <h4 className="text-lg font-semibold text-gray-800 mb-3">10.2 Acceptance of Terms by Property Owner</h4>
+              <h4 className="text-lg font-semibold text-[#1e3a8a] mb-3">10.2 Acceptance of Terms by Property Owner</h4>
               <p className="text-gray-700 mb-6">
                 By allowing work to commence on their property by a contractor employing ScotWater, the property owner is deemed to have accepted these terms and conditions.
               </p>
 
-              <h4 className="text-lg font-semibold text-gray-800 mb-3">10.3 Advisement to Property Owners</h4>
+              <h4 className="text-lg font-semibold text-[#1e3a8a] mb-3">10.3 Advisement to Property Owners</h4>
               <p className="text-gray-700 mb-4">
                 Property owners are strongly advised to:
               </p>
@@ -181,7 +181,7 @@ export default function TermsAndConditions() {
 
               <h3 className="text-xl font-bold text-[#1e3a8a] mb-4 mt-8">13. Cancellation and Charges</h3>
               
-              <h4 className="text-lg font-semibold text-gray-800 mb-3">13.1 Customer Cancellation</h4>
+              <h4 className="text-lg font-semibold text-[#1e3a8a] mb-3">13.1 Customer Cancellation</h4>
               <p className="text-gray-700 mb-6">
                 Cancellation of orders by the customer cannot be accepted without written agreement from ScotWater. A minimum of 1 week's notice is required.
               </p>

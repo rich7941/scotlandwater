@@ -133,10 +133,10 @@ export default function WaterSupplyPipeRepairs() {
           {/* 24/7 Emergency Services Section */}
           <div className="bg-[#F4E04D] p-8 rounded-lg mb-8">
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">24/7 Emergency Services</h3>
-            <p className="text-lg text-gray-800 mb-4">
+            <p className="text-lg text-[#1e3a8a] mb-4">
               Water supply pipe leaks can happen at any time, and their impact can be significant, whether it's a slow leak or a sudden burst. ScotWater provides round-the-clock emergency repair services to address urgent issues promptly. Whether you've been alerted to a leak by Scottish Water or noticed water pooling in your driveway, our team is ready to help.
             </p>
-            <p className="text-lg text-gray-800">
+            <p className="text-lg text-[#1e3a8a]">
               Our engineers use state-of-the-art tools to locate and repair leaks with minimal disruption. With a focus on speed and efficiency, we aim to resolve your issue quickly, preventing further damage or inconvenience.
             </p>
           </div>

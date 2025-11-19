@@ -122,7 +122,7 @@ export default function WaterFilter() {
               Always follow the manufacturer's instructions for installation and cartridge replacement. Regular maintenance is essential to ensure the water filter remains effective at reducing lead levels.
             </p>
             <div className="bg-yellow-50 border-l-4 border-yellow-500 p-6">
-              <p className="font-semibold text-gray-900 mb-2">Note:</p>
+              <p className="font-semibold text-[#1e3a8a] mb-2">Note:</p>
               <p className="text-gray-700">
                 Water filters are not a substitute for full pipe replacement. They are a temporary solution to reduce exposure while long-term remedial works are arranged.
               </p>
