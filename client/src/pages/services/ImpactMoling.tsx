@@ -45,22 +45,22 @@ export default function ImpactMoling() {
             <div className="space-y-4 mb-8">
               <div className="bg-gray-50 p-6 border-l-4 border-purple-600">
                 <h4 className="font-bold text-lg text-[#1e3a8a] mb-2">1. Moling Creates Minimal Property Disruption</h4>
-                <p className="text-gray-700">Avoid large-scale excavation with our trenchless moling techniques, which protect gardens, driveways, and other features.</p>
+                <p className="text-gray-700 text-lg">Avoid large-scale excavation with our trenchless moling techniques, which protect gardens, driveways, and other features.</p>
               </div>
 
               <div className="bg-gray-50 p-6 border-l-4 border-purple-600">
                 <h4 className="font-bold text-lg text-[#1e3a8a] mb-2">2. Moling is Fast and Reliable</h4>
-                <p className="text-gray-700">Impact Moling speeds up the installation work, reducing project timelines compared to traditional excavation methods.</p>
+                <p className="text-gray-700 text-lg">Impact Moling speeds up the installation work, reducing project timelines compared to traditional excavation methods.</p>
               </div>
 
               <div className="bg-gray-50 p-6 border-l-4 border-purple-600">
                 <h4 className="font-bold text-lg text-[#1e3a8a] mb-2">3. Moling is Cost-Effective</h4>
-                <p className="text-gray-700">Lower restoration and reinstatement costs from moling save you money.</p>
+                <p className="text-gray-700 text-lg">Lower restoration and reinstatement costs from moling save you money.</p>
               </div>
 
               <div className="bg-gray-50 p-6 border-l-4 border-purple-600">
                 <h4 className="font-bold text-lg text-[#1e3a8a] mb-2">4. Moling is Eco-Friendly</h4>
-                <p className="text-gray-700">Trenchless installations reduce waste and protect the environment because moling requires less energy.</p>
+                <p className="text-gray-700 text-lg">Trenchless installations reduce waste and protect the environment because moling requires less energy.</p>
               </div>
             </div>
 
@@ -69,22 +69,22 @@ export default function ImpactMoling() {
             <div className="space-y-4 mb-8">
               <div className="bg-white p-6 border-l-4 border-purple-600">
                 <h4 className="font-bold text-lg text-[#1e3a8a] mb-2">1. Moling Preserves Landscaping</h4>
-                <p className="text-gray-700">Moling keeps your gardens and paved areas intact.</p>
+                <p className="text-gray-700 text-lg">Moling keeps your gardens and paved areas intact.</p>
               </div>
 
               <div className="bg-white p-6 border-l-4 border-purple-600">
                 <h4 className="font-bold text-lg text-[#1e3a8a] mb-2">2. Moling Reduces Downtime</h4>
-                <p className="text-gray-700">Projects that are moled are completed faster with less disruption.</p>
+                <p className="text-gray-700 text-lg">Projects that are moled are completed faster with less disruption.</p>
               </div>
 
               <div className="bg-white p-6 border-l-4 border-purple-600">
                 <h4 className="font-bold text-lg text-[#1e3a8a] mb-2">3. Moling is Versatile</h4>
-                <p className="text-gray-700">Moling is suitable for various ground conditions and property layouts.</p>
+                <p className="text-gray-700 text-lg">Moling is suitable for various ground conditions and property layouts.</p>
               </div>
 
               <div className="bg-white p-6 border-l-4 border-purple-600">
                 <h4 className="font-bold text-lg text-[#1e3a8a] mb-2">4. Moling is Accurate and Safe</h4>
-                <p className="text-gray-700">Advanced moling tools ensure precision and protect existing utilities.</p>
+                <p className="text-gray-700 text-lg">Advanced moling tools ensure precision and protect existing utilities.</p>
               </div>
             </div>
 
@@ -95,7 +95,7 @@ export default function ImpactMoling() {
                 <div className="flex-shrink-0 w-12 h-12 rounded-full bg-purple-600 text-white flex items-center justify-center font-bold text-lg">1</div>
                 <div>
                   <h4 className="font-bold text-lg text-[#1e3a8a] mb-2">Assessment and Planning</h4>
-                  <p className="text-gray-700">We evaluate your site and map out underground utilities to ensure a safe installation.</p>
+                  <p className="text-gray-700 text-lg">We evaluate your site and map out underground utilities to ensure a safe installation.</p>
                 </div>
               </div>
 
@@ -103,7 +103,7 @@ export default function ImpactMoling() {
                 <div className="flex-shrink-0 w-12 h-12 rounded-full bg-purple-600 text-white flex items-center justify-center font-bold text-lg">2</div>
                 <div>
                   <h4 className="font-bold text-lg text-[#1e3a8a] mb-2">Launch and Retrieval Pits</h4>
-                  <p className="text-gray-700">Small pits are excavated at points of entry and exit for the moling tool.</p>
+                  <p className="text-gray-700 text-lg">Small pits are excavated at points of entry and exit for the moling tool.</p>
                 </div>
               </div>
 
@@ -111,7 +111,7 @@ export default function ImpactMoling() {
                 <div className="flex-shrink-0 w-12 h-12 rounded-full bg-purple-600 text-white flex items-center justify-center font-bold text-lg">3</div>
                 <div>
                   <h4 className="font-bold text-lg text-[#1e3a8a] mb-2">Moling and Installation</h4>
-                  <p className="text-gray-700">The mole creates a tunnel, and the new water pipe is pulled through seamlessly.</p>
+                  <p className="text-gray-700 text-lg">The mole creates a tunnel, and the new water pipe is pulled through seamlessly.</p>
                 </div>
               </div>
 
@@ -119,7 +119,7 @@ export default function ImpactMoling() {
                 <div className="flex-shrink-0 w-12 h-12 rounded-full bg-purple-600 text-white flex items-center justify-center font-bold text-lg">4</div>
                 <div>
                   <h4 className="font-bold text-lg text-[#1e3a8a] mb-2">Connection and Certification</h4>
-                  <p className="text-gray-700">The new water supply pipe is connected to your system, and we provide a certificate confirming compliance with UK Water Regulations.</p>
+                  <p className="text-gray-700 text-lg">The new water supply pipe is connected to your system, and we provide a certificate confirming compliance with UK Water Regulations.</p>
                 </div>
               </div>
             </div>

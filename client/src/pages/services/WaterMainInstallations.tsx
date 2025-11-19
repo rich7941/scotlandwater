@@ -35,7 +35,7 @@ export default function WaterMainInstallations() {
               <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">
                 1. Detailed Planning and Tailored Designs
               </h4>
-              <p className="text-gray-700">
+              <p className="text-gray-700 text-lg">
                 Every water main installation project begins with a thorough site evaluation to devise a custom plan that aligns perfectly with the specific needs of your commercial premises. This meticulous planning facilitates a smooth and efficient installation process for commercial water mains.
               </p>
             </div>
@@ -45,7 +45,7 @@ export default function WaterMainInstallations() {
               <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">
                 2. Advanced Water Main Installation and Renewal Methods
               </h4>
-              <p className="text-gray-700">
+              <p className="text-gray-700 text-lg">
                 We employ cutting-edge, trenchless technology like horizontal directional drilling and impact moling, which limits the disturbance to your operational area. Our modern water main installation methods ensure quick completion of projects with little to no impact on the surrounding environment.
               </p>
             </div>
@@ -55,7 +55,7 @@ export default function WaterMainInstallations() {
               <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">
                 3. Regulatory Compliance and Certifications
               </h4>
-              <p className="text-gray-700">
+              <p className="text-gray-700 text-lg">
                 As a reputable contractor in the water industry, ScotWater ensures that every commercial water main installation complies with stringent UK Water Regulations. We issue certificates at the end of each project to verify the safety and regulatory compliance of the newly installed or upgraded system.
               </p>
             </div>
@@ -74,7 +74,7 @@ export default function WaterMainInstallations() {
               <div className="w-3 h-3 rounded-full bg-[#5B2C6F] flex-shrink-0 mt-2"></div>
               <div>
                 <h4 className="text-xl font-bold text-[#1e3a8a] mb-2">Open Cut Trenching</h4>
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-lg">
                   This method is perfect for areas where full access is available, necessitating complete water main replacements. Our qualified operators manage every detail of the trenching and pipe installation process.
                 </p>
               </div>
@@ -84,7 +84,7 @@ export default function WaterMainInstallations() {
               <div className="w-3 h-3 rounded-full bg-[#5B2C6F] flex-shrink-0 mt-2"></div>
               <div>
                 <h4 className="text-xl font-bold text-[#1e3a8a] mb-2">Butt Fusion and Electro Fusion Welding</h4>
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-lg">
                   Utilizing these techniques, we create strong, continuous connections between new pipe sections, significantly improving the structural integrity and functionality of the water main.
                 </p>
               </div>
@@ -101,7 +101,7 @@ export default function WaterMainInstallations() {
               <div className="w-3 h-3 rounded-full bg-[#5B2C6F] flex-shrink-0 mt-2"></div>
               <div>
                 <h5 className="text-lg font-bold text-[#1e3a8a] mb-2">Directional Drilling</h5>
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-lg">
                   This technique avoids surface obstacles and is particularly suitable for congested urban settings.
                 </p>
               </div>
@@ -111,7 +111,7 @@ export default function WaterMainInstallations() {
               <div className="w-3 h-3 rounded-full bg-[#5B2C6F] flex-shrink-0 mt-2"></div>
               <div>
                 <h5 className="text-lg font-bold text-[#1e3a8a] mb-2">Pneumatic and Hydraulic Bursting</h5>
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-lg">
                   A method that allows for the replacement of old mains without the need for significant digging.
                 </p>
               </div>
@@ -121,7 +121,7 @@ export default function WaterMainInstallations() {
               <div className="w-3 h-3 rounded-full bg-[#5B2C6F] flex-shrink-0 mt-2"></div>
               <div>
                 <h5 className="text-lg font-bold text-[#1e3a8a] mb-2">Impact Moling</h5>
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-lg">
                   A minimally invasive alternative, ideal for situations beneath roads or within landscaped zones.
                 </p>
               </div>
@@ -131,7 +131,7 @@ export default function WaterMainInstallations() {
               <div className="w-3 h-3 rounded-full bg-[#5B2C6F] flex-shrink-0 mt-2"></div>
               <div>
                 <h5 className="text-lg font-bold text-[#1e3a8a] mb-2">Auger Boring and Steel Pipe Ramming</h5>
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-lg">
                   These methods are highly effective for installing new mains underneath existing structures without disturbing the surface.
                 </p>
               </div>
@@ -148,7 +148,7 @@ export default function WaterMainInstallations() {
               </div>
               <div>
                 <h4 className="text-xl font-bold text-[#1e3a8a] mb-2">Customised Service Solutions</h4>
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-lg">
                   We recognise the uniqueness of each water main installation project, providing bespoke solutions whether it's a new installation or upgrading existing water infrastructure to enhance your business operations.
                 </p>
               </div>
@@ -160,7 +160,7 @@ export default function WaterMainInstallations() {
               </div>
               <div>
                 <h4 className="text-xl font-bold text-[#1e3a8a] mb-2">Unwavering Dedication to Quality</h4>
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-lg">
                   ScotWater is committed to excellence, maintaining transparent processes and constant communication throughout the water main installation project duration.
                 </p>
               </div>
@@ -172,7 +172,7 @@ export default function WaterMainInstallations() {
               </div>
               <div>
                 <h4 className="text-xl font-bold text-[#1e3a8a] mb-2">Skilled Professional Team</h4>
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-lg">
                   Our water main specialists have profound knowledge and extensive experience in executing commercial water main installations, managing both small-scale and major projects with utmost precision.
                 </p>
               </div>

@@ -52,7 +52,7 @@ export default function WaterSupplyPipeRepairs() {
             {/* Cause 1 */}
             <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
               <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Age and Material of Pipes</h4>
-              <p className="text-gray-700">
+              <p className="text-gray-700 text-lg">
                 Older water pipes are more susceptible to corrosion, particularly if they were installed before the 1980s. Many older pipes are made of cast iron, which lacks the flexibility to withstand temperature changes effectively. Over time, this can lead to cracks and leaks in the pipe.
               </p>
             </div>
@@ -60,7 +60,7 @@ export default function WaterSupplyPipeRepairs() {
             {/* Cause 2 */}
             <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
               <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Changes in Water Pressure</h4>
-              <p className="text-gray-700">
+              <p className="text-gray-700 text-lg">
                 Sudden increases in water pressure can strain supply pipes, causing damage. If the pressure exceeds the pipe's capacity, it can lead to leaks, cracks, or even a complete pipe burst. This can result in water damage, increased utility bills, and costly repairs.
               </p>
             </div>
@@ -68,7 +68,7 @@ export default function WaterSupplyPipeRepairs() {
             {/* Cause 3 */}
             <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
               <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Accidental Damage During Excavation</h4>
-              <p className="text-gray-700">
+              <p className="text-gray-700 text-lg">
                 Excavation work on your property can sometimes unintentionally damage underground water supply pipes. Digging equipment or machinery can puncture or crack pipes, leading to leaks and disruption to your water supply.
               </p>
             </div>
@@ -76,7 +76,7 @@ export default function WaterSupplyPipeRepairs() {
             {/* Cause 4 */}
             <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
               <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Temperature Fluctuations</h4>
-              <p className="text-gray-700">
+              <p className="text-gray-700 text-lg">
                 Extreme temperature changes can affect the integrity of water supply pipes. In cold weather, frozen ground can expand, putting additional pressure on pipes. Conversely, in hot weather, soil shifting due to drying can also stress pipes. These cycles can lead to cracks or bursts, making regular maintenance crucial to prevent failures.
               </p>
             </div>
@@ -84,7 +84,7 @@ export default function WaterSupplyPipeRepairs() {
             {/* Cause 5 */}
             <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
               <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Impact from Heavy Vehicles</h4>
-              <p className="text-gray-700">
+              <p className="text-gray-700 text-lg">
                 Heavy vehicles driving over shallowly buried pipes can cause significant stress, leading to cracks or deformation. Vibrations from traffic can also destabilise the ground around the pipes, increasing the likelihood of leaks or damage. Regular inspections in high-traffic areas can help identify potential risks early.
               </p>
             </div>
@@ -103,7 +103,7 @@ export default function WaterSupplyPipeRepairs() {
               <div className="w-3 h-3 rounded-full bg-[#5B2C6F] flex-shrink-0 mt-2"></div>
               <div>
                 <h4 className="text-xl font-bold text-[#1e3a8a] mb-2">Non-Invasive Repairs</h4>
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-lg">
                   We use advanced methods like trenchless technology to minimise disruption to your property.
                 </p>
               </div>
@@ -113,7 +113,7 @@ export default function WaterSupplyPipeRepairs() {
               <div className="w-3 h-3 rounded-full bg-[#5B2C6F] flex-shrink-0 mt-2"></div>
               <div>
                 <h4 className="text-xl font-bold text-[#1e3a8a] mb-2">Comprehensive Services</h4>
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-lg">
                   From leak detection to replacement, we handle every aspect of water supply pipe repair.
                 </p>
               </div>
@@ -123,7 +123,7 @@ export default function WaterSupplyPipeRepairs() {
               <div className="w-3 h-3 rounded-full bg-[#5B2C6F] flex-shrink-0 mt-2"></div>
               <div>
                 <h4 className="text-xl font-bold text-[#1e3a8a] mb-2">Experienced Professionals</h4>
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-lg">
                   Our skilled engineers deliver high-quality results for projects of any complexity.
                 </p>
               </div>

@@ -29,7 +29,7 @@ export default function LeadPipeInScotland() {
             <p className="text-gray-700 text-lg mb-4">
               Lead is a toxic heavy metal. Even in small amounts, it can be harmful if consumed over time. It is especially dangerous for unborn babies and children under the age of six, whose bodies and brains are still developing.
             </p>
-            <p className="text-gray-700">
+            <p className="text-gray-700 text-lg">
               The World Health Organization advises that there is no safe level of exposure to lead. For children, lead exposure can affect brain development and behaviour. Pregnant women are also at higher risk, as lead can cross the placenta and affect the unborn baby. In adults, lead exposure may contribute to high blood pressure and kidney issues.
             </p>
           </div>
@@ -51,7 +51,7 @@ export default function LeadPipeInScotland() {
             <p className="text-gray-700 text-lg mb-4">
               Disturbance to lead pipes—such as during nearby roadworks or home renovations—can temporarily increase lead levels in your tap water. If you've had work done on or near your property, it is advisable to run your cold taps for 10 minutes to flush out any water that may have absorbed lead particles.
             </p>
-            <p className="text-gray-700">
+            <p className="text-gray-700 text-lg">
               To stay on the safe side, it's a good idea to run your cold water tap for at least two minutes before using the water for drinking or cooking—especially if the water has been sitting in the pipes overnight or after a long period of non-use.
             </p>
           </div>
@@ -64,7 +64,7 @@ export default function LeadPipeInScotland() {
             <p className="text-gray-700 text-lg mb-4">
               Historically, lead was widely used across Scotland in various applications, including petrol, paint, and plumbing systems. Before the 1970s, it was standard practice to use lead pipes to connect homes to the public mains water supply, thanks to lead's malleability and resistance to corrosion. This practice continued until the health risks of lead exposure became widely recognised.
             </p>
-            <p className="text-gray-700">
+            <p className="text-gray-700 text-lg">
               In 1969, the use of lead pipes in new plumbing installations was officially banned in Scotland. However, many older properties—particularly those built before this date—may still contain lead pipes, especially in underground supply lines or internal plumbing that hasn't been modernised. As long as these legacy pipes remain in place, there is a risk that lead may leach into drinking water.
             </p>
           </div>
@@ -100,7 +100,7 @@ export default function LeadPipeInScotland() {
                 <span className="text-gray-700">Lead-lined storage tanks, common in older homes</span>
               </li>
             </ul>
-            <p className="text-gray-700">
+            <p className="text-gray-700 text-lg">
               The risk increases when water remains stagnant in lead pipes for several hours—such as overnight or during periods of low use—allowing lead to dissolve into the water. The longer the water stands still, the greater the amount of lead that can leach into it.
             </p>
           </div>
@@ -113,7 +113,7 @@ export default function LeadPipeInScotland() {
             <p className="text-gray-700 text-lg mb-6">
               Disturbance to lead pipes—such as nearby roadworks, construction, or renovations—can temporarily increase lead levels. Vibrations or disruption can dislodge particles inside the pipe, causing short-term spikes in contamination. This is why it is advisable to run your cold tap for at least 10 minutes if work has taken place near your property.
             </p>
-            <p className="text-gray-700">
+            <p className="text-gray-700 text-lg">
               Even if your property no longer has lead pipes, lead may still enter the water supply through old fittings, solder joints, or tanks. These components can also contribute small but harmful amounts of lead.
             </p>
           </div>
@@ -123,7 +123,7 @@ export default function LeadPipeInScotland() {
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
             <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">The Role of Water Hardness</h2>
-            <p className="text-gray-700">
+            <p className="text-gray-700 text-lg">
               Lead dissolves more easily in soft water, which is common in many parts of Scotland. This makes Scottish homes particularly vulnerable to lead contamination, especially where old pipes remain in place. Soft water has fewer minerals, which means it provides less of a protective coating inside pipes that would otherwise reduce lead absorption.
             </p>
           </div>
@@ -133,7 +133,7 @@ export default function LeadPipeInScotland() {
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
             <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Naturally Occurring Lead in Groundwater</h2>
-            <p className="text-gray-700">
+            <p className="text-gray-700 text-lg">
               Although rare, small amounts of naturally occurring lead can sometimes be found in Scottish groundwater—particularly in areas with a history of mining. For example, regions such as Leadhills and Wanlockhead in South Lanarkshire and Dumfries and Galloway have a long legacy of lead mining. These areas may experience localised lead contamination in soil and water, but this is not a widespread issue across Scotland.
             </p>
           </div>
@@ -146,15 +146,15 @@ export default function LeadPipeInScotland() {
             <div className="space-y-4">
               <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
                 <h3 className="font-bold text-blue-900 mb-2">Infants and children under 6</h3>
-                <p className="text-gray-700">Brain development issues, learning difficulties, lower IQ</p>
+                <p className="text-gray-700 text-lg">Brain development issues, learning difficulties, lower IQ</p>
               </div>
               <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
                 <h3 className="font-bold text-blue-900 mb-2">Pregnant women and unborn babies</h3>
-                <p className="text-gray-700">Premature birth, low birth weight, developmental impairment</p>
+                <p className="text-gray-700 text-lg">Premature birth, low birth weight, developmental impairment</p>
               </div>
               <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
                 <h3 className="font-bold text-blue-900 mb-2">Adults (long-term exposure)</h3>
-                <p className="text-gray-700">Kidney issues, high blood pressure, cognitive decline, reproductive harm</p>
+                <p className="text-gray-700 text-lg">Kidney issues, high blood pressure, cognitive decline, reproductive harm</p>
               </div>
             </div>
             <p className="text-gray-700 mt-6">
@@ -170,7 +170,7 @@ export default function LeadPipeInScotland() {
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
             <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">The Bigger Issue: Legacy Plumbing</h2>
-            <p className="text-gray-700">
+            <p className="text-gray-700 text-lg">
               Despite modern water systems being lead-free at the point of treatment, thousands of properties across Scotland still have legacy lead pipes underground or within the home—often without the homeowner even realising it. These hidden pipes remain the most common source of lead in Scottish drinking water today.
             </p>
           </div>
@@ -201,7 +201,7 @@ export default function LeadPipeInScotland() {
                 <span className="text-gray-700">Consulting with ScotWater</span>
               </li>
             </ul>
-            <p className="text-gray-700">
+            <p className="text-gray-700 text-lg">
               The only permanent solution is to replace all lead pipe—both underground and inside the property. Until then, simple precautionary measures can help reduce exposure.
             </p>
           </div>

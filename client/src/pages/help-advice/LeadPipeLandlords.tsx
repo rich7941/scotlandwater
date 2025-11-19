@@ -44,22 +44,22 @@ export default function LeadPipeLandlords() {
             </p>
             <div className="space-y-4">
               <div className="bg-white p-6 border-l-4 border-purple-600">
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-lg">
                   • There is no lead present in the pipe delivering drinking water to any part of the property, including kitchens and bathrooms.
                 </p>
               </div>
               <div className="bg-white p-6 border-l-4 border-purple-600">
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-lg">
                   • Landlords must proactively replace any lead pipe within their ownership and control—this includes both the underground supply pipe and any internal pipes, joints, or fittings made of lead.
                 </p>
               </div>
               <div className="bg-white p-6 border-l-4 border-purple-600">
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-lg">
                   • Evidence of compliance may be requested by local authorities, letting agents, or tenants.
                 </p>
               </div>
               <div className="bg-white p-6 border-l-4 border-purple-600">
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-lg">
                   • Failure to meet these standards could lead to enforcement action, including a Repairing Standard Enforcement Order issued by the First-tier Tribunal for Scotland (Housing and Property Chamber).
                 </p>
               </div>
@@ -83,7 +83,7 @@ export default function LeadPipeLandlords() {
                 </div>
                 <div>
                   <h3 className="text-xl font-bold text-[#1e3a8a] mb-2">Replace All Lead Pipe</h3>
-                  <p className="text-gray-700">
+                  <p className="text-gray-700 text-lg">
                     You must arrange for the full removal and replacement of lead pipe, from the external stop valve (if within your responsibility) right through to the internal plumbing leading to taps.
                   </p>
                 </div>
@@ -95,7 +95,7 @@ export default function LeadPipeLandlords() {
                 </div>
                 <div>
                   <h3 className="text-xl font-bold text-[#1e3a8a] mb-2">Notify Scottish Water</h3>
-                  <p className="text-gray-700">
+                  <p className="text-gray-700 text-lg">
                     Inform Scottish Water of your intention to replace the private-side supply pipe. Once your section is upgraded, Scottish Water is legally required to assess and, if necessary, replace the public-side lead pipe, known as the communication pipe.
                   </p>
                 </div>
@@ -107,7 +107,7 @@ export default function LeadPipeLandlords() {
                 </div>
                 <div>
                   <h3 className="text-xl font-bold text-[#1e3a8a] mb-2">Provide Proof of Compliance</h3>
-                  <p className="text-gray-700">
+                  <p className="text-gray-700 text-lg">
                     Upon completion, ensure you receive a certificate of compliance from the contractor. Keep this on file as part of your property compliance documentation. You may be asked to present this certificate during tenancy inspections or tribunal proceedings.
                   </p>
                 </div>
@@ -119,7 +119,7 @@ export default function LeadPipeLandlords() {
                 </div>
                 <div>
                   <h3 className="text-xl font-bold text-[#1e3a8a] mb-2">Conduct a Water Test (Optional but Recommended)</h3>
-                  <p className="text-gray-700">
+                  <p className="text-gray-700 text-lg">
                     After the replacement, consider testing the water supply to confirm that lead levels are within safe regulatory limits. This offers peace of mind for both you and your tenants.
                   </p>
                 </div>
@@ -137,22 +137,22 @@ export default function LeadPipeLandlords() {
             </p>
             <div className="space-y-4">
               <div className="bg-white p-6 border-l-4 border-purple-600">
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-lg">
                   • Giving tenants reasonable notice of the works (at least 24 hours for access and ideally 48–72 hours).
                 </p>
               </div>
               <div className="bg-white p-6 border-l-4 border-purple-600">
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-lg">
                   • Explaining the purpose of the works and how they support health and safety.
                 </p>
               </div>
               <div className="bg-white p-6 border-l-4 border-purple-600">
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-lg">
                   • Ensuring any interruption to water supply is kept to a minimum.
                 </p>
               </div>
               <div className="bg-white p-6 border-l-4 border-purple-600">
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-lg">
                   • Providing bottled water or temporary arrangements during the works, particularly if tenants include young children or vulnerable individuals.
                 </p>
               </div>

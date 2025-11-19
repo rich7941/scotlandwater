@@ -35,7 +35,7 @@ export default function WaterSupplyPipeInstallations() {
               <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">
                 1. Thorough Planning and Customised Design
               </h4>
-              <p className="text-gray-700">
+              <p className="text-gray-700 text-lg">
                 We begin with a detailed site assessment, creating a tailored design plan to suit your property's specific requirements. This approach ensures an efficient and hassle-free water supply pipe installation process.
               </p>
             </div>
@@ -45,7 +45,7 @@ export default function WaterSupplyPipeInstallations() {
               <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">
                 2. Modern Installation and Replacement Techniques
               </h4>
-              <p className="text-gray-700">
+              <p className="text-gray-700 text-lg">
                 Utilising advanced trenchless methods like impact moling, we minimise disruption to your property. Our techniques reduce the need for extensive excavation, ensuring the water supply pipe installation work is completed swiftly and with minimal impact on your surroundings.
               </p>
             </div>
@@ -55,7 +55,7 @@ export default function WaterSupplyPipeInstallations() {
               <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">
                 3. Compliance and Certification
               </h4>
-              <p className="text-gray-700">
+              <p className="text-gray-700 text-lg">
                 As a trusted water industry contractor, all our water supply pipe installations adhere to the highest UK Water Regulations. Upon project completion, we provide certification to confirm the safety and compliance of your upgraded system.
               </p>
             </div>
@@ -71,7 +71,7 @@ export default function WaterSupplyPipeInstallations() {
               </div>
               <div>
                 <h4 className="text-xl font-bold text-[#1e3a8a] mb-2">Bespoke Solutions</h4>
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-lg">
                   Every project is unique. Whether installing a new water system or replacing outdated infrastructure, we tailor our services to meet your property's specific needs.
                 </p>
               </div>
@@ -83,7 +83,7 @@ export default function WaterSupplyPipeInstallations() {
               </div>
               <div>
                 <h4 className="text-xl font-bold text-[#1e3a8a] mb-2">Commitment to Excellence</h4>
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-lg">
                   We deliver top-tier service with transparent processes, keeping you informed at every stage.
                 </p>
               </div>
@@ -95,7 +95,7 @@ export default function WaterSupplyPipeInstallations() {
               </div>
               <div>
                 <h4 className="text-xl font-bold text-[#1e3a8a] mb-2">Experienced Professionals</h4>
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-lg">
                   Our team boasts extensive experience in water supply pipe and mains installation, handling projects of all sizes with precision and care.
                 </p>
               </div>

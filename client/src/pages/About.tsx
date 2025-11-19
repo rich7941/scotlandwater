@@ -26,7 +26,7 @@ export default function About() {
             About ScotWater in Scotland
           </h2>
           
-          <div className="prose prose-lg max-w-none">
+          <div className="text-lg max-w-none">
             <p className="text-gray-700 mb-4">
               At ScotWater, we specialise in lead pipe replacement, water mains renewal, and water infrastructure services across Scotland, serving all cities and towns including Edinburgh, Glasgow, Aberdeen, Dundee, Paisley, East Kilbride, Livingston, Hamilton, Cumbernauld, Kirkcaldy, and beyond.
             </p>
@@ -71,7 +71,7 @@ export default function About() {
               <li><strong>Commitment to Quality:</strong> We pride ourselves on providing transparent, high-quality services.</li>
             </ol>
 
-            <p className="text-gray-700">
+            <p className="text-gray-700 text-lg">
               ScotWater can carry out water supply pipe and water main work across Scotland. To get a free quote please call us on <a href="tel:08002062778" className="text-[#5B2C6F] hover:underline">0800 206 2778</a> or email <a href="mailto:hello@scotwater.co.uk" className="text-[#5B2C6F] hover:underline">hello@scotwater.co.uk</a> to schedule a free consultation and learn how we can help with your water supply needs.
             </p>
           </div>

@@ -28,7 +28,7 @@ export default function WaterLeaks() {
           <div className="container max-w-4xl">
             <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Water Leaks at Home</h2>
             
-            <div className="space-y-4 text-gray-700 leading-relaxed">
+            <div className="space-y-4 text-gray-700 text-lg leading-relaxed">
               <p>
                 Water leaks might not always be immediately noticeable, but early detection is key to preventing serious issues. At ScotWater, we encourage our customers in Scotland to stay vigilant by routinely checking their water bills, monitoring water pressure, and recognising the common signs of leaks. Taking proactive measures to identify and address signs of internal water leakage can safeguard your home, reduce costly repairs, and help conserve water. Regular maintenance, thorough inspections, and leveraging advanced detection technologies are essential strategies to avert significant water damage and preserve the integrity of your home's plumbing infrastructure.
               </p>
@@ -56,21 +56,21 @@ export default function WaterLeaks() {
             <div className="space-y-6">
               <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
                 <h3 className="font-bold text-lg text-[#1e3a8a] mb-3">Monitor Your Water Bill</h3>
-                <p className="text-gray-700 leading-relaxed">
+                <p className="text-gray-700 text-lg leading-relaxed">
                   Regularly review your water usage by checking your water bill. Look for unexpected spikes that can't be accounted for by ordinary activities, like hosting guests or increased use of your garden hose during warmer weather. Consider signing up for online account access or requesting monthly statements from Scottish Water to keep a close eye on your consumption patterns.
                 </p>
               </div>
 
               <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
                 <h3 className="font-bold text-lg text-[#1e3a8a] mb-3">Check Water Pressure</h3>
-                <p className="text-gray-700 leading-relaxed">
+                <p className="text-gray-700 text-lg leading-relaxed">
                   A drop in water pressure when filling your bathtub or during a shower can often signal a leak. You can conduct a straightforward test by shutting off all water fixtures in your home and then turning one back on. If the water pressure seems unusually high initially, it might indicate a hidden leak.
                 </p>
               </div>
 
               <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
                 <h3 className="font-bold text-lg text-[#1e3a8a] mb-3">Observe Water Heater/Boiler Activity</h3>
-                <p className="text-gray-700 leading-relaxed">
+                <p className="text-gray-700 text-lg leading-relaxed">
                   Pay attention to how frequently your water heater or boiler activates. If it appears to run more continuously than normal, this could point to a leak in your hot water system. Such leaks, particularly those underground, are generally more difficult to detect and require specific attention.
                 </p>
               </div>
@@ -90,28 +90,28 @@ export default function WaterLeaks() {
             <div className="space-y-6">
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h3 className="font-bold text-lg text-[#1e3a8a] mb-3">Water Tank/Boiler</h3>
-                <p className="text-gray-700 leading-relaxed">
+                <p className="text-gray-700 text-lg leading-relaxed">
                   Examine the valves managing the flow into and out of your boiler or water tank for any visible signs of leakage, such as water dripping or pooling. If you don't see an active leak, look for indirect signs like staining or a persistent hissing sound from the valves. For central heating boilers, it's crucial to involve a specialist as these symptoms could indicate a more severe issue.
                 </p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h3 className="font-bold text-lg text-[#1e3a8a] mb-3">Toilets</h3>
-                <p className="text-gray-700 leading-relaxed">
+                <p className="text-gray-700 text-lg leading-relaxed">
                   Toilets are prone to leaks due to their frequent use. A simple way to check for toilet leaks is to add some food colouring (dye) to the tank and wait about ten minutes. If the water in the bowl turns the colour of the dye without flushing, you likely have a leak that needs fixing.
                 </p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h3 className="font-bold text-lg text-[#1e3a8a] mb-3">Showerheads</h3>
-                <p className="text-gray-700 leading-relaxed">
+                <p className="text-gray-700 text-lg leading-relaxed">
                   Regular usage can also wear out showerheads, leading to leaks. Signs of a leaky showerhead include low water pressure and water not flowing uniformly. Inspecting and cleaning your showerhead regularly can help identify and resolve these issues early.
                 </p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h3 className="font-bold text-lg text-[#1e3a8a] mb-3">Appliances</h3>
-                <p className="text-gray-700 leading-relaxed">
+                <p className="text-gray-700 text-lg leading-relaxed">
                   Appliances like washing machines and dishwashers are often moved or vibrate during use, which can loosen connections over time. Make it a routine to check the hoses and fittings on your appliances to ensure they're tight and leak-free.
                 </p>
               </div>
@@ -134,34 +134,34 @@ export default function WaterLeaks() {
 
             <div className="grid md:grid-cols-2 gap-4">
               <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
-                <p className="text-gray-700">Unexpected Increase in Water Usage or Bill</p>
+                <p className="text-gray-700 text-lg">Unexpected Increase in Water Usage or Bill</p>
               </div>
               <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
-                <p className="text-gray-700">Damp Spots on Walls, Floors, or Ceilings</p>
+                <p className="text-gray-700 text-lg">Damp Spots on Walls, Floors, or Ceilings</p>
               </div>
               <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
-                <p className="text-gray-700">Mould or Mildew Growth</p>
+                <p className="text-gray-700 text-lg">Mould or Mildew Growth</p>
               </div>
               <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
-                <p className="text-gray-700">Water Stains or Discolouration</p>
+                <p className="text-gray-700 text-lg">Water Stains or Discolouration</p>
               </div>
               <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
-                <p className="text-gray-700">Reduced Water Pressure</p>
+                <p className="text-gray-700 text-lg">Reduced Water Pressure</p>
               </div>
               <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
-                <p className="text-gray-700">Constant Sound of Running Water</p>
+                <p className="text-gray-700 text-lg">Constant Sound of Running Water</p>
               </div>
               <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
-                <p className="text-gray-700">Musty or Unpleasant Odours</p>
+                <p className="text-gray-700 text-lg">Musty or Unpleasant Odours</p>
               </div>
               <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
-                <p className="text-gray-700">Puddles or Pooling Water</p>
+                <p className="text-gray-700 text-lg">Puddles or Pooling Water</p>
               </div>
               <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
-                <p className="text-gray-700">Cracks in Walls or Foundations</p>
+                <p className="text-gray-700 text-lg">Cracks in Walls or Foundations</p>
               </div>
               <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
-                <p className="text-gray-700">High Humidity Levels</p>
+                <p className="text-gray-700 text-lg">High Humidity Levels</p>
               </div>
             </div>
           </div>
@@ -224,7 +224,7 @@ export default function WaterLeaks() {
                   </div>
                   <div className="flex-1">
                     <h3 className="font-bold text-lg text-[#1e3a8a] mb-2">{step.title}</h3>
-                    <p className="text-gray-700 leading-relaxed">{step.description}</p>
+                    <p className="text-gray-700 text-lg leading-relaxed">{step.description}</p>
                   </div>
                 </div>
               ))}

@@ -49,19 +49,19 @@ export default function LeadPipeReplacement() {
           <div className="space-y-4 mb-8">
             <div>
               <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">1. Lead Pipe Inspection and Assessment</h4>
-              <p className="text-gray-700">
+              <p className="text-gray-700 text-lg">
                 We begin by carrying out a thorough inspection of your property to identify any lead pipes. Our skilled technicians assess the condition and layout of the existing lead pipes and recommend the best course of action for lead pipe replacement.
               </p>
             </div>
             <div>
               <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">2. Safe and Disruption-Free Lead Pipe Replacement</h4>
-              <p className="text-gray-700">
+              <p className="text-gray-700 text-lg">
                 Once lead pipes are identified, we use advanced techniques to replace them with modern, durable materials. Our trenchless technology minimises digging and disruption to your property, ensuring a smooth and efficient replacement process.
               </p>
             </div>
             <div>
               <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">3. Compliance with Water Safety Standards</h4>
-              <p className="text-gray-700">
+              <p className="text-gray-700 text-lg">
                 As a trusted water services provider in Scotland, all our lead pipe replacement complies with current UK Water Regulations. We ensure that your new pipe meets the latest health and safety standards, giving you peace of mind about your drinking water.
               </p>
             </div>
@@ -78,7 +78,7 @@ export default function LeadPipeReplacement() {
               <li>50 µg/L in the late 1980s</li>
               <li>25 µg/L by 2003</li>
             </ul>
-            <p className="text-gray-700">
+            <p className="text-gray-700 text-lg">
               The long-term ambition is to reduce the limit as close to zero as possible, in line with WHO guidance. Public health experts increasingly advocate adopting the EU's upcoming 5 µg/L standard, particularly for vulnerable populations like children and pregnant women.
             </p>
           </div>
@@ -115,19 +115,19 @@ export default function LeadPipeReplacement() {
           <div className="space-y-4 mb-8">
             <div>
               <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">1. Health Risks</h4>
-              <p className="text-gray-700">
+              <p className="text-gray-700 text-lg">
                 Lead can leach into drinking water from old lead pipes, posing serious health risks, particularly to young children and pregnant women. Lead exposure has been linked to developmental issues and other long-term health problems, making it critical to replace lead pipes as soon as possible.
               </p>
             </div>
             <div>
               <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">2. Improved Water Quality</h4>
-              <p className="text-gray-700">
+              <p className="text-gray-700 text-lg">
                 Replacing lead pipes eliminates the risk of lead contamination, significantly improving the safety and quality of your drinking water. Many homeowners also notice an improvement in the taste and clarity of their water after the lead pipe replacement work.
               </p>
             </div>
             <div>
               <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">3. Increased Property Value</h4>
-              <p className="text-gray-700">
+              <p className="text-gray-700 text-lg">
                 Modernising your plumbing system by replacing lead pipes can enhance the value of your property. Homes with updated lead-free water systems are more attractive to potential buyers and meet today's safety standards.
               </p>
             </div>
@@ -148,7 +148,7 @@ export default function LeadPipeReplacement() {
           {/* Dangers of Partial Replacement */}
           <div className="bg-red-50 border-l-4 border-red-500 p-6 mb-8">
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">The Dangers of Partial Lead Pipe Replacement</h3>
-            <p className="text-gray-700">
+            <p className="text-gray-700 text-lg">
               Partial lead pipe replacement—replacing only the public or private section—can dislodge built-up lead particles and temporarily increase contamination. <strong>Full lead pipe replacement of both sections is strongly advised</strong> to eliminate the risk.
             </p>
           </div>
@@ -177,13 +177,13 @@ export default function LeadPipeReplacement() {
             </div>
             <div className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
               <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">Step 2 – Hire ScotWater</h4>
-              <p className="text-gray-700">
+              <p className="text-gray-700 text-lg">
                 Hire ScotWater to do your private-side lead pipe replacement. If on a shared supply, we must work with neighbours and may need to submit proof of work (e.g. a completion certificate).
               </p>
             </div>
             <div className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
               <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">Step 3 – Pipe Connection</h4>
-              <p className="text-gray-700">
+              <p className="text-gray-700 text-lg">
                 Once ScotWater completes your private side lead pipe replacement, Scottish Water will replace the lead communication pipe on the public highway free of charge.
               </p>
             </div>

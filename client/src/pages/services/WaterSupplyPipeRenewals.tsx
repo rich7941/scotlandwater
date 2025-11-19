@@ -50,7 +50,7 @@ export default function WaterSupplyPipeRenewals() {
           </p>
           <div className="bg-[#5B2C6F]/10 p-6 rounded-lg mb-8">
             <p className="text-xl font-bold text-[#1e3a8a] mb-2">The safest water is lead-free water</p>
-            <p className="text-gray-700">
+            <p className="text-gray-700 text-lg">
               Replacing lead pipes is not just best practice—<strong>it is a legal requirement for rented properties in Scotland</strong>
             </p>
           </div>
@@ -60,23 +60,23 @@ export default function WaterSupplyPipeRenewals() {
           <div className="space-y-3 mb-8">
             <div className="flex items-start gap-3">
               <div className="w-8 h-8 rounded-full bg-[#5B2C6F] text-white flex items-center justify-center font-bold flex-shrink-0 mt-1">1</div>
-              <p className="text-gray-700">Hire ScotWater</p>
+              <p className="text-gray-700 text-lg">Hire ScotWater</p>
             </div>
             <div className="flex items-start gap-3">
               <div className="w-8 h-8 rounded-full bg-[#5B2C6F] text-white flex items-center justify-center font-bold flex-shrink-0 mt-1">2</div>
-              <p className="text-gray-700">Replace your private supply pipe</p>
+              <p className="text-gray-700 text-lg">Replace your private supply pipe</p>
             </div>
             <div className="flex items-start gap-3">
               <div className="w-8 h-8 rounded-full bg-[#5B2C6F] text-white flex items-center justify-center font-bold flex-shrink-0 mt-1">3</div>
-              <p className="text-gray-700">Notify Scottish Water, who will replace their communication pipe if it's made of lead</p>
+              <p className="text-gray-700 text-lg">Notify Scottish Water, who will replace their communication pipe if it's made of lead</p>
             </div>
             <div className="flex items-start gap-3">
               <div className="w-8 h-8 rounded-full bg-[#5B2C6F] text-white flex items-center justify-center font-bold flex-shrink-0 mt-1">4</div>
-              <p className="text-gray-700">Flush your entire plumbing system after installation</p>
+              <p className="text-gray-700 text-lg">Flush your entire plumbing system after installation</p>
             </div>
             <div className="flex items-start gap-3">
               <div className="w-8 h-8 rounded-full bg-[#5B2C6F] text-white flex items-center justify-center font-bold flex-shrink-0 mt-1">5</div>
-              <p className="text-gray-700">Keep documentation (certificate of compliance, plumber invoice, and test results)</p>
+              <p className="text-gray-700 text-lg">Keep documentation (certificate of compliance, plumber invoice, and test results)</p>
             </div>
           </div>
 
@@ -195,7 +195,7 @@ export default function WaterSupplyPipeRenewals() {
           {/* Cost Savings */}
           <div className="bg-green-50 border-l-4 border-green-500 p-6 mb-8">
             <h3 className="text-xl font-bold text-[#1e3a8a] mb-3">💡 Cost-Saving Tip</h3>
-            <p className="text-gray-700">
+            <p className="text-gray-700 text-lg">
               Replacing your old water supply pipe when areas are already exposed for other work can save you money in the long run, as it eliminates the need to re-expose the pipe for future repairs.
             </p>
             <p className="text-gray-700 mt-3">

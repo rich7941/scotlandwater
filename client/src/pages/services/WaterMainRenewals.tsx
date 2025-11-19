@@ -101,27 +101,27 @@ export default function WaterMainRenewals() {
             <div className="space-y-4 mb-8">
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h4 className="font-bold text-[#1e3a8a] mb-2">Diameter of the Water Main</h4>
-                <p className="text-gray-700">Restricted water flow can result from narrower water mains, affecting operations.</p>
+                <p className="text-gray-700 text-lg">Restricted water flow can result from narrower water mains, affecting operations.</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h4 className="font-bold text-[#1e3a8a] mb-2">Corrosion and Build-up</h4>
-                <p className="text-gray-700">Particularly in older iron water mains, internal corrosion can significantly decrease the diameter, reducing flow.</p>
+                <p className="text-gray-700 text-lg">Particularly in older iron water mains, internal corrosion can significantly decrease the diameter, reducing flow.</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h4 className="font-bold text-[#1e3a8a] mb-2">Demand Variability</h4>
-                <p className="text-gray-700">Peak business hours can drastically increase water usage, stressing the water system.</p>
+                <p className="text-gray-700 text-lg">Peak business hours can drastically increase water usage, stressing the water system.</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h4 className="font-bold text-[#1e3a8a] mb-2">Length of the Water Main</h4>
-                <p className="text-gray-700">Longer water mains may experience greater pressure drops, impacting water delivery across larger properties.</p>
+                <p className="text-gray-700 text-lg">Longer water mains may experience greater pressure drops, impacting water delivery across larger properties.</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h4 className="font-bold text-[#1e3a8a] mb-2">Leaks in the Water Main</h4>
-                <p className="text-gray-700">These can lead to significant water loss and decreased operational efficiency.</p>
+                <p className="text-gray-700 text-lg">These can lead to significant water loss and decreased operational efficiency.</p>
               </div>
             </div>
 
@@ -130,17 +130,17 @@ export default function WaterMainRenewals() {
             <div className="space-y-4 mb-8">
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h4 className="font-bold text-[#1e3a8a] mb-2">System Pressure</h4>
-                <p className="text-gray-700">The pressure from the municipal water supply directly impacts your flow rate.</p>
+                <p className="text-gray-700 text-lg">The pressure from the municipal water supply directly impacts your flow rate.</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h4 className="font-bold text-[#1e3a8a] mb-2">Configuration of Water Main Fittings</h4>
-                <p className="text-gray-700">Components like meters, stop taps, and bends are critical in managing the flow.</p>
+                <p className="text-gray-700 text-lg">Components like meters, stop taps, and bends are critical in managing the flow.</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h4 className="font-bold text-[#1e3a8a] mb-2">Integrity of the Water Main</h4>
-                <p className="text-gray-700">Issues such as partial closures, blockages, or aging infrastructure can severely affect service quality.</p>
+                <p className="text-gray-700 text-lg">Issues such as partial closures, blockages, or aging infrastructure can severely affect service quality.</p>
               </div>
             </div>
 
@@ -160,12 +160,12 @@ export default function WaterMainRenewals() {
             <div className="space-y-4 mb-8">
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h4 className="font-bold text-[#1e3a8a] mb-2">Open Cut Trenching</h4>
-                <p className="text-gray-700">Ideal for accessible areas requiring full water main replacement. Our certified operators handle all aspects of trenching and pipe installation.</p>
+                <p className="text-gray-700 text-lg">Ideal for accessible areas requiring full water main replacement. Our certified operators handle all aspects of trenching and pipe installation.</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
                 <h4 className="font-bold text-[#1e3a8a] mb-2">Butt Fusion and Electro Fusion Welding</h4>
-                <p className="text-gray-700">These methods ensure a secure and seamless connection between new pipe sections, enhancing the main's integrity and function.</p>
+                <p className="text-gray-700 text-lg">These methods ensure a secure and seamless connection between new pipe sections, enhancing the main's integrity and function.</p>
               </div>
             </div>
 
