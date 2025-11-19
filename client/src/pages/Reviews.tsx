@@ -103,8 +103,8 @@ export default function Reviews() {
         style={{ backgroundImage: "url(/reviews-hero.webp)" }}
       >
         <div className="absolute inset-0 bg-black/40"></div>
-        <div className="relative z-10 text-center text-white px-4">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">Customer Reviews</h1>
+        <div className="container relative z-10">
+          <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">Customer Reviews</h1>
         </div>
       </div>
 

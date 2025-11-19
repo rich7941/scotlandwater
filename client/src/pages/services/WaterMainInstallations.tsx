@@ -10,9 +10,9 @@ export default function WaterMainInstallations() {
         style={{ backgroundImage: "url(/water-main-installations-hero.webp)" }}
       >
         <div className="absolute inset-0 bg-black/40"></div>
-        <div className="relative z-10 text-center text-white px-4">
-          <p className="text-lg mb-2">Services</p>
-          <h1 className="text-4xl md:text-5xl font-bold">Water Main Installations Scotland</h1>
+        <div className="container relative z-10">
+          <p className="text-white text-lg mb-4">Services</p>
+          <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">Water Main Installations Scotland</h1>
         </div>
       </div>
 

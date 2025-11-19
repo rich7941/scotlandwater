@@ -25,7 +25,7 @@ export default function WaterMainLeakDetection() {
           </div>
           <div className="relative z-10 container text-center text-white">
             <p className="text-sm uppercase tracking-wider mb-2">Services</p>
-            <h1 className="text-4xl md:text-5xl font-bold">Water Leak Detection Scotland</h1>
+            <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">Water Leak Detection Scotland</h1>
           </div>
         </section>
 

@@ -66,7 +66,7 @@ export default function WaterMainRepairs() {
           />
           <div className="relative z-20 text-center px-4">
             <p className="text-sm uppercase tracking-wider mb-2">Services</p>
-            <h1 className="text-4xl md:text-5xl font-bold">Water Main Repairs Scotland</h1>
+            <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">Water Main Repairs Scotland</h1>
           </div>
         </section>
 

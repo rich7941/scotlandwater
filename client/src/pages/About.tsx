@@ -13,7 +13,7 @@ export default function About() {
           <div className="absolute inset-0 bg-black/40"></div>
         </div>
         <div className="container relative z-10">
-          <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">
+          <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">
             About ScotWater
           </h1>
         </div>

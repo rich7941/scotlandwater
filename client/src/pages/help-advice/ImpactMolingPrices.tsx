@@ -17,7 +17,7 @@ export default function ImpactMolingPrices() {
           <div className="absolute inset-0 bg-black/40"></div>
         </div>
         <div className="relative z-10 container text-center text-white">
-          <p className="text-lg mb-2">Help & Advice</p>
+          <p className="text-white text-lg mb-4">Help & Advice</p>
           <h1 className="text-5xl font-bold">Moling Prices in Scotland 2025</h1>
         </div>
       </section>
