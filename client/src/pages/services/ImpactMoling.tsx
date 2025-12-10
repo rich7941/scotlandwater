@@ -152,7 +152,24 @@ export default function ImpactMoling() {
           </div>
         </section>
 
-
+        {/* Want to Talk Section */}
+        <div className="bg-[#5B2C6F] py-12">
+          <div className="container">
+            <div className="flex flex-col md:flex-row items-center justify-between gap-6">
+              <div className="text-white">
+                <h2 className="text-3xl font-bold mb-2">Want to talk to someone?</h2>
+                <p className="text-xl">Call us 24/7, 365 days a year</p>
+              </div>
+              <a 
+                href="tel:08002062778"
+                className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
+              >
+                0800 206 2778
+                <Phone className="w-6 h-6 scale-x-[-1]" />
+              </a>
+            </div>
+          </div>
+        </div>
 
         {/* What to Expect Section */}
         <section className="py-16 bg-gray-100">
