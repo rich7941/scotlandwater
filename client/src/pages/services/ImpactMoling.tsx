@@ -124,31 +124,30 @@ export default function ImpactMoling() {
               </div>
             </div>
 
-            {/* Contact CTA Section */}
-            <div className="bg-[#5B2C6F] text-white p-8 rounded-lg mb-8">
+            {/* Contact CTA */}
+            <div className="bg-[#1B3A6B] text-white p-8 rounded-lg text-center mb-12">
               <h3 className="text-2xl font-bold mb-4">Contact ScotWater for Impact Moling in Scotland</h3>
-              <p className="text-lg mb-4">
+              <p className="text-lg mb-6">
                 For reliable, professional, and timely impact moling services across Scotland, you can trust ScotWater to deliver.
               </p>
-              <p className="text-lg mb-6">
+              <p className="mb-6">
                 ScotWater can carry out impact moling across Scotland and provide you with a free quotation for the moling work. To get a free quote for impact moling, please call us or email to schedule a free consultation and learn how we can help with your water main needs.
               </p>
-            </div>
-
-            {/* Contact Buttons */}
-            <div className="flex flex-wrap gap-4 justify-center mb-12">
-              <Button size="lg" className="bg-purple-600 hover:bg-purple-700 text-white" asChild>
-                <a href="tel:08002062778" className="flex items-center gap-3">
-                  <Phone className="h-5 w-5 scale-x-[-1]" />
+              <div className="flex flex-col md:flex-row gap-4 justify-center items-center">
+                <a 
+                  href="tel:08002062778"
+                  className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
+                >
                   0800 206 2778
+                  <Phone className="w-6 h-6 scale-x-[-1]" />
                 </a>
-              </Button>
-              <Button size="lg" variant="outline" className="border-purple-600 text-purple-600 hover:bg-purple-50" asChild>
-                <a href="mailto:hello@scotwater.co.uk" className="flex items-center gap-3">
-                  <Mail className="h-5 w-5" />
+                <a 
+                  href="mailto:hello@scotwater.co.uk"
+                  className="bg-white hover:bg-gray-100 text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl transition-colors"
+                >
                   hello@scotwater.co.uk
                 </a>
-              </Button>
+              </div>
             </div>
           </div>
         </section>
