@@ -43,48 +43,48 @@ export default function ImpactMoling() {
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-6">Why Choose Impact Moling Over Traditional Trenching Methods?</h3>
             
             <div className="space-y-4 mb-8">
-              <div className="bg-gray-50 p-6 border-l-4 border-purple-600">
-                <h4 className="font-bold text-lg text-[#1e3a8a] mb-2">1. Moling Creates Minimal Property Disruption</h4>
-                <p className="text-gray-700">Avoid large-scale excavation with our trenchless moling techniques, which protect gardens, driveways, and other features.</p>
+              <div className="bg-gray-50 p-8 rounded-lg">
+                <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">1. Moling Creates Minimal Property Disruption</h4>
+                <p className="text-lg text-gray-700">Avoid large-scale excavation with our trenchless moling techniques, which protect gardens, driveways, and other features.</p>
               </div>
 
-              <div className="bg-gray-50 p-6 border-l-4 border-purple-600">
-                <h4 className="font-bold text-lg text-[#1e3a8a] mb-2">2. Moling is Fast and Reliable</h4>
-                <p className="text-gray-700">Impact Moling speeds up the installation work, reducing project timelines compared to traditional excavation methods.</p>
+              <div className="bg-gray-50 p-8 rounded-lg">
+                <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">2. Moling is Fast and Reliable</h4>
+                <p className="text-lg text-gray-700">Impact Moling speeds up the installation work, reducing project timelines compared to traditional excavation methods.</p>
               </div>
 
-              <div className="bg-gray-50 p-6 border-l-4 border-purple-600">
-                <h4 className="font-bold text-lg text-[#1e3a8a] mb-2">3. Moling is Cost-Effective</h4>
-                <p className="text-gray-700">Lower restoration and reinstatement costs from moling save you money.</p>
+              <div className="bg-gray-50 p-8 rounded-lg">
+                <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">3. Moling is Cost-Effective</h4>
+                <p className="text-lg text-gray-700">Lower restoration and reinstatement costs from moling save you money.</p>
               </div>
 
-              <div className="bg-gray-50 p-6 border-l-4 border-purple-600">
-                <h4 className="font-bold text-lg text-[#1e3a8a] mb-2">4. Moling is Eco-Friendly</h4>
-                <p className="text-gray-700">Trenchless installations reduce waste and protect the environment because moling requires less energy.</p>
+              <div className="bg-gray-50 p-8 rounded-lg">
+                <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">4. Moling is Eco-Friendly</h4>
+                <p className="text-lg text-gray-700">Trenchless installations reduce waste and protect the environment because moling requires less energy.</p>
               </div>
             </div>
 
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-6">Key Benefits of Impact Moling</h3>
             
             <div className="space-y-4 mb-8">
-              <div className="bg-white p-6 border-l-4 border-purple-600">
-                <h4 className="font-bold text-lg text-[#1e3a8a] mb-2">1. Moling Preserves Landscaping</h4>
-                <p className="text-gray-700">Moling keeps your gardens and paved areas intact.</p>
+              <div className="bg-gray-50 p-8 rounded-lg">
+                <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">1. Moling Preserves Landscaping</h4>
+                <p className="text-lg text-gray-700">Moling keeps your gardens and paved areas intact.</p>
               </div>
 
-              <div className="bg-white p-6 border-l-4 border-purple-600">
-                <h4 className="font-bold text-lg text-[#1e3a8a] mb-2">2. Moling Reduces Downtime</h4>
-                <p className="text-gray-700">Projects that are moled are completed faster with less disruption.</p>
+              <div className="bg-gray-50 p-8 rounded-lg">
+                <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">2. Moling Reduces Downtime</h4>
+                <p className="text-lg text-gray-700">Projects that are moled are completed faster with less disruption.</p>
               </div>
 
-              <div className="bg-white p-6 border-l-4 border-purple-600">
-                <h4 className="font-bold text-lg text-[#1e3a8a] mb-2">3. Moling is Versatile</h4>
-                <p className="text-gray-700">Moling is suitable for various ground conditions and property layouts.</p>
+              <div className="bg-gray-50 p-8 rounded-lg">
+                <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">3. Moling is Versatile</h4>
+                <p className="text-lg text-gray-700">Moling is suitable for various ground conditions and property layouts.</p>
               </div>
 
-              <div className="bg-white p-6 border-l-4 border-purple-600">
-                <h4 className="font-bold text-lg text-[#1e3a8a] mb-2">4. Moling is Accurate and Safe</h4>
-                <p className="text-gray-700">Advanced moling tools ensure precision and protect existing utilities.</p>
+              <div className="bg-gray-50 p-8 rounded-lg">
+                <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">4. Moling is Accurate and Safe</h4>
+                <p className="text-lg text-gray-700">Advanced moling tools ensure precision and protect existing utilities.</p>
               </div>
             </div>
 
@@ -92,39 +92,39 @@ export default function ImpactMoling() {
             
             <div className="space-y-4 mb-8">
               <div className="flex gap-4">
-                <div className="flex-shrink-0 w-12 h-12 rounded-full bg-purple-600 text-white flex items-center justify-center font-bold text-lg">1</div>
+                <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#5B2C6F] text-white flex items-center justify-center font-bold text-lg">1</div>
                 <div>
-                  <h4 className="font-bold text-lg text-[#1e3a8a] mb-2">Assessment and Planning</h4>
-                  <p className="text-gray-700">We evaluate your site and map out underground utilities to ensure a safe installation.</p>
+                  <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">Assessment and Planning</h4>
+                  <p className="text-lg text-gray-700">We evaluate your site and map out underground utilities to ensure a safe installation.</p>
                 </div>
               </div>
 
               <div className="flex gap-4">
-                <div className="flex-shrink-0 w-12 h-12 rounded-full bg-purple-600 text-white flex items-center justify-center font-bold text-lg">2</div>
+                <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#5B2C6F] text-white flex items-center justify-center font-bold text-lg">2</div>
                 <div>
-                  <h4 className="font-bold text-lg text-[#1e3a8a] mb-2">Launch and Retrieval Pits</h4>
-                  <p className="text-gray-700">Small pits are excavated at points of entry and exit for the moling tool.</p>
+                  <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">Launch and Retrieval Pits</h4>
+                  <p className="text-lg text-gray-700">Small pits are excavated at points of entry and exit for the moling tool.</p>
                 </div>
               </div>
 
               <div className="flex gap-4">
-                <div className="flex-shrink-0 w-12 h-12 rounded-full bg-purple-600 text-white flex items-center justify-center font-bold text-lg">3</div>
+                <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#5B2C6F] text-white flex items-center justify-center font-bold text-lg">3</div>
                 <div>
-                  <h4 className="font-bold text-lg text-[#1e3a8a] mb-2">Moling and Installation</h4>
-                  <p className="text-gray-700">The mole creates a tunnel, and the new water pipe is pulled through seamlessly.</p>
+                  <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">Moling and Installation</h4>
+                  <p className="text-lg text-gray-700">The mole creates a tunnel, and the new water pipe is pulled through seamlessly.</p>
                 </div>
               </div>
 
               <div className="flex gap-4">
-                <div className="flex-shrink-0 w-12 h-12 rounded-full bg-purple-600 text-white flex items-center justify-center font-bold text-lg">4</div>
+                <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#5B2C6F] text-white flex items-center justify-center font-bold text-lg">4</div>
                 <div>
-                  <h4 className="font-bold text-lg text-[#1e3a8a] mb-2">Connection and Certification</h4>
-                  <p className="text-gray-700">The new water supply pipe is connected to your system, and we provide a certificate confirming compliance with UK Water Regulations.</p>
+                  <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">Connection and Certification</h4>
+                  <p className="text-lg text-gray-700">The new water supply pipe is connected to your system, and we provide a certificate confirming compliance with UK Water Regulations.</p>
                 </div>
               </div>
             </div>
 
-            <div className="bg-[#1e3a8a] text-white p-8 rounded-lg mb-8">
+            <div className="bg-[#5B2C6F] text-white p-8 rounded-lg mb-8">
               <h3 className="text-2xl font-bold mb-4">Contact ScotWater for Impact Moling in Scotland</h3>
               <p className="text-lg mb-4">
                 For reliable, professional, and timely impact moling services across Scotland, you can trust ScotWater to deliver.
