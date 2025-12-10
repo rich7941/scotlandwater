@@ -27,11 +27,11 @@ export default function About() {
           </h2>
           
           <div className="prose prose-lg max-w-none">
-            <p className="text-gray-700 mb-4">
+            <p className="text-lg text-gray-700 mb-4">
               At ScotWater, we specialise in lead pipe replacement, water mains renewal, and water infrastructure services across Scotland, serving all cities and towns including Edinburgh, Glasgow, Aberdeen, Dundee, Paisley, East Kilbride, Livingston, Hamilton, Cumbernauld, Kirkcaldy, and beyond.
             </p>
             
-            <p className="text-gray-700 mb-6">
+            <p className="text-lg text-gray-700 mb-6">
               With years of hands-on experience in the water industry, we have developed the expertise required to handle a wide range of projects, from private lead pipe replacement to full-scale commercial water main installations.
             </p>
 
@@ -39,11 +39,11 @@ export default function About() {
               Our Expertise and Commitment
             </h3>
             
-            <p className="text-gray-700 mb-4">
+            <p className="text-lg text-gray-700 mb-4">
               Our highly qualified team holds all the necessary certifications and credentials to provide efficient, safe, and professional services to every client. At ScotWater, we take pride in offering a complete in-house solution, including:
             </p>
 
-            <ul className="list-disc pl-6 mb-6 text-gray-700">
+            <ul className="list-disc pl-6 mb-6 text-lg text-gray-700">
               <li>Lead Pipe Replacement</li>
               <li>Water Supply Pipe Repairs</li>
               <li>Water Supply Pipe Installations</li>
@@ -52,7 +52,7 @@ export default function About() {
               <li>Water Leak Detection</li>
             </ul>
 
-            <p className="text-gray-700 mb-6">
+            <p className="text-lg text-gray-700 mb-6">
               We ensure that every project is carried out with the highest standards of workmanship, safety, and minimal disruption to your property.
             </p>
 
@@ -60,7 +60,7 @@ export default function About() {
               Why Choose ScotWater?
             </h3>
 
-            <ol className="list-decimal pl-6 space-y-3 text-gray-700 mb-6">
+            <ol className="list-decimal pl-6 space-y-3 text-lg text-gray-700 mb-6">
               <li><strong>Qualified and Experienced:</strong> Our team is fully trained and certified to work on a variety of water infrastructure projects, ensuring compliance with all industry regulations.</li>
               <li><strong>Reliable and Honest:</strong> We believe in transparency and integrity. You can trust us to deliver top-quality services, on time and within budget.</li>
               <li><strong>Networked Across Scotland:</strong> With established partnerships and a strong network within the water and construction industry, we have access to additional resources for specialised services when required.</li>
@@ -71,7 +71,7 @@ export default function About() {
               <li><strong>Commitment to Quality:</strong> We pride ourselves on providing transparent, high-quality services.</li>
             </ol>
 
-            <p className="text-gray-700">
+            <p className="text-lg text-gray-700">
               ScotWater can carry out water supply pipe and water main work across Scotland. To get a free quote please call us on <a href="tel:08002062778" className="text-[#5B2C6F] hover:underline">0800 206 2778</a> or email <a href="mailto:hello@scotwater.co.uk" className="text-[#5B2C6F] hover:underline">hello@scotwater.co.uk</a> to schedule a free consultation and learn how we can help with your water supply needs.
             </p>
           </div>
