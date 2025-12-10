@@ -50,41 +50,41 @@ export default function WaterSupplyPipeRepairs() {
 
           <div className="space-y-8 mb-12">
             {/* Cause 1 */}
-            <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
-              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Age and Material of Pipes</h4>
-              <p className="text-gray-700">
+            <div className="bg-gray-50 p-8 rounded-lg">
+              <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">1. Age and Material of Pipes</h4>
+              <p className="text-lg text-gray-700">
                 Older water pipes are more susceptible to corrosion, particularly if they were installed before the 1980s. Many older pipes are made of cast iron, which lacks the flexibility to withstand temperature changes effectively. Over time, this can lead to cracks and leaks in the pipe.
               </p>
             </div>
 
             {/* Cause 2 */}
-            <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
-              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Changes in Water Pressure</h4>
-              <p className="text-gray-700">
+            <div className="bg-gray-50 p-8 rounded-lg">
+              <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">2. Changes in Water Pressure</h4>
+              <p className="text-lg text-gray-700">
                 Sudden increases in water pressure can strain supply pipes, causing damage. If the pressure exceeds the pipe's capacity, it can lead to leaks, cracks, or even a complete pipe burst. This can result in water damage, increased utility bills, and costly repairs.
               </p>
             </div>
 
             {/* Cause 3 */}
-            <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
-              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Accidental Damage During Excavation</h4>
-              <p className="text-gray-700">
+            <div className="bg-gray-50 p-8 rounded-lg">
+              <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">3. Accidental Damage During Excavation</h4>
+              <p className="text-lg text-gray-700">
                 Excavation work on your property can sometimes unintentionally damage underground water supply pipes. Digging equipment or machinery can puncture or crack pipes, leading to leaks and disruption to your water supply.
               </p>
             </div>
 
             {/* Cause 4 */}
-            <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
-              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Temperature Fluctuations</h4>
-              <p className="text-gray-700">
+            <div className="bg-gray-50 p-8 rounded-lg">
+              <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">4. Temperature Fluctuations</h4>
+              <p className="text-lg text-gray-700">
                 Extreme temperature changes can affect the integrity of water supply pipes. In cold weather, frozen ground can expand, putting additional pressure on pipes. Conversely, in hot weather, soil shifting due to drying can also stress pipes. These cycles can lead to cracks or bursts, making regular maintenance crucial to prevent failures.
               </p>
             </div>
 
             {/* Cause 5 */}
-            <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
-              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Impact from Heavy Vehicles</h4>
-              <p className="text-gray-700">
+            <div className="bg-gray-50 p-8 rounded-lg">
+              <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">5. Impact from Heavy Vehicles</h4>
+              <p className="text-lg text-gray-700">
                 Heavy vehicles driving over shallowly buried pipes can cause significant stress, leading to cracks or deformation. Vibrations from traffic can also destabilise the ground around the pipes, increasing the likelihood of leaks or damage. Regular inspections in high-traffic areas can help identify potential risks early.
               </p>
             </div>
@@ -100,30 +100,30 @@ export default function WaterSupplyPipeRepairs() {
 
           <div className="space-y-6 mb-12">
             <div className="flex items-start gap-4">
-              <div className="w-3 h-3 rounded-full bg-[#5B2C6F] flex-shrink-0 mt-2"></div>
+              <div className="w-10 h-10 rounded-full bg-[#5B2C6F] text-white flex items-center justify-center font-bold flex-shrink-0 mt-1">1</div>
               <div>
                 <h4 className="text-xl font-bold text-[#1e3a8a] mb-2">Non-Invasive Repairs</h4>
-                <p className="text-gray-700">
+                <p className="text-lg text-gray-700">
                   We use advanced methods like trenchless technology to minimise disruption to your property.
                 </p>
               </div>
             </div>
 
             <div className="flex items-start gap-4">
-              <div className="w-3 h-3 rounded-full bg-[#5B2C6F] flex-shrink-0 mt-2"></div>
+              <div className="w-10 h-10 rounded-full bg-[#5B2C6F] text-white flex items-center justify-center font-bold flex-shrink-0 mt-1">2</div>
               <div>
                 <h4 className="text-xl font-bold text-[#1e3a8a] mb-2">Comprehensive Services</h4>
-                <p className="text-gray-700">
+                <p className="text-lg text-gray-700">
                   From leak detection to replacement, we handle every aspect of water supply pipe repair.
                 </p>
               </div>
             </div>
 
             <div className="flex items-start gap-4">
-              <div className="w-3 h-3 rounded-full bg-[#5B2C6F] flex-shrink-0 mt-2"></div>
+              <div className="w-10 h-10 rounded-full bg-[#5B2C6F] text-white flex items-center justify-center font-bold flex-shrink-0 mt-1">3</div>
               <div>
                 <h4 className="text-xl font-bold text-[#1e3a8a] mb-2">Experienced Professionals</h4>
-                <p className="text-gray-700">
+                <p className="text-lg text-gray-700">
                   Our skilled engineers deliver high-quality results for projects of any complexity.
                 </p>
               </div>
@@ -131,12 +131,12 @@ export default function WaterSupplyPipeRepairs() {
           </div>
 
           {/* 24/7 Emergency Services Section */}
-          <div className="bg-[#F4E04D] p-8 rounded-lg mb-8">
+          <div className="bg-yellow-50 border-l-4 border-[#F4E04D] p-6 mb-8">
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">24/7 Emergency Services</h3>
-            <p className="text-lg text-[#1e3a8a] mb-4">
+            <p className="text-lg text-gray-700 mb-4">
               Water supply pipe leaks can happen at any time, and their impact can be significant, whether it's a slow leak or a sudden burst. ScotWater provides round-the-clock emergency repair services to address urgent issues promptly. Whether you've been alerted to a leak by Scottish Water or noticed water pooling in your driveway, our team is ready to help.
             </p>
-            <p className="text-lg text-[#1e3a8a]">
+            <p className="text-lg text-gray-700">
               Our engineers use state-of-the-art tools to locate and repair leaks with minimal disruption. With a focus on speed and efficiency, we aim to resolve your issue quickly, preventing further damage or inconvenience.
             </p>
           </div>
