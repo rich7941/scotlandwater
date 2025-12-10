@@ -103,8 +103,9 @@ export default function WaterMainRepairs() {
               Some of the most common causes of burst water mains include:
             </p>
 
+            <div className="space-y-6 mb-8">
             {/* Pipe Age & Material */}
-            <div className="bg-gray-50 p-8 rounded-lg mb-6">
+            <div className="bg-gray-50 p-8 rounded-lg">
               <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">1. Pipe Age & Material</h4>
               <p className="text-lg text-gray-700">
                 Older water main pipes are more prone to corrosion, and if installed before the 1980s, they may be made of cast iron. While once the standard in utilities, cast iron is less durable and cannot expand and contract with changing temperatures as effectively as modern materials. This can lead to water main pipes cracking and leaking over time.
@@ -112,7 +113,7 @@ export default function WaterMainRepairs() {
             </div>
 
             {/* Water Pressure Changes */}
-            <div className="bg-gray-50 p-8 rounded-lg mb-6">
+            <div className="bg-gray-50 p-8 rounded-lg">
               <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">2. Water Pressure Changes</h4>
               <p className="text-lg text-gray-700">
                 Extreme surges in water pressure can put water mains under considerable strain. If the water pressure exceeds the capability of the system, the extra force can damage pipes, leading to cracks, leaks, or even a complete rupture. Ruptured pipes can result in water damage, costly repairs, and higher water bills due to increased water usage.
@@ -120,7 +121,7 @@ export default function WaterMainRepairs() {
             </div>
 
             {/* Excavation Work */}
-            <div className="bg-gray-50 p-8 rounded-lg mb-6">
+            <div className="bg-gray-50 p-8 rounded-lg">
               <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">3. Excavation Work</h4>
               <p className="text-lg text-gray-700">
                 Excavation work by contractors or property owners can accidentally damage water mains with digging equipment or machinery. Such contact can cause ruptures in your water mains, leading to significant damage.
@@ -128,7 +129,7 @@ export default function WaterMainRepairs() {
             </div>
 
             {/* Temperature Changes */}
-            <div className="bg-gray-50 p-8 rounded-lg mb-6">
+            <div className="bg-gray-50 p-8 rounded-lg">
               <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">4. Temperature Changes</h4>
               <p className="text-lg text-gray-700">
                 Temperature changes can severely impact the integrity of water mains. During cold weather, the ground can freeze and subsequently expand, placing additional pressure on underground pipes. This can lead to cracks or even bursts if the material of the pipe is unable to withstand the contraction and expansion caused by the freezing and thawing cycles. Conversely, in hot weather, the ground may shift as it dries out, which can also cause movement and stress on water mains. Such temperature-induced stress makes regular maintenance and monitoring essential to prevent leaks and ensure the longevity of the water infrastructure.
@@ -136,11 +137,12 @@ export default function WaterMainRepairs() {
             </div>
 
             {/* Heavy Vehicles */}
-            <div className="bg-gray-50 p-8 rounded-lg mb-8">
+            <div className="bg-gray-50 p-8 rounded-lg">
               <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">5. Heavy Vehicles</h4>
               <p className="text-lg text-gray-700">
                 Heavy vehicles can pose significant risks to the integrity of water mains, especially those that are shallowly buried. The immense weight of trucks, buses, and other large machinery can exert pressure on the soil above these pipes, leading to soil compaction. This increased pressure can deform or crack the water mains beneath, particularly if they are made from materials that are less flexible or if they are already weakened by age or corrosion. Moreover, the vibration caused by heavy traffic can lead to shifts in the soil that may disturb the pipes' alignment, exacerbating the risk of leaks or bursts. Regular assessment of water main routes under heavily trafficked areas is crucial to ensure their durability and to plan for necessary reinforcements or rerouting.
               </p>
+            </div>
             </div>
 
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-6">ScotWater Water Main Repairs</h3>
