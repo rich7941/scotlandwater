@@ -58,7 +58,7 @@ export default function Contact() {
           </h2>
           
           <div className="prose prose-lg max-w-none mb-12">
-            <p className="text-gray-700 mb-4">
+            <p className="text-lg text-gray-700 mb-4">
             If you're experiencing issues with your water mains or need expert advice on water infrastructure, ScotWater is here to help. As Scotland's premier water main specialists, we provide reliable and efficient solutions tailored to your needs. Whether you need urgent repairs, maintenance, or a complete overhaul, our team of qualified professionals is ready to assist you.
             </p>
           </div>
