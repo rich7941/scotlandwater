@@ -33,16 +33,16 @@ export default function Hamilton() {
             </p>
 
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4 mt-12">Lead Pipes</h3>
-            <p className="text-gray-700 mb-4">
+            <p className="text-lg text-gray-700 mb-4">
               Lead pipes are a common issue in homes built before 1970 across Hamilton. Over time, these lead pipes pose a significant health risk due to the potential for lead to leach into your drinking water. If your property in Hamilton still uses lead water pipes, lead pipe replacement is the safest solution to ensure clean, safe drinking water for your household.
             </p>
-            <p className="text-gray-700 mb-6">
+            <p className="text-lg text-gray-700 mb-6">
               At ScotWater, we provide professional lead pipe replacement services using advanced, trenchless technology (<Link href="/services/impact-moling" className="text-purple-600 hover:underline">impact moling</Link>) to minimise disruption while delivering long-lasting results. Our expert team operates across Hamilton, helping homeowners with lead pipe replacement to improve water quality.
             </p>
 
             <div className="bg-blue-50 border-l-4 border-blue-600 p-6 mb-8">
               <h3 className="text-xl font-bold text-[#1e3a8a] mb-4">Responsibilities: Who Owns Which Pipe?</h3>
-              <ul className="space-y-2 text-gray-700">
+              <ul className="space-y-2 text-lg text-gray-700">
                 <li><strong>Scottish Water:</strong> Responsible for the water main and the communication pipe (from the main to the external stop tap).</li>
                 <li><strong>Homeowners/Landlords:</strong> Responsible for the supply pipe (from the stop tap into the home) and all internal plumbing.</li>
                 <li>In shared supply arrangements (e.g. tenements), responsibility is joint between all connected property owners.</li>
@@ -52,43 +52,43 @@ export default function Hamilton() {
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4 mt-12">Lead Pipe Replacement Service - What to Expect</h3>
             <div className="space-y-6 mb-8">
               <div>
-                <h4 className="text-lg font-semibold text-[#1e3a8a] mb-2">1. Lead Pipe Inspection and Assessment</h4>
-                <p className="text-gray-700">
+                <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">1. Lead Pipe Inspection and Assessment</h4>
+                <p className="text-lg text-gray-700">
                   We begin by carrying out a thorough inspection of your property to identify any lead pipes. Our skilled technicians assess the condition and layout of the existing lead pipes and recommend the best course of action for lead pipe replacement.
                 </p>
               </div>
               <div>
-                <h4 className="text-lg font-semibold text-[#1e3a8a] mb-2">2. Safe and Disruption-Free Lead Pipe Replacement</h4>
-                <p className="text-gray-700">
+                <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">2. Safe and Disruption-Free Lead Pipe Replacement</h4>
+                <p className="text-lg text-gray-700">
                   Once lead pipes are identified, we use advanced techniques to replace them with modern, durable materials. Our trenchless technology minimises digging and disruption to your property, ensuring a smooth and efficient replacement process.
                 </p>
               </div>
               <div>
-                <h4 className="text-lg font-semibold text-[#1e3a8a] mb-2">3. Compliance with Water Safety Standards</h4>
-                <p className="text-gray-700">
+                <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">3. Compliance with Water Safety Standards</h4>
+                <p className="text-lg text-gray-700">
                   As a trusted water services provider in Hamilton, all our lead pipe replacement complies with current UK Water Regulations. We ensure that your new pipe meets the latest health and safety standards, giving you peace of mind about your drinking water.
                 </p>
               </div>
             </div>
 
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4 mt-12">Regulation and Water Safety Standards in Hamilton</h3>
-            <p className="text-gray-700 mb-4">
+            <p className="text-lg text-gray-700 mb-4">
               In Hamilton, lead levels in drinking water are governed by the Water Supply (Water Quality) (Scotland) Regulations 2010, which set the current legal limit at 10 micrograms per litre (10 µg/L).
             </p>
-            <p className="text-gray-700 mb-4">
+            <p className="text-lg text-gray-700 mb-4">
               This reflects a significant improvement from earlier standards:
             </p>
-            <ul className="list-disc pl-6 mb-4 text-gray-700">
+            <ul className="list-disc pl-6 mb-4 text-lg text-gray-700">
               <li>50 µg/L in the late 1980s</li>
               <li>25 µg/L by 2003</li>
             </ul>
-            <p className="text-gray-700 mb-6">
+            <p className="text-lg text-gray-700 mb-6">
               The long-term ambition is to reduce the limit as close to zero as possible, in line with WHO guidance. The WHO recommends a guideline value of 0.01 mg/L (10 µg/L) based on health risk, not practical implementation. Public health experts increasingly advocate adopting the EU's upcoming 5 µg/L standard, particularly for vulnerable populations like children and pregnant women.
             </p>
 
             <div className="bg-purple-50 border-l-4 border-purple-600 p-6 mb-8">
               <h3 className="text-xl font-bold text-[#1e3a8a] mb-4">Testing and Taking Action</h3>
-              <ul className="space-y-2 text-gray-700">
+              <ul className="space-y-2 text-lg text-gray-700">
                 <li><strong>Water Testing:</strong> Free testing is available if lead pipes are suspected. A sample is taken from your cold kitchen tap.</li>
                 <li><strong>Results:</strong> If lead exceeds 10 µg/l, or 5 µg/l from April 2025, Scottish Water may replace its section. You must replace your private section first.</li>
                 <li><strong>Replacement:</strong> Use ScotWater to ensure compliance with Scottish plumbing byelaws.</li>
@@ -96,38 +96,38 @@ export default function Hamilton() {
             </div>
 
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4 mt-12">Landlord Legal Duties</h3>
-            <p className="text-gray-700 mb-4">
+            <p className="text-lg text-gray-700 mb-4">
               From March 2024, all privately rented homes in Hamilton must be free of lead in the drinking water supply. This includes:
             </p>
-            <ul className="list-disc pl-6 mb-4 text-gray-700">
+            <ul className="list-disc pl-6 mb-4 text-lg text-gray-700">
               <li>Supply pipes</li>
               <li>Internal plumbing</li>
               <li>Lead-lined storage tanks</li>
             </ul>
-            <p className="text-gray-700 mb-6">
+            <p className="text-lg text-gray-700 mb-6">
               Non-compliance can result in enforcement action under the Housing (Scotland) Act 2006.
             </p>
 
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4 mt-12">Why Replace Lead Pipes?</h3>
-            <p className="text-gray-700 mb-4">
+            <p className="text-lg text-gray-700 mb-4">
               Replacing lead pipes is essential to protect your household from potential health risks and improve the quality of your water supply. Here's why lead pipe replacement is important:
             </p>
             <div className="space-y-6 mb-8">
               <div>
-                <h4 className="text-lg font-semibold text-[#1e3a8a] mb-2">1. Health Risks</h4>
-                <p className="text-gray-700">
+                <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">1. Health Risks</h4>
+                <p className="text-lg text-gray-700">
                   Lead can leach into drinking water from old lead pipes, posing serious health risks, particularly to young children and pregnant women. Lead exposure has been linked to developmental issues and other long-term health problems, making it critical to replace lead pipes as soon as possible.
                 </p>
               </div>
               <div>
-                <h4 className="text-lg font-semibold text-[#1e3a8a] mb-2">2. Improved Water Quality</h4>
-                <p className="text-gray-700">
+                <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">2. Improved Water Quality</h4>
+                <p className="text-lg text-gray-700">
                   Replacing lead pipes eliminates the risk of lead contamination, significantly improving the safety and quality of your drinking water. Many homeowners also notice an improvement in the taste and clarity of their water after the lead pipe replacement work.
                 </p>
               </div>
               <div>
-                <h4 className="text-lg font-semibold text-[#1e3a8a] mb-2">3. Increased Property Value</h4>
-                <p className="text-gray-700">
+                <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">3. Increased Property Value</h4>
+                <p className="text-lg text-gray-700">
                   Modernising your plumbing system by replacing lead pipes can enhance the value of your property. Homes with updated lead-free water systems are more attractive to potential buyers and meet today's safety standards.
                 </p>
               </div>
@@ -135,10 +135,10 @@ export default function Hamilton() {
 
             <div className="bg-orange-50 border-l-4 border-orange-600 p-6 mb-8">
               <h3 className="text-xl font-bold text-[#1e3a8a] mb-4">Mitigation While Awaiting Replacement</h3>
-              <p className="text-gray-700 mb-4">
+              <p className="text-lg text-gray-700 mb-4">
                 While full pipe replacement is the only permanent solution, temporary steps can reduce exposure:
               </p>
-              <ul className="list-disc pl-6 text-gray-700">
+              <ul className="list-disc pl-6 text-lg text-gray-700">
                 <li>Use only cold water for drinking or cooking.</li>
                 <li>Run taps for several minutes before use.</li>
                 <li>Clean faucet aerators regularly.</li>
@@ -147,15 +147,15 @@ export default function Hamilton() {
             </div>
 
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4 mt-12">The Dangers of Partial Lead Pipe Replacement</h3>
-            <p className="text-gray-700 mb-6">
+            <p className="text-lg text-gray-700 mb-6">
               Partial lead pipe replacement—replacing only the public or private section—can dislodge built-up lead particles and temporarily increase contamination. <Link href="/help-advice/lead-pipe-replacement" className="text-purple-600 hover:underline">Full lead pipe replacement</Link> of both sections is strongly advised to eliminate the risk.
             </p>
 
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4 mt-12">After Lead Pipe Replacement</h3>
-            <p className="text-gray-700 mb-4">
+            <p className="text-lg text-gray-700 mb-4">
               Once your lead pipe replacement is complete:
             </p>
-            <ul className="list-disc pl-6 mb-6 text-gray-700">
+            <ul className="list-disc pl-6 mb-6 text-lg text-gray-700">
               <li>Flush your system by running all cold taps for 30 minutes.</li>
               <li>Remove and clean aerators.</li>
               <li>Avoid using kettles or ice makers during flushing.</li>
@@ -164,7 +164,7 @@ export default function Hamilton() {
 
             <div className="bg-teal-50 border-l-4 border-teal-600 p-6 mb-8">
               <h3 className="text-xl font-bold text-[#1e3a8a] mb-4">Be Lead Aware and Take Action</h3>
-              <p className="text-gray-700">
+              <p className="text-lg text-gray-700">
                 Lead in drinking water remains a hidden but serious concern for older Scottish homes. If your property was built before 1970, it may still contain lead pipe. Don't wait—book a water test, inspect your plumbing, and arrange for <Link href="/help-advice/lead-pipe-replacement" className="text-purple-600 hover:underline">full lead pipe replacement</Link> if needed. By acting now, you protect your health, comply with new legal standards, and contribute to a safer water supply for all of Hamilton.
               </p>
             </div>
@@ -172,25 +172,25 @@ export default function Hamilton() {
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4 mt-12">How to Start the Lead Pipe Replacement Process</h3>
             <div className="space-y-6 mb-8">
               <div>
-                <h4 className="text-lg font-semibold text-[#1e3a8a] mb-2">Step 1 – Contact ScotWater <a href="tel:08002062778" className="text-purple-600 hover:underline">0800 206 2778</a></h4>
-                <p className="text-gray-700 mb-2">
+                <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">Step 1 – Contact ScotWater <a href="tel:08002062778" className="text-purple-600 hover:underline">0800 206 2778</a></h4>
+                <p className="text-lg text-gray-700 mb-2">
                   Discuss your property's lead pipe replacement with ScotWater. We may ask:
                 </p>
-                <ul className="list-disc pl-6 text-gray-700">
+                <ul className="list-disc pl-6 text-lg text-gray-700">
                   <li>Is it a single or shared supply?</li>
                   <li>When was the property built?</li>
                   <li>We'll confirm if the pipe is lead and explain next steps.</li>
                 </ul>
               </div>
               <div>
-                <h4 className="text-lg font-semibold text-[#1e3a8a] mb-2">Step 2 – Hire ScotWater</h4>
-                <p className="text-gray-700">
+                <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">Step 2 – Hire ScotWater</h4>
+                <p className="text-lg text-gray-700">
                   Hire ScotWater to do your private-side lead pipe replacement. If on a shared supply, we must work with neighbours and may need to submit proof of work (e.g. a completion certificate).
                 </p>
               </div>
               <div>
-                <h4 className="text-lg font-semibold text-[#1e3a8a] mb-2">Step 3 – Pipe Connection</h4>
-                <p className="text-gray-700">
+                <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">Step 3 – Pipe Connection</h4>
+                <p className="text-lg text-gray-700">
                   Once ScotWater completes your private side lead pipe replacement, Scottish Water will replace the lead communication pipe on the public highway free of charge.
                 </p>
               </div>
@@ -239,7 +239,7 @@ export default function Hamilton() {
                     className="w-full h-full object-cover"
                   />
                 </div>
-                <p className="text-center text-gray-700">Call us 24/7, 365, at a time that suits you.</p>
+                <p className="text-center text-lg text-gray-700">Call us 24/7, 365, at a time that suits you.</p>
               </div>
 
               <div className="flex flex-col items-center">
@@ -250,7 +250,7 @@ export default function Hamilton() {
                     className="w-full h-full object-cover"
                   />
                 </div>
-                <p className="text-center text-gray-700">You'll get a no-obligation quote straight away.</p>
+                <p className="text-center text-lg text-gray-700">You'll get a no-obligation quote straight away.</p>
               </div>
 
               <div className="flex flex-col items-center">
@@ -261,7 +261,7 @@ export default function Hamilton() {
                     className="w-full h-full object-cover"
                   />
                 </div>
-                <p className="text-center text-gray-700">Expert engineers will arrive and carry out the work.</p>
+                <p className="text-center text-lg text-gray-700">Expert engineers will arrive and carry out the work.</p>
               </div>
 
               <div className="flex flex-col items-center">
@@ -272,7 +272,7 @@ export default function Hamilton() {
                     className="w-full h-full object-cover"
                   />
                 </div>
-                <p className="text-center text-gray-700">We'll give you a 25-year guarantee*.</p>
+                <p className="text-center text-lg text-gray-700">We'll give you a 25-year guarantee*.</p>
               </div>
             </div>
           </div>
