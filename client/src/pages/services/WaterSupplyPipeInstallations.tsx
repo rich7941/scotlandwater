@@ -31,8 +31,8 @@ export default function WaterSupplyPipeInstallations() {
           
           <div className="space-y-8 mb-12">
             {/* Service 1 */}
-            <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
-              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">
+            <div className="bg-gray-50 p-8 rounded-lg mb-8">
+              <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">
                 1. Thorough Planning and Customised Design
               </h4>
               <p className="text-gray-700">
@@ -41,8 +41,8 @@ export default function WaterSupplyPipeInstallations() {
             </div>
 
             {/* Service 2 */}
-            <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
-              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">
+            <div className="bg-gray-50 p-8 rounded-lg mb-8">
+              <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">
                 2. Modern Installation and Replacement Techniques
               </h4>
               <p className="text-gray-700">
@@ -51,8 +51,8 @@ export default function WaterSupplyPipeInstallations() {
             </div>
 
             {/* Service 3 */}
-            <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-[#5B2C6F]">
-              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">
+            <div className="bg-gray-50 p-8 rounded-lg mb-8">
+              <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">
                 3. Compliance and Certification
               </h4>
               <p className="text-gray-700">
@@ -103,14 +103,14 @@ export default function WaterSupplyPipeInstallations() {
           </div>
 
           {/* Choose ScotWater Section */}
-          <div className="bg-[#1B3A6B] text-white p-8 rounded-lg mb-8">
-            <h3 className="text-2xl font-bold mb-4">
+          <div className="bg-[#5B2C6F]/10 p-8 rounded-lg mb-8">
+            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">
               Choose ScotWater for Water Supply Pipe Installations in Scotland
             </h3>
-            <p className="text-lg mb-4">
+            <p className="text-gray-700 text-lg mb-4">
               At ScotWater, we specialise in the expert installation and replacement of water supply pipes and mains. From initial planning to final certification, our services ensure a reliable and long-lasting water system for your home or business.
             </p>
-            <p className="text-lg">
+            <p className="text-gray-700 text-lg">
               ScotWater is proud to be Scotland's leading provider of water supply pipe installation services. Our commitment to innovation, quality, and customer care sets us apart from the competition. We understand the importance of having a reliable water supply system and work tirelessly to ensure your system meets the highest standards of performance and safety.
             </p>
           </div>
