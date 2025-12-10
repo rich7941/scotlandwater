@@ -176,7 +176,7 @@ export default function WaterMainRenewals() {
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
                 <div>
-                  <span className="font-semibold text-[#1e3a8a]">Directional Drilling:</span>
+                  <span className="text-lg font-semibold text-[#1e3a8a]">Directional Drilling:</span>
                   <span className="text-lg text-gray-700"> Bypasses surface obstacles, ideal for urban environments.</span>
                 </div>
               </div>
@@ -184,7 +184,7 @@ export default function WaterMainRenewals() {
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
                 <div>
-                  <span className="font-semibold text-[#1e3a8a]">Pneumatic and Hydraulic Bursting:</span>
+                  <span className="text-lg font-semibold text-[#1e3a8a]">Pneumatic and Hydraulic Bursting:</span>
                   <span className="text-lg text-gray-700"> Efficiently replaces old mains without extensive excavation.</span>
                 </div>
               </div>
@@ -192,7 +192,7 @@ export default function WaterMainRenewals() {
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
                 <div>
-                  <span className="font-semibold text-[#1e3a8a]">Impact Moling:</span>
+                  <span className="text-lg font-semibold text-[#1e3a8a]">Impact Moling:</span>
                   <span className="text-lg text-gray-700"> Offers a less invasive option for under roads or landscaped areas.</span>
                 </div>
               </div>
@@ -200,7 +200,7 @@ export default function WaterMainRenewals() {
               <div className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-purple-600 rounded-full mt-2 flex-shrink-0"></div>
                 <div>
-                  <span className="font-semibold text-[#1e3a8a]">Auger Boring and Steel Pipe Ramming:</span>
+                  <span className="text-lg font-semibold text-[#1e3a8a]">Auger Boring and Steel Pipe Ramming:</span>
                   <span className="text-lg text-gray-700"> Effective for installing mains under existing structures.</span>
                 </div>
               </div>
