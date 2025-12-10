@@ -124,16 +124,16 @@ export default function WaterSupplyPipeRenewals() {
           </ul>
 
           {/* For Tenants */}
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-8">
+          <div className="bg-yellow-50 border-l-4 border-[#F4E04D] p-6 mb-8">
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">If You're a Tenant</h3>
             <p className="text-gray-700 mb-4">If you suspect lead pipes:</p>
             <ul className="space-y-3 text-gray-700">
               <li className="flex items-start gap-2">
-                <span className="text-blue-600 font-bold">•</span>
+                <span className="text-[#5B2C6F] font-bold">•</span>
                 <span>Ask your landlord to arrange testing and replacement</span>
               </li>
               <li className="flex items-start gap-2">
-                <span className="text-blue-600 font-bold">•</span>
+                <span className="text-[#5B2C6F] font-bold">•</span>
                 <span>You can request a water test from Scottish Water and share the results with your landlord</span>
               </li>
             </ul>
@@ -165,28 +165,28 @@ export default function WaterSupplyPipeRenewals() {
           </ul>
 
           {/* Action Steps */}
-          <div className="bg-[#1B3A6B] text-white p-8 rounded-lg mb-8">
-            <h3 className="text-2xl font-bold mb-4">If Your Property Was Built Before 1970</h3>
-            <p className="mb-4">Take these steps:</p>
-            <ul className="space-y-3">
+          <div className="bg-gray-50 p-8 rounded-lg mb-8">
+            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">If Your Property Was Built Before 1970</h3>
+            <p className="text-gray-700 mb-4">Take these steps:</p>
+            <ul className="space-y-3 text-gray-700">
               <li className="flex items-start gap-2">
-                <span className="text-[#F4E04D] font-bold">✓</span>
+                <span className="text-[#5B2C6F] font-bold">✓</span>
                 <span>Check for lead pipes</span>
               </li>
               <li className="flex items-start gap-2">
-                <span className="text-[#F4E04D] font-bold">✓</span>
+                <span className="text-[#5B2C6F] font-bold">✓</span>
                 <span>Speak to ScotWater on 0800 206 2778</span>
               </li>
               <li className="flex items-start gap-2">
-                <span className="text-[#F4E04D] font-bold">✓</span>
+                <span className="text-[#5B2C6F] font-bold">✓</span>
                 <span>Replace your private supply pipe</span>
               </li>
               <li className="flex items-start gap-2">
-                <span className="text-[#F4E04D] font-bold">✓</span>
+                <span className="text-[#5B2C6F] font-bold">✓</span>
                 <span>Notify Scottish Water to replace their section</span>
               </li>
               <li className="flex items-start gap-2">
-                <span className="text-[#F4E04D] font-bold">✓</span>
+                <span className="text-[#5B2C6F] font-bold">✓</span>
                 <span>Encourage neighbours to act if you share a supply</span>
               </li>
             </ul>
