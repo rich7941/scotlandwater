@@ -75,102 +75,101 @@ export default function WaterMainRepairs() {
           <div className="container max-w-4xl">
             <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Water Main Repair Specialists in Scotland</h2>
             
-            <p className="text-gray-700 mb-4">
+            <p className="text-lg text-gray-700 mb-4">
               Welcome to ScotWater, Scotland's leading water main repair specialists. We provide expert services for all types of underground water leaks and water main replacement and repair projects, ensuring efficient and high-quality solutions for our clients.
             </p>
 
-            <p className="text-gray-700 mb-4">
+            <p className="text-lg text-gray-700 mb-4">
               With extensive expertise in water main leaks, our services include:
             </p>
 
-            <ul className="list-disc list-inside text-gray-700 mb-6 space-y-2">
+            <ul className="list-disc list-inside text-lg text-gray-700 mb-6 space-y-2">
               <li>Water main repairs</li>
               <li>Water main leak detection</li>
               <li>Water main replacement</li>
             </ul>
 
-            <p className="text-gray-700 mb-8">
+            <p className="text-lg text-gray-700 mb-8">
               Our skilled teams can handle any task, no matter the size or complexity.
             </p>
 
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-6">What Causes Water Mains to Leak?</h3>
 
-            <p className="text-gray-700 mb-6">
+            <p className="text-lg text-gray-700 mb-6">
               Do you have a leaking water main and want to prevent further problems by identifying the cause? Our engineers can assess and fix the issue while finding a long-term solution to prevent similar breakages or leaks in the future.
             </p>
 
-            <p className="text-gray-700 mb-6">
+            <p className="text-lg text-gray-700 mb-6">
               Some of the most common causes of burst water mains include:
             </p>
 
             {/* Pipe Age & Material */}
-            <div className="bg-gray-50 border-l-4 border-[#7c3aed] p-6 mb-6">
-              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Pipe Age & Material</h4>
-              <p className="text-gray-700">
+            <div className="bg-gray-50 p-8 rounded-lg mb-6">
+              <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">1. Pipe Age & Material</h4>
+              <p className="text-lg text-gray-700">
                 Older water main pipes are more prone to corrosion, and if installed before the 1980s, they may be made of cast iron. While once the standard in utilities, cast iron is less durable and cannot expand and contract with changing temperatures as effectively as modern materials. This can lead to water main pipes cracking and leaking over time.
               </p>
             </div>
 
             {/* Water Pressure Changes */}
-            <div className="bg-gray-50 border-l-4 border-[#7c3aed] p-6 mb-6">
-              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Water Pressure Changes</h4>
-              <p className="text-gray-700">
+            <div className="bg-gray-50 p-8 rounded-lg mb-6">
+              <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">2. Water Pressure Changes</h4>
+              <p className="text-lg text-gray-700">
                 Extreme surges in water pressure can put water mains under considerable strain. If the water pressure exceeds the capability of the system, the extra force can damage pipes, leading to cracks, leaks, or even a complete rupture. Ruptured pipes can result in water damage, costly repairs, and higher water bills due to increased water usage.
               </p>
             </div>
 
             {/* Excavation Work */}
-            <div className="bg-gray-50 border-l-4 border-[#7c3aed] p-6 mb-6">
-              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Excavation Work</h4>
-              <p className="text-gray-700">
+            <div className="bg-gray-50 p-8 rounded-lg mb-6">
+              <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">3. Excavation Work</h4>
+              <p className="text-lg text-gray-700">
                 Excavation work by contractors or property owners can accidentally damage water mains with digging equipment or machinery. Such contact can cause ruptures in your water mains, leading to significant damage.
               </p>
             </div>
 
             {/* Temperature Changes */}
-            <div className="bg-gray-50 border-l-4 border-[#7c3aed] p-6 mb-6">
-              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Temperature Changes</h4>
-              <p className="text-gray-700">
+            <div className="bg-gray-50 p-8 rounded-lg mb-6">
+              <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">4. Temperature Changes</h4>
+              <p className="text-lg text-gray-700">
                 Temperature changes can severely impact the integrity of water mains. During cold weather, the ground can freeze and subsequently expand, placing additional pressure on underground pipes. This can lead to cracks or even bursts if the material of the pipe is unable to withstand the contraction and expansion caused by the freezing and thawing cycles. Conversely, in hot weather, the ground may shift as it dries out, which can also cause movement and stress on water mains. Such temperature-induced stress makes regular maintenance and monitoring essential to prevent leaks and ensure the longevity of the water infrastructure.
               </p>
             </div>
 
             {/* Heavy Vehicles */}
-            <div className="bg-gray-50 border-l-4 border-[#7c3aed] p-6 mb-8">
-              <h4 className="text-xl font-bold text-[#1e3a8a] mb-3">Heavy Vehicles</h4>
-              <p className="text-gray-700">
+            <div className="bg-gray-50 p-8 rounded-lg mb-8">
+              <h4 className="text-xl font-bold text-[#5B2C6F] mb-3">5. Heavy Vehicles</h4>
+              <p className="text-lg text-gray-700">
                 Heavy vehicles can pose significant risks to the integrity of water mains, especially those that are shallowly buried. The immense weight of trucks, buses, and other large machinery can exert pressure on the soil above these pipes, leading to soil compaction. This increased pressure can deform or crack the water mains beneath, particularly if they are made from materials that are less flexible or if they are already weakened by age or corrosion. Moreover, the vibration caused by heavy traffic can lead to shifts in the soil that may disturb the pipes' alignment, exacerbating the risk of leaks or bursts. Regular assessment of water main routes under heavily trafficked areas is crucial to ensure their durability and to plan for necessary reinforcements or rerouting.
               </p>
             </div>
 
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-6">ScotWater Water Main Repairs</h3>
 
-            <p className="text-gray-700 mb-4">
+            <p className="text-lg text-gray-700 mb-4">
               At ScotWater, we have decades of experience tackling even the most disastrous water main emergencies.
             </p>
 
-            <p className="text-gray-700 mb-8">
+            <p className="text-lg text-gray-700 mb-8">
               When your water main breaks, you need someone who appreciates the scale of the emergency and knows how to fix it as quickly and effectively as possible. Using innovative methods of leak detection, testing, and trenchless repairs, our engineers will fix your problem in the most long-lasting and non-invasive way. Where necessary, we also have the skills and equipment to carry out full water main replacements.
             </p>
 
-            <h4 className="text-xl font-bold text-[#1e3a8a] mb-4">24-Hour Emergency Service</h4>
-
-            <div className="bg-yellow-50 border-l-4 border-yellow-400 p-6 mb-8">
-              <p className="text-gray-700 mb-4">
+            <div className="bg-yellow-50 border-l-4 border-[#F4E04D] p-6 mb-8">
+              <h4 className="text-xl font-bold text-[#1e3a8a] mb-4">24-Hour Emergency Service</h4>
+              <p className="text-lg text-gray-700 mb-4">
                 We understand that water leaks can be highly disruptive, whether it's a slow leak or a sudden burst water main. Scottish Water may alert you to an underground leak, or you may notice water leaking from your driveway. Water main leaks can cause flooding and costly damage. ScotWater is on hand to fix the problem fast.
               </p>
-              <p className="text-gray-700">
+              <p className="text-lg text-gray-700">
                 As water main specialists, our experienced engineers are always ready to deliver the best service using advanced tools and technology to examine your water main and fix the problem efficiently. That's why ScotWater is always available when you need us most. Our rapid response team can be on-site quickly, working to provide effective solutions with minimal disruption.
               </p>
             </div>
 
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-6">Contact ScotWater</h3>
 
-            <p className="text-gray-700 mb-6">
+            <p className="text-lg text-gray-700 mb-6">
               When water mains burst, you must act fast. For reliable, professional, and timely water main repair services across Scotland, trust ScotWater to deliver exceptional results.
             </p>
 
-            <p className="text-gray-700 mb-8">
+            <p className="text-lg text-gray-700 mb-8">
               ScotWater can carry out water main repairs across Scotland and provide you with a free quotation for the repair. To get a free quote for your water main repair, please call us on 0800 206 2778 or email hello@scotwater.co.uk to schedule a free consultation and learn how we can help with your water main needs.
             </p>
 
