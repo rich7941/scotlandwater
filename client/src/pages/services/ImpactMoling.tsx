@@ -124,26 +124,23 @@ export default function ImpactMoling() {
               </div>
             </div>
 
-            <div className="bg-[#5B2C6F] text-white p-8 rounded-lg mb-8">
-              <h3 className="text-2xl font-bold mb-4">Contact ScotWater for Impact Moling in Scotland</h3>
-              <p className="text-lg mb-4">
-                For reliable, professional, and timely impact moling services across Scotland, you can trust ScotWater to deliver.
-              </p>
-              <p className="mb-6">
-                ScotWater can carry out impact moling across Scotland and provide you with a free quotation for the moling work. To get a free quote for impact moling, please call us or email to schedule a free consultation and learn how we can help with your water main needs.
-              </p>
-            </div>
-
-            {/* Contact CTA */}
-            <div className="flex flex-wrap gap-4 justify-center mb-12">
-              <Button size="lg" className="bg-purple-600 hover:bg-purple-700 text-white">
-                <Phone className="mr-2 h-5 w-5 scale-x-[-1]" />
-                0800 206 2778
-              </Button>
-              <Button size="lg" variant="outline" className="border-purple-600 text-purple-600 hover:bg-purple-50">
-                <Mail className="mr-2 h-5 w-5" />
-                hello@scotwater.co.uk
-              </Button>
+            {/* Want to Talk Section */}
+            <div className="bg-[#5B2C6F] py-12 rounded-lg mb-8">
+              <div className="container px-8">
+                <div className="flex flex-col md:flex-row items-center justify-between gap-6">
+                  <div className="text-white">
+                    <h2 className="text-3xl font-bold mb-2">Want to talk to someone?</h2>
+                    <p className="text-xl">Call us 24/7, 365 days a year</p>
+                  </div>
+                  <a 
+                    href="tel:08002062778"
+                    className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
+                  >
+                    0800 206 2778
+                    <Phone className="w-6 h-6 scale-x-[-1]" />
+                  </a>
+                </div>
+              </div>
             </div>
           </div>
         </section>
