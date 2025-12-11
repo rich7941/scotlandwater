@@ -34,7 +34,7 @@ export default function Services() {
     },
     {
       image: "/service_leak_detection.jpeg",
-      title: "Water Leak Detection",
+      title: "Water Main Leak Detection",
       link: "/services/water-leak-detection"
     },
     {
