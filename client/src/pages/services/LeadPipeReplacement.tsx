@@ -37,7 +37,7 @@ export default function LeadPipeReplacement() {
           {/* Responsibilities Section */}
           <div className="bg-gray-50 p-8 rounded-lg mb-8">
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Responsibilities: Who Owns Which Pipe?</h3>
-            <ul className="space-y-3 text-gray-700">
+            <ul className="space-y-3 text-lg text-gray-700">
               <li><strong>Scottish Water:</strong> Responsible for the water main and the communication pipe (from the main to the external stop tap).</li>
               <li><strong>Homeowners/Landlords:</strong> Responsible for the supply pipe (from the stop tap into the home) and all internal plumbing.</li>
               <li>In shared supply arrangements (e.g. tenements), responsibility is joint between all connected property owners.</li>
@@ -74,7 +74,7 @@ export default function LeadPipeReplacement() {
               In Scotland, lead levels in drinking water are governed by the Water Supply (Water Quality) (Scotland) Regulations 2010, which set the current legal limit at <strong>10 micrograms per litre (10 µg/L)</strong>.
             </p>
             <p className="text-gray-700 mb-4">This reflects a significant improvement from earlier standards:</p>
-            <ul className="list-disc list-inside space-y-2 text-gray-700 mb-4">
+            <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-4">
               <li>50 µg/L in the late 1980s</li>
               <li>25 µg/L by 2003</li>
             </ul>
@@ -85,7 +85,7 @@ export default function LeadPipeReplacement() {
 
           {/* Testing and Taking Action */}
           <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Testing and Taking Action</h3>
-          <ul className="space-y-3 text-gray-700 mb-8">
+          <ul className="space-y-3 text-lg text-gray-700 mb-8">
             <li><strong>Water Testing:</strong> Free testing is available if lead pipes are suspected. A sample is taken from your cold kitchen tap.</li>
             <li><strong>Results:</strong> If lead exceeds 10 µg/l, or 5 µg/l from April 2025, Scottish Water may replace its section. You must replace your private section first.</li>
             <li><strong>Replacement:</strong> Use ScotWater to ensure compliance with Scottish plumbing byelaws.</li>
@@ -97,7 +97,7 @@ export default function LeadPipeReplacement() {
             <p className="text-gray-700 mb-4">
               From March 2024, all privately rented homes in Scotland must be free of lead in the drinking water supply. This includes:
             </p>
-            <ul className="list-disc list-inside space-y-2 text-gray-700 mb-4">
+            <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-4">
               <li>Supply pipes</li>
               <li>Internal plumbing</li>
               <li>Lead-lined storage tanks</li>
@@ -138,7 +138,7 @@ export default function LeadPipeReplacement() {
           <p className="text-gray-700 mb-4">
             While full pipe replacement is the only permanent solution, temporary steps can reduce exposure:
           </p>
-          <ul className="list-disc list-inside space-y-2 text-gray-700 mb-8">
+          <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-8">
             <li>Use only cold water for drinking or cooking.</li>
             <li>Run taps for several minutes before use.</li>
             <li>Clean faucet aerators regularly.</li>
@@ -156,7 +156,7 @@ export default function LeadPipeReplacement() {
           {/* After Replacement */}
           <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">After Lead Pipe Replacement</h3>
           <p className="text-gray-700 mb-4">Once your lead pipe replacement is complete:</p>
-          <ul className="list-disc list-inside space-y-2 text-gray-700 mb-8">
+          <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-8">
             <li>Flush your system by running all cold taps for 30 minutes.</li>
             <li>Remove and clean aerators.</li>
             <li>Avoid using kettles or ice makers during flushing.</li>
@@ -184,7 +184,7 @@ export default function LeadPipeReplacement() {
             <div className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
               <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">Step 1 – Contact ScotWater 0800 206 2778</h4>
               <p className="text-gray-700 mb-3">Discuss your property's lead pipe replacement with ScotWater. We may ask:</p>
-              <ul className="list-disc list-inside space-y-2 text-gray-700">
+              <ul className="list-disc list-inside space-y-2 text-lg text-gray-700">
                 <li>Is it a single or shared supply?</li>
                 <li>When was the property built?</li>
                 <li>We'll confirm if the pipe is lead and explain next steps.</li>
