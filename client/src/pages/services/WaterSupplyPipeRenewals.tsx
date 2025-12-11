@@ -45,185 +45,291 @@ export default function WaterSupplyPipeRenewals() {
             Replacing the water supply pipe could improve the poor flow. To discuss your current flow problems and get a free quote for replacement, please call us on <a href="tel:08002062778" className="text-[#5B2C6F] font-semibold hover:underline">0800 206 2778</a> or email us at <a href="mailto:hello@scotwater.co.uk" className="text-[#5B2C6F] font-semibold hover:underline">hello@scotwater.co.uk</a>.
           </p>
 
-          {/* Lead Pipes Section */}
-          <div className="bg-yellow-50 border-l-4 border-[#F4E04D] p-6 mb-8">
-            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Lead Water Supply Pipes</h3>
-            <p className="text-gray-700 mb-4">
-              If your house was built before 1970 and hasn't been modernised, there's a good chance your water supply pipe may be made of lead.
-            </p>
-            <p className="text-gray-700 mb-4">
-              For homes with lead water supply pipes, it's advisable to run the cold tap for a few moments before using the water to drink. This helps flush out any water that has settled in the water supply pipe, particularly if it has been standing for a long time, such as overnight or during a holiday, when the concentration of lead can increase. Flushing the water supply pipe reduces the lead concentration in the water you consume.
-            </p>
-            <p className="text-gray-700 font-semibold">
-              It is important not to drink water from the hot tap, as the concentration of lead tends to be higher. This is because hot water dissolves lead more effectively than cold water.
-            </p>
-          </div>
-
-          {/* Water Quality Regulations */}
-          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Water Quality and Safety Standards</h3>
+          {/* Lead Water Supply Pipes */}
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Lead Water Supply Pipes</h3>
           <p className="text-lg text-gray-700 mb-4">
-            Water companies conduct regular checks to ensure that the water supply complies with government regulations. According to The Water Supply (Water Quality) Regulations 2016, the maximum allowable concentration of lead per litre is 10 micrograms however lead is a common toxic metal with <strong>no safe level of consumption</strong>. It is a totally preventable poison.
+            If your house was built before 1970 and hasn't been modernised, there's a good chance your water supply pipe may be made of lead.
           </p>
-          <div className="bg-[#5B2C6F]/10 p-6 rounded-lg mb-8">
-            <p className="text-xl font-bold text-[#1e3a8a] mb-2">The safest water is lead-free water</p>
-            <p className="text-gray-700">
-              Replacing lead pipes is not just best practice—<strong>it is a legal requirement for rented properties in Scotland</strong>
+          <p className="text-lg text-gray-700 mb-4">
+            For homes with lead water supply pipes, it's advisable to run the cold tap for a few moments before using the water to drink. This helps flush out any water that has settled in the water supply pipe, particularly if it has been standing for a long time, such as overnight or during a holiday, when the concentration of lead can increase. Flushing the water supply pipe reduces the lead concentration in the water you consume.
+          </p>
+          <p className="text-lg text-gray-700 mb-4">
+            It is important not to drink water from the hot tap, as the concentration of lead tends to be higher. This is because hot water dissolves lead more effectively than cold water.
+          </p>
+          <p className="text-lg text-gray-700 mb-4">
+            Water companies conduct regular checks to ensure that the water supply complies with government regulations. According to The Water Supply (Water Quality) Regulations 2016, the maximum allowable concentration of lead per litre is 10 micrograms however lead is a common toxic metal with no safe level of consumption. It is a totally preventable poison.
+          </p>
+          <p className="text-lg text-gray-700 mb-8">
+            If you are concerned that the lead concentration in your water may exceed this limit, or if you simply wish to modernise your property, replacing your lead water supply pipe could be a wise decision.
+          </p>
+
+          {/* Lead Pipes for Rented Properties */}
+          <div className="bg-yellow-50 border-l-4 border-[#F4E04D] p-6 mb-8">
+            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Lead Pipes for Rented Properties</h3>
+            <p className="text-lg text-gray-700 mb-3">
+              Replacing lead pipes is not just best practice—it is a legal requirement for rented properties in Scotland
+            </p>
+            <p className="text-lg text-gray-700 mb-3">
+              The safest water is lead-free water
+            </p>
+            <p className="text-lg text-gray-700 mb-3">
+              Don't delay: act now to ensure compliance, protect health, and avoid enforcement action
+            </p>
+            <p className="text-lg text-gray-700">
+              For advice and support, visit Scottish Water or the Drinking Water Quality Regulator (DWQR).
             </p>
           </div>
 
-          {/* Steps to Replace */}
-          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">The Steps to Replace Your Water Supply Pipe</h3>
-          <div className="space-y-3 mb-8">
+          {/* Lead Pipes in Scotland */}
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Lead Pipes in Scotland: What Every Homeowner, Landlord, and Tenant Must Know</h3>
+          <p className="text-lg text-gray-700 mb-4">
+            Across Scotland, many homes built before 1970 still rely on outdated lead pipe for their water supply. These legacy pipes can pose a significant risk to health, especially for young children and pregnant women. While Scottish Water supplies clean, treated water that leaves their treatment works virtually lead-free, contamination can occur as water travels through private lead pipes underground or within your home.
+          </p>
+          <p className="text-lg text-gray-700 mb-8">
+            This comprehensive guide explains everything you need to know about lead pipes in Scotland: the risks, responsibilities, regulations, testing, short-term precautions, and the only long-term solution—full lead pipe replacement.
+          </p>
+
+          {/* Health Risks */}
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Health Risks of Lead in Drinking Water</h3>
+          <p className="text-lg text-gray-700 mb-3">
+            <strong>Children:</strong> Exposure to lead can result in developmental delays, learning difficulties, behavioural problems, and reduced IQ.
+          </p>
+          <p className="text-lg text-gray-700 mb-3">
+            <strong>Pregnant Women:</strong> Lead can cross the placenta and harm the developing baby, increasing the risk of low birth weight and miscarriage.
+          </p>
+          <p className="text-lg text-gray-700 mb-4">
+            <strong>Adults:</strong> Long-term exposure can contribute to kidney problems, high blood pressure, memory loss, and fertility issues.
+          </p>
+          <p className="text-lg text-gray-700 mb-8">
+            There is no safe level of lead exposure, and the effects are cumulative. The only way to eliminate the risk is to remove the lead at its source.
+          </p>
+
+          {/* How Lead Gets Into Your Water */}
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">How Lead Gets Into Your Water</h3>
+          <p className="text-lg text-gray-700 mb-4">
+            Lead is not present in water at the source or in public water mains. Contamination happens when treated water passes through private lead pipes and fittings. The longer the water is in contact with these materials—such as overnight or during the day while you're out—the more lead can dissolve into it.
+          </p>
+          <p className="text-lg text-gray-700 mb-4">
+            Lead can also enter drinking water through:
+          </p>
+          <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-8">
+            <li>Internal lead pipe</li>
+            <li>Lead-based solder on copper pipes (banned for drinking water since 1987, but may still exist)</li>
+            <li>Old brass fixtures and fittings</li>
+            <li>Lead-lined water storage tanks in lofts of older homes</li>
+          </ul>
+
+          {/* Regulations and Legal Limits */}
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Regulations and Legal Limits</h3>
+          <p className="text-lg text-gray-700 mb-4">
+            The current UK legal limit for lead in drinking water is 10 micrograms per litre (10 µg/L). However, from 1 April 2025, Scottish Water will begin replacing lead communication pipes (their responsibility) when levels exceed 5 µg/L. Internationally, the European Union has committed to reducing the maximum lead level to 5 µg/L by 2036, and pressure is mounting for the UK to follow suit.
+          </p>
+          <p className="text-lg text-gray-700 mb-4">
+            Scotland also enforces legal standards under:
+          </p>
+          <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-8">
+            <li>The Water Supply (Water Quality) (Scotland) Regulations 2010</li>
+            <li>The Housing (Scotland) Act 2006 and Repairing Standard (for landlords)</li>
+          </ul>
+
+          {/* Responsibilities */}
+          <div className="bg-gray-50 p-8 rounded-lg mb-8">
+            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Responsibilities for Lead Pipe Replacement</h3>
+            <p className="text-lg text-gray-700 mb-3">
+              <strong>Scottish Water:</strong> Owns and maintains the communication pipe (from the public water main to the external stop tap at your property boundary). Will replace this section for free if it is made of lead and you replace your private section
+            </p>
+            <p className="text-lg text-gray-700 mb-3">
+              <strong>Property Owners:</strong> Are responsible for the private supply pipe (from the boundary stop tap into the home) and all internal plumbing and must arrange and pay for replacement of any private lead pipes.
+            </p>
+            <p className="text-lg text-gray-700">
+              <strong>Landlords:</strong> Must ensure all privately rented homes are free from lead pipes by 1 March 2024 under the Repairing Standard
+            </p>
+          </div>
+
+          {/* How to Identify Lead Pipe */}
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">How to Identify Lead Pipe</h3>
+          <p className="text-lg text-gray-700 mb-4">
+            You may have lead pipes if:
+          </p>
+          <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-4">
+            <li>Your property was built before 1970</li>
+            <li>You live in a tenement, terrace, or rural property with shared supply lines</li>
+          </ul>
+          <p className="text-lg text-gray-700 mb-4">
+            <strong>Visual Inspection:</strong>
+          </p>
+          <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-4">
+            <li>Lead pipes are dull grey, soft, and easy to scratch</li>
+            <li>When scratched, they reveal a shiny silver colour</li>
+            <li>Tapping them with metal produces a dull thud, unlike the ring of copper or the click of plastic</li>
+          </ul>
+          <p className="text-lg text-gray-700 mb-8">
+            If you're unsure, speak to ScotWater.
+          </p>
+
+          {/* Free Lead Testing */}
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Free Lead Testing in Scotland</h3>
+          <p className="text-lg text-gray-700 mb-4">
+            If you suspect lead pipes or just want peace of mind:
+          </p>
+          <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-4">
+            <li>Contact Scottish Water for a free water quality test</li>
+            <li>Samples are taken from your kitchen tap (unflushed and flushed) and sometimes from your external stop tap</li>
+          </ul>
+          <p className="text-lg text-gray-700 mb-8">
+            If your test result exceeds the legal limit, Scottish Water will advise you on next steps and begin replacing their section once you have replaced yours.
+          </p>
+
+          {/* Short-Term Measures */}
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Short-Term Measures to Reduce Exposure</h3>
+          <p className="text-lg text-gray-700 mb-4">
+            While you arrange for full pipe replacement, these tips help reduce risk:
+          </p>
+          <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-8">
+            <li>Flush your taps: Run the cold kitchen tap for 2–3 minutes in the morning or after long periods of non-use</li>
+            <li>Use cold water only for drinking, cooking, and preparing baby formula—never hot water</li>
+            <li>Store water in the fridge after flushing for easy access</li>
+            <li>Clean tap aerators regularly, as they can trap lead particles</li>
+            <li>Don't disturb old pipes during DIY work</li>
+            <li>Use a certified lead filter if needed, and change cartridges regularly</li>
+          </ul>
+
+          {/* Full Lead Pipe Replacement */}
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Full Lead Pipe Replacement</h3>
+          <p className="text-lg text-gray-700 mb-4">
+            The only permanent solution is to replace all lead pipe from the boundary to your tap.
+          </p>
+          <p className="text-lg text-gray-700 mb-4">
+            <strong>Steps to Replace:</strong>
+          </p>
+          <div className="space-y-3 mb-6">
             <div className="flex items-start gap-3">
               <div className="w-8 h-8 rounded-full bg-[#5B2C6F] text-white flex items-center justify-center font-bold flex-shrink-0 mt-1">1</div>
-              <p className="text-gray-700">Hire ScotWater</p>
+              <p className="text-lg text-gray-700">Hire ScotWater</p>
             </div>
             <div className="flex items-start gap-3">
               <div className="w-8 h-8 rounded-full bg-[#5B2C6F] text-white flex items-center justify-center font-bold flex-shrink-0 mt-1">2</div>
-              <p className="text-gray-700">Replace your private supply pipe</p>
+              <p className="text-lg text-gray-700">Replace your private supply pipe</p>
             </div>
             <div className="flex items-start gap-3">
               <div className="w-8 h-8 rounded-full bg-[#5B2C6F] text-white flex items-center justify-center font-bold flex-shrink-0 mt-1">3</div>
-              <p className="text-gray-700">Notify Scottish Water, who will replace their communication pipe if it's made of lead</p>
+              <p className="text-lg text-gray-700">Notify Scottish Water, who will replace their communication pipe if it's made of lead</p>
             </div>
             <div className="flex items-start gap-3">
               <div className="w-8 h-8 rounded-full bg-[#5B2C6F] text-white flex items-center justify-center font-bold flex-shrink-0 mt-1">4</div>
-              <p className="text-gray-700">Flush your entire plumbing system after installation</p>
+              <p className="text-lg text-gray-700">Flush your entire plumbing system after installation</p>
             </div>
             <div className="flex items-start gap-3">
               <div className="w-8 h-8 rounded-full bg-[#5B2C6F] text-white flex items-center justify-center font-bold flex-shrink-0 mt-1">5</div>
-              <p className="text-gray-700">Keep documentation (certificate of compliance, plumber invoice, and test results)</p>
+              <p className="text-lg text-gray-700">Keep documentation (certificate of compliance, plumber invoice, and test results)</p>
             </div>
           </div>
 
           {/* Technical Requirements */}
           <div className="bg-gray-50 p-8 rounded-lg mb-8">
-            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Technical Requirements</h3>
-            <ul className="space-y-3 text-gray-700">
-              <li className="flex items-start gap-2">
-                <span className="text-[#5B2C6F] font-bold">•</span>
-                <span>Pipe must be buried 750mm–1350mm deep</span>
-              </li>
-              <li className="flex items-start gap-2">
-                <span className="text-[#5B2C6F] font-bold">•</span>
-                <span>Ducting and insulation required at entry point</span>
-              </li>
-              <li className="flex items-start gap-2">
-                <span className="text-[#5B2C6F] font-bold">•</span>
-                <span>Sand/gravel backfill for first 250mm</span>
-              </li>
-              <li className="flex items-start gap-2">
-                <span className="text-[#5B2C6F] font-bold">•</span>
-                <span>Trench left open at both ends for inspection</span>
-              </li>
+            <p className="text-lg text-gray-700 mb-4">
+              <strong>Technical Requirements:</strong>
+            </p>
+            <ul className="list-disc list-inside space-y-2 text-lg text-gray-700">
+              <li>Pipe must be buried 750mm–1350mm deep</li>
+              <li>Ducting and insulation required at entry point</li>
+              <li>Sand/gravel backfill for first 250mm</li>
+              <li>Trench left open at both ends for inspection</li>
             </ul>
           </div>
 
-          {/* Shared Supply */}
-          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Properties with Shared Water Supply</h3>
+          {/* Special Situations: Shared Supply Pipes */}
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Special Situations: Shared Supply Pipes</h3>
           <p className="text-lg text-gray-700 mb-4">
             Many older properties in Scotland share a water supply. In this case:
           </p>
-          <ul className="space-y-3 text-gray-700 mb-8">
-            <li className="flex items-start gap-2">
-              <span className="text-[#5B2C6F] font-bold">•</span>
-              <span>Coordination with neighbours is needed for full replacement</span>
-            </li>
-            <li className="flex items-start gap-2">
-              <span className="text-[#5B2C6F] font-bold">•</span>
-              <span>You can request a separate supply pipe if preferred</span>
-            </li>
-            <li className="flex items-start gap-2">
-              <span className="text-[#5B2C6F] font-bold">•</span>
-              <span>Local councils may offer grants or low-interest loans to help with costs</span>
-            </li>
+          <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-8">
+            <li>Coordination with neighbours is needed for full replacement</li>
+            <li>You can request a separate supply pipe if preferred</li>
+            <li>Local councils may offer grants or low-interest loans to help with costs</li>
           </ul>
 
-          {/* For Tenants */}
-          <div className="bg-yellow-50 border-l-4 border-[#F4E04D] p-6 mb-8">
-            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">If You're a Tenant</h3>
-            <p className="text-gray-700 mb-4">If you suspect lead pipes:</p>
-            <ul className="space-y-3 text-gray-700">
-              <li className="flex items-start gap-2">
-                <span className="text-[#5B2C6F] font-bold">•</span>
-                <span>Ask your landlord to arrange testing and replacement</span>
-              </li>
-              <li className="flex items-start gap-2">
-                <span className="text-[#5B2C6F] font-bold">•</span>
-                <span>You can request a water test from Scottish Water and share the results with your landlord</span>
-              </li>
-            </ul>
-          </div>
+          {/* What If You're Renting */}
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">What If You're Renting?</h3>
+          <p className="text-lg text-gray-700 mb-4">
+            If you're a tenant, and you suspect lead pipes:
+          </p>
+          <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-4">
+            <li>Ask your landlord to arrange testing and replacement</li>
+            <li>You can request a water test from Scottish Water and share the results with your landlord</li>
+          </ul>
+          <p className="text-lg text-gray-700 mb-8">
+            Landlords are legally required to replace lead pipes under the Repairing Standard. If they fail to comply, you may report the issue to the First-tier Tribunal for Scotland (Housing and Property Chamber).
+          </p>
 
-          {/* After Work is Complete */}
-          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Once Work is Complete</h3>
-          <ul className="space-y-3 text-gray-700 mb-8">
-            <li className="flex items-start gap-2">
-              <span className="text-[#5B2C6F] font-bold">•</span>
-              <span>Flush all cold water outlets for 30+ minutes</span>
-            </li>
-            <li className="flex items-start gap-2">
-              <span className="text-[#5B2C6F] font-bold">•</span>
-              <span>Remove and clean aerators</span>
-            </li>
-            <li className="flex items-start gap-2">
-              <span className="text-[#5B2C6F] font-bold">•</span>
-              <span>Avoid using kettles or filters during initial flush</span>
-            </li>
-            <li className="flex items-start gap-2">
-              <span className="text-[#5B2C6F] font-bold">•</span>
-              <span>Request a follow-up test to confirm the water is lead-free</span>
-            </li>
-            <li className="flex items-start gap-2">
-              <span className="text-[#5B2C6F] font-bold">•</span>
-              <span>Keep all paperwork for future inspections, lettings, or sales</span>
-            </li>
+          {/* After Replacement: Final Steps */}
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">After Replacement: Final Steps</h3>
+          <p className="text-lg text-gray-700 mb-4">
+            Once work is complete:
+          </p>
+          <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-8">
+            <li>Flush all cold water outlets for 30+ minutes</li>
+            <li>Remove and clean aerators</li>
+            <li>Avoid using kettles or filters during initial flush</li>
+            <li>Request a follow-up test to confirm the water is lead-free</li>
+            <li>Keep all paperwork for future inspections, lettings, or sales</li>
           </ul>
 
-          {/* Action Steps */}
-          <div className="bg-gray-50 p-8 rounded-lg mb-8">
-            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">If Your Property Was Built Before 1970</h3>
-            <p className="text-gray-700 mb-4">Take these steps:</p>
-            <ul className="space-y-3 text-gray-700">
-              <li className="flex items-start gap-2">
-                <span className="text-[#5B2C6F] font-bold">✓</span>
-                <span>Check for lead pipes</span>
-              </li>
-              <li className="flex items-start gap-2">
-                <span className="text-[#5B2C6F] font-bold">✓</span>
-                <span>Speak to ScotWater on 0800 206 2778</span>
-              </li>
-              <li className="flex items-start gap-2">
-                <span className="text-[#5B2C6F] font-bold">✓</span>
-                <span>Replace your private supply pipe</span>
-              </li>
-              <li className="flex items-start gap-2">
-                <span className="text-[#5B2C6F] font-bold">✓</span>
-                <span>Notify Scottish Water to replace their section</span>
-              </li>
-              <li className="flex items-start gap-2">
-                <span className="text-[#5B2C6F] font-bold">✓</span>
-                <span>Encourage neighbours to act if you share a supply</span>
-              </li>
+          {/* Take Action Today */}
+          <div className="bg-[#5B2C6F]/10 p-8 rounded-lg mb-8">
+            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Take Action Today</h3>
+            <p className="text-lg text-gray-700 mb-4">
+              If your property was built before 1970, take these steps:
+            </p>
+            <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-4">
+              <li>Check for lead pipes</li>
+              <li>Book a free water test from Scottish Water</li>
+              <li>Speak to an approved plumber</li>
+              <li>Replace your private supply pipe</li>
+              <li>Notify Scottish Water to replace their section</li>
+              <li>Encourage neighbours to act if you share a supply</li>
             </ul>
+            <p className="text-lg text-gray-700 font-semibold">
+              Safe water starts with lead-free pipes. Don't delay—act today.
+            </p>
           </div>
 
-          {/* Cost Savings */}
+          {/* Mitigation Measures */}
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Mitigation Measures While Awaiting for Lead Pipe Replacement</h3>
+          <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-4">
+            <li>Flushing taps regularly (3 to 5 minutes in the morning).</li>
+            <li>Use cold water only for drinking or cooking.</li>
+            <li>Collect flushed water for reuse (e.g., watering plants).</li>
+          </ul>
+          <p className="text-lg text-gray-700 mb-4">
+            <strong>Corrosion Control by Scottish Water:</strong> Scottish Water adds orthophosphate at treatment works to coat internal pipe surfaces and reduce lead leaching. This is effective but not permanent, and interruptions can cause spikes in lead levels.
+          </p>
+          <p className="text-lg text-gray-700 mb-4">
+            <strong>Long Supply Pipes Over 30 Metres:</strong> If the pipe is longer than 30 metres, flushing may be insufficient. Full replacement is strongly recommended.
+          </p>
+          <p className="text-lg text-gray-700 mb-8">
+            <strong>Lead Pipes and Lead in Your Water: What You Need to Know:</strong> Even though Scottish Water's treated water is lead-free, contamination can occur through old private pipe. Identifying and replacing lead pipes is crucial for long-term safety.
+          </p>
+
+          {/* Renovating your property */}
           <div className="bg-green-50 border-l-4 border-green-500 p-6 mb-8">
-            <h3 className="text-xl font-bold text-[#1e3a8a] mb-3">💡 Cost-Saving Tip</h3>
-            <p className="text-gray-700">
+            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Renovating your property?</h3>
+            <p className="text-lg text-gray-700 mb-4">
+              Renovating makes for a good opportunity for water supply pipe replacement. If you are renovating an area of your home, this is the ideal time to inspect any newly exposed plumbing for signs of wear or damage.
+            </p>
+            <p className="text-lg text-gray-700 mb-4">
               Replacing your old water supply pipe when areas are already exposed for other work can save you money in the long run, as it eliminates the need to re-expose the pipe for future repairs.
             </p>
-            <p className="text-gray-700 mt-3">
-              <strong>Note:</strong> Full replacement is recommended for pipes longer than 30 metres.
+            <p className="text-lg text-gray-700">
+              This is particularly crucial if you are redoing your driveway—replacing your water supply pipe at the same time will prevent the inconvenience of having to disrupt your new driveway later to access the pipework.
             </p>
           </div>
 
           {/* Contact CTA */}
-          <div className="bg-[#5B2C6F] text-white p-8 rounded-lg text-center">
+          <div className="bg-[#1B3A6B] text-white p-8 rounded-lg text-center">
             <h3 className="text-2xl font-bold mb-4">Get Your Free Quote Today</h3>
             <p className="text-lg mb-6">
-              ScotWater can carry out water supply pipe renewals across Scotland and provide you with a free quotation for the renewal.
+              ScotWater can carry out water supply pipe renewals across Scotland and provide you with a free quotation for the renewal. To get a free quote for your water supply pipe renewals, please call us on 0800 206 2778 or email hello@scotwater.co.uk to schedule a free consultation and learn how we can help with your water main needs.
             </p>
             <div className="flex flex-col md:flex-row gap-4 justify-center items-center">
               <a 
@@ -265,164 +371,6 @@ export default function WaterSupplyPipeRenewals() {
 
       {/* What to Expect Section */}
       <WhatToExpect />
-
-      {/* Customer Reviews Section */}
-      <section className="py-16 bg-white">
-        <div className="container">
-          <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-8">
-            Here's what our happy customers have to say
-          </h2>
-
-          {/* WaterTrust Rating Badge */}
-          <div className="flex justify-center mb-12">
-            <img 
-              src="/watertrust_rating.jpeg" 
-              alt="WaterTrust 5.0 rating - Named best overall company 2024" 
-              className="h-24 w-auto"
-            />
-          </div>
-
-          {/* Reviews Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            <div className="border-4 border-yellow-400 rounded-lg p-6 bg-white">
-              <p className="text-gray-700 mb-4 min-h-[120px]">
-                I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
-              </p>
-              <div className="border-t pt-4">
-                <p className="font-bold text-[#1e3a8a]">Paul Strachan</p>
-                <p className="text-gray-600 text-sm mb-2">Glasgow</p>
-                <div className="flex gap-1">
-                  <span className="text-yellow-400">★</span>
-                  <span className="text-yellow-400">★</span>
-                  <span className="text-yellow-400">★</span>
-                  <span className="text-yellow-400">★</span>
-                  <span className="text-yellow-400">★</span>
-                </div>
-              </div>
-            </div>
-            <div className="border-4 border-pink-400 rounded-lg p-6 bg-white">
-              <p className="text-gray-700 mb-4 min-h-[120px]">
-                Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
-              </p>
-              <div className="border-t pt-4">
-                <p className="font-bold text-[#1e3a8a]">Jonathan Godfrey</p>
-                <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
-                <div className="flex gap-1">
-                  <span className="text-yellow-400">★</span>
-                  <span className="text-yellow-400">★</span>
-                  <span className="text-yellow-400">★</span>
-                  <span className="text-yellow-400">★</span>
-                  <span className="text-yellow-400">★</span>
-                </div>
-              </div>
-            </div>
-            <div className="border-4 border-green-400 rounded-lg p-6 bg-white">
-              <p className="text-gray-700 mb-4 min-h-[120px]">
-                We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
-              </p>
-              <div className="border-t pt-4">
-                <p className="font-bold text-[#1e3a8a]">Gordan Christie</p>
-                <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
-                <div className="flex gap-1">
-                  <span className="text-yellow-400">★</span>
-                  <span className="text-yellow-400">★</span>
-                  <span className="text-yellow-400">★</span>
-                  <span className="text-yellow-400">★</span>
-                  <span className="text-yellow-400">★</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Services Section */}
-      <section className="py-16 bg-gray-50">
-        <div className="container">
-          <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-12">
-            You may be interested in
-          </h2>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            <a href="/services/lead-pipe-replacement" className="group block bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
-              <img 
-                src="/service-lead-pipe-replacement.webp" 
-                alt="Lead Pipe Replacement" 
-                className="w-full h-48 object-cover"
-              />
-              <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
-                  Lead Pipe Replacement
-                </h3>
-              </div>
-            </a>
-            
-            <a href="/services/water-leak-detection" className="group block bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
-              <img 
-                src="/service-water-main-leak-detection.webp" 
-                alt="Water Leak Detection" 
-                className="w-full h-48 object-cover"
-              />
-              <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
-                  Water Leak Detection
-                </h3>
-              </div>
-            </a>
-            
-            <a href="/services/impact-moling" className="group block bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
-              <img 
-                src="/service-impact-moling.webp" 
-                alt="Impact Moling" 
-                className="w-full h-48 object-cover"
-              />
-              <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
-                  Impact Moling
-                </h3>
-              </div>
-            </a>
-            
-            <a href="/services/water-main-repairs" className="group block bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
-              <img 
-                src="/service-water-main-repairs.webp" 
-                alt="Water Main Repairs" 
-                className="w-full h-48 object-cover"
-              />
-              <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
-                  Water Main Repairs
-                </h3>
-              </div>
-            </a>
-            
-            <a href="/help-advice/lead-pipe-replacement-scheme" className="group block bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
-              <img 
-                src="/service-lead-pipe-replacement-scheme.webp" 
-                alt="Lead Pipe Replacement Scheme" 
-                className="w-full h-48 object-cover"
-              />
-              <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
-                  Lead Pipe Replacement Scheme
-                </h3>
-              </div>
-            </a>
-            
-            <a href="/services/water-main-installations" className="group block bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
-              <img 
-                src="/service-water-main-installations.webp" 
-                alt="Water Main Installations" 
-                className="w-full h-48 object-cover"
-              />
-              <div className="p-6">
-                <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
-                  Water Main Installations
-                </h3>
-              </div>
-            </a>
-          </div>
-        </div>
-      </section>
     </div>
   );
 }
