@@ -166,7 +166,7 @@ export default function LeadPipeReplacement() {
           {/* Be Lead Aware and Take Action */}
           <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Be Lead Aware and Take Action</h3>
           <p className="text-lg text-gray-700 mb-4">
-            Lead in drinking water remains a hidden but serious concern for older Scottish homes. If your property was built before 1970, it may still contain lead pipe. Don't wait—book a water test, inspect your plumbing, and arrange for <a href="/services/lead-pipe-replacement" className="text-blue-600 hover:underline">full lead pipe replacement</a> if needed.
+            Lead in drinking water remains a hidden but serious concern for older Scottish homes. If your property was built before 1970, it may still contain lead pipe. Don't wait—book a water test, inspect your plumbing, and arrange for full lead pipe replacement if needed.
           </p>
           <p className="text-lg text-gray-700 mb-8">
             By acting now, you protect your health, comply with new legal standards, and contribute to a safer water supply for all of Scotland.
