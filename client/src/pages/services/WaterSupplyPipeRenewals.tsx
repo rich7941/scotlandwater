@@ -31,7 +31,7 @@ export default function WaterSupplyPipeRenewals() {
           <p className="text-lg text-gray-700 mb-4">
             The flow of water into your property is influenced by the condition of your private water supply pipe. If this pipe is in poor condition, it may restrict the water volume it carries, reducing the flow to your taps. Factors that can impact this include:
           </p>
-          <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-4">
+          <ul className="list-disc list-inside space-y-3 text-lg text-gray-700 mb-4 leading-relaxed">
             <li>The diameter of the water supply pipe</li>
             <li>Corrosion within the water supply pipe and on appliances, particularly in iron water supply pipe, which can significantly reduce the internal diameter due to extensive corrosion</li>
             <li>The demand for water in your home at certain times</li>
@@ -112,7 +112,7 @@ export default function WaterSupplyPipeRenewals() {
           <p className="text-lg text-gray-700 mb-4">
             Lead can also enter drinking water through:
           </p>
-          <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-8">
+          <ul className="list-disc list-inside space-y-3 text-lg text-gray-700 mb-8 leading-relaxed">
             <li>Internal lead pipe</li>
             <li>Lead-based solder on copper pipes (banned for drinking water since 1987, but may still exist)</li>
             <li>Old brass fixtures and fittings</li>
@@ -127,7 +127,7 @@ export default function WaterSupplyPipeRenewals() {
           <p className="text-lg text-gray-700 mb-4">
             Scotland also enforces legal standards under:
           </p>
-          <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-8">
+          <ul className="list-disc list-inside space-y-3 text-lg text-gray-700 mb-8 leading-relaxed">
             <li>The Water Supply (Water Quality) (Scotland) Regulations 2010</li>
             <li>The Housing (Scotland) Act 2006 and Repairing Standard (for landlords)</li>
           </ul>
@@ -151,14 +151,14 @@ export default function WaterSupplyPipeRenewals() {
           <p className="text-lg text-gray-700 mb-4">
             You may have lead pipes if:
           </p>
-          <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-4">
+          <ul className="list-disc list-inside space-y-3 text-lg text-gray-700 mb-4 leading-relaxed">
             <li>Your property was built before 1970</li>
             <li>You live in a tenement, terrace, or rural property with shared supply lines</li>
           </ul>
           <p className="text-lg text-gray-700 mb-4">
             <strong>Visual Inspection:</strong>
           </p>
-          <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-4">
+          <ul className="list-disc list-inside space-y-3 text-lg text-gray-700 mb-4 leading-relaxed">
             <li>Lead pipes are dull grey, soft, and easy to scratch</li>
             <li>When scratched, they reveal a shiny silver colour</li>
             <li>Tapping them with metal produces a dull thud, unlike the ring of copper or the click of plastic</li>
@@ -172,7 +172,7 @@ export default function WaterSupplyPipeRenewals() {
           <p className="text-lg text-gray-700 mb-4">
             If you suspect lead pipes or just want peace of mind:
           </p>
-          <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-4">
+          <ul className="list-disc list-inside space-y-3 text-lg text-gray-700 mb-4 leading-relaxed">
             <li>Contact Scottish Water for a free water quality test</li>
             <li>Samples are taken from your kitchen tap (unflushed and flushed) and sometimes from your external stop tap</li>
           </ul>
@@ -185,7 +185,7 @@ export default function WaterSupplyPipeRenewals() {
           <p className="text-lg text-gray-700 mb-4">
             While you arrange for full pipe replacement, these tips help reduce risk:
           </p>
-          <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-8">
+          <ul className="list-disc list-inside space-y-3 text-lg text-gray-700 mb-8 leading-relaxed">
             <li>Flush your taps: Run the cold kitchen tap for 2–3 minutes in the morning or after long periods of non-use</li>
             <li>Use cold water only for drinking, cooking, and preparing baby formula—never hot water</li>
             <li>Store water in the fridge after flushing for easy access</li>
@@ -243,7 +243,7 @@ export default function WaterSupplyPipeRenewals() {
           <p className="text-lg text-gray-700 mb-4">
             Many older properties in Scotland share a water supply. In this case:
           </p>
-          <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-8">
+          <ul className="list-disc list-inside space-y-3 text-lg text-gray-700 mb-8 leading-relaxed">
             <li>Coordination with neighbours is needed for full replacement</li>
             <li>You can request a separate supply pipe if preferred</li>
             <li>Local councils may offer grants or low-interest loans to help with costs</li>
@@ -254,7 +254,7 @@ export default function WaterSupplyPipeRenewals() {
           <p className="text-lg text-gray-700 mb-4">
             If you're a tenant, and you suspect lead pipes:
           </p>
-          <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-4">
+          <ul className="list-disc list-inside space-y-3 text-lg text-gray-700 mb-4 leading-relaxed">
             <li>Ask your landlord to arrange testing and replacement</li>
             <li>You can request a water test from Scottish Water and share the results with your landlord</li>
           </ul>
@@ -267,7 +267,7 @@ export default function WaterSupplyPipeRenewals() {
           <p className="text-lg text-gray-700 mb-4">
             Once work is complete:
           </p>
-          <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-8">
+          <ul className="list-disc list-inside space-y-3 text-lg text-gray-700 mb-8 leading-relaxed">
             <li>Flush all cold water outlets for 30+ minutes</li>
             <li>Remove and clean aerators</li>
             <li>Avoid using kettles or filters during initial flush</li>
@@ -281,7 +281,7 @@ export default function WaterSupplyPipeRenewals() {
             <p className="text-lg text-gray-700 mb-4">
               If your property was built before 1970, take these steps:
             </p>
-            <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-4">
+            <ul className="list-disc list-inside space-y-3 text-lg text-gray-700 mb-4 leading-relaxed">
               <li>Check for lead pipes</li>
               <li>Book a free water test from Scottish Water</li>
               <li>Speak to an approved plumber</li>
@@ -296,7 +296,7 @@ export default function WaterSupplyPipeRenewals() {
 
           {/* Mitigation Measures */}
           <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Mitigation Measures While Awaiting for Lead Pipe Replacement</h3>
-          <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-4">
+          <ul className="list-disc list-inside space-y-3 text-lg text-gray-700 mb-4 leading-relaxed">
             <li>Flushing taps regularly (3 to 5 minutes in the morning).</li>
             <li>Use cold water only for drinking or cooking.</li>
             <li>Collect flushed water for reuse (e.g., watering plants).</li>
