@@ -163,6 +163,21 @@ export default function LeadPipeReplacement() {
             <li>Notify Scottish Water for a follow-up inspection.</li>
           </ul>
 
+          {/* Be Lead Aware and Take Action */}
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Be Lead Aware and Take Action</h3>
+          <p className="text-lg text-gray-700 mb-4">
+            Lead in drinking water remains a hidden but serious concern for older Scottish homes. If your property was built before 1970, it may still contain lead pipe. Don't wait—book a water test, inspect your plumbing, and arrange for <a href="/services/lead-pipe-replacement" className="text-blue-600 hover:underline">full lead pipe replacement</a> if needed.
+          </p>
+          <p className="text-lg text-gray-700 mb-8">
+            By acting now, you protect your health, comply with new legal standards, and contribute to a safer water supply for all of Scotland.
+          </p>
+
+          {/* The Benefits of Lead Pipe Replacement */}
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">The Benefits of Lead Pipe Replacement</h3>
+          <p className="text-lg text-gray-700 mb-8">
+            Replacing lead water pipes in your home is essential for protecting your health, ensuring the purity of your drinking water, and preserving the value of your property. Lead is a hazardous substance that poses serious health risks, particularly to children and pregnant women, as it can lead to developmental issues and other medical conditions with prolonged exposure. By carrying out lead pipe replacement, you eliminate lead contamination in your water supply, creating a safer and healthier home for you and your family.
+          </p>
+
           {/* How to Start */}
           <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">How to Start the Lead Pipe Replacement Process</h3>
           <div className="space-y-6 mb-8">
