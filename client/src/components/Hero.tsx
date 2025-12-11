@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <section className="bg-gradient-to-r from-[#E8E0F5] to-[#D5C9E8]">
+    <section className="bg-white">
       <div className="container">
         <div className="grid lg:grid-cols-2 gap-8 items-center py-12 lg:py-20">
           {/* Left Content */}
