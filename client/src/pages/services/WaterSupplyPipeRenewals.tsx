@@ -67,10 +67,10 @@ export default function WaterSupplyPipeRenewals() {
           <div className="bg-yellow-50 border-l-4 border-[#F4E04D] p-6 mb-8">
             <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Lead Pipes for Rented Properties</h3>
             <p className="text-lg text-gray-700 mb-3">
-              Replacing lead pipes is not just best practice—it is a legal requirement for rented properties in Scotland
+              <strong>Replacing lead pipes is not just best practice—it is a legal requirement for rented properties in Scotland</strong>
             </p>
             <p className="text-lg text-gray-700 mb-3">
-              The safest water is lead-free water
+              <strong>The safest water is lead-free water</strong>
             </p>
             <p className="text-lg text-gray-700 mb-3">
               Don't delay: act now to ensure compliance, protect health, and avoid enforcement action
