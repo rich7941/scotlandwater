@@ -22,9 +22,25 @@ export default function WaterSupplyPipeRenewals() {
           <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
             Professional Water Supply Pipe Renewal Services in Scotland
           </h2>
-          <p className="text-lg text-gray-700 mb-6">
+          <p className="text-lg text-gray-700 mb-8">
             If you suspect that the water supply pipe on your property may need repairing or replacing, the ScotWater team is ready to help find the right solution for you. You may have noticed a leak, experienced low water flow or pressure, or you may be renovating and decide it's time to replace the old lead water supply pipe.
           </p>
+
+          {/* Low Water Flow or Pressure */}
+          <h3 className="text-2xl font-bold text-[#1e3a8a] mb-4">Low Water Flow or Pressure</h3>
+          <p className="text-lg text-gray-700 mb-4">
+            The flow of water into your property is influenced by the condition of your private water supply pipe. If this pipe is in poor condition, it may restrict the water volume it carries, reducing the flow to your taps. Factors that can impact this include:
+          </p>
+          <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-4">
+            <li>The diameter of the water supply pipe</li>
+            <li>Corrosion within the water supply pipe and on appliances, particularly in iron water supply pipe, which can significantly reduce the internal diameter due to extensive corrosion</li>
+            <li>The demand for water in your home at certain times</li>
+            <li>The length of the water supply pipe</li>
+            <li>Any leaks on your water supply pipe</li>
+            <li>The pressure in the water main</li>
+            <li>The number and type of fittings along the water supply pipe, such as ferrules, stop taps, meters, and bends</li>
+            <li>Any inconsistencies in the water supply pipe, such as a partly shut stop tap, grit obstructing a ferrule or meter, damage, or internal corrosion.</li>
+          </ul>
           <p className="text-lg text-gray-700 mb-8">
             Replacing the water supply pipe could improve the poor flow. To discuss your current flow problems and get a free quote for replacement, please call us on <a href="tel:08002062778" className="text-[#5B2C6F] font-semibold hover:underline">0800 206 2778</a> or email us at <a href="mailto:hello@scotwater.co.uk" className="text-[#5B2C6F] font-semibold hover:underline">hello@scotwater.co.uk</a>.
           </p>
