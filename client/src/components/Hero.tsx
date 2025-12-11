@@ -15,11 +15,13 @@ export default function Hero() {
 
           {/* Right Image */}
           <div className="flex justify-center lg:justify-end">
-            <img 
-              src="/hero-van.png" 
-              alt="ScotWater van" 
-              className="w-full max-w-2xl h-auto"
-            />
+            <div className="bg-white rounded-lg p-8 shadow-lg">
+              <img 
+                src="/hero-van.png" 
+                alt="ScotWater van" 
+                className="w-full max-w-2xl h-auto"
+              />
+            </div>
           </div>
         </div>
       </div>
