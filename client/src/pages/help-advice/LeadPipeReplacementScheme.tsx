@@ -100,8 +100,8 @@ export default function LeadPipeReplacementScheme() {
             </p>
 
             <div className="space-y-6">
-              <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="text-xl font-bold text-[#1e3a8a] mb-3">
+              <div className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
+                <h3 className="text-xl font-bold text-[#5B2C6F] mb-3">
                   1. Identify Lead Water Supply Pipes
                 </h3>
                 <ul className="space-y-2 text-gray-700">
@@ -116,8 +116,8 @@ export default function LeadPipeReplacementScheme() {
                 </ul>
               </div>
 
-              <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="text-xl font-bold text-[#1e3a8a] mb-3">
+              <div className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
+                <h3 className="text-xl font-bold text-[#5B2C6F] mb-3">
                   2. Consult Professionals
                 </h3>
                 <p className="text-gray-700">
@@ -125,8 +125,8 @@ export default function LeadPipeReplacementScheme() {
                 </p>
               </div>
 
-              <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="text-xl font-bold text-[#1e3a8a] mb-3">
+              <div className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
+                <h3 className="text-xl font-bold text-[#5B2C6F] mb-3">
                   3. Replace Your Lead Water Supply Pipe
                 </h3>
                 <p className="text-gray-700">
@@ -134,8 +134,8 @@ export default function LeadPipeReplacementScheme() {
                 </p>
               </div>
 
-              <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="text-xl font-bold text-[#1e3a8a] mb-3">
+              <div className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
+                <h3 className="text-xl font-bold text-[#5B2C6F] mb-3">
                   4. Replace Your Lead Communication Pipe
                 </h3>
                 <p className="text-gray-700">
@@ -157,7 +157,7 @@ export default function LeadPipeReplacementScheme() {
             </p>
 
             <div className="grid md:grid-cols-2 gap-6">
-              <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
+              <div className="bg-gray-50 p-6 rounded-lg">
                 <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">
                   Health Protection
                 </h3>
@@ -166,7 +166,7 @@ export default function LeadPipeReplacementScheme() {
                 </p>
               </div>
 
-              <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
+              <div className="bg-gray-50 p-6 rounded-lg">
                 <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">
                   Increased Property Value
                 </h3>
@@ -175,7 +175,7 @@ export default function LeadPipeReplacementScheme() {
                 </p>
               </div>
 
-              <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
+              <div className="bg-gray-50 p-6 rounded-lg">
                 <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">
                   Improved Water Pressure and Flow
                 </h3>
@@ -184,7 +184,7 @@ export default function LeadPipeReplacementScheme() {
                 </p>
               </div>
 
-              <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
+              <div className="bg-gray-50 p-6 rounded-lg">
                 <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">
                   Long-Term Savings
                 </h3>
@@ -229,7 +229,7 @@ export default function LeadPipeReplacementScheme() {
             </h2>
 
             <div className="space-y-4">
-              <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
+              <div className="bg-gray-50 p-6 rounded-lg">
                 <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">
                   Replace Lead Pipes
                 </h3>
@@ -238,7 +238,7 @@ export default function LeadPipeReplacementScheme() {
                 </p>
               </div>
 
-              <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
+              <div className="bg-gray-50 p-6 rounded-lg">
                 <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">
                   Inform Scottish Water
                 </h3>
@@ -247,7 +247,7 @@ export default function LeadPipeReplacementScheme() {
                 </p>
               </div>
 
-              <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
+              <div className="bg-gray-50 p-6 rounded-lg">
                 <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">
                   Seek Financial Assistance
                 </h3>
@@ -256,7 +256,7 @@ export default function LeadPipeReplacementScheme() {
                 </p>
               </div>
 
-              <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
+              <div className="bg-gray-50 p-6 rounded-lg">
                 <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">
                   Regular Testing
                 </h3>
@@ -326,28 +326,6 @@ export default function LeadPipeReplacementScheme() {
                   hello@scotwater.co.uk
                 </a>
               </div>
-            </div>
-          </div>
-        </section>
-
-        {/* Want to Talk Section */}
-        <section className="bg-[#5B2C6F] text-white py-12">
-          <div className="container">
-            <div className="flex flex-col md:flex-row items-center justify-between gap-6">
-              <div className="text-center md:text-left">
-                <h2 className="text-3xl font-bold mb-2">Want to talk to someone?</h2>
-                <p className="text-lg">Call us 24/7, 365 days a year</p>
-              </div>
-              <Button 
-                size="lg"
-                className="bg-[#F9E45C] text-[#1e3a8a] hover:bg-[#F9E45C]/90 text-xl font-bold px-8 py-6 h-auto"
-                asChild
-              >
-                <a href="tel:08002062778" className="flex items-center gap-3">
-                  0800 206 2778
-                  <Phone className="h-6 w-6 scale-x-[-1]" />
-                </a>
-              </Button>
             </div>
           </div>
         </section>
