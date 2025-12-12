@@ -3,8 +3,7 @@ import { Button } from "@/components/ui/button";
 
 export default function LeadPipeInScotland() {
   return (
-    <div className="min-h-screen flex flex-col">
-      <main className="flex-1">
+    <div className="min-h-screen">
         {/* Hero Section */}
         <section className="relative h-[500px] flex items-center justify-center">
           <div 
@@ -144,16 +143,16 @@ export default function LeadPipeInScotland() {
           <div className="container max-w-4xl">
             <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Who Is Most at Risk from Lead Pipe?</h2>
             <div className="space-y-4">
-              <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="font-bold text-blue-900 mb-2">Infants and children under 6</h3>
+              <div className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
+                <h3 className="font-bold text-[#5B2C6F] mb-2">Infants and children under 6</h3>
                 <p className="text-gray-700">Brain development issues, learning difficulties, lower IQ</p>
               </div>
-              <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="font-bold text-blue-900 mb-2">Pregnant women and unborn babies</h3>
+              <div className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
+                <h3 className="font-bold text-[#5B2C6F] mb-2">Pregnant women and unborn babies</h3>
                 <p className="text-gray-700">Premature birth, low birth weight, developmental impairment</p>
               </div>
-              <div className="bg-white p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="font-bold text-blue-900 mb-2">Adults (long-term exposure)</h3>
+              <div className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
+                <h3 className="font-bold text-[#5B2C6F] mb-2">Adults (long-term exposure)</h3>
                 <p className="text-gray-700">Kidney issues, high blood pressure, cognitive decline, reproductive harm</p>
               </div>
             </div>
@@ -444,8 +443,6 @@ export default function LeadPipeInScotland() {
             </div>
           </div>
         </section>
-
-      </main>
     </div>
   );
 }
