@@ -165,26 +165,30 @@ export default function WaterMainRepairs() {
               </p>
             </div>
 
-            <h3 className="text-2xl font-bold text-[#1e3a8a] mb-6">Contact ScotWater</h3>
-
-            <p className="text-lg text-gray-700 mb-6">
-              When water mains burst, you must act fast. For reliable, professional, and timely water main repair services across Scotland, trust ScotWater to deliver exceptional results.
-            </p>
-
-            <p className="text-lg text-gray-700 mb-8">
-              ScotWater can carry out water main repairs across Scotland and provide you with a free quotation for the repair. To get a free quote for your water main repair, please call us on 0800 206 2778 or email hello@scotwater.co.uk to schedule a free consultation and learn how we can help with your water main needs.
-            </p>
-
-            {/* CTA Buttons */}
-            <div className="flex flex-wrap gap-4 mb-12">
-              <Button size="lg" className="bg-[#7c3aed] hover:bg-[#6d28d9]">
-                <Phone className="mr-2 h-5 w-5 scale-x-[-1]" />
-                0800 206 2778
-              </Button>
-              <Button size="lg" variant="outline" className="border-[#7c3aed] text-[#7c3aed] hover:bg-[#7c3aed] hover:text-white">
-                <Mail className="mr-2 h-5 w-5" />
-                hello@scotwater.co.uk
-              </Button>
+            {/* Contact CTA */}
+            <div className="bg-[#1B3A6B] text-white p-8 rounded-lg text-center mb-12">
+              <h3 className="text-2xl font-bold mb-4">Contact ScotWater</h3>
+              <p className="text-lg mb-6">
+                When water mains burst, you must act fast. For reliable, professional, and timely water main repair services across Scotland, trust ScotWater to deliver exceptional results.
+              </p>
+              <p className="mb-6">
+                ScotWater can carry out water main repairs across Scotland and provide you with a free quotation for the repair. To get a free quote for your water main repair, please call us on 0800 206 2778 or email hello@scotwater.co.uk to schedule a free consultation and learn how we can help with your water main needs.
+              </p>
+              <div className="flex flex-col md:flex-row gap-4 justify-center items-center">
+                <a 
+                  href="tel:08002062778"
+                  className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
+                >
+                  0800 206 2778
+                  <Phone className="w-6 h-6 scale-x-[-1]" />
+                </a>
+                <a 
+                  href="mailto:hello@scotwater.co.uk"
+                  className="bg-white hover:bg-gray-100 text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl transition-colors"
+                >
+                  hello@scotwater.co.uk
+                </a>
+              </div>
             </div>
           </div>
         </section>
