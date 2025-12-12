@@ -114,7 +114,7 @@ export default function WaterLeaks() {
               </div>
             </div>
 
-            <p className="text-lg text-gray-700 mb-4">
+            <p className="text-lg text-gray-700 mt-8">
               While these checks can help you identify leaks inside your home, it's equally important to monitor for leaks outside, such as in outdoor taps or irrigation systems. Keeping an eye on these areas can help maintain the efficiency and safety of your home's plumbing system, protecting your property and conserving water.
             </p>
           </div>
