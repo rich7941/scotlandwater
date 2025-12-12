@@ -5,7 +5,7 @@ import { getRelatedLinksForHelpAdvice } from "@/data/relatedLinks";
 
 export default function ImpactMolingPrices() {
   return (
-    <div className="min-h-screen flex flex-col">
+    <div className="min-h-screen">
       
       
       {/* Hero Section */}
@@ -22,12 +22,11 @@ export default function ImpactMolingPrices() {
         </div>
       </section>
 
-      {/* Main Content */}
-      <main className="flex-1">
+
         {/* How Much Does Impact Moling Cost */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">
               How Much Does Impact Moling Cost Per Metre in Scotland?
             </h2>
             <div className="prose prose-lg max-w-none">
@@ -44,30 +43,30 @@ export default function ImpactMolingPrices() {
         {/* Factors Affecting Cost */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">
               Factors Affecting the Cost of Impact Moling
             </h2>
             <div className="space-y-4">
-              <div className="bg-white p-6 border-l-4 border-purple-600">
-                <h3 className="font-semibold text-blue-900 mb-2">Ground Conditions</h3>
+              <div className="bg-white p-6 border-2 border-[#5B2C6F] rounded-lg">
+                <h3 className="font-semibold text-[#5B2C6F] mb-2">Ground Conditions</h3>
                 <p className="text-gray-700">
                   Harder ground, such as clay or rocky soil, may require more time and specialised equipment, increasing costs.
                 </p>
               </div>
-              <div className="bg-white p-6 border-l-4 border-purple-600">
-                <h3 className="font-semibold text-blue-900 mb-2">Pipe Diameter</h3>
+              <div className="bg-white p-6 border-2 border-[#5B2C6F] rounded-lg">
+                <h3 className="font-semibold text-[#5B2C6F] mb-2">Pipe Diameter</h3>
                 <p className="text-gray-700">
                   Larger pipes may involve more labour and materials, raising the price.
                 </p>
               </div>
-              <div className="bg-white p-6 border-l-4 border-purple-600">
-                <h3 className="font-semibold text-blue-900 mb-2">Length of the Project</h3>
+              <div className="bg-white p-6 border-2 border-[#5B2C6F] rounded-lg">
+                <h3 className="font-semibold text-[#5B2C6F] mb-2">Length of the Project</h3>
                 <p className="text-gray-700">
                   Longer installations may benefit from economies of scale, reducing the per-metre cost.
                 </p>
               </div>
-              <div className="bg-white p-6 border-l-4 border-purple-600">
-                <h3 className="font-semibold text-blue-900 mb-2">Additional Services</h3>
+              <div className="bg-white p-6 border-2 border-[#5B2C6F] rounded-lg">
+                <h3 className="font-semibold text-[#5B2C6F] mb-2">Additional Services</h3>
                 <p className="text-gray-700">
                   Pre-installation surveys, reinstatement of surfaces, or additional fittings may add to the overall cost.
                 </p>
@@ -79,27 +78,27 @@ export default function ImpactMolingPrices() {
         {/* Impact Moling: A Cutting-Edge Solution */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">
               Impact Moling: A Cutting-Edge Solution
             </h2>
             <p className="text-gray-700 leading-relaxed mb-6">
               We proudly employ impact moling as a revolutionary method for water supply pipe installations. This advanced technique uses a pneumatic cylinder to create a straight-line path from one pit to another, providing several key benefits:
             </p>
             <div className="space-y-4">
-              <div className="p-6 bg-gray-50 border-l-4 border-purple-600">
-                <h3 className="font-semibold text-blue-900 mb-2">Minimal Disruption</h3>
+              <div className="p-6 bg-white border-2 border-[#5B2C6F] rounded-lg">
+                <h3 className="font-semibold text-[#5B2C6F] mb-2">Minimal Disruption</h3>
                 <p className="text-gray-700">
                   Fewer excavations are required, reducing the impact on your property, including concrete, tarmac, or flagged driveways.
                 </p>
               </div>
-              <div className="p-6 bg-gray-50 border-l-4 border-purple-600">
-                <h3 className="font-semibold text-blue-900 mb-2">Faster Completion</h3>
+              <div className="p-6 bg-white border-2 border-[#5B2C6F] rounded-lg">
+                <h3 className="font-semibold text-[#5B2C6F] mb-2">Faster Completion</h3>
                 <p className="text-gray-700">
                   Impact moling enables quicker project completion compared to traditional trenching methods, ensuring less disruption to your home or business.
                 </p>
               </div>
-              <div className="p-6 bg-gray-50 border-l-4 border-purple-600">
-                <h3 className="font-semibold text-blue-900 mb-2">Cost-Efficiency</h3>
+              <div className="p-6 bg-white border-2 border-[#5B2C6F] rounded-lg">
+                <h3 className="font-semibold text-[#5B2C6F] mb-2">Cost-Efficiency</h3>
                 <p className="text-gray-700">
                   When ground conditions are favourable, moling significantly reduces the cost of installing new water pipes compared to traditional trench excavation, while still maintaining quality and efficiency.
                 </p>
@@ -111,7 +110,7 @@ export default function ImpactMolingPrices() {
         {/* How Does Impact Moling Work */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">How Does Impact Moling Work?</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">How Does Impact Moling Work?</h2>
             <p className="text-gray-700 leading-relaxed mb-4">
               Moling is a highly effective trenchless method for installing water supply and gas pipes. Our experienced engineers use advanced pneumatic impact moles (often called moles), powered by compressed air. These devices are launched from small excavation points, displacing soil and creating smooth boreholes in the desired direction, even in challenging ground conditions.
             </p>
@@ -124,39 +123,39 @@ export default function ImpactMolingPrices() {
         {/* Reasons to Replace */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">
               Reasons to Replace a Water Supply Pipe
             </h2>
             <p className="text-gray-700 leading-relaxed mb-6">
               For homeowners in Scotland, there are several key reasons to consider replacing a main water pipe:
             </p>
             <div className="space-y-4">
-              <div className="bg-gray-50 p-6 border-l-4 border-purple-600">
-                <h3 className="font-semibold text-blue-900 mb-2">Lead or Iron Pipes</h3>
+              <div className="bg-white p-6 border-2 border-[#5B2C6F] rounded-lg">
+                <h3 className="font-semibold text-[#5B2C6F] mb-2">Lead or Iron Pipes</h3>
                 <p className="text-gray-700">
                   Older homes may still have lead or iron pipes, which can pose health risks or cause corrosion, affecting water quality and reliability.
                 </p>
               </div>
-              <div className="bg-gray-50 p-6 border-l-4 border-purple-600">
-                <h3 className="font-semibold text-blue-900 mb-2">Water Leaks</h3>
+              <div className="bg-white p-6 border-2 border-[#5B2C6F] rounded-lg">
+                <h3 className="font-semibold text-[#5B2C6F] mb-2">Water Leaks</h3>
                 <p className="text-gray-700">
                   Leaks in the water supply pipe can lead to water wastage, property damage such as subsidence, and increased water bills, making replacement a necessary solution.
                 </p>
               </div>
-              <div className="bg-gray-50 p-6 border-l-4 border-purple-600">
-                <h3 className="font-semibold text-blue-900 mb-2">Insufficient Water Pressure</h3>
+              <div className="bg-white p-6 border-2 border-[#5B2C6F] rounded-lg">
+                <h3 className="font-semibold text-[#5B2C6F] mb-2">Insufficient Water Pressure</h3>
                 <p className="text-gray-700">
                   Poor water pressure can disrupt daily activities and is often caused by ageing or damaged pipework, requiring an upgrade to ensure consistent flow.
                 </p>
               </div>
-              <div className="bg-gray-50 p-6 border-l-4 border-purple-600">
-                <h3 className="font-semibold text-blue-900 mb-2">Poor Water Quality</h3>
+              <div className="bg-white p-6 border-2 border-[#5B2C6F] rounded-lg">
+                <h3 className="font-semibold text-[#5B2C6F] mb-2">Poor Water Quality</h3>
                 <p className="text-gray-700">
                   Pipes in poor condition can introduce impurities into your water supply, affecting both taste and safety.
                 </p>
               </div>
-              <div className="bg-gray-50 p-6 border-l-4 border-purple-600">
-                <h3 className="font-semibold text-blue-900 mb-2">Home Renovations</h3>
+              <div className="bg-white p-6 border-2 border-[#5B2C6F] rounded-lg">
+                <h3 className="font-semibold text-[#5B2C6F] mb-2">Home Renovations</h3>
                 <p className="text-gray-700">
                   Projects that require relocating or upgrading the size of the water supply pipe for increased water flow provide an ideal opportunity to replace old pipes and future-proof your property.
                 </p>
@@ -168,7 +167,7 @@ export default function ImpactMolingPrices() {
         {/* Why Replace Lead Pipes */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">
               Why Do Lead Water Supply Pipes Need to Be Replaced?
             </h2>
             <p className="text-gray-700 leading-relaxed mb-4">
@@ -195,33 +194,33 @@ export default function ImpactMolingPrices() {
         {/* Benefits of Replacing */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">
               Benefits of Replacing Your Lead Water Supply Pipe
             </h2>
             <p className="text-gray-700 leading-relaxed mb-6">
               Upgrading your water supply pipe offers several advantages:
             </p>
             <div className="grid md:grid-cols-2 gap-6">
-              <div className="p-6 bg-gray-50 border-l-4 border-purple-600">
-                <h3 className="font-semibold text-blue-900 mb-2">Improved Energy Efficiency</h3>
+              <div className="p-6 bg-white border-2 border-[#5B2C6F] rounded-lg">
+                <h3 className="font-semibold text-[#5B2C6F] mb-2">Improved Energy Efficiency</h3>
                 <p className="text-gray-700">
                   Enhanced water delivery to appliances reduces energy waste.
                 </p>
               </div>
-              <div className="p-6 bg-gray-50 border-l-4 border-purple-600">
-                <h3 className="font-semibold text-blue-900 mb-2">Increased Water Flow Rates</h3>
+              <div className="p-6 bg-white border-2 border-[#5B2C6F] rounded-lg">
+                <h3 className="font-semibold text-[#5B2C6F] mb-2">Increased Water Flow Rates</h3>
                 <p className="text-gray-700">
                   Flexible, modern pipes provide better flow.
                 </p>
               </div>
-              <div className="p-6 bg-gray-50 border-l-4 border-purple-600">
-                <h3 className="font-semibold text-blue-900 mb-2">Better Water Quality</h3>
+              <div className="p-6 bg-white border-2 border-[#5B2C6F] rounded-lg">
+                <h3 className="font-semibold text-[#5B2C6F] mb-2">Better Water Quality</h3>
                 <p className="text-gray-700">
                   Plastic pipes are non-contaminating, delivering cleaner water.
                 </p>
               </div>
-              <div className="p-6 bg-gray-50 border-l-4 border-purple-600">
-                <h3 className="font-semibold text-blue-900 mb-2">Environmentally Friendly</h3>
+              <div className="p-6 bg-white border-2 border-[#5B2C6F] rounded-lg">
+                <h3 className="font-semibold text-[#5B2C6F] mb-2">Environmentally Friendly</h3>
                 <p className="text-gray-700">
                   With safer tap water, you can reduce reliance on bottled water, cutting plastic waste.
                 </p>
@@ -243,7 +242,7 @@ export default function ImpactMolingPrices() {
               </div>
               <Button 
                 size="lg"
-                className="bg-[#F9E45C] text-[#1e3a8a] hover:bg-[#F9E45C]/90 text-xl font-bold px-8 py-6 h-auto"
+                className="bg-[#F9E45C] text-[#5B2C6F] hover:bg-[#F9E45C]/90 text-xl font-bold px-8 py-6 h-auto"
                 asChild
               >
                 <a href="tel:08002062778" className="flex items-center gap-3">
@@ -258,7 +257,7 @@ export default function ImpactMolingPrices() {
         {/* What to Expect Section */}
         <section className="py-16 bg-gray-100">
           <div className="container">
-            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#5B2C6F] mb-4">
               What to expect from ScotWater – Your trusted water services expert
             </h2>
             <p className="text-center text-gray-600 mb-12 text-lg">
@@ -316,7 +315,7 @@ export default function ImpactMolingPrices() {
         {/* Customer Reviews Section */}
         <section className="py-16 bg-white">
           <div className="container">
-            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-8">
+            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#5B2C6F] mb-8">
               Here's what our happy customers have to say
             </h2>
 
@@ -336,7 +335,7 @@ export default function ImpactMolingPrices() {
                   I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
                 </p>
                 <div className="border-t pt-4">
-                  <p className="font-bold text-[#1e3a8a]">Paul Strachan</p>
+                  <p className="font-bold text-[#5B2C6F]">Paul Strachan</p>
                   <p className="text-gray-600 text-sm mb-2">Glasgow</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
@@ -352,7 +351,7 @@ export default function ImpactMolingPrices() {
                   Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
                 </p>
                 <div className="border-t pt-4">
-                  <p className="font-bold text-[#1e3a8a]">Jonathan Godfrey</p>
+                  <p className="font-bold text-[#5B2C6F]">Jonathan Godfrey</p>
                   <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
@@ -368,7 +367,7 @@ export default function ImpactMolingPrices() {
                   We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
                 </p>
                 <div className="border-t pt-4">
-                  <p className="font-bold text-[#1e3a8a]">Gordan Christie</p>
+                  <p className="font-bold text-[#5B2C6F]">Gordan Christie</p>
                   <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
@@ -386,7 +385,7 @@ export default function ImpactMolingPrices() {
         {/* You may be interested in Section */}
         <section className="py-16 bg-gray-50">
           <div className="container">
-            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-12">
+            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#5B2C6F] mb-12">
               You may be interested in
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -397,7 +396,7 @@ export default function ImpactMolingPrices() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
+                  <h3 className="text-xl font-bold text-[#5B2C6F] group-hover:text-purple-600 transition-colors">
                     Impact Moling
                   </h3>
                 </div>
@@ -410,7 +409,7 @@ export default function ImpactMolingPrices() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
+                  <h3 className="text-xl font-bold text-[#5B2C6F] group-hover:text-purple-600 transition-colors">
                     Lead Pipe Replacement
                   </h3>
                 </div>
@@ -423,7 +422,7 @@ export default function ImpactMolingPrices() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
+                  <h3 className="text-xl font-bold text-[#5B2C6F] group-hover:text-purple-600 transition-colors">
                     Water Supply Pipe Installations
                   </h3>
                 </div>
@@ -436,7 +435,7 @@ export default function ImpactMolingPrices() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
+                  <h3 className="text-xl font-bold text-[#5B2C6F] group-hover:text-purple-600 transition-colors">
                     Water Main Installations
                   </h3>
                 </div>
@@ -449,7 +448,7 @@ export default function ImpactMolingPrices() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
+                  <h3 className="text-xl font-bold text-[#5B2C6F] group-hover:text-purple-600 transition-colors">
                     Lead Pipe Replacement Scheme
                   </h3>
                 </div>
@@ -462,7 +461,7 @@ export default function ImpactMolingPrices() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
+                  <h3 className="text-xl font-bold text-[#5B2C6F] group-hover:text-purple-600 transition-colors">
                     Water Leaks
                   </h3>
                 </div>
@@ -470,9 +469,7 @@ export default function ImpactMolingPrices() {
             </div>
           </div>
         </section>
-      </main>
 
-      
     </div>
   );
 }
