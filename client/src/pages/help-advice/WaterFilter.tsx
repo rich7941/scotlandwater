@@ -7,18 +7,16 @@ export default function WaterFilter() {
       
       
       {/* Hero Section */}
-      <section className="relative h-[500px] flex items-center justify-center">
-        <div 
-          className="absolute inset-0 bg-cover bg-center"
-          style={{ backgroundImage: "url('/water-filter-hero.webp')" }}
-        >
-          <div className="absolute inset-0 bg-black/40"></div>
-        </div>
+      <div 
+        className="relative h-[500px] bg-cover bg-center flex items-center justify-center"
+        style={{ backgroundImage: "url('/water-filter-hero.webp')" }}
+      >
+        <div className="absolute inset-0 bg-black/40"></div>
         <div className="container relative z-10">
           <p className="text-white text-lg mb-4">Help & Advice</p>
           <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">Water Filter</h1>
         </div>
-      </section>
+      </div>
 
 
         {/* Water Filters to Remove Lead */}
@@ -26,10 +24,10 @@ export default function WaterFilter() {
           <div className="container max-w-4xl">
             <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">Water Filters to Remove Lead</h2>
             <div className="prose prose-lg max-w-none">
-              <p className="text-gray-700 leading-relaxed mb-4">
+              <p className="text-lg text-gray-700 leading-relaxed mb-4">
                 Lead has continued to be used in domestic plumbing in the UK until it was finally banned in new installations in 1969. This means that any property built or renovated before 1970 may still contain lead pipes unless they have been replaced.
               </p>
-              <p className="text-gray-700 leading-relaxed">
+              <p className="text-lg text-gray-700 leading-relaxed">
                 If flushing isn't practical or you're waiting for replacement works to begin, point-of-use water filters can be used as a temporary mitigation measure. These water filters are designed to remove both dissolved lead (in solution) and particulate lead (tiny flakes of metal) from drinking water.
               </p>
             </div>
@@ -40,7 +38,7 @@ export default function WaterFilter() {
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
             <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">Water Filters</h2>
-            <p className="text-gray-700 leading-relaxed">
+            <p className="text-lg text-gray-700 leading-relaxed">
               If you rely on tap water as your main source of hydration, it may be worth considering a kitchen water filter. These water filters help remove harmful substances like chlorine, lead, and pesticides—though their effectiveness depends on the specific type of water filter used. In addition to improving safety, water filters can also enhance the taste and, in some cases, the appearance of your drinking water.
             </p>
           </div>
@@ -50,7 +48,7 @@ export default function WaterFilter() {
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
             <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">Can Water Filters Remove Lead?</h2>
-            <p className="text-gray-700 leading-relaxed">
+            <p className="text-lg text-gray-700 leading-relaxed">
               Water filters are not a dependable solution for lead contamination caused by lead pipes. Even when water filters are certified, they may only reduce part of the lead content—not eliminate it entirely. Since there is no safe level of lead in drinking water, even small traces can be harmful, especially for young children and pregnant women. The only guaranteed way to remove lead from your water supply is to replace the lead pipes completely.
             </p>
           </div>
@@ -60,25 +58,25 @@ export default function WaterFilter() {
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
             <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">What to Look for in a Lead Water Filter</h2>
-            <p className="text-gray-700 leading-relaxed mb-6">
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
               When selecting a water filter, choose one that meets the following criteria:
             </p>
             <div className="space-y-4">
               <div className="bg-white p-6 border-2 border-[#5B2C6F] rounded-lg">
-                <h3 className="font-semibold text-[#5B2C6F] mb-2">Independent testing certification</h3>
-                <p className="text-gray-700">
+                <h3 className="text-2xl font-bold text-[#5B2C6F] mb-4">Independent testing certification</h3>
+                <p className="text-lg text-gray-700">
                   In the UK, this is typically approved by the Water Regulations Advisory Scheme (WRAS) or similar recognised bodies.
                 </p>
               </div>
               <div className="bg-white p-6 border-2 border-[#5B2C6F] rounded-lg">
-                <h3 className="font-semibold text-[#5B2C6F] mb-2">Multi-stage filtration</h3>
-                <p className="text-gray-700">
+                <h3 className="text-2xl font-bold text-[#5B2C6F] mb-4">Multi-stage filtration</h3>
+                <p className="text-lg text-gray-700">
                   The water filter should explicitly state that it removes both dissolved and particulate lead.
                 </p>
               </div>
               <div className="bg-white p-6 border-2 border-[#5B2C6F] rounded-lg">
-                <h3 className="font-semibold text-[#5B2C6F] mb-2">Cold-water use only</h3>
-                <p className="text-gray-700">
+                <h3 className="text-2xl font-bold text-[#5B2C6F] mb-4">Cold-water use only</h3>
+                <p className="text-lg text-gray-700">
                   Water filters must be used with cold water only, as hot water can cause more lead to dissolve and may damage the water filter unit.
                 </p>
               </div>
@@ -92,20 +90,20 @@ export default function WaterFilter() {
             <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">Common Water Filter Types for Lead Removal</h2>
             <div className="space-y-4">
               <div className="p-6 bg-white border-2 border-[#5B2C6F] rounded-lg">
-                <h3 className="font-semibold text-[#5B2C6F] mb-2">Under-sink water filters</h3>
-                <p className="text-gray-700">
+                <h3 className="text-2xl font-bold text-[#5B2C6F] mb-4">Under-sink water filters</h3>
+                <p className="text-lg text-gray-700">
                   Installed beneath the kitchen sink and connected directly to the cold tap.
                 </p>
               </div>
               <div className="p-6 bg-white border-2 border-[#5B2C6F] rounded-lg">
-                <h3 className="font-semibold text-[#5B2C6F] mb-2">Tap-mounted water filters</h3>
-                <p className="text-gray-700">
+                <h3 className="text-2xl font-bold text-[#5B2C6F] mb-4">Tap-mounted water filters</h3>
+                <p className="text-lg text-gray-700">
                   Easy to install directly on the end of the kitchen tap.
                 </p>
               </div>
               <div className="p-6 bg-white border-2 border-[#5B2C6F] rounded-lg">
-                <h3 className="font-semibold text-[#5B2C6F] mb-2">Jug water filters</h3>
-                <p className="text-gray-700">
+                <h3 className="text-2xl font-bold text-[#5B2C6F] mb-4">Jug water filters</h3>
+                <p className="text-lg text-gray-700">
                   Convenient and portable, but not all are rated for lead removal—choose carefully based on certified performance claims.
                 </p>
               </div>
@@ -117,12 +115,12 @@ export default function WaterFilter() {
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
             <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">Maintenance and Usage</h2>
-            <p className="text-gray-700 leading-relaxed mb-6">
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
               Always follow the manufacturer's instructions for installation and cartridge replacement. Regular maintenance is essential to ensure the water filter remains effective at reducing lead levels.
             </p>
             <div className="bg-white border-2 border-[#5B2C6F] rounded-lg p-6">
-              <p className="font-semibold text-[#5B2C6F] mb-2">Note:</p>
-              <p className="text-gray-700">
+              <h3 className="text-2xl font-bold text-[#5B2C6F] mb-4">Note:</h3>
+              <p className="text-lg text-gray-700">
                 Water filters are not a substitute for full pipe replacement. They are a temporary solution to reduce exposure while long-term remedial works are arranged.
               </p>
             </div>
