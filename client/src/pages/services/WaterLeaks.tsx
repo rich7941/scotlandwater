@@ -130,34 +130,34 @@ export default function WaterLeaks() {
             </p>
 
             <div className="grid md:grid-cols-2 gap-4">
-              <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
+              <div className="bg-white p-4 rounded-lg border-l-4 border-[#5B2C6F]">
                 <p className="text-lg text-gray-700">Unexpected Increase in Water Usage or Bill</p>
               </div>
-              <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
+              <div className="bg-white p-4 rounded-lg border-l-4 border-[#5B2C6F]">
                 <p className="text-lg text-gray-700">Damp Spots on Walls, Floors, or Ceilings</p>
               </div>
-              <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
+              <div className="bg-white p-4 rounded-lg border-l-4 border-[#5B2C6F]">
                 <p className="text-lg text-gray-700">Mould or Mildew Growth</p>
               </div>
-              <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
+              <div className="bg-white p-4 rounded-lg border-l-4 border-[#5B2C6F]">
                 <p className="text-lg text-gray-700">Water Stains or Discolouration</p>
               </div>
-              <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
+              <div className="bg-white p-4 rounded-lg border-l-4 border-[#5B2C6F]">
                 <p className="text-lg text-gray-700">Reduced Water Pressure</p>
               </div>
-              <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
+              <div className="bg-white p-4 rounded-lg border-l-4 border-[#5B2C6F]">
                 <p className="text-lg text-gray-700">Constant Sound of Running Water</p>
               </div>
-              <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
+              <div className="bg-white p-4 rounded-lg border-l-4 border-[#5B2C6F]">
                 <p className="text-lg text-gray-700">Musty or Unpleasant Odours</p>
               </div>
-              <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
+              <div className="bg-white p-4 rounded-lg border-l-4 border-[#5B2C6F]">
                 <p className="text-lg text-gray-700">Puddles or Pooling Water</p>
               </div>
-              <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
+              <div className="bg-white p-4 rounded-lg border-l-4 border-[#5B2C6F]">
                 <p className="text-lg text-gray-700">Cracks in Walls or Foundations</p>
               </div>
-              <div className="bg-white p-4 rounded-lg border-l-4 border-purple-600">
+              <div className="bg-white p-4 rounded-lg border-l-4 border-[#5B2C6F]">
                 <p className="text-lg text-gray-700">High Humidity Levels</p>
               </div>
             </div>
