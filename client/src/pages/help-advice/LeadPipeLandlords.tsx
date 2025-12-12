@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 
 export default function LeadPipeLandlords() {
   return (
-    <div className="min-h-screen flex flex-col">
+    <div className="min-h-screen">
       
       
       {/* Hero Section */}
@@ -20,8 +20,6 @@ export default function LeadPipeLandlords() {
         </div>
       </section>
 
-      {/* Main Content */}
-      <main className="flex-1">
         {/* Introduction */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
@@ -43,22 +41,22 @@ export default function LeadPipeLandlords() {
               The Repairing Standard forms part of the Housing (Scotland) Act 2006 and sets out the minimum physical standards for rented accommodation. From March 2024, it specifically requires that:
             </p>
             <div className="space-y-4">
-              <div className="bg-white p-6 border-l-4 border-purple-600">
+              <div className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
                 <p className="text-gray-700">
                   • There is no lead present in the pipe delivering drinking water to any part of the property, including kitchens and bathrooms.
                 </p>
               </div>
-              <div className="bg-white p-6 border-l-4 border-purple-600">
+              <div className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
                 <p className="text-gray-700">
                   • Landlords must proactively replace any lead pipe within their ownership and control—this includes both the underground supply pipe and any internal pipes, joints, or fittings made of lead.
                 </p>
               </div>
-              <div className="bg-white p-6 border-l-4 border-purple-600">
+              <div className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
                 <p className="text-gray-700">
                   • Evidence of compliance may be requested by local authorities, letting agents, or tenants.
                 </p>
               </div>
-              <div className="bg-white p-6 border-l-4 border-purple-600">
+              <div className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
                 <p className="text-gray-700">
                   • Failure to meet these standards could lead to enforcement action, including a Repairing Standard Enforcement Order issued by the First-tier Tribunal for Scotland (Housing and Property Chamber).
                 </p>
@@ -82,7 +80,7 @@ export default function LeadPipeLandlords() {
                   1
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold text-[#1e3a8a] mb-2">Replace All Lead Pipe</h3>
+                  <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">Replace All Lead Pipe</h3>
                   <p className="text-gray-700">
                     You must arrange for the full removal and replacement of lead pipe, from the external stop valve (if within your responsibility) right through to the internal plumbing leading to taps.
                   </p>
@@ -94,7 +92,7 @@ export default function LeadPipeLandlords() {
                   2
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold text-[#1e3a8a] mb-2">Notify Scottish Water</h3>
+                  <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">Notify Scottish Water</h3>
                   <p className="text-gray-700">
                     Inform Scottish Water of your intention to replace the private-side supply pipe. Once your section is upgraded, Scottish Water is legally required to assess and, if necessary, replace the public-side lead pipe, known as the communication pipe.
                   </p>
@@ -106,7 +104,7 @@ export default function LeadPipeLandlords() {
                   3
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold text-[#1e3a8a] mb-2">Provide Proof of Compliance</h3>
+                  <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">Provide Proof of Compliance</h3>
                   <p className="text-gray-700">
                     Upon completion, ensure you receive a certificate of compliance from the contractor. Keep this on file as part of your property compliance documentation. You may be asked to present this certificate during tenancy inspections or tribunal proceedings.
                   </p>
@@ -118,7 +116,7 @@ export default function LeadPipeLandlords() {
                   4
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold text-[#1e3a8a] mb-2">Conduct a Water Test (Optional but Recommended)</h3>
+                  <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">Conduct a Water Test (Optional but Recommended)</h3>
                   <p className="text-gray-700">
                     After the replacement, consider testing the water supply to confirm that lead levels are within safe regulatory limits. This offers peace of mind for both you and your tenants.
                   </p>
@@ -136,22 +134,22 @@ export default function LeadPipeLandlords() {
               Lead pipe replacement can be disruptive, especially when internal works are required. Best practice for landlords includes:
             </p>
             <div className="space-y-4">
-              <div className="bg-white p-6 border-l-4 border-purple-600">
+              <div className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
                 <p className="text-gray-700">
                   • Giving tenants reasonable notice of the works (at least 24 hours for access and ideally 48–72 hours).
                 </p>
               </div>
-              <div className="bg-white p-6 border-l-4 border-purple-600">
+              <div className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
                 <p className="text-gray-700">
                   • Explaining the purpose of the works and how they support health and safety.
                 </p>
               </div>
-              <div className="bg-white p-6 border-l-4 border-purple-600">
+              <div className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
                 <p className="text-gray-700">
                   • Ensuring any interruption to water supply is kept to a minimum.
                 </p>
               </div>
-              <div className="bg-white p-6 border-l-4 border-purple-600">
+              <div className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
                 <p className="text-gray-700">
                   • Providing bottled water or temporary arrangements during the works, particularly if tenants include young children or vulnerable individuals.
                 </p>
@@ -178,16 +176,16 @@ export default function LeadPipeLandlords() {
           <div className="container max-w-4xl">
             <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Summary for Landlords</h2>
             <div className="grid md:grid-cols-3 gap-6">
-              <div className="bg-white p-6 border-l-4 border-purple-600">
-                <h3 className="font-bold text-[#1e3a8a] mb-2">No lead in supply pipe (from March 2024)</h3>
+              <div className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
+                <h3 className="font-bold text-[#5B2C6F] mb-2">No lead in supply pipe (from March 2024)</h3>
                 <p className="text-gray-700 text-sm">Arrange inspection and replacement of any lead pipe</p>
               </div>
-              <div className="bg-white p-6 border-l-4 border-purple-600">
-                <h3 className="font-bold text-[#1e3a8a] mb-2">Comply with Repairing Standard</h3>
+              <div className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
+                <h3 className="font-bold text-[#5B2C6F] mb-2">Comply with Repairing Standard</h3>
                 <p className="text-gray-700 text-sm">Maintain written evidence of compliance (e.g. certification)</p>
               </div>
-              <div className="bg-white p-6 border-l-4 border-purple-600">
-                <h3 className="font-bold text-[#1e3a8a] mb-2">Notify Scottish Water</h3>
+              <div className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
+                <h3 className="font-bold text-[#5B2C6F] mb-2">Notify Scottish Water</h3>
                 <p className="text-gray-700 text-sm">Ensure communication pipe is checked and replaced if needed</p>
               </div>
             </div>
@@ -434,9 +432,6 @@ export default function LeadPipeLandlords() {
             </div>
           </div>
         </section>
-      </main>
-
-      
     </div>
   );
 }
