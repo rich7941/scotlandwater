@@ -54,11 +54,8 @@ export default function LeadPipeReplacementScheme() {
   ];
 
   return (
-    <div className="min-h-screen flex flex-col">
-      
-      
-      <main className="flex-1">
-        {/* Hero Section */}
+    <div className="min-h-screen">
+      {/* Hero Section */}
         <section className="relative h-[500px] flex items-center justify-center">
           <div 
             className="absolute inset-0 bg-cover bg-center"
@@ -513,9 +510,6 @@ export default function LeadPipeReplacementScheme() {
             </div>
           </div>
         </section>
-      </main>
-
-      
     </div>
   );
 }

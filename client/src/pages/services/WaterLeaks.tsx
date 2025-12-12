@@ -22,13 +22,12 @@ export default function WaterLeaks() {
       </section>
 
       {/* Main Content */}
-      <main className="flex-1">
-        {/* Water Leaks at Home */}
-        <section className="py-16 bg-white">
+      {/* Water Leaks at Home */}
+      <section className="py-16 bg-white">
           <div className="container max-w-4xl">
             <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Water Leaks at Home</h2>
             
-            <p className="text-gray-700 text-lg mb-6">
+            <p className="text-lg text-gray-700 mb-6">
               Water leaks might not always be immediately noticeable, but early detection is key to preventing serious issues. At ScotWater, we encourage our customers in Scotland to stay vigilant by routinely checking their water bills, monitoring water pressure, and recognising the common signs of leaks. Taking proactive measures to identify and address signs of internal water leakage can safeguard your home, reduce costly repairs, and help conserve water. Regular maintenance, thorough inspections, and leveraging advanced detection technologies are essential strategies to avert significant water damage and preserve the integrity of your home's plumbing infrastructure.
             </p>
             
@@ -471,7 +470,6 @@ export default function WaterLeaks() {
             </div>
           </div>
         </section>
-      </main>
     </div>
   );
 }
