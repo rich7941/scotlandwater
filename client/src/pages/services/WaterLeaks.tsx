@@ -4,7 +4,7 @@ import { Link } from "wouter";
 
 export default function WaterLeaks() {
   return (
-    <div className="min-h-screen flex flex-col">
+    <div className="min-h-screen">
       {/* Hero Section */}
       <section className="relative h-[500px] flex items-center justify-center">
         <div
