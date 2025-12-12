@@ -233,39 +233,33 @@ export default function WaterLeaks() {
         </section>
 
         {/* Need Help Section */}
-        <section className="py-16 bg-[#1e3a5f] text-white">
-          <div className="container max-w-4xl text-center">
-            <h2 className="text-3xl font-bold mb-6">
-              Need Help with Water Leak Detection and Repairs? Contact ScotWater Today
-            </h2>
-            <p className="text-lg leading-relaxed mb-8">
-              We are trusted experts in Scotland for all water leak detection and water supply pipe repair services. Our skilled team, backed by years of experience, employs advanced technology to pinpoint even the most concealed water leaks in your property. For underground pipe issues, our team has the expertise and specialised equipment to locate and repair leaks effectively.
-            </p>
-            <p className="text-lg leading-relaxed mb-8">
-              ScotWater can carry out water leak detection and repairs across Scotland. To get a free quote please call us or email to schedule a free consultation and learn how we can help with your water supply needs.
-            </p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Button
-                size="lg"
-                className="bg-white text-purple-600 hover:bg-gray-100"
-                asChild
-              >
-                <a href="tel:08002062778">
-                  <Phone className="mr-2 h-5 w-5 scale-x-[-1]" />
+        <section className="py-16">
+          <div className="container max-w-4xl">
+            <div className="bg-[#1B3A6B] text-white p-8 rounded-lg text-center">
+              <h2 className="text-3xl font-bold mb-6">
+                Need Help with Water Leak Detection and Repairs? Contact ScotWater Today
+              </h2>
+              <p className="text-lg leading-relaxed mb-6">
+                We are trusted experts in Scotland for all water leak detection and water supply pipe repair services. Our skilled team, backed by years of experience, employs advanced technology to pinpoint even the most concealed water leaks in your property. For underground pipe issues, our team has the expertise and specialised equipment to locate and repair leaks effectively.
+              </p>
+              <p className="mb-6">
+                ScotWater can carry out water leak detection and repairs across Scotland. To get a free quote please call us on 0800 206 2778 or email hello@scotwater.co.uk to schedule a free consultation and learn how we can help with your water supply needs.
+              </p>
+              <div className="flex flex-col md:flex-row gap-4 justify-center items-center">
+                <a 
+                  href="tel:08002062778"
+                  className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
+                >
                   0800 206 2778
+                  <Phone className="w-6 h-6 scale-x-[-1]" />
                 </a>
-              </Button>
-              <Button
-                size="lg"
-                variant="outline"
-                className="border-white text-white hover:bg-white/10"
-                asChild
-              >
-                <a href="mailto:hello@scotwater.co.uk">
-                  <Mail className="mr-2 h-5 w-5" />
+                <a 
+                  href="mailto:hello@scotwater.co.uk"
+                  className="bg-white hover:bg-gray-100 text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl transition-colors"
+                >
                   hello@scotwater.co.uk
                 </a>
-              </Button>
+              </div>
             </div>
           </div>
         </section>
