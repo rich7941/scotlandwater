@@ -213,16 +213,9 @@ export default function WaterLeaks() {
                   description: "If you confirm a leak in your underground water supply pipe, ScotWater is here to help."
                 }
               ].map((step) => (
-                <div key={step.number} className="flex gap-4">
-                  <div className="flex-shrink-0">
-                    <div className="w-12 h-12 rounded-full bg-purple-600 text-white flex items-center justify-center font-bold text-xl">
-                      {step.number}
-                    </div>
-                  </div>
-                  <div className="flex-1">
-                    <h3 className="font-bold text-lg text-[#1e3a8a] mb-2">{step.title}</h3>
-                    <p className="text-gray-700 leading-relaxed">{step.description}</p>
-                  </div>
+                <div key={step.number} className="bg-white border-2 border-[#5B2C6F] p-6 rounded-lg">
+                  <h4 className="text-xl font-bold text-[#5B2C6F] mb-2">{step.number}. {step.title}</h4>
+                  <p className="text-gray-700">{step.description}</p>
                 </div>
               ))}
             </div>
