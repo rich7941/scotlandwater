@@ -237,7 +237,7 @@ export default function WaterLeaks() {
               <h2 className="text-3xl font-bold mb-6">
                 Need Help with Water Leak Detection and Repairs? Contact ScotWater Today
               </h2>
-              <p className="text-lg leading-relaxed mb-6">
+              <p className="text-lg mb-6">
                 We are trusted experts in Scotland for all water leak detection and water supply pipe repair services. Our skilled team, backed by years of experience, employs advanced technology to pinpoint even the most concealed water leaks in your property. For underground pipe issues, our team has the expertise and specialised equipment to locate and repair leaks effectively.
               </p>
               <p className="mb-6">
