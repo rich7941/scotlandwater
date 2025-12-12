@@ -218,32 +218,30 @@ export default function WaterLeakDetection() {
         {/* Contact CTA Section */}
         <section className="py-16">
           <div className="container max-w-4xl">
-            <div className="bg-[#1e3a5f] text-white p-8 rounded-lg">
+            <div className="bg-[#1B3A6B] text-white p-8 rounded-lg text-center">
               <h2 className="text-2xl font-bold mb-4">
                 Contact ScotWater for Water Leak Detection and Repairs in Scotland
               </h2>
-              <p className="mb-6">
+              <p className="text-lg mb-6">
                 For reliable, professional, and timely water leak detection and water main repair services across Scotland, you can trust ScotWater to deliver.
               </p>
               <p className="mb-6">
-                ScotWater can carry out water leak detection across Scotland and provide you with a free quotation for the leak detection. To get a free quote for water leak detection, please call us or email us to schedule a free consultation and learn how we can help with your water leak detection needs.
+                ScotWater can carry out water leak detection across Scotland and provide you with a free quotation for the leak detection. To get a free quote for water leak detection, please call us on 0800 206 2778 or email hello@scotwater.co.uk to schedule a free consultation and learn how we can help with your water leak detection needs.
               </p>
-              <div className="flex flex-wrap gap-4">
-                <Button 
-                  onClick={handleCallClick}
-                  className="bg-white text-[#1e3a8a] hover:bg-gray-100"
+              <div className="flex flex-col md:flex-row gap-4 justify-center items-center">
+                <a 
+                  href="tel:08002062778"
+                  className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
                 >
-                  <Phone className="mr-2 h-4 w-4 scale-x-[-1]" />
                   0800 206 2778
-                </Button>
-                <Button 
-                  onClick={handleEmailClick}
-                  variant="outline"
-                  className="border-white text-white hover:bg-white/10"
+                  <Phone className="w-6 h-6 scale-x-[-1]" />
+                </a>
+                <a 
+                  href="mailto:hello@scotwater.co.uk"
+                  className="bg-white hover:bg-gray-100 text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl transition-colors"
                 >
-                  <Mail className="mr-2 h-4 w-4" />
                   hello@scotwater.co.uk
-                </Button>
+                </a>
               </div>
             </div>
           </div>
