@@ -161,7 +161,7 @@ export default function LeadPipeReplacementScheme() {
 
             <div className="grid md:grid-cols-2 gap-6">
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="text-lg font-bold text-[#1e3a8a] mb-2">
+                <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">
                   Health Protection
                 </h3>
                 <p className="text-gray-700">
@@ -170,7 +170,7 @@ export default function LeadPipeReplacementScheme() {
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="text-lg font-bold text-[#1e3a8a] mb-2">
+                <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">
                   Increased Property Value
                 </h3>
                 <p className="text-gray-700">
@@ -179,7 +179,7 @@ export default function LeadPipeReplacementScheme() {
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="text-lg font-bold text-[#1e3a8a] mb-2">
+                <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">
                   Improved Water Pressure and Flow
                 </h3>
                 <p className="text-gray-700">
@@ -188,7 +188,7 @@ export default function LeadPipeReplacementScheme() {
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="text-lg font-bold text-[#1e3a8a] mb-2">
+                <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">
                   Long-Term Savings
                 </h3>
                 <p className="text-gray-700">
@@ -233,7 +233,7 @@ export default function LeadPipeReplacementScheme() {
 
             <div className="space-y-4">
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="text-lg font-bold text-[#1e3a8a] mb-2">
+                <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">
                   Replace Lead Pipes
                 </h3>
                 <p className="text-gray-700">
@@ -242,7 +242,7 @@ export default function LeadPipeReplacementScheme() {
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="text-lg font-bold text-[#1e3a8a] mb-2">
+                <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">
                   Inform Scottish Water
                 </h3>
                 <p className="text-gray-700">
@@ -251,7 +251,7 @@ export default function LeadPipeReplacementScheme() {
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="text-lg font-bold text-[#1e3a8a] mb-2">
+                <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">
                   Seek Financial Assistance
                 </h3>
                 <p className="text-gray-700">
@@ -260,7 +260,7 @@ export default function LeadPipeReplacementScheme() {
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-l-4 border-purple-600">
-                <h3 className="text-lg font-bold text-[#1e3a8a] mb-2">
+                <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">
                   Regular Testing
                 </h3>
                 <p className="text-gray-700">
@@ -304,22 +304,30 @@ export default function LeadPipeReplacementScheme() {
         {/* Contact CTA */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <div className="bg-[#1e3a5f] text-white p-8 rounded-lg text-center">
+            <div className="bg-[#1B3A6B] text-white p-8 rounded-lg text-center">
               <h2 className="text-2xl font-bold mb-4">
                 Contact ScotWater for Lead Pipe Replacement in Scotland
               </h2>
-              <p className="mb-6 text-gray-200">
-                If you suspect your property has lead pipes or need assistance with the Lead Pipe Replacement Scheme, contact ScotWater today for expert advice and professional service.
+              <p className="text-lg mb-6">
+                At ScotWater, we're dedicated to helping homeowners and businesses across Scotland eliminate the risks associated with lead pipes. Our professional lead pipe replacement services ensure your water supply is safe, reliable, and compliant with modern safety standards.
               </p>
-              <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                <Button className="bg-white text-[#1e3a8a] hover:bg-gray-100">
-                  <Phone className="mr-2 h-4 w-4 scale-x-[-1]" />
+              <p className="mb-6">
+                If your property was built before 1970 or you suspect your water pipes may be made of lead, contact us today for a free, no-obligation lead pipe replacement quotation.
+              </p>
+              <div className="flex flex-col md:flex-row gap-4 justify-center items-center">
+                <a 
+                  href="tel:08002062778"
+                  className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
+                >
                   0800 206 2778
-                </Button>
-                <Button variant="outline" className="border-white text-white hover:bg-white/10">
-                  <Mail className="mr-2 h-4 w-4" />
+                  <Phone className="w-6 h-6 scale-x-[-1]" />
+                </a>
+                <a 
+                  href="mailto:hello@scotwater.co.uk"
+                  className="bg-white hover:bg-gray-100 text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl transition-colors"
+                >
                   hello@scotwater.co.uk
-                </Button>
+                </a>
               </div>
             </div>
           </div>
