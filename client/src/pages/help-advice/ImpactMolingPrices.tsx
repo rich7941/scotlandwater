@@ -9,18 +9,16 @@ export default function ImpactMolingPrices() {
       
       
       {/* Hero Section */}
-      <section className="relative h-[500px] flex items-center justify-center">
-        <div 
-          className="absolute inset-0 bg-cover bg-center"
-          style={{ backgroundImage: "url('/impact-moling-prices-hero.webp')" }}
-        >
-          <div className="absolute inset-0 bg-black/40"></div>
-        </div>
-        <div className="relative z-10 container text-center text-white">
+      <div 
+        className="relative h-[500px] bg-cover bg-center flex items-center justify-center"
+        style={{ backgroundImage: "url('/impact-moling-prices-hero.webp')" }}
+      >
+        <div className="absolute inset-0 bg-black/40"></div>
+        <div className="container relative z-10">
           <p className="text-white text-lg mb-4">Help & Advice</p>
-          <h1 className="text-5xl font-bold">Moling Prices in Scotland 2025</h1>
+          <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">Moling Prices in Scotland 2025</h1>
         </div>
-      </section>
+      </div>
 
 
         {/* How Much Does Impact Moling Cost */}
@@ -30,10 +28,10 @@ export default function ImpactMolingPrices() {
               How Much Does Impact Moling Cost Per Metre in Scotland?
             </h2>
             <div className="prose prose-lg max-w-none">
-              <p className="text-gray-700 leading-relaxed mb-4">
+              <p className="text-lg text-gray-700 leading-relaxed mb-4">
                 The cost of moling per metre can vary depending on several factors, including the location, ground conditions, pipe diameter, and the overall length of the project but prices can be higher or lower depending on the complexity of the work and local market rates.
               </p>
-              <p className="text-gray-700 leading-relaxed">
+              <p className="text-lg text-gray-700 leading-relaxed">
                 When planning to replace your water supply pipe, it's essential to understand your responsibilities as a homeowner. Typically, you are responsible for the pipework running from your internal stop tap to your property boundary.
               </p>
             </div>
@@ -48,25 +46,25 @@ export default function ImpactMolingPrices() {
             </h2>
             <div className="space-y-4">
               <div className="bg-white p-6 border-2 border-[#5B2C6F] rounded-lg">
-                <h3 className="font-semibold text-[#5B2C6F] mb-2">Ground Conditions</h3>
+                <h3 className="text-2xl font-bold text-[#5B2C6F] mb-4">Ground Conditions</h3>
                 <p className="text-gray-700">
                   Harder ground, such as clay or rocky soil, may require more time and specialised equipment, increasing costs.
                 </p>
               </div>
               <div className="bg-white p-6 border-2 border-[#5B2C6F] rounded-lg">
-                <h3 className="font-semibold text-[#5B2C6F] mb-2">Pipe Diameter</h3>
+                <h3 className="text-2xl font-bold text-[#5B2C6F] mb-4">Pipe Diameter</h3>
                 <p className="text-gray-700">
                   Larger pipes may involve more labour and materials, raising the price.
                 </p>
               </div>
               <div className="bg-white p-6 border-2 border-[#5B2C6F] rounded-lg">
-                <h3 className="font-semibold text-[#5B2C6F] mb-2">Length of the Project</h3>
+                <h3 className="text-2xl font-bold text-[#5B2C6F] mb-4">Length of the Project</h3>
                 <p className="text-gray-700">
                   Longer installations may benefit from economies of scale, reducing the per-metre cost.
                 </p>
               </div>
               <div className="bg-white p-6 border-2 border-[#5B2C6F] rounded-lg">
-                <h3 className="font-semibold text-[#5B2C6F] mb-2">Additional Services</h3>
+                <h3 className="text-2xl font-bold text-[#5B2C6F] mb-4">Additional Services</h3>
                 <p className="text-gray-700">
                   Pre-installation surveys, reinstatement of surfaces, or additional fittings may add to the overall cost.
                 </p>
@@ -81,24 +79,24 @@ export default function ImpactMolingPrices() {
             <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">
               Impact Moling: A Cutting-Edge Solution
             </h2>
-            <p className="text-gray-700 leading-relaxed mb-6">
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
               We proudly employ impact moling as a revolutionary method for water supply pipe installations. This advanced technique uses a pneumatic cylinder to create a straight-line path from one pit to another, providing several key benefits:
             </p>
             <div className="space-y-4">
               <div className="p-6 bg-white border-2 border-[#5B2C6F] rounded-lg">
-                <h3 className="font-semibold text-[#5B2C6F] mb-2">Minimal Disruption</h3>
+                <h3 className="text-2xl font-bold text-[#5B2C6F] mb-4">Minimal Disruption</h3>
                 <p className="text-gray-700">
                   Fewer excavations are required, reducing the impact on your property, including concrete, tarmac, or flagged driveways.
                 </p>
               </div>
               <div className="p-6 bg-white border-2 border-[#5B2C6F] rounded-lg">
-                <h3 className="font-semibold text-[#5B2C6F] mb-2">Faster Completion</h3>
+                <h3 className="text-2xl font-bold text-[#5B2C6F] mb-4">Faster Completion</h3>
                 <p className="text-gray-700">
                   Impact moling enables quicker project completion compared to traditional trenching methods, ensuring less disruption to your home or business.
                 </p>
               </div>
               <div className="p-6 bg-white border-2 border-[#5B2C6F] rounded-lg">
-                <h3 className="font-semibold text-[#5B2C6F] mb-2">Cost-Efficiency</h3>
+                <h3 className="text-2xl font-bold text-[#5B2C6F] mb-4">Cost-Efficiency</h3>
                 <p className="text-gray-700">
                   When ground conditions are favourable, moling significantly reduces the cost of installing new water pipes compared to traditional trench excavation, while still maintaining quality and efficiency.
                 </p>
@@ -111,10 +109,10 @@ export default function ImpactMolingPrices() {
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
             <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">How Does Impact Moling Work?</h2>
-            <p className="text-gray-700 leading-relaxed mb-4">
+            <p className="text-lg text-gray-700 leading-relaxed mb-4">
               Moling is a highly effective trenchless method for installing water supply and gas pipes. Our experienced engineers use advanced pneumatic impact moles (often called moles), powered by compressed air. These devices are launched from small excavation points, displacing soil and creating smooth boreholes in the desired direction, even in challenging ground conditions.
             </p>
-            <p className="text-gray-700 leading-relaxed">
+            <p className="text-lg text-gray-700 leading-relaxed">
               Once the boreholes are created, small-diameter pipes are carefully aligned and pulled through, eliminating the need for extensive trenching. This streamlined process ensures efficient installation of new water pipes, connecting seamlessly to the main water supply while minimising disruption to your property.
             </p>
           </div>
@@ -126,36 +124,36 @@ export default function ImpactMolingPrices() {
             <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">
               Reasons to Replace a Water Supply Pipe
             </h2>
-            <p className="text-gray-700 leading-relaxed mb-6">
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
               For homeowners in Scotland, there are several key reasons to consider replacing a main water pipe:
             </p>
             <div className="space-y-4">
               <div className="bg-white p-6 border-2 border-[#5B2C6F] rounded-lg">
-                <h3 className="font-semibold text-[#5B2C6F] mb-2">Lead or Iron Pipes</h3>
+                <h3 className="text-2xl font-bold text-[#5B2C6F] mb-4">Lead or Iron Pipes</h3>
                 <p className="text-gray-700">
                   Older homes may still have lead or iron pipes, which can pose health risks or cause corrosion, affecting water quality and reliability.
                 </p>
               </div>
               <div className="bg-white p-6 border-2 border-[#5B2C6F] rounded-lg">
-                <h3 className="font-semibold text-[#5B2C6F] mb-2">Water Leaks</h3>
+                <h3 className="text-2xl font-bold text-[#5B2C6F] mb-4">Water Leaks</h3>
                 <p className="text-gray-700">
                   Leaks in the water supply pipe can lead to water wastage, property damage such as subsidence, and increased water bills, making replacement a necessary solution.
                 </p>
               </div>
               <div className="bg-white p-6 border-2 border-[#5B2C6F] rounded-lg">
-                <h3 className="font-semibold text-[#5B2C6F] mb-2">Insufficient Water Pressure</h3>
+                <h3 className="text-2xl font-bold text-[#5B2C6F] mb-4">Insufficient Water Pressure</h3>
                 <p className="text-gray-700">
                   Poor water pressure can disrupt daily activities and is often caused by ageing or damaged pipework, requiring an upgrade to ensure consistent flow.
                 </p>
               </div>
               <div className="bg-white p-6 border-2 border-[#5B2C6F] rounded-lg">
-                <h3 className="font-semibold text-[#5B2C6F] mb-2">Poor Water Quality</h3>
+                <h3 className="text-2xl font-bold text-[#5B2C6F] mb-4">Poor Water Quality</h3>
                 <p className="text-gray-700">
                   Pipes in poor condition can introduce impurities into your water supply, affecting both taste and safety.
                 </p>
               </div>
               <div className="bg-white p-6 border-2 border-[#5B2C6F] rounded-lg">
-                <h3 className="font-semibold text-[#5B2C6F] mb-2">Home Renovations</h3>
+                <h3 className="text-2xl font-bold text-[#5B2C6F] mb-4">Home Renovations</h3>
                 <p className="text-gray-700">
                   Projects that require relocating or upgrading the size of the water supply pipe for increased water flow provide an ideal opportunity to replace old pipes and future-proof your property.
                 </p>
@@ -170,13 +168,13 @@ export default function ImpactMolingPrices() {
             <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">
               Why Do Lead Water Supply Pipes Need to Be Replaced?
             </h2>
-            <p className="text-gray-700 leading-relaxed mb-4">
+            <p className="text-lg text-gray-700 leading-relaxed mb-4">
               Although lead pipes haven't been used in over 40 years, many older properties still have lead water supply pipes. If your home is one of them, replacing these pipes with a modern water supply pipe is highly recommended to ensure safe drinking water free from lead contamination.
             </p>
-            <p className="text-gray-700 leading-relaxed mb-6">
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
               Lead water pipes pose a significant health risk because traces of lead can leach into your drinking water, leading to potential lead poisoning. Prolonged exposure to lead in drinking water has been linked to:
             </p>
-            <ul className="list-disc list-inside space-y-2 text-gray-700 mb-6">
+            <ul className="list-disc list-inside space-y-2 text-lg text-gray-700 mb-6">
               <li>High blood pressure</li>
               <li>Heart problems</li>
               <li>Abdominal pain</li>
@@ -185,7 +183,7 @@ export default function ImpactMolingPrices() {
               <li>Developmental issues in children</li>
               <li>Low IQ</li>
             </ul>
-            <p className="text-gray-700 leading-relaxed">
+            <p className="text-lg text-gray-700 leading-relaxed">
               Replacing your lead water supply pipe is a vital step in safeguarding your household's health and ensuring compliance with modern water quality standards if you are a landlord.
             </p>
           </div>
@@ -197,36 +195,36 @@ export default function ImpactMolingPrices() {
             <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">
               Benefits of Replacing Your Lead Water Supply Pipe
             </h2>
-            <p className="text-gray-700 leading-relaxed mb-6">
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
               Upgrading your water supply pipe offers several advantages:
             </p>
             <div className="grid md:grid-cols-2 gap-6">
               <div className="p-6 bg-white border-2 border-[#5B2C6F] rounded-lg">
-                <h3 className="font-semibold text-[#5B2C6F] mb-2">Improved Energy Efficiency</h3>
+                <h3 className="text-2xl font-bold text-[#5B2C6F] mb-4">Improved Energy Efficiency</h3>
                 <p className="text-gray-700">
                   Enhanced water delivery to appliances reduces energy waste.
                 </p>
               </div>
               <div className="p-6 bg-white border-2 border-[#5B2C6F] rounded-lg">
-                <h3 className="font-semibold text-[#5B2C6F] mb-2">Increased Water Flow Rates</h3>
+                <h3 className="text-2xl font-bold text-[#5B2C6F] mb-4">Increased Water Flow Rates</h3>
                 <p className="text-gray-700">
                   Flexible, modern pipes provide better flow.
                 </p>
               </div>
               <div className="p-6 bg-white border-2 border-[#5B2C6F] rounded-lg">
-                <h3 className="font-semibold text-[#5B2C6F] mb-2">Better Water Quality</h3>
+                <h3 className="text-2xl font-bold text-[#5B2C6F] mb-4">Better Water Quality</h3>
                 <p className="text-gray-700">
                   Plastic pipes are non-contaminating, delivering cleaner water.
                 </p>
               </div>
               <div className="p-6 bg-white border-2 border-[#5B2C6F] rounded-lg">
-                <h3 className="font-semibold text-[#5B2C6F] mb-2">Environmentally Friendly</h3>
+                <h3 className="text-2xl font-bold text-[#5B2C6F] mb-4">Environmentally Friendly</h3>
                 <p className="text-gray-700">
                   With safer tap water, you can reduce reliance on bottled water, cutting plastic waste.
                 </p>
               </div>
             </div>
-            <p className="text-gray-700 leading-relaxed mt-6">
+            <p className="text-lg text-gray-700 leading-relaxed mt-6">
               Replacing lead water pipes in your home is essential for protecting your health, ensuring the purity of your drinking water, and preserving the value of your property. Lead is a hazardous substance that poses serious health risks, particularly to children and pregnant women, as it can lead to developmental issues and other medical conditions with prolonged exposure.
             </p>
           </div>
