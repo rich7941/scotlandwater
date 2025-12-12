@@ -80,13 +80,13 @@ export default function LeadPipeReplacementScheme() {
             <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
               Lead Pipe Replacement Scheme Scotland: Ensuring Safer Water for Scottish Homes
             </h2>
-            <p className="text-gray-700 leading-relaxed mb-8">
+            <p className="text-lg text-gray-700 mb-8">
               Access to clean, safe drinking water is a fundamental necessity for every household. In Scotland, thousands of older properties still rely on outdated lead piping, which can pose serious health risks due to lead contamination. The Lead Pipe Replacement Scheme in Scotland is designed to help homeowners replace outdated lead pipes with modern, safer alternatives.
             </p>
-            <p className="text-gray-700 leading-relaxed mb-8">
+            <p className="text-lg text-gray-700 mb-8">
               Lead pipes were commonly used in properties built before 1970. Over time, lead can leach into the water supply, especially if the water is acidic or soft, leading to potentially harmful health effects.
             </p>
-            <p className="text-gray-700 leading-relaxed mb-8">
+            <p className="text-lg text-gray-700 mb-8">
               This lead pipe replacement scheme focuses on encouraging property owners to modernize their plumbing systems by replacing old lead pipes with materials such as copper or plastic, which comply with current safety standards.
             </p>
           </div>
@@ -95,10 +95,10 @@ export default function LeadPipeReplacementScheme() {
         {/* How the Scheme Works */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-8">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
               How the Lead Pipe Replacement Scheme Works
             </h2>
-            <p className="text-gray-700 leading-relaxed mb-8">
+            <p className="text-lg text-gray-700 mb-8">
               Under the Lead Pipe Replacement Scheme in Scotland, homeowners are encouraged to:
             </p>
 
@@ -152,10 +152,10 @@ export default function LeadPipeReplacementScheme() {
         {/* Benefits */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-8">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
               Benefits of Replacing Lead Pipes
             </h2>
-            <p className="text-gray-700 leading-relaxed mb-8">
+            <p className="text-lg text-gray-700 mb-8">
               Replacing lead pipes offers numerous advantages, including:
             </p>
 
@@ -202,10 +202,10 @@ export default function LeadPipeReplacementScheme() {
         {/* Identifying Lead Pipes */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-8">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
               Identifying Lead Pipe in Your Home
             </h2>
-            <p className="text-gray-700 leading-relaxed mb-6">
+            <p className="text-lg text-gray-700 mb-6">
               You may have lead pipes if your property was built before 1970. To check:
             </p>
             <ul className="space-y-3 mb-8">
@@ -218,7 +218,7 @@ export default function LeadPipeReplacementScheme() {
                 <span>Examine the pipe feeding it—lead pipes are dull grey, soft, and reveal shiny metal when scratched.</span>
               </li>
             </ul>
-            <p className="text-gray-700 leading-relaxed">
+            <p className="text-lg text-gray-700">
               If your supply pipe resembles this material, you likely have lead pipe. Scottish Water can arrange a free test and visual inspection to confirm.
             </p>
           </div>
@@ -227,7 +227,7 @@ export default function LeadPipeReplacementScheme() {
         {/* Next Steps */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-8">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
               Next Steps if Lead Pipes Are Found
             </h2>
 
@@ -274,10 +274,10 @@ export default function LeadPipeReplacementScheme() {
         {/* Scottish Water's Commitment */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl font-bold text-[#1e3a8a] mb-8">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
               Scottish Water's Commitment to Reducing Lead
             </h2>
-            <p className="text-gray-700 leading-relaxed mb-6">
+            <p className="text-lg text-gray-700 mb-6">
               Scottish Water does not use lead in its water mains or treatment processes. However, to mitigate risks from legacy lead plumbing, it:
             </p>
             <ul className="space-y-3">
