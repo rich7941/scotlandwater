@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 
 export default function WaterFilter() {
   return (
-    <div className="min-h-screen flex flex-col">
+    <div className="min-h-screen">
       
       
       {/* Hero Section */}
@@ -20,12 +20,11 @@ export default function WaterFilter() {
         </div>
       </section>
 
-      {/* Main Content */}
-      <main className="flex-1">
+
         {/* Water Filters to Remove Lead */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Water Filters to Remove Lead</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">Water Filters to Remove Lead</h2>
             <div className="prose prose-lg max-w-none">
               <p className="text-gray-700 leading-relaxed mb-4">
                 Lead has continued to be used in domestic plumbing in the UK until it was finally banned in new installations in 1969. This means that any property built or renovated before 1970 may still contain lead pipes unless they have been replaced.
@@ -40,7 +39,7 @@ export default function WaterFilter() {
         {/* Water Filters */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Water Filters</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">Water Filters</h2>
             <p className="text-gray-700 leading-relaxed">
               If you rely on tap water as your main source of hydration, it may be worth considering a kitchen water filter. These water filters help remove harmful substances like chlorine, lead, and pesticides—though their effectiveness depends on the specific type of water filter used. In addition to improving safety, water filters can also enhance the taste and, in some cases, the appearance of your drinking water.
             </p>
@@ -50,7 +49,7 @@ export default function WaterFilter() {
         {/* Can Water Filters Remove Lead? */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Can Water Filters Remove Lead?</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">Can Water Filters Remove Lead?</h2>
             <p className="text-gray-700 leading-relaxed">
               Water filters are not a dependable solution for lead contamination caused by lead pipes. Even when water filters are certified, they may only reduce part of the lead content—not eliminate it entirely. Since there is no safe level of lead in drinking water, even small traces can be harmful, especially for young children and pregnant women. The only guaranteed way to remove lead from your water supply is to replace the lead pipes completely.
             </p>
@@ -60,25 +59,25 @@ export default function WaterFilter() {
         {/* What to Look for in a Lead Water Filter */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">What to Look for in a Lead Water Filter</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">What to Look for in a Lead Water Filter</h2>
             <p className="text-gray-700 leading-relaxed mb-6">
               When selecting a water filter, choose one that meets the following criteria:
             </p>
             <div className="space-y-4">
-              <div className="bg-white p-6 border-l-4 border-purple-600">
-                <h3 className="font-semibold text-blue-900 mb-2">Independent testing certification</h3>
+              <div className="bg-white p-6 border-2 border-[#5B2C6F] rounded-lg">
+                <h3 className="font-semibold text-[#5B2C6F] mb-2">Independent testing certification</h3>
                 <p className="text-gray-700">
                   In the UK, this is typically approved by the Water Regulations Advisory Scheme (WRAS) or similar recognised bodies.
                 </p>
               </div>
-              <div className="bg-white p-6 border-l-4 border-purple-600">
-                <h3 className="font-semibold text-blue-900 mb-2">Multi-stage filtration</h3>
+              <div className="bg-white p-6 border-2 border-[#5B2C6F] rounded-lg">
+                <h3 className="font-semibold text-[#5B2C6F] mb-2">Multi-stage filtration</h3>
                 <p className="text-gray-700">
                   The water filter should explicitly state that it removes both dissolved and particulate lead.
                 </p>
               </div>
-              <div className="bg-white p-6 border-l-4 border-purple-600">
-                <h3 className="font-semibold text-blue-900 mb-2">Cold-water use only</h3>
+              <div className="bg-white p-6 border-2 border-[#5B2C6F] rounded-lg">
+                <h3 className="font-semibold text-[#5B2C6F] mb-2">Cold-water use only</h3>
                 <p className="text-gray-700">
                   Water filters must be used with cold water only, as hot water can cause more lead to dissolve and may damage the water filter unit.
                 </p>
@@ -90,22 +89,22 @@ export default function WaterFilter() {
         {/* Common Water Filter Types */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Common Water Filter Types for Lead Removal</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">Common Water Filter Types for Lead Removal</h2>
             <div className="space-y-4">
-              <div className="p-6 bg-gray-50 border-l-4 border-purple-600">
-                <h3 className="font-semibold text-blue-900 mb-2">Under-sink water filters</h3>
+              <div className="p-6 bg-white border-2 border-[#5B2C6F] rounded-lg">
+                <h3 className="font-semibold text-[#5B2C6F] mb-2">Under-sink water filters</h3>
                 <p className="text-gray-700">
                   Installed beneath the kitchen sink and connected directly to the cold tap.
                 </p>
               </div>
-              <div className="p-6 bg-gray-50 border-l-4 border-purple-600">
-                <h3 className="font-semibold text-blue-900 mb-2">Tap-mounted water filters</h3>
+              <div className="p-6 bg-white border-2 border-[#5B2C6F] rounded-lg">
+                <h3 className="font-semibold text-[#5B2C6F] mb-2">Tap-mounted water filters</h3>
                 <p className="text-gray-700">
                   Easy to install directly on the end of the kitchen tap.
                 </p>
               </div>
-              <div className="p-6 bg-gray-50 border-l-4 border-purple-600">
-                <h3 className="font-semibold text-blue-900 mb-2">Jug water filters</h3>
+              <div className="p-6 bg-white border-2 border-[#5B2C6F] rounded-lg">
+                <h3 className="font-semibold text-[#5B2C6F] mb-2">Jug water filters</h3>
                 <p className="text-gray-700">
                   Convenient and portable, but not all are rated for lead removal—choose carefully based on certified performance claims.
                 </p>
@@ -117,12 +116,12 @@ export default function WaterFilter() {
         {/* Maintenance and Usage */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">Maintenance and Usage</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">Maintenance and Usage</h2>
             <p className="text-gray-700 leading-relaxed mb-6">
               Always follow the manufacturer's instructions for installation and cartridge replacement. Regular maintenance is essential to ensure the water filter remains effective at reducing lead levels.
             </p>
-            <div className="bg-yellow-50 border-l-4 border-yellow-500 p-6">
-              <p className="font-semibold text-[#1e3a8a] mb-2">Note:</p>
+            <div className="bg-white border-2 border-[#5B2C6F] rounded-lg p-6">
+              <p className="font-semibold text-[#5B2C6F] mb-2">Note:</p>
               <p className="text-gray-700">
                 Water filters are not a substitute for full pipe replacement. They are a temporary solution to reduce exposure while long-term remedial works are arranged.
               </p>
@@ -140,7 +139,7 @@ export default function WaterFilter() {
               </div>
               <Button 
                 size="lg"
-                className="bg-[#F9E45C] text-[#1e3a8a] hover:bg-[#F9E45C]/90 text-xl font-bold px-8 py-6 h-auto"
+                className="bg-[#F9E45C] text-[#5B2C6F] hover:bg-[#F9E45C]/90 text-xl font-bold px-8 py-6 h-auto"
                 asChild
               >
                 <a href="tel:08002062778" className="flex items-center gap-3">
@@ -155,7 +154,7 @@ export default function WaterFilter() {
         {/* What to Expect Section */}
         <section className="py-16 bg-gray-100">
           <div className="container">
-            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#5B2C6F] mb-4">
               What to expect from ScotWater – Your trusted water services expert
             </h2>
             <p className="text-center text-gray-600 mb-12 text-lg">
@@ -213,7 +212,7 @@ export default function WaterFilter() {
         {/* Customer Reviews Section */}
         <section className="py-16 bg-white">
           <div className="container">
-            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-8">
+            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#5B2C6F] mb-8">
               Here's what our happy customers have to say
             </h2>
 
@@ -233,7 +232,7 @@ export default function WaterFilter() {
                   I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
                 </p>
                 <div className="border-t pt-4">
-                  <p className="font-bold text-[#1e3a8a]">Paul Strachan</p>
+                  <p className="font-bold text-[#5B2C6F]">Paul Strachan</p>
                   <p className="text-gray-600 text-sm mb-2">Glasgow</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
@@ -249,7 +248,7 @@ export default function WaterFilter() {
                   Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
                 </p>
                 <div className="border-t pt-4">
-                  <p className="font-bold text-[#1e3a8a]">Jonathan Godfrey</p>
+                  <p className="font-bold text-[#5B2C6F]">Jonathan Godfrey</p>
                   <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
@@ -265,7 +264,7 @@ export default function WaterFilter() {
                   We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
                 </p>
                 <div className="border-t pt-4">
-                  <p className="font-bold text-[#1e3a8a]">Gordan Christie</p>
+                  <p className="font-bold text-[#5B2C6F]">Gordan Christie</p>
                   <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
@@ -283,7 +282,7 @@ export default function WaterFilter() {
         {/* You may be interested in Section */}
         <section className="py-16 bg-gray-50">
           <div className="container">
-            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-12">
+            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#5B2C6F] mb-12">
               You may be interested in
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -294,7 +293,7 @@ export default function WaterFilter() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
+                  <h3 className="text-xl font-bold text-[#5B2C6F] group-hover:text-purple-600 transition-colors">
                     Lead Pipe Replacement
                   </h3>
                 </div>
@@ -307,7 +306,7 @@ export default function WaterFilter() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
+                  <h3 className="text-xl font-bold text-[#5B2C6F] group-hover:text-purple-600 transition-colors">
                     Lead Pipe Replacement Scheme
                   </h3>
                 </div>
@@ -320,7 +319,7 @@ export default function WaterFilter() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
+                  <h3 className="text-xl font-bold text-[#5B2C6F] group-hover:text-purple-600 transition-colors">
                     Lead Pipe in Scotland
                   </h3>
                 </div>
@@ -333,7 +332,7 @@ export default function WaterFilter() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
+                  <h3 className="text-xl font-bold text-[#5B2C6F] group-hover:text-purple-600 transition-colors">
                     Lead Pipe Landlords
                   </h3>
                 </div>
@@ -346,7 +345,7 @@ export default function WaterFilter() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
+                  <h3 className="text-xl font-bold text-[#5B2C6F] group-hover:text-purple-600 transition-colors">
                     Water Leaks
                   </h3>
                 </div>
@@ -359,7 +358,7 @@ export default function WaterFilter() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
+                  <h3 className="text-xl font-bold text-[#5B2C6F] group-hover:text-purple-600 transition-colors">
                     Water Supply Pipe Installations
                   </h3>
                 </div>
@@ -367,9 +366,7 @@ export default function WaterFilter() {
             </div>
           </div>
         </section>
-      </main>
 
-      
     </div>
   );
 }

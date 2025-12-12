@@ -74,7 +74,7 @@ export default function LeadPipeReplacementScheme() {
         {/* Main Content */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">
               Lead Pipe Replacement Scheme Scotland: Ensuring Safer Water for Scottish Homes
             </h2>
             <p className="text-lg text-gray-700 mb-8">
@@ -92,7 +92,7 @@ export default function LeadPipeReplacementScheme() {
         {/* How the Scheme Works */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">
               How the Lead Pipe Replacement Scheme Works
             </h2>
             <p className="text-lg text-gray-700 mb-8">
@@ -149,7 +149,7 @@ export default function LeadPipeReplacementScheme() {
         {/* Benefits */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">
               Benefits of Replacing Lead Pipes
             </h2>
             <p className="text-lg text-gray-700 mb-8">
@@ -199,7 +199,7 @@ export default function LeadPipeReplacementScheme() {
         {/* Identifying Lead Pipes */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">
               Identifying Lead Pipe in Your Home
             </h2>
             <p className="text-lg text-gray-700 mb-6">
@@ -224,7 +224,7 @@ export default function LeadPipeReplacementScheme() {
         {/* Next Steps */}
         <section className="py-16 bg-white">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">
               Next Steps if Lead Pipes Are Found
             </h2>
 
@@ -271,7 +271,7 @@ export default function LeadPipeReplacementScheme() {
         {/* Scottish Water's Commitment */}
         <section className="py-16 bg-gray-50">
           <div className="container max-w-4xl">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#1e3a8a] mb-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-[#5B2C6F] mb-6">
               Scottish Water's Commitment to Reducing Lead
             </h2>
             <p className="text-lg text-gray-700 mb-6">
@@ -314,14 +314,14 @@ export default function LeadPipeReplacementScheme() {
               <div className="flex flex-col md:flex-row gap-4 justify-center items-center">
                 <a 
                   href="tel:08002062778"
-                  className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
+                  className="bg-[#F4E04D] hover:bg-[#E5D13D] text-[#5B2C6F] font-bold px-8 py-4 rounded-lg text-xl flex items-center gap-3 transition-colors"
                 >
                   0800 206 2778
                   <Phone className="w-6 h-6 scale-x-[-1]" />
                 </a>
                 <a 
                   href="mailto:hello@scotwater.co.uk"
-                  className="bg-white hover:bg-gray-100 text-[#1e3a8a] font-bold px-8 py-4 rounded-lg text-xl transition-colors"
+                  className="bg-white hover:bg-gray-100 text-[#5B2C6F] font-bold px-8 py-4 rounded-lg text-xl transition-colors"
                 >
                   hello@scotwater.co.uk
                 </a>
@@ -340,7 +340,7 @@ export default function LeadPipeReplacementScheme() {
               </div>
               <Button 
                 size="lg"
-                className="bg-[#F9E45C] text-[#1e3a8a] hover:bg-[#F9E45C]/90 text-xl font-bold px-8 py-6 h-auto"
+                className="bg-[#F9E45C] text-[#5B2C6F] hover:bg-[#F9E45C]/90 text-xl font-bold px-8 py-6 h-auto"
                 asChild
               >
                 <a href="tel:08002062778" className="flex items-center gap-3">
@@ -355,7 +355,7 @@ export default function LeadPipeReplacementScheme() {
         {/* What to Expect Section */}
         <section className="py-16 bg-gray-100">
           <div className="container">
-            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#5B2C6F] mb-4">
               What to expect from ScotWater – Your trusted water services expert
             </h2>
             <p className="text-center text-gray-600 mb-12 text-lg">
@@ -413,7 +413,7 @@ export default function LeadPipeReplacementScheme() {
         {/* Customer Reviews Section */}
         <section className="py-16 bg-white">
           <div className="container">
-            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#1e3a8a] mb-8">
+            <h2 className="text-3xl md:text-4xl font-bold text-center text-[#5B2C6F] mb-8">
               Here's what our happy customers have to say
             </h2>
 
@@ -433,7 +433,7 @@ export default function LeadPipeReplacementScheme() {
                   I just wanted to say the guys who did the work yesterday were very good. They were professional and clearly knew what they were doing.
                 </p>
                 <div className="border-t pt-4">
-                  <p className="font-bold text-[#1e3a8a]">Paul Strachan</p>
+                  <p className="font-bold text-[#5B2C6F]">Paul Strachan</p>
                   <p className="text-gray-600 text-sm mb-2">Glasgow</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
@@ -449,7 +449,7 @@ export default function LeadPipeReplacementScheme() {
                   Thanks for carrying out the works it was a very smooth process and the guys were really nice and friendly.
                 </p>
                 <div className="border-t pt-4">
-                  <p className="font-bold text-[#1e3a8a]">Jonathan Godfrey</p>
+                  <p className="font-bold text-[#5B2C6F]">Jonathan Godfrey</p>
                   <p className="text-gray-600 text-sm mb-2">Edinburgh</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
@@ -465,7 +465,7 @@ export default function LeadPipeReplacementScheme() {
                   We thanked the workers personally before they left, we also wanted to let you know how brilliant they all were, as they certainly went above and beyond.
                 </p>
                 <div className="border-t pt-4">
-                  <p className="font-bold text-[#1e3a8a]">Gordan Christie</p>
+                  <p className="font-bold text-[#5B2C6F]">Gordan Christie</p>
                   <p className="text-gray-600 text-sm mb-2">Aberdeen</p>
                   <div className="flex gap-1">
                     <span className="text-yellow-400">★</span>
@@ -483,7 +483,7 @@ export default function LeadPipeReplacementScheme() {
         {/* Services Section */}
         <section className="py-16 bg-white">
           <div className="container max-w-6xl">
-            <h2 className="text-3xl font-bold text-center text-[#1e3a8a] mb-12">
+            <h2 className="text-3xl font-bold text-center text-[#5B2C6F] mb-12">
               You may be interested in
             </h2>
             <div className="grid md:grid-cols-3 gap-8">
@@ -501,7 +501,7 @@ export default function LeadPipeReplacementScheme() {
                     />
                   </div>
                   <div className="p-4">
-                    <h3 className="text-xl font-bold text-[#1e3a8a] group-hover:text-purple-600 transition-colors">
+                    <h3 className="text-xl font-bold text-[#5B2C6F] group-hover:text-purple-600 transition-colors">
                       {service.title}
                     </h3>
                   </div>
