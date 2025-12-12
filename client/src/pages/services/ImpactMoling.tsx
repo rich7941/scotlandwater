@@ -131,7 +131,7 @@ export default function ImpactMoling() {
                 For reliable, professional, and timely impact moling services across Scotland, you can trust ScotWater to deliver.
               </p>
               <p className="mb-6">
-                ScotWater can carry out impact moling across Scotland and provide you with a free quotation for the moling work. To get a free quote for impact moling, please call us or email to schedule a free consultation and learn how we can help with your water main needs.
+                ScotWater can carry out impact moling across Scotland and provide you with a free quotation for the moling work. To get a free quote for impact moling, please call us on 0800 206 2778 or email hello@scotwater.co.uk to schedule a free consultation and learn how we can help with your water main needs.
               </p>
               <div className="flex flex-col md:flex-row gap-4 justify-center items-center">
                 <a 
