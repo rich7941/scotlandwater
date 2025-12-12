@@ -105,11 +105,11 @@ export default function LeadPipeReplacementScheme() {
                   1. Identify Lead Water Supply Pipes
                 </h3>
                 <ul className="space-y-2 text-gray-700">
-                  <li className="flex items-start">
+                  <li className="flex items-start text-lg">
                     <span className="text-purple-600 mr-2">•</span>
                     <span>Check for a lead water supply pipe in older properties, particularly if your house was built before 1970.</span>
                   </li>
-                  <li className="flex items-start">
+                  <li className="flex items-start text-lg">
                     <span className="text-purple-600 mr-2">•</span>
                     <span>Signs include dull grey pipes that are soft and can be easily scratched to reveal shiny metal underneath.</span>
                   </li>
@@ -120,7 +120,7 @@ export default function LeadPipeReplacementScheme() {
                 <h3 className="text-xl font-bold text-[#5B2C6F] mb-3">
                   2. Consult Professionals
                 </h3>
-                <p className="text-gray-700">
+                <p className="text-lg text-gray-700">
                   Contact a certified contractor, such as ScotWater, to assess your home and determine whether you have a lead water supply pipe.
                 </p>
               </div>
@@ -129,7 +129,7 @@ export default function LeadPipeReplacementScheme() {
                 <h3 className="text-xl font-bold text-[#5B2C6F] mb-3">
                   3. Replace Your Lead Water Supply Pipe
                 </h3>
-                <p className="text-gray-700">
+                <p className="text-lg text-gray-700">
                   ScotWater will safely replace your lead water supply pipe with approved materials.
                 </p>
               </div>
@@ -138,7 +138,7 @@ export default function LeadPipeReplacementScheme() {
                 <h3 className="text-xl font-bold text-[#5B2C6F] mb-3">
                   4. Replace Your Lead Communication Pipe
                 </h3>
-                <p className="text-gray-700">
+                <p className="text-lg text-gray-700">
                   Scottish Water will then replace your lead water communication pipe at their expense.
                 </p>
               </div>
@@ -161,7 +161,7 @@ export default function LeadPipeReplacementScheme() {
                 <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">
                   Health Protection
                 </h3>
-                <p className="text-gray-700">
+                <p className="text-lg text-gray-700">
                   Reducing exposure to lead ensures the safety of your family.
                 </p>
               </div>
@@ -170,7 +170,7 @@ export default function LeadPipeReplacementScheme() {
                 <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">
                   Increased Property Value
                 </h3>
-                <p className="text-gray-700">
+                <p className="text-lg text-gray-700">
                   Modern plumbing systems are more attractive to potential buyers.
                 </p>
               </div>
@@ -179,7 +179,7 @@ export default function LeadPipeReplacementScheme() {
                 <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">
                   Improved Water Pressure and Flow
                 </h3>
-                <p className="text-gray-700">
+                <p className="text-lg text-gray-700">
                   Upgrading your pipes can enhance water delivery to your home.
                 </p>
               </div>
@@ -188,7 +188,7 @@ export default function LeadPipeReplacementScheme() {
                 <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">
                   Long-Term Savings
                 </h3>
-                <p className="text-gray-700">
+                <p className="text-lg text-gray-700">
                   Modern pipes are more durable and less likely to leak and cause damage or need repairs.
                 </p>
               </div>
@@ -206,11 +206,11 @@ export default function LeadPipeReplacementScheme() {
               You may have lead pipes if your property was built before 1970. To check:
             </p>
             <ul className="space-y-3 mb-8">
-              <li className="flex items-start text-gray-700">
+              <li className="flex items-start text-lg text-gray-700">
                 <span className="text-purple-600 mr-3 mt-1">•</span>
                 <span>Locate your internal stop tap (usually under the kitchen sink).</span>
               </li>
-              <li className="flex items-start text-gray-700">
+              <li className="flex items-start text-lg text-gray-700">
                 <span className="text-purple-600 mr-3 mt-1">•</span>
                 <span>Examine the pipe feeding it—lead pipes are dull grey, soft, and reveal shiny metal when scratched.</span>
               </li>
@@ -233,7 +233,7 @@ export default function LeadPipeReplacementScheme() {
                 <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">
                   Replace Lead Pipes
                 </h3>
-                <p className="text-gray-700">
+                <p className="text-lg text-gray-700">
                   Engage a qualified plumber to replace any identified lead pipes with approved materials like copper or plastic.
                 </p>
               </div>
@@ -242,7 +242,7 @@ export default function LeadPipeReplacementScheme() {
                 <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">
                   Inform Scottish Water
                 </h3>
-                <p className="text-gray-700">
+                <p className="text-lg text-gray-700">
                   If lead is found in the communication pipe, Scottish Water will replace it free of charge upon confirmation.
                 </p>
               </div>
@@ -251,7 +251,7 @@ export default function LeadPipeReplacementScheme() {
                 <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">
                   Seek Financial Assistance
                 </h3>
-                <p className="text-gray-700">
+                <p className="text-lg text-gray-700">
                   Some local councils offer grants or assistance schemes to help with the cost of replacing lead pipes.
                 </p>
               </div>
@@ -260,7 +260,7 @@ export default function LeadPipeReplacementScheme() {
                 <h3 className="text-xl font-bold text-[#5B2C6F] mb-2">
                   Regular Testing
                 </h3>
-                <p className="text-gray-700">
+                <p className="text-lg text-gray-700">
                   After replacement, consider periodic water testing to ensure lead levels remain within safe limits.
                 </p>
               </div>
@@ -278,19 +278,19 @@ export default function LeadPipeReplacementScheme() {
               Scottish Water does not use lead in its water mains or treatment processes. However, to mitigate risks from legacy lead plumbing, it:
             </p>
             <ul className="space-y-3">
-              <li className="flex items-start text-gray-700">
+              <li className="flex items-start text-lg text-gray-700">
                 <span className="text-purple-600 mr-3 mt-1">•</span>
                 <span>Treats water with orthophosphate to coat the inside of pipes and reduce lead leaching.</span>
               </li>
-              <li className="flex items-start text-gray-700">
+              <li className="flex items-start text-lg text-gray-700">
                 <span className="text-purple-600 mr-3 mt-1">•</span>
                 <span>Offers free water testing where lead contamination is suspected.</span>
               </li>
-              <li className="flex items-start text-gray-700">
+              <li className="flex items-start text-lg text-gray-700">
                 <span className="text-purple-600 mr-3 mt-1">•</span>
                 <span>Replaces lead communication pipes at no cost once the property owner has replaced their private lead supply pipe.</span>
               </li>
-              <li className="flex items-start text-gray-700">
+              <li className="flex items-start text-lg text-gray-700">
                 <span className="text-purple-600 mr-3 mt-1">•</span>
                 <span>As of 1 April 2025, Scottish Water has begin replacing its section of lead pipe if water tests show lead levels above 5 µg/l.</span>
               </li>
