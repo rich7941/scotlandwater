@@ -1,0 +1,31 @@
+=== FONT SIZE INCONSISTENCIES ANALYSIS ===
+
+1. H2 WITHOUT md:text-4xl (should be text-3xl md:text-4xl):
+33
+
+2. Body paragraphs WITHOUT text-lg:
+client/src/pages/help-advice/ImpactMolingPrices.tsx:50:                <p className="text-gray-700">
+client/src/pages/help-advice/ImpactMolingPrices.tsx:56:                <p className="text-gray-700">
+client/src/pages/help-advice/ImpactMolingPrices.tsx:62:                <p className="text-gray-700">
+client/src/pages/help-advice/ImpactMolingPrices.tsx:68:                <p className="text-gray-700">
+client/src/pages/help-advice/ImpactMolingPrices.tsx:88:                <p className="text-gray-700">
+client/src/pages/help-advice/ImpactMolingPrices.tsx:94:                <p className="text-gray-700">
+client/src/pages/help-advice/ImpactMolingPrices.tsx:100:                <p className="text-gray-700">
+client/src/pages/help-advice/ImpactMolingPrices.tsx:133:                <p className="text-gray-700">
+client/src/pages/help-advice/ImpactMolingPrices.tsx:139:                <p className="text-gray-700">
+client/src/pages/help-advice/ImpactMolingPrices.tsx:145:                <p className="text-gray-700">
+client/src/pages/help-advice/ImpactMolingPrices.tsx:151:                <p className="text-gray-700">
+client/src/pages/help-advice/ImpactMolingPrices.tsx:157:                <p className="text-gray-700">
+client/src/pages/help-advice/ImpactMolingPrices.tsx:204:                <p className="text-gray-700">
+client/src/pages/help-advice/ImpactMolingPrices.tsx:210:                <p className="text-gray-700">
+client/src/pages/help-advice/ImpactMolingPrices.tsx:216:                <p className="text-gray-700">
+client/src/pages/help-advice/ImpactMolingPrices.tsx:222:                <p className="text-gray-700">
+client/src/pages/help-advice/ImpactMolingPrices.tsx:274:                <p className="text-center text-gray-700">Call us 24/7, 365, at a time that suits you.</p>
+client/src/pages/help-advice/ImpactMolingPrices.tsx:285:                <p className="text-center text-gray-700">You'll get a no-obligation quote straight away.</p>
+client/src/pages/help-advice/ImpactMolingPrices.tsx:296:                <p className="text-center text-gray-700">Expert engineers will arrive and carry out the work.</p>
+client/src/pages/help-advice/ImpactMolingPrices.tsx:307:                <p className="text-center text-gray-700">We'll give you a 25-year guarantee*.</p>
+
+3. Body text using text-gray-600 (should be text-gray-700):
+87
+
+4. H4 headings without text-xl:
