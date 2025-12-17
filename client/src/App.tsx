@@ -20,7 +20,7 @@ import WaterLeakDetection from "./pages/services/WaterLeakDetection";
 import ImpactMoling from "./pages/services/ImpactMoling";
 import WaterLeaks from "./pages/services/WaterLeaks";
 import LeadPipeReplacementScheme from "./pages/help-advice/LeadPipeReplacementScheme";
-import LeadPipeInScotland from "./pages/help-advice/LeadPipeInScotland";
+import LeadPipeInEngland from "./pages/help-advice/LeadPipeInEngland";
 import LeadPipeLandlords from "./pages/help-advice/LeadPipeLandlords";
 import LeadPipeReplacementAdvice from "./pages/help-advice/LeadPipeReplacement";
 import WaterFilter from "./pages/help-advice/WaterFilter";
@@ -67,7 +67,7 @@ function Router() {
       <Route path="/services/impact-moling" component={ImpactMoling} />
       <Route path="/help-advice/water-leaks" component={WaterLeaks} />
       <Route path="/help-advice/lead-pipe-replacement-scheme" component={LeadPipeReplacementScheme} />
-      <Route path="/help-advice/lead-pipe-in-scotland" component={LeadPipeInScotland} />
+      <Route path="/help-advice/lead-pipe-in-england" component={LeadPipeInEngland} />
       <Route path="/help-advice/lead-pipe-landlords" component={LeadPipeLandlords} />
       <Route path="/help-advice/lead-pipe-replacement" component={LeadPipeReplacementAdvice} />
       <Route path="/help-advice/water-filter" component={WaterFilter} />

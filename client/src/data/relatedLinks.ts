@@ -40,7 +40,7 @@ export const helpAdviceRelatedLinks = [
   {
     title: "Lead Pipe in England",
     description: "Everything you need to know about lead pipes in Scottish properties.",
-    href: "/help-advice/lead-pipe-in-scotland"
+    href: "/help-advice/lead-pipe-in-england"
   },
   {
     title: "Lead Pipe Landlords England",

@@ -574,7 +574,7 @@ export default function LeadPipeReplacement() {
                 </div>
               </a>
               
-              <a href="/help-advice/lead-pipe-in-scotland" className="group block bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
+              <a href="/help-advice/lead-pipe-in-england" className="group block bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
                 <img 
                   src="/lead-pipe-in-scotland-hero.webp" 
                   alt="Lead Pipe in England" 

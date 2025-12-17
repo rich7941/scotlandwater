@@ -23,7 +23,7 @@ export default function Header() {
   const helpAdvice = [
     { name: "Water Leaks", href: "/help-advice/water-leaks" },
     { name: "Lead Pipe Replacement Scheme", href: "/help-advice/lead-pipe-replacement-scheme" },
-    { name: "Lead Pipe in England", href: "/help-advice/lead-pipe-in-scotland" },
+    { name: "Lead Pipe in England", href: "/help-advice/lead-pipe-in-england" },
     { name: "Lead Pipe Landlords England", href: "/help-advice/lead-pipe-landlords" },
     { name: "Lead Pipe Replacement", href: "/help-advice/lead-pipe-replacement" },
     { name: "Water Filter", href: "/help-advice/water-filter" },

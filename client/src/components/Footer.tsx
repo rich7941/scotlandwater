@@ -107,7 +107,7 @@ export default function Footer() {
               <nav className="flex flex-col gap-2">
                 <Link href="/help-advice/water-leaks" className="hover:text-gray-300 transition-colors">Water Leaks</Link>
                 <Link href="/help-advice/lead-pipe-replacement-scheme" className="hover:text-gray-300 transition-colors">Lead Pipe Replacement Scheme</Link>
-                <Link href="/help-advice/lead-pipe-in-scotland" className="hover:text-gray-300 transition-colors">Lead Pipe in England</Link>
+                <Link href="/help-advice/lead-pipe-in-england" className="hover:text-gray-300 transition-colors">Lead Pipe in England</Link>
                 <Link href="/help-advice/lead-pipe-landlords" className="hover:text-gray-300 transition-colors">Lead Pipe Landlords</Link>
                 <Link href="/help-advice/lead-pipe-replacement" className="hover:text-gray-300 transition-colors">Lead Pipe Replacement</Link>
                 <Link href="/help-advice/water-filter" className="hover:text-gray-300 transition-colors">Water Filter</Link>
