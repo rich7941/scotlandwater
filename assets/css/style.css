@@ -130,39 +130,3 @@ img{max-width:100%;display:block;height:auto}
   .footer-legal__bottom{grid-template-columns:1fr;text-align:center}
   .footer-legal__links{justify-content:center}
 }
-
-/* --- Image assets overrides (logo + hero) --- */
-.brand__logo{
-  background: transparent;
-  padding: 0;
-  border-radius: 0;
-  width: auto;
-  height: auto;
-}
-.brand__logo img{
-  height: 44px;
-  width: auto;
-  display: block;
-}
-
-.footer__logo{
-  background: transparent;
-  padding: 0;
-  border-radius: 0;
-}
-.footer__logo img{
-  height: 40px;
-  width: auto;
-  display: block;
-}
-
-.hero__media{
-  overflow: hidden;
-  padding: 12px;
-}
-.hero__img{
-  width: 100%;
-  height: 100%;
-  object-fit: contain;
-  display: block;
-}
