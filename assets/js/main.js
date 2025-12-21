@@ -1,2 +1,1 @@
-
-// reserved for dropdowns / minor interactions if needed
+// No dropdown menus.
