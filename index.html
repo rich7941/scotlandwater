@@ -1,328 +1,139 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+
+  <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="English Water - Professional water main services across England including lead pipe replacement, leak detection, repairs, and installations." />
-    <meta property="og:title" content="English Water - Water Main Services" />
-    <meta property="og:description" content="Professional water main services across England including lead pipe replacement, leak detection, repairs, and installations." />
-    <meta property="og:type" content="website" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="English Water - Water Main Services" />
-    <meta name="twitter:description" content="Professional water main services across England." />
-    <title>English Water - Water Main Services</title>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <meta name="description" content="English Water is England's leading provider of water main solutions, including leak detection, lead pipe replacement, water supply pipe repairs, and water main installations. Trusted by homeowners and businesses across England for reliable and efficient water services. Proudly serving London, Manchester, Birmingham, Leeds, and beyond." />
+    <meta property="og:title" content="Water Main Contractors in England | English Water" />
+    <meta property="og:description" content="English Water is England's leading provider of water main solutions, including leak detection, lead pipe replacement, water supply pipe repairs, and water main installations. Trusted by homeowners and businesses across England for reliable and efficient water services. Proudly serving London, Manchester, Birmingham, Leeds, and beyond." />
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png" />
+    <link rel="icon" type="image/png" sizes="512x512" href="/favicon-512.png" />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <title>Water Main Contractors in England | English Water</title>
+    <link rel="stylesheet" href="/styles.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="/assets/css/styles.css" />
-</head>
-<body>
-    <!-- Header -->
-    <header>
-        <div class="container">
-            <div class="header-content">
-                <div class="logo">English Water</div>
-                <nav>
-                    <a href="/">Home</a>
-                    <a href="/about/">About</a>
-                    <a href="/contact/">Contact</a>
-                    <a href="/locations/">Locations</a>
-                </nav>
-            </div>
-        </div>
-    </header>
+    <!-- JSON-LD Structured Data for SEO -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "English Water",
+      "description": "England's leading provider of water main solutions, including leak detection, lead pipe replacement, water supply pipe repairs, and water main installations.",
+      "url": "https://englishwater.co.uk",
+      "telephone": "0800 316 7322",
+      "email": "hello@englishwater.co.uk",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "GB",
+        "addressRegion": "England"
+      },
+      "areaServed": ["London", "Birmingham", "Manchester", "Leeds", "Sheffield", "Bristol", "Leicester", "Coventry", "Bradford", "Liverpool"],
+      "priceRange": "£",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "sameAs": [
+        "https://www.facebook.com/englishwater",
+        "https://www.instagram.com/englishwater",
+        "https://www.linkedin.com/company/englishwater"
+      ],
+      "serviceArea": {
+        "@type": "Country",
+        "name": "England"
+      },
+      "knowsAbout": [
+        "Lead Pipe Replacement",
+        "Water Main Repairs",
+        "Water Supply Pipe Installation",
+        "Water Leak Detection",
+        "Impact Moling"
+      ]
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://englishwater.co.uk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://englishwater.co.uk/services"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Help & Advice",
+          "item": "https://englishwater.co.uk/help-advice"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Locations",
+          "item": "https://englishwater.co.uk/locations"
+        }
+      ]
+    }
+    </script>
+  </head>
 
-    <!-- Hero Section -->
-    <section class="hero" style="background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('/water-main-repairs-hero.webp'); background-size: cover; background-position: center;">
-        <div class="container">
-            <div class="hero-content">
-                <h1>Professional Water Main Services</h1>
-                <p>Expert solutions for lead pipe replacement, leak detection, repairs, and installations across England</p>
-                <a href="/contact/" class="btn">Get in Touch</a>
-            </div>
-        </div>
-    </section>
-
-    <!-- Services Section -->
-    <section class="section">
-        <div class="container">
-            <h2 class="text-center mb-5">Our Water Services</h2>
-            <div class="card-grid">
-                <div class="card">
-                    <img src="/assets/images/lead-pipe-replacement.jpg" alt="Lead Pipe Replacement" class="card-image">
-                    <div class="card-content">
-                        <h3>Lead Pipe Replacement</h3>
-                        <p>Professional lead pipe replacement services to ensure safe drinking water for your home. Expert technicians with 25-year guarantees.</p>
-                        <a href="#" class="learn-more">Learn More →</a>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <img src="/assets/images/lead-pipe-replacement-scheme.jpg" alt="Lead Pipe Replacement Scheme" class="card-image">
-                    <div class="card-content">
-                        <h3>Lead Pipe Replacement Scheme</h3>
-                        <p>Government-backed lead pipe replacement program offering grants and support for eligible homeowners. Safe water guaranteed.</p>
-                        <a href="#" class="learn-more">Learn More →</a>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <img src="/assets/images/water-supply-pipe-installations.jpg" alt="Water Supply Pipe Installations" class="card-image">
-                    <div class="card-content">
-                        <h3>Water Supply Pipe Installations</h3>
-                        <p>Complete water supply pipe installation services for residential and commercial properties. Professional installation with quality assurance.</p>
-                        <a href="#" class="learn-more">Learn More →</a>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <img src="/assets/images/water-supply-pipe-repair.jpg" alt="Water Supply Pipe Repair" class="card-image">
-                    <div class="card-content">
-                        <h3>Water Supply Pipe Repair</h3>
-                        <p>Fast and reliable water supply pipe repair services. 24/7 emergency response to prevent water damage and ensure water safety.</p>
-                        <a href="#" class="learn-more">Learn More →</a>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <img src="/assets/images/water-main-installations.jpg" alt="Water Main Installations" class="card-image">
-                    <div class="card-content">
-                        <h3>Water Main Installations</h3>
-                        <p>Professional water main installation services for new construction and upgrades. Expert engineering and quality workmanship guaranteed.</p>
-                        <a href="#" class="learn-more">Learn More →</a>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <img src="/assets/images/water-main-repairs.jpg" alt="Water Main Repairs" class="card-image">
-                    <div class="card-content">
-                        <h3>Water Main Repairs</h3>
-                        <p>Emergency water main repair services available 24/7. Rapid response to burst pipes and water main damage to minimize disruption.</p>
-                        <a href="#" class="learn-more">Learn More →</a>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <img src="/assets/images/water-main-leak-detection.jpg" alt="Water Main Leak Detection" class="card-image">
-                    <div class="card-content">
-                        <h3>Water Main Leak Detection</h3>
-                        <p>Advanced leak detection technology to identify hidden water main leaks. Prevent water loss and reduce bills with our expert detection services.</p>
-                        <a href="#" class="learn-more">Learn More →</a>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <img src="/assets/images/impact-moling.jpg" alt="Impact Moling" class="card-image">
-                    <div class="card-content">
-                        <h3>Impact Moling</h3>
-                        <p>Trenchless pipe installation technology for minimal ground disruption. Perfect for tight spaces and sensitive areas requiring precision work.</p>
-                        <a href="#" class="learn-more">Learn More →</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Why Choose Us Section -->
-    <section class="section bg-light">
-        <div class="container">
-            <h2 class="text-center mb-5">Why Choose English Water?</h2>
-            <div class="card-grid">
-                <div class="card">
-                    <div class="card-content">
-                        <h3>Expert Team</h3>
-                        <p>Our experienced technicians are trained in the latest water main technologies and best practices.</p>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <div class="card-content">
-                        <h3>24/7 Emergency Service</h3>
-                        <p>We're available around the clock for emergency water main repairs and urgent situations.</p>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <div class="card-content">
-                        <h3>Quality Guarantee</h3>
-                        <p>All work comes with comprehensive guarantees and compliance with UK Water Regulations.</p>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <div class="card-content">
-                        <h3>Competitive Pricing</h3>
-                        <p>We offer transparent pricing with no hidden costs and flexible payment options.</p>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <div class="card-content">
-                        <h3>Minimal Disruption</h3>
-                        <p>Using trenchless technology, we minimize damage to your property during installations.</p>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <div class="card-content">
-                        <h3>Coverage Across England</h3>
-                        <p>We serve all major cities and regions across England with consistent quality service.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Locations Section -->
-    <section class="section">
-        <div class="container">
-            <h2 class="text-center mb-5">Service Locations</h2>
-            <div class="card-grid">
-                <div class="card">
-                    <div class="card-content">
-                        <h3>London</h3>
-                        <p>Professional water main services in London. Available 24/7 for emergency repairs and installations.</p>
-                        <a href="/locations/london/" class="learn-more">View Services →</a>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <div class="card-content">
-                        <h3>Birmingham</h3>
-                        <p>Expert water main solutions for Birmingham properties. Lead pipe replacement and emergency repairs available.</p>
-                        <a href="/locations/birmingham/" class="learn-more">View Services →</a>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <div class="card-content">
-                        <h3>Manchester</h3>
-                        <p>Comprehensive water services for Manchester. Leak detection, repairs, and installations.</p>
-                        <a href="/locations/manchester/" class="learn-more">View Services →</a>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <div class="card-content">
-                        <h3>Leeds</h3>
-                        <p>Water main services for Leeds and surrounding areas. Professional installations and emergency response.</p>
-                        <a href="/locations/leeds/" class="learn-more">View Services →</a>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <div class="card-content">
-                        <h3>Sheffield</h3>
-                        <p>Expert water services in Sheffield. Lead pipe replacement and water main repairs.</p>
-                        <a href="/locations/sheffield/" class="learn-more">View Services →</a>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <div class="card-content">
-                        <h3>Bristol</h3>
-                        <p>Professional water main solutions for Bristol. Trenchless technology and emergency services.</p>
-                        <a href="/locations/bristol/" class="learn-more">View Services →</a>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <div class="card-content">
-                        <h3>Liverpool</h3>
-                        <p>Water services for Liverpool and Merseyside. 24/7 emergency repairs and installations.</p>
-                        <a href="/locations/liverpool/" class="learn-more">View Services →</a>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <div class="card-content">
-                        <h3>Bradford</h3>
-                        <p>Water main services for Bradford. Lead pipe replacement and leak detection.</p>
-                        <a href="/locations/bradford/" class="learn-more">View Services →</a>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <div class="card-content">
-                        <h3>Leicester</h3>
-                        <p>Professional water services in Leicester. Installations, repairs, and emergency response.</p>
-                        <a href="/locations/leicester/" class="learn-more">View Services →</a>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <div class="card-content">
-                        <h3>Coventry</h3>
-                        <p>Water main solutions for Coventry. Expert technicians and 24/7 emergency service.</p>
-                        <a href="/locations/coventry/" class="learn-more">View Services →</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- CTA Section -->
-    <section class="section bg-dark-green">
-        <div class="container text-center">
-            <h2>Need Water Main Services?</h2>
-            <p style="font-size: 1.25rem; margin-bottom: 2rem;">Contact us today for a free consultation and quote</p>
-            <a href="/contact/" class="btn btn-secondary">Get Free Quote</a>
-        </div>
-    </section>
-
-    <!-- Footer -->
-    <footer>
-        <div class="container">
-            <div class="footer-content">
-                <div class="footer-section">
-                    <h4>English Water</h4>
-                    <p>Professional water main services across England</p>
-                    <p style="margin-top: 1rem;">
-                        <strong>Phone:</strong> 0800 316 7322<br>
-                        <strong>Email:</strong> hello@englishwater.co.uk
-                    </p>
-                </div>
-
-                <div class="footer-section">
-                    <h4>Services</h4>
-                    <ul>
-                        <li><a href="#">Lead Pipe Replacement</a></li>
-                        <li><a href="#">Water Supply Pipes</a></li>
-                        <li><a href="#">Water Main Repairs</a></li>
-                        <li><a href="#">Leak Detection</a></li>
-                        <li><a href="#">Impact Moling</a></li>
-                    </ul>
-                </div>
-
-                <div class="footer-section">
-                    <h4>Locations</h4>
-                    <ul>
-                        <li><a href="/locations/london/">London</a></li>
-                        <li><a href="/locations/birmingham/">Birmingham</a></li>
-                        <li><a href="/locations/manchester/">Manchester</a></li>
-                        <li><a href="/locations/leeds/">Leeds</a></li>
-                        <li><a href="/locations/sheffield/">Sheffield</a></li>
-                    </ul>
-                </div>
-
-                <div class="footer-section">
-                    <h4>Company</h4>
-                    <ul>
-                        <li><a href="/about/">About Us</a></li>
-                        <li><a href="/contact/">Contact</a></li>
-                        <li><a href="#">Privacy Policy</a></li>
-                        <li><a href="#">Terms & Conditions</a></li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="footer-bottom">
-                <p>&copy; 2025 English Water. All rights reserved. | Professional Water Main Services Across England</p>
-            </div>
-        </div>
-    </footer>
+  <body>
+    <div id="root"><header class="header"><div class="container header-inner">
+  <a class="brand" href="/index.html"><img src="/logo.webp" alt="English Water logo"/><span>English Water</span></a>
+  <nav class="nav" aria-label="Primary">
+    <a href="/services/lead-pipe-replacement.html">Services</a>
+    <a href="/help-advice/lead-pipe-replacement.html">Help &amp; Advice</a>
+    <a href="/locations/london.html">Locations</a>
+    <a href="/reviews.html">Reviews</a>
+    <a href="/about.html">About</a>
+    <a href="/contact.html">Contact</a>
+  </nav>
+</div></header><div class="container hero"></div><main class="container"><h1>England's Water Main Repair and Replacement Experts</h1>
+    <p>24/7 assistance from expert water engineers across England.</p>
+    <h2>What to expect from English Water – Your trusted water services expert</h2>
+    <p>Here's how we'll get your house feeling like home again.</p>
+    <ul>
+      <li>Call us 24/7, 365, at a time that suits you.</li>
+      <li>You'll get a no-obligation quote straight away.</li>
+      <li>Expert engineers will arrive and carry out the work.</li>
+      <li>We'll give you a 25-year guarantee.</li>
+    </ul>
+    <h2>English Water's Services</h2>
+    <p>We offer a comprehensive range of water main services across England including lead pipe replacement, water supply pipe installations, water supply pipe repairs, water main installations, water main renewals, water main repairs, water leak detection, and impact moling.</p>
+    <h2>Full Nationwide Coverage Across England</h2>
+    <p>Every day, English Water assists residential and commercial customers across England with water main repairs, installations, and lead pipe replacements.</p>
+    <h2>About English Water</h2>
+    <p>From residential lead pipe replacement to burst water main repairs, we're here to help. We're proud to offer a 24-hour emergency response across England, using the latest technology combined with good old-fashioned expertise to solve a wide range of problems.</p>
+    <h2>Why Choose English Water</h2>
+    <ul>
+      <li><strong>24/7 Availability</strong> - Our call center is always open to assist you with any water main services, enquiries, or emergencies—day or night.</li>
+      <li><strong>Clear & Upfront Pricing</strong> - We have a transparent pricing system, provide upfront estimates, and give quotes to explain the cost of our services.</li>
+      <li><strong>Trusted Across England</strong> - Customers across England have trusted us to handle their water mains services with reliability and professionalism.</li>
+      <li><strong>1-Hour Response Time</strong> - We respond to your call and attend your service within the hour wherever possible.</li>
+    </ul>
+    <h2>Contact Us</h2>
+    <p>Call us 24/7 at 0800 316 7322 or email hello@englishwater.co.uk</p>
+    <p>We proudly serve London, Birmingham, Manchester, Leeds, Sheffield, Bristol, Leicester, Coventry, Bradford, Liverpool, and many more cities across England.</p></main><footer class="footer"><div class="container footer-grid">
+  <div>© English Water. All rights reserved.</div>
+  <div class="small">24/7 enquiries: 0800 316 7322 • hello@englishwater.co.uk</div>
+</div></footer></div>
 </body>
+
 </html>

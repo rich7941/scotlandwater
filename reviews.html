@@ -19,21 +19,24 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
-    <style>
-      /* Hide static content when JS loads - it will be replaced by React */
-      .seo-content { position: absolute; left: -9999px; }
-    </style>
+    <link rel="stylesheet" href="/styles.css" />
 </head>
 <body>
-    <div id="root">
-      <!-- Static SEO content - visible to crawlers, hidden when JS loads -->
-      <noscript>
-        <div class="seo-content-visible">
-          
-    <h1>Customer Reviews</h1>
-    <p>Read customer reviews for English Water, England's trusted water services provider. Discover why businesses and homeowners choose us for reliable leak detection, lead pipe replacement, and water main solutions.</p>
-  
-        </div>
+    <div id="root"><header class="header"><div class="container header-inner">
+  <a class="brand" href="/index.html"><img src="/logo.webp" alt="English Water logo"/><span>English Water</span></a>
+  <nav class="nav" aria-label="Primary">
+    <a href="/services/lead-pipe-replacement.html">Services</a>
+    <a href="/help-advice/lead-pipe-replacement.html">Help &amp; Advice</a>
+    <a href="/locations/london.html">Locations</a>
+    <a href="/reviews.html">Reviews</a>
+    <a href="/about.html">About</a>
+    <a href="/contact.html">Contact</a>
+  </nav>
+</div></header><div class="container hero"></div><main class="container"><h1>Customer Reviews</h1>
+    <p>Read customer reviews for English Water, England's trusted water services provider. Discover why businesses and homeowners choose us for reliable leak detection, lead pipe replacement, and water main solutions.</p></main><footer class="footer"><div class="container footer-grid">
+  <div>© English Water. All rights reserved.</div>
+  <div class="small">24/7 enquiries: 0800 316 7322 • hello@englishwater.co.uk</div>
+</div></footer></div>
       </noscript>
       <div class="seo-content" aria-hidden="true">
         
@@ -42,6 +45,5 @@
   
       </div>
     </div>
-    <script type="module" src="/src/main.tsx"></script>
 </body>
 </html>
