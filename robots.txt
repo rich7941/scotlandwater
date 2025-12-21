@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://englishwater.co.uk/sitemap.xml
