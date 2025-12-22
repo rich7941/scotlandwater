@@ -145,3 +145,26 @@ img{max-width:100%;display:block;height:auto}
   object-fit: cover;
   display: block;
 }
+
+
+/* FORCE SQUARE IMAGE BOXES (Services, Help & Advice, Locations) */
+.grid--4 .card__img,
+.grid--3 .card__img,
+.grid--2 .card__img {
+  position: relative;
+  width: 100%;
+  padding-top: 100%; /* 1:1 square */
+  overflow: hidden;
+}
+
+.grid--4 .card__img img,
+.grid--3 .card__img img,
+.grid--2 .card__img img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
