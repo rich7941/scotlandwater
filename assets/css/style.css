@@ -130,3 +130,18 @@ img{max-width:100%;display:block;height:auto}
   .footer-legal__bottom{grid-template-columns:1fr;text-align:center}
   .footer-legal__links{justify-content:center}
 }
+
+
+/* Force service and help/advice card images to be square */
+.card__img {
+  aspect-ratio: 1 / 1;
+  width: 100%;
+  overflow: hidden;
+}
+
+.card__img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
