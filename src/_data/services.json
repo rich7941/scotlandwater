@@ -2,59 +2,62 @@
   {
     "slug": "impact-moling",
     "url": "/services/impact-moling/",
-    "title": "Impact Moling | English Water",
-    "main_html": "<section class=\"banner\">\n  <div class=\"container\">\n    <h1 class=\"h1\">Impact Moling</h1>\n    <p class=\"p\">Impact Moling across England with a 24/7 response.</p>\n  </div>\n</section>\n<section class=\"section\">\n  <div class=\"container content\">\n    <h2>Overview</h2>\n    <p>This page uses the standard content-page layout. Replace this placeholder copy with your final content.</p>\n    <h2>What to expect</h2>\n    <ul>\n      <li>Speak to a real person and explain the issue.</li>\n      <li>Receive a clear quote and booking options.</li>\n      <li>Engineers attend with specialist equipment.</li>\n      <li>Work completed with minimal disruption.</li>\n    </ul>\n    <h2>Contact</h2>\n    <p>Call <strong>0800 316 7322</strong> or email <strong>hello@englishwater.co.uk</strong>.</p>\n  </div>\n</section>"
+    "title": "Impact Moling",
+    "main_html": "<section class=\"banner\">\n  <div class=\"container\">\n    <h1 class=\"h1\">Impact Moling</h1>\n    <p class=\"p\">Impact Moling across England with a 24/7 response.</p>\n  </div>\n</section>\n<section class=\"section\">\n  <div class=\"container content\">\n    <h2>Overview</h2>\n    <p>This page uses the standard content-page layout. Replace this placeholder copy with your final content.</p>\n    <h2>What to expect</h2>\n    <ul>\n      <li>Speak to a real person and explain the issue.</li>\n      <li>Receive a clear quote and booking options.</li>\n      <li>Engineers attend with specialist equipment.</li>\n      <li>Work completed with minimal disruption.</li>\n    </ul>\n    <h2>Contact</h2>\n    <p>Call <strong>0800 316 7322</strong> or email <strong>hello@englishwater.co.uk</strong>.</p>\n  </div>\n</section>",
+    "image": "impact-moling-england-service.webp"
   },
   {
     "slug": "lead-pipe-replacement",
     "url": "/services/lead-pipe-replacement/",
-    "title": "Lead Pipe Replacement | English Water",
+    "title": "Lead Pipe Replacement",
     "main_html": "<section class=\"banner\">\n  <div class=\"container\">\n    <h1 class=\"h1\">Lead Pipe Replacement</h1>\n    <p class=\"p\">Lead Pipe Replacement across England with a 24/7 response.</p>\n  </div>\n</section>\n<section class=\"section\">\n  <div class=\"container content\">\n    <h2>Overview</h2>\n    <p>This page uses the standard content-page layout. Replace this placeholder copy with your final content.</p>\n    <h2>What to expect</h2>\n    <ul>\n      <li>Speak to a real person and explain the issue.</li>\n      <li>Receive a clear quote and booking options.</li>\n      <li>Engineers attend with specialist equipment.</li>\n      <li>Work completed with minimal disruption.</li>\n    </ul>\n    <h2>Contact</h2>\n    <p>Call <strong>0800 316 7322</strong> or email <strong>hello@englishwater.co.uk</strong>.</p>\n  </div>\n</section>",
     "image": "lead-pipe-replacement-english-water.webp"
   },
   {
     "slug": "water-leak-detection",
     "url": "/services/water-leak-detection/",
-    "title": "Water Leak Detection | English Water",
+    "title": "Water Leak Detection",
     "main_html": "<section class=\"banner\">\n  <div class=\"container\">\n    <h1 class=\"h1\">Water Leak Detection</h1>\n    <p class=\"p\">Water Leak Detection across England with a 24/7 response.</p>\n  </div>\n</section>\n<section class=\"section\">\n  <div class=\"container content\">\n    <h2>Overview</h2>\n    <p>This page uses the standard content-page layout. Replace this placeholder copy with your final content.</p>\n    <h2>What to expect</h2>\n    <ul>\n      <li>Speak to a real person and explain the issue.</li>\n      <li>Receive a clear quote and booking options.</li>\n      <li>Engineers attend with specialist equipment.</li>\n      <li>Work completed with minimal disruption.</li>\n    </ul>\n    <h2>Contact</h2>\n    <p>Call <strong>0800 316 7322</strong> or email <strong>hello@englishwater.co.uk</strong>.</p>\n  </div>\n</section>",
     "image": "water-leak-detection-english-water.webp"
   },
   {
     "slug": "water-main-installations",
     "url": "/services/water-main-installations/",
-    "title": "Water Main Installations | English Water",
-    "main_html": "<section class=\"banner\">\n  <div class=\"container\">\n    <h1 class=\"h1\">Water Main Installations</h1>\n    <p class=\"p\">Water Main Installations across England with a 24/7 response.</p>\n  </div>\n</section>\n<section class=\"section\">\n  <div class=\"container content\">\n    <h2>Overview</h2>\n    <p>This page uses the standard content-page layout. Replace this placeholder copy with your final content.</p>\n    <h2>What to expect</h2>\n    <ul>\n      <li>Speak to a real person and explain the issue.</li>\n      <li>Receive a clear quote and booking options.</li>\n      <li>Engineers attend with specialist equipment.</li>\n      <li>Work completed with minimal disruption.</li>\n    </ul>\n    <h2>Contact</h2>\n    <p>Call <strong>0800 316 7322</strong> or email <strong>hello@englishwater.co.uk</strong>.</p>\n  </div>\n</section>"
+    "title": "Water Main Installations",
+    "main_html": "<section class=\"banner\">\n  <div class=\"container\">\n    <h1 class=\"h1\">Water Main Installations</h1>\n    <p class=\"p\">Water Main Installations across England with a 24/7 response.</p>\n  </div>\n</section>\n<section class=\"section\">\n  <div class=\"container content\">\n    <h2>Overview</h2>\n    <p>This page uses the standard content-page layout. Replace this placeholder copy with your final content.</p>\n    <h2>What to expect</h2>\n    <ul>\n      <li>Speak to a real person and explain the issue.</li>\n      <li>Receive a clear quote and booking options.</li>\n      <li>Engineers attend with specialist equipment.</li>\n      <li>Work completed with minimal disruption.</li>\n    </ul>\n    <h2>Contact</h2>\n    <p>Call <strong>0800 316 7322</strong> or email <strong>hello@englishwater.co.uk</strong>.</p>\n  </div>\n</section>",
+    "image": "water-water-installation-english-water.webp"
   },
   {
     "slug": "water-main-renewals",
     "url": "/services/water-main-renewals/",
-    "title": "Water Main Renewals | English Water",
-    "main_html": "<section class=\"banner\">\n  <div class=\"container\">\n    <h1 class=\"h1\">Water Main Renewals</h1>\n    <p class=\"p\">Water Main Renewals across England with a 24/7 response.</p>\n  </div>\n</section>\n<section class=\"section\">\n  <div class=\"container content\">\n    <h2>Overview</h2>\n    <p>This page uses the standard content-page layout. Replace this placeholder copy with your final content.</p>\n    <h2>What to expect</h2>\n    <ul>\n      <li>Speak to a real person and explain the issue.</li>\n      <li>Receive a clear quote and booking options.</li>\n      <li>Engineers attend with specialist equipment.</li>\n      <li>Work completed with minimal disruption.</li>\n    </ul>\n    <h2>Contact</h2>\n    <p>Call <strong>0800 316 7322</strong> or email <strong>hello@englishwater.co.uk</strong>.</p>\n  </div>\n</section>"
+    "title": "Water Main Renewals",
+    "main_html": "<section class=\"banner\">\n  <div class=\"container\">\n    <h1 class=\"h1\">Water Main Renewals</h1>\n    <p class=\"p\">Water Main Renewals across England with a 24/7 response.</p>\n  </div>\n</section>\n<section class=\"section\">\n  <div class=\"container content\">\n    <h2>Overview</h2>\n    <p>This page uses the standard content-page layout. Replace this placeholder copy with your final content.</p>\n    <h2>What to expect</h2>\n    <ul>\n      <li>Speak to a real person and explain the issue.</li>\n      <li>Receive a clear quote and booking options.</li>\n      <li>Engineers attend with specialist equipment.</li>\n      <li>Work completed with minimal disruption.</li>\n    </ul>\n    <h2>Contact</h2>\n    <p>Call <strong>0800 316 7322</strong> or email <strong>hello@englishwater.co.uk</strong>.</p>\n  </div>\n</section>",
+    "image": "water-main-repairs-english-water.webp"
   },
   {
     "slug": "water-main-repairs",
     "url": "/services/water-main-repairs/",
-    "title": "Water Main Repairs | English Water",
-    "main_html": "<section class=\"banner\">\n  <div class=\"container\">\n    <h1 class=\"h1\">Water Main Repairs</h1>\n    <p class=\"p\">Water Main Repairs across England with a 24/7 response.</p>\n  </div>\n</section>\n<section class=\"section\">\n  <div class=\"container content\">\n    <h2>Overview</h2>\n    <p>This page uses the standard content-page layout. Replace this placeholder copy with your final content.</p>\n    <h2>What to expect</h2>\n    <ul>\n      <li>Speak to a real person and explain the issue.</li>\n      <li>Receive a clear quote and booking options.</li>\n      <li>Engineers attend with specialist equipment.</li>\n      <li>Work completed with minimal disruption.</li>\n    </ul>\n    <h2>Contact</h2>\n    <p>Call <strong>0800 316 7322</strong> or email <strong>hello@englishwater.co.uk</strong>.</p>\n  </div>\n</section>",
-    "image": "water-main-repairs-english-water.webp"
+    "title": "Water Main Repairs",
+    "main_html": "<section class=\"banner\">\n  <div class=\"container\">\n    <h1 class=\"h1\">Water Main Repairs</h1>\n    <p class=\"p\">Water Main Repairs across England with a 24/7 response.</p>\n  </div>\n</section>\n<section class=\"section\">\n  <div class=\"container content\">\n    <h2>Overview</h2>\n    <p>This page uses the standard content-page layout. Replace this placeholder copy with your final content.</p>\n    <h2>What to expect</h2>\n    <ul>\n      <li>Speak to a real person and explain the issue.</li>\n      <li>Receive a clear quote and booking options.</li>\n      <li>Engineers attend with specialist equipment.</li>\n      <li>Work completed with minimal disruption.</li>\n    </ul>\n    <h2>Contact</h2>\n    <p>Call <strong>0800 316 7322</strong> or email <strong>hello@englishwater.co.uk</strong>.</p>\n  </div>\n</section>"
   },
   {
     "slug": "water-supply-pipe-installations",
     "url": "/services/water-supply-pipe-installations/",
-    "title": "Water Supply Pipe Installations | English Water",
-    "main_html": "<section class=\"banner\">\n  <div class=\"container\">\n    <h1 class=\"h1\">Water Supply Pipe Installations</h1>\n    <p class=\"p\">Water Supply Pipe Installations across England with a 24/7 response.</p>\n  </div>\n</section>\n<section class=\"section\">\n  <div class=\"container content\">\n    <h2>Overview</h2>\n    <p>This page uses the standard content-page layout. Replace this placeholder copy with your final content.</p>\n    <h2>What to expect</h2>\n    <ul>\n      <li>Speak to a real person and explain the issue.</li>\n      <li>Receive a clear quote and booking options.</li>\n      <li>Engineers attend with specialist equipment.</li>\n      <li>Work completed with minimal disruption.</li>\n    </ul>\n    <h2>Contact</h2>\n    <p>Call <strong>0800 316 7322</strong> or email <strong>hello@englishwater.co.uk</strong>.</p>\n  </div>\n</section>",
-    "image": "water-supply-pipe-installations-english-water.webp"
+    "title": "Water Supply Pipe Installations",
+    "main_html": "<section class=\"banner\">\n  <div class=\"container\">\n    <h1 class=\"h1\">Water Supply Pipe Installations</h1>\n    <p class=\"p\">Water Supply Pipe Installations across England with a 24/7 response.</p>\n  </div>\n</section>\n<section class=\"section\">\n  <div class=\"container content\">\n    <h2>Overview</h2>\n    <p>This page uses the standard content-page layout. Replace this placeholder copy with your final content.</p>\n    <h2>What to expect</h2>\n    <ul>\n      <li>Speak to a real person and explain the issue.</li>\n      <li>Receive a clear quote and booking options.</li>\n      <li>Engineers attend with specialist equipment.</li>\n      <li>Work completed with minimal disruption.</li>\n    </ul>\n    <h2>Contact</h2>\n    <p>Call <strong>0800 316 7322</strong> or email <strong>hello@englishwater.co.uk</strong>.</p>\n  </div>\n</section>"
   },
   {
     "slug": "water-supply-pipe-renewals",
     "url": "/services/water-supply-pipe-renewals/",
-    "title": "Water Supply Pipe Renewals | English Water",
-    "main_html": "<section class=\"banner\">\n  <div class=\"container\">\n    <h1 class=\"h1\">Water Supply Pipe Renewals</h1>\n    <p class=\"p\">Water Supply Pipe Renewals across England with a 24/7 response.</p>\n  </div>\n</section>\n<section class=\"section\">\n  <div class=\"container content\">\n    <h2>Overview</h2>\n    <p>This page uses the standard content-page layout. Replace this placeholder copy with your final content.</p>\n    <h2>What to expect</h2>\n    <ul>\n      <li>Speak to a real person and explain the issue.</li>\n      <li>Receive a clear quote and booking options.</li>\n      <li>Engineers attend with specialist equipment.</li>\n      <li>Work completed with minimal disruption.</li>\n    </ul>\n    <h2>Contact</h2>\n    <p>Call <strong>0800 316 7322</strong> or email <strong>hello@englishwater.co.uk</strong>.</p>\n  </div>\n</section>"
+    "title": "Water Supply Pipe Renewals",
+    "main_html": "<section class=\"banner\">\n  <div class=\"container\">\n    <h1 class=\"h1\">Water Supply Pipe Renewals</h1>\n    <p class=\"p\">Water Supply Pipe Renewals across England with a 24/7 response.</p>\n  </div>\n</section>\n<section class=\"section\">\n  <div class=\"container content\">\n    <h2>Overview</h2>\n    <p>This page uses the standard content-page layout. Replace this placeholder copy with your final content.</p>\n    <h2>What to expect</h2>\n    <ul>\n      <li>Speak to a real person and explain the issue.</li>\n      <li>Receive a clear quote and booking options.</li>\n      <li>Engineers attend with specialist equipment.</li>\n      <li>Work completed with minimal disruption.</li>\n    </ul>\n    <h2>Contact</h2>\n    <p>Call <strong>0800 316 7322</strong> or email <strong>hello@englishwater.co.uk</strong>.</p>\n  </div>\n</section>",
+    "image": "water-supply-pipe-installations-english-water.webp"
   },
   {
     "slug": "water-supply-pipe-repairs",
     "url": "/services/water-supply-pipe-repairs/",
-    "title": "Water Supply Pipe Repairs | English Water",
-    "main_html": "<section class=\"banner\">\n  <div class=\"container\">\n    <h1 class=\"h1\">Water Supply Pipe Repairs</h1>\n    <p class=\"p\">Water Supply Pipe Repairs across England with a 24/7 response.</p>\n  </div>\n</section>\n<section class=\"section\">\n  <div class=\"container content\">\n    <h2>Overview</h2>\n    <p>This page uses the standard content-page layout. Replace this placeholder copy with your final content.</p>\n    <h2>What to expect</h2>\n    <ul>\n      <li>Speak to a real person and explain the issue.</li>\n      <li>Receive a clear quote and booking options.</li>\n      <li>Engineers attend with specialist equipment.</li>\n      <li>Work completed with minimal disruption.</li>\n    </ul>\n    <h2>Contact</h2>\n    <p>Call <strong>0800 316 7322</strong> or email <strong>hello@englishwater.co.uk</strong>.</p>\n  </div>\n</section>"
+    "title": "Water Supply Pipe Repairs",
+    "main_html": "<section class=\"banner\">\n  <div class=\"container\">\n    <h1 class=\"h1\">Water Supply Pipe Repairs</h1>\n    <p class=\"p\">Water Supply Pipe Repairs across England with a 24/7 response.</p>\n  </div>\n</section>\n<section class=\"section\">\n  <div class=\"container content\">\n    <h2>Overview</h2>\n    <p>This page uses the standard content-page layout. Replace this placeholder copy with your final content.</p>\n    <h2>What to expect</h2>\n    <ul>\n      <li>Speak to a real person and explain the issue.</li>\n      <li>Receive a clear quote and booking options.</li>\n      <li>Engineers attend with specialist equipment.</li>\n      <li>Work completed with minimal disruption.</li>\n    </ul>\n    <h2>Contact</h2>\n    <p>Call <strong>0800 316 7322</strong> or email <strong>hello@englishwater.co.uk</strong>.</p>\n  </div>\n</section>",
+    "image": "water-supply-pipe-repairs-england.webp"
   }
 ]

@@ -45,7 +45,8 @@
     "slug": "london",
     "url": "/locations/london/",
     "title": "Water services in London",
-    "main_html": "<section class=\"banner\">\n  <div class=\"container\">\n    <h1 class=\"h1\">Water services in London</h1>\n    <p class=\"p\">English Water provides a 24/7 response in London and surrounding areas.</p>\n  </div>\n</section>\n<section class=\"section\">\n  <div class=\"container content\">\n    <h2>Overview</h2>\n    <p>This page uses the standard content-page layout. Replace this placeholder copy with your final content.</p>\n    <h2>What to expect</h2>\n    <ul>\n      <li>Speak to a real person and explain the issue.</li>\n      <li>Receive a clear quote and booking options.</li>\n      <li>Engineers attend with specialist equipment.</li>\n      <li>Work completed with minimal disruption.</li>\n    </ul>\n    <h2>Contact</h2>\n    <p>Call <strong>0800 316 7322</strong> or email <strong>hello@englishwater.co.uk</strong>.</p>\n  </div>\n</section>"
+    "main_html": "<section class=\"banner\">\n  <div class=\"container\">\n    <h1 class=\"h1\">Water services in London</h1>\n    <p class=\"p\">English Water provides a 24/7 response in London and surrounding areas.</p>\n  </div>\n</section>\n<section class=\"section\">\n  <div class=\"container content\">\n    <h2>Overview</h2>\n    <p>This page uses the standard content-page layout. Replace this placeholder copy with your final content.</p>\n    <h2>What to expect</h2>\n    <ul>\n      <li>Speak to a real person and explain the issue.</li>\n      <li>Receive a clear quote and booking options.</li>\n      <li>Engineers attend with specialist equipment.</li>\n      <li>Work completed with minimal disruption.</li>\n    </ul>\n    <h2>Contact</h2>\n    <p>Call <strong>0800 316 7322</strong> or email <strong>hello@englishwater.co.uk</strong>.</p>\n  </div>\n</section>",
+    "image": "english-water-logo-white.svg"
   },
   {
     "slug": "manchester",
