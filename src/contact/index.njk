@@ -1,0 +1,39 @@
+---
+layout: layouts/base.njk
+title: Contact | English Water
+permalink: /contact/
+---
+<section class="banner">
+  <div class="container">
+    <h1 class="h1">Contact</h1>
+    <p class="p">Call us 24/7 or send an enquiry using the form below.</p>
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    <div class="grid" style="grid-template-columns:1.05fr 0.95fr;gap:28px">
+      <div class="card">
+        <div class="card__body">
+          <h2 style="margin:0 0 10px;color:var(--blue-900)">Send a message</h2>
+          <form name="contact" method="POST" data-netlify="true">
+            <input type="hidden" name="form-name" value="contact">
+            <p><label>First name<br><input name="first_name" required style="width:100%;padding:12px;border-radius:10px;border:1px solid #d8e2f0"></label></p>
+            <p><label>Last name<br><input name="last_name" required style="width:100%;padding:12px;border-radius:10px;border:1px solid #d8e2f0"></label></p>
+            <p><label>Email<br><input type="email" name="email" required style="width:100%;padding:12px;border-radius:10px;border:1px solid #d8e2f0"></label></p>
+            <p><label>Phone<br><input name="phone" style="width:100%;padding:12px;border-radius:10px;border:1px solid #d8e2f0"></label></p>
+            <p><label>Message<br><textarea name="message" rows="6" required style="width:100%;padding:12px;border-radius:10px;border:1px solid #d8e2f0"></textarea></label></p>
+            <button class="btn btn--yellow" type="submit">Submit</button>
+          </form>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card__body">
+          <h2 style="margin:0 0 10px;color:var(--blue-900)">Call or email</h2>
+          <p class="p" style="margin:0 0 10px"><strong>Phone:</strong> <a href="tel:08003167322">0800 316 7322</a></p>
+          <p class="p" style="margin:0 0 10px"><strong>Email:</strong> <a href="mailto:hello@englishwater.co.uk">hello@englishwater.co.uk</a></p>
+          <p class="p">We may record calls to help improve our service to you.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,23 @@
+---
+layout: layouts/base.njk
+title: Locations | English Water
+permalink: /locations/
+---
+<section class="section section--alt">
+  <div class="container">
+    <h1 class="h1">Locations</h1>
+    <div class="grid grid--4">
+      {% for l in locations %}
+      <a class="card" href="{{ l.url }}">
+        <div class="card__img">
+          {% if l.image %}<img src="/assets/images/{{ l.image }}" alt="{{ l.image_alt or l.title }}" loading="lazy" />{% else %}IMAGE{% endif %}
+        </div>
+        <div class="card__body">
+          <p class="card__title">{{ l.nav_title or l.title }}</p>
+          <p class="card__desc">View page</p>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>

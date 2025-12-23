@@ -1,0 +1,10 @@
+---
+layout: layouts/base.njk
+pagination:
+  data: locations
+  size: 1
+  alias: location
+permalink: "{{ location.url }}"
+title: "{{ location.title }}"
+---
+{{ location.main_html | safe }}
